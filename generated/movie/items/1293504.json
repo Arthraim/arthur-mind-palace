@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "1293504",
+  "title": "乌鸦谋杀案 A Murder of Crows",
+  "originalTitle": "(1998)",
+  "year": "1998",
+  "coverPath": "covers/movie/1293504.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872103435.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293504/",
+  "detailUrl": "/movie/1293504",
+  "listSummary": "1998-12-12(英国) / 小库珀·古丁 / 汤姆·贝伦杰 / 马克·佩雷格里诺 / 卡门·阿尔根齐亚诺 / 阿什丽·劳伦斯 / 埃里克·斯托尔兹 / 道格·维特 / 玛丽安娜·琼-巴普蒂斯特 / 童自荣 / 蕾妮·艾斯特维兹 / 美国 / 罗迪·赫林顿 / 102 分钟 / 乌鸦谋杀案 / 动作 / 惊悚 / 犯罪 / 鲁迪 赫林顿 (Rowdy Herrington) / 英语",
+  "rating": 4,
+  "markedAt": "2024-09-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "故事很不错",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1998)"
+    },
+    {
+      "label": "Title",
+      "value": "乌鸦谋杀案 A Murder of Crows"
+    },
+    {
+      "label": "Year",
+      "value": "1998"
+    },
+    {
+      "label": "导演",
+      "value": "罗迪·赫林顿"
+    },
+    {
+      "label": "编剧",
+      "value": "鲁迪 赫林顿 (Rowdy Herrington)"
+    },
+    {
+      "label": "主演",
+      "value": "小库珀·古丁 / 汤姆·贝伦杰 / 马克·佩雷格里诺"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1998-12-12(英国)"
+    },
+    {
+      "label": "片长",
+      "value": "102 分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0133985"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293504/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0133985/"
+    }
+  ]
+}

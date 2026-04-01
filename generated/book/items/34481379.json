@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "34481379",
+  "title": "园丁与木匠",
+  "originalTitle": null,
+  "year": "2019",
+  "coverPath": "covers/book/34481379.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33456726.jpg",
+  "doubanUrl": "https://book.douban.com/subject/34481379/",
+  "detailUrl": "/book/34481379",
+  "listSummary": "[美] 艾莉森·高普尼克 / 刘家杰、赵昱鲲 / 浙江人民出版社 / 2019-7-25 / 69.90元",
+  "rating": 4,
+  "markedAt": "2021-02-28",
+  "estimatedMarkedAtRange": null,
+  "comment": "书里没告诉你怎么做，反而罗列了很多事实，各种角度来看孩子学习和成长，相信每个人看完找到的方法都是不一样的吧。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "园丁与木匠"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 艾莉森·高普尼克"
+    },
+    {
+      "label": "译者",
+      "value": "刘家杰 / 赵昱鲲"
+    },
+    {
+      "label": "出版社",
+      "value": "浙江人民出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2019-7-25"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787213093302"
+    },
+    {
+      "label": "页数",
+      "value": "267"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "69.90元"
+    },
+    {
+      "label": "原作名",
+      "value": "The Gardener and the Carpenter： What the New Science of Child Development Tells Us About the Relationship Between Parents and Children"
+    },
+    {
+      "label": "丛书",
+      "value": "天生学习家系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/34481379/"
+    }
+  ]
+}

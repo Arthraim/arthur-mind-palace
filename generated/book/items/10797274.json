@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "10797274",
+  "title": "战神",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/10797274.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s25136463.jpg",
+  "doubanUrl": "https://book.douban.com/subject/10797274/",
+  "detailUrl": "/book/10797274",
+  "listSummary": "(美)马修·斯托弗、(美)罗伯特·E·瓦尔德曼 / 张本煜 / 凤凰出版社 / 2012-11 / 32.90元",
+  "rating": 3,
+  "markedAt": "2013-01-31",
+  "estimatedMarkedAtRange": null,
+  "comment": "本来以为能通过这本书梳理一下打满补丁的战神的故事线。没想到小说只是讲了第一代奎爷弑神的故事。唯一在游戏中体会不到的是雅典娜的视角。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "战神"
+    },
+    {
+      "label": "作者",
+      "value": "(美)马修·斯托弗 / (美)罗伯特·E·瓦尔德曼"
+    },
+    {
+      "label": "译者",
+      "value": "张本煜"
+    },
+    {
+      "label": "出版社",
+      "value": "凤凰出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-11"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787550614062"
+    },
+    {
+      "label": "页数",
+      "value": "312"
+    },
+    {
+      "label": "定价",
+      "value": "32.90元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/10797274/"
+    }
+  ]
+}

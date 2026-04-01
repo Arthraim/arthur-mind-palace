@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293527",
+  "title": "美国X档案 American History X",
+  "originalTitle": "(1998)",
+  "year": "1998",
+  "coverPath": "covers/movie/1293527.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792437057.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293527/",
+  "detailUrl": "/movie/1293527",
+  "listSummary": "1998-10-30 / 爱德华·诺顿 / 爱德华·福隆 / 比佛莉·德安姬罗 / 艾弗利·布鲁克斯 / 埃利奥特·古尔德 / 斯泰西·基齐 / 威廉姆·拉斯 / 盖·托利 / 费尔鲁扎·鲍克 / 詹妮弗·林 / 美国 / www.historyx.com/ / 托尼·凯耶 / 119 分钟 / 美国X档案 / 犯罪 / 剧情 / 戴维 麦克纳 David McKenna / 英语",
+  "rating": 4,
+  "markedAt": "2023-12-23",
+  "estimatedMarkedAtRange": null,
+  "comment": "对一个人思想的改造有点太快了，缺点说服力；不过结局劲儿太大",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1998)"
+    },
+    {
+      "label": "Title",
+      "value": "美国X档案 American History X"
+    },
+    {
+      "label": "Year",
+      "value": "1998"
+    },
+    {
+      "label": "导演",
+      "value": "托尼·凯耶"
+    },
+    {
+      "label": "编剧",
+      "value": "戴维·麦克纳"
+    },
+    {
+      "label": "主演",
+      "value": "爱德华·诺顿 / 爱德华·福隆 / 比佛莉·德安姬罗 / 艾弗利·布鲁克斯"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1998-10-30"
+    },
+    {
+      "label": "片长",
+      "value": "119 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "野兽良民(港) / 美国历史档案 / 美国X历史"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0120586"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293527/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0120586/"
+    }
+  ]
+}

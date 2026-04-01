@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "22993873",
+  "title": "宇宙之书",
+  "originalTitle": null,
+  "year": "2013",
+  "coverPath": "covers/book/22993873.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s26031299.jpg",
+  "doubanUrl": "https://book.douban.com/subject/22993873/",
+  "detailUrl": "/book/22993873",
+  "listSummary": "约翰•D.巴罗 (John D.Barrow) / 李剑龙 / 人民邮电出版社 / 2013-4-1 / 39.00元",
+  "rating": 4,
+  "markedAt": "2013-09-22",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "宇宙之书"
+    },
+    {
+      "label": "作者",
+      "value": "约翰•D.巴罗 (John D.Barrow)"
+    },
+    {
+      "label": "译者",
+      "value": "李剑龙"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "图灵新知"
+    },
+    {
+      "label": "出版年",
+      "value": "2013-4-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115309723"
+    },
+    {
+      "label": "页数",
+      "value": "344"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "39.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "The book of universes"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/22993873/"
+    }
+  ]
+}

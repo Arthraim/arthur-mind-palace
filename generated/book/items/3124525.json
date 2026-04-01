@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "3124525",
+  "title": "暮色",
+  "originalTitle": null,
+  "year": "2008",
+  "coverPath": "covers/book/3124525.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3270727.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3124525/",
+  "detailUrl": "/book/3124525",
+  "listSummary": "[美] 斯蒂芬妮·梅尔 / 覃学岚、孙郁根、李寅 / 接力出版社 / 2008-7 / 29.80",
+  "rating": 4,
+  "markedAt": "2010-04-23",
+  "estimatedMarkedAtRange": null,
+  "comment": "好吧，果然比电影更加长更加细更加乏味",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "暮色"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 斯蒂芬妮·梅尔"
+    },
+    {
+      "label": "译者",
+      "value": "覃学岚 / 孙郁根 / 李寅"
+    },
+    {
+      "label": "出版社",
+      "value": "接力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2008-7"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787544803335"
+    },
+    {
+      "label": "页数",
+      "value": "374"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "29.80"
+    },
+    {
+      "label": "丛书",
+      "value": "暮光之城"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3124525/"
+    }
+  ]
+}

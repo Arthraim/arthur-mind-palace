@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "36653918",
+  "title": "抓娃娃",
+  "originalTitle": "(2024)",
+  "year": "2024",
+  "coverPath": "covers/movie/36653918.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910105262.webp",
+  "doubanUrl": "https://movie.douban.com/subject/36653918/",
+  "detailUrl": "/movie/36653918",
+  "listSummary": "2024-07-13(大规模点映) / 2024-07-16(中国大陆) / 沈腾 / 马丽 / 史彭元 / 萨日娜 / 肖帛辰 / 张子栋 / 李嘉琦 / 魏翔 / 贾冰 / 于洋 / 中国大陆 / 闫非 / 彭大魔 / 133分钟 / 喜剧 / 彭大魔 Damo Peng / 闫非 Fei Yan / 林炳宝 Bingbao Lin / 汉语普通话 / 英语",
+  "rating": 5,
+  "markedAt": "2024-07-29",
+  "estimatedMarkedAtRange": null,
+  "comment": "发现自己作为父母多多少少都扮演了一点两位主角的角色",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2024)"
+    },
+    {
+      "label": "Title",
+      "value": "抓娃娃"
+    },
+    {
+      "label": "Year",
+      "value": "2024"
+    },
+    {
+      "label": "导演",
+      "value": "闫非 / 彭大魔"
+    },
+    {
+      "label": "编剧",
+      "value": "彭大魔 / 闫非 / 林炳宝"
+    },
+    {
+      "label": "主演",
+      "value": "沈腾 / 马丽 / 史彭元 / 萨日娜 / 肖帛辰 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2024-07-16(中国大陆) / 2024-07-13(大规模点映)"
+    },
+    {
+      "label": "片长",
+      "value": "133分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Successor"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt32613601"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/36653918/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt32613601/"
+    }
+  ]
+}

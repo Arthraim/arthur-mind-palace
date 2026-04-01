@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26754233",
+  "title": "八佰",
+  "originalTitle": "(2020)",
+  "year": "2020",
+  "coverPath": "covers/movie/26754233.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2615925279.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26754233/",
+  "detailUrl": "/movie/26754233",
+  "listSummary": "2020-08-14(大规模点映) / 2020-08-21(中国大陆) / 王千源 / 张译 / 姜武 / 黄志忠 / 张俊一 / 欧豪 / 杜淳 / 魏晨 / 张宥浩 / 唐艺昕 / 中国大陆 / 管虎 / 147分钟(公映版) / 160分钟(上海电影节) / 剧情 / 历史 / 战争 / 管虎 Hu Guan / 葛瑞 Rui Ge / 汉语普通话 / 日语 / 英语",
+  "rating": 4,
+  "markedAt": "2020-08-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "听到后座的女孩子问他男朋友「这面什么旗啊」",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2020)"
+    },
+    {
+      "label": "Title",
+      "value": "八佰"
+    },
+    {
+      "label": "Year",
+      "value": "2020"
+    },
+    {
+      "label": "导演",
+      "value": "管虎"
+    },
+    {
+      "label": "编剧",
+      "value": "管虎 / 葛瑞"
+    },
+    {
+      "label": "主演",
+      "value": "王千源 / 张译 / 姜武 / 黄志忠 / 张俊一 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 历史 / 战争"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 日语 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2020-08-21(中国大陆) / 2020-08-14(大规模点映)"
+    },
+    {
+      "label": "片长",
+      "value": "147分钟(公映版) / 160分钟(上海电影节)"
+    },
+    {
+      "label": "又名",
+      "value": "八百启示录 / 战争启示录之八百壮士 / The Eight Hundred"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7294150"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26754233/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7294150/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1299247",
+  "title": "007之明日帝国 Tomorrow Never Dies",
+  "originalTitle": "(1997)",
+  "year": "1997",
+  "coverPath": "covers/movie/1299247.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1721307776.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1299247/",
+  "detailUrl": "/movie/1299247",
+  "listSummary": "1997-12-09(伦敦首映) / 1997-12-12(英国) / 1997-12-19(美国) / 皮尔斯·布鲁斯南 / 乔纳森·普雷斯 / 杨紫琼 / 特丽·哈彻 / 瑞奇·杰 / 戈兹·奥托 / 乔·唐·巴克 / 文森特·斯卡维利 / 朱迪·丹奇 / 戴斯蒙德·莱维林 / 英国 / 美国 / 罗杰·斯波蒂斯伍德 / 119 分钟 / 007之明日帝国 / 动作 / 冒险 / 惊悚 / 布鲁斯·费尔斯坦 Bruce Feirstein / 伊恩·弗莱明 Ian Fleming / 英语 / 德语 / 丹麦语 / 汉语普通话 / 粤语",
+  "rating": 4,
+  "markedAt": "2021-11-21",
+  "estimatedMarkedAtRange": null,
+  "comment": "小时候真是可喜欢遥控车那段了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1997)"
+    },
+    {
+      "label": "Title",
+      "value": "007之明日帝国 Tomorrow Never Dies"
+    },
+    {
+      "label": "Year",
+      "value": "1997"
+    },
+    {
+      "label": "导演",
+      "value": "罗杰·斯波蒂斯伍德"
+    },
+    {
+      "label": "编剧",
+      "value": "布鲁斯·费尔斯坦 / 伊恩·弗莱明"
+    },
+    {
+      "label": "主演",
+      "value": "皮尔斯·布鲁斯南 / 乔纳森·普雷斯 / 杨紫琼 / 特丽·哈彻 / 瑞奇·杰 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 德语 / 丹麦语 / 汉语普通话 / 粤语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1997-12-09(伦敦首映) / 1997-12-12(英国) / 1997-12-19(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "119 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "新铁金刚之明日帝国 / 致命关头 / 不死明天"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0120347"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1299247/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0120347/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1292348",
+  "title": "洛城机密 L.A. Confidential",
+  "originalTitle": "(1997)",
+  "year": "1997",
+  "coverPath": "covers/movie/1292348.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2920548116.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1292348/",
+  "detailUrl": "/movie/1292348",
+  "listSummary": "1997-05-14(戛纳电影节) / 1997-09-19(美国) / 凯文·史派西 / 罗素·克劳 / 盖·皮尔斯 / 詹姆斯·克伦威尔 / 金·贝辛格 / 丹尼·德维托 / 大卫·斯特雷泽恩 / 朗·瑞弗金 / 马特·麦考伊 / 保罗·吉尔福伊尔 / 美国 / 柯蒂斯·汉森 / 138分钟 / 洛城机密 / 剧情 / 犯罪 / 悬疑 / 惊悚 / 詹姆斯·艾罗瑞 James Ellroy / 布莱恩·海尔格兰德 Brian Helgeland / 柯蒂斯·汉森 Curtis Hanson / 英语",
+  "rating": 5,
+  "markedAt": "2023-12-03",
+  "estimatedMarkedAtRange": null,
+  "comment": "这么复杂的故事，用了甚至有点轻描淡写的叙事方式，线索人物一大堆，嗖嗖嗖就过去了。好紧凑，好刺激。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1997)"
+    },
+    {
+      "label": "Title",
+      "value": "洛城机密 L.A. Confidential"
+    },
+    {
+      "label": "Year",
+      "value": "1997"
+    },
+    {
+      "label": "导演",
+      "value": "柯蒂斯·汉森"
+    },
+    {
+      "label": "编剧",
+      "value": "詹姆斯·艾尔罗伊 / 布莱恩·海尔格兰德 / 柯蒂斯·汉森"
+    },
+    {
+      "label": "主演",
+      "value": "凯文·史派西 / 罗素·克劳 / 盖·皮尔斯 / 詹姆斯·克伦威尔 / 金·贝辛格 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1997-05-14(戛纳电影节) / 1997-09-19(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "138分钟"
+    },
+    {
+      "label": "又名",
+      "value": "幕后嫌疑犯(港) / 铁面特警队(台) / 洛杉矶机密"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0119488"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1292348/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0119488/"
+    }
+  ]
+}

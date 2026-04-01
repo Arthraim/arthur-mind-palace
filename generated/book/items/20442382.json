@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "20442382",
+  "title": "一路去死",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/20442382.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s24510020.jpg",
+  "doubanUrl": "https://book.douban.com/subject/20442382/",
+  "detailUrl": "/book/20442382",
+  "listSummary": "那多 / 接力出版社 / 2012-12 / 28.00元",
+  "rating": 4,
+  "markedAt": "2013-03-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "故事铺的很好，结局很怂。男主角的刻画很成功，很变态，我喜欢。。。不过为毛是独立的故事，继续期待其他坑。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "一路去死"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "接力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-12"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787544827850"
+    },
+    {
+      "label": "页数",
+      "value": "256"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "28.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/20442382/"
+    }
+  ]
+}

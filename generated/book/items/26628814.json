@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "26628814",
+  "title": "龙与地下铁",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/book/26628814.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s28370639.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26628814/",
+  "detailUrl": "/book/26628814",
+  "listSummary": "马伯庸 / 湖南文艺出版社 / 2016-1 / CNY 39.80",
+  "rating": 4,
+  "markedAt": "2016-05-29",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "龙与地下铁"
+    },
+    {
+      "label": "作者",
+      "value": "马伯庸"
+    },
+    {
+      "label": "出版社",
+      "value": "湖南文艺出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "博集天卷"
+    },
+    {
+      "label": "出版年",
+      "value": "2016-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787540473464"
+    },
+    {
+      "label": "页数",
+      "value": "289"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "CNY 39.80"
+    },
+    {
+      "label": "丛书",
+      "value": "博集天卷·马伯庸作品"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26628814/"
+    }
+  ]
+}

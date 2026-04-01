@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "26274949",
+  "title": "昨天的中国",
+  "originalTitle": null,
+  "year": "2015",
+  "coverPath": "covers/book/26274949.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27912813.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26274949/",
+  "detailUrl": "/book/26274949",
+  "listSummary": "[法]阎雷（Yann Layma） / 杨宁 / 北京联合出版公司 / 2015-3 / 128",
+  "rating": 5,
+  "markedAt": "2020-01-30",
+  "estimatedMarkedAtRange": null,
+  "comment": "我爸书架上拿出来唯一几本能给小朋友看的书，结果我自己翻了一遍……",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "昨天的中国"
+    },
+    {
+      "label": "作者",
+      "value": "[法]阎雷（Yann Layma）"
+    },
+    {
+      "label": "译者",
+      "value": "杨宁"
+    },
+    {
+      "label": "出版社",
+      "value": "北京联合出版公司"
+    },
+    {
+      "label": "出品方",
+      "value": "后浪"
+    },
+    {
+      "label": "出版年",
+      "value": "2015-3"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787550233508"
+    },
+    {
+      "label": "页数",
+      "value": "360"
+    },
+    {
+      "label": "装帧",
+      "value": "软精装"
+    },
+    {
+      "label": "定价",
+      "value": "128"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26274949/"
+    }
+  ]
+}

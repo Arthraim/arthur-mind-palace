@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "10750155",
+  "title": "数学之美",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/10750155.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9114855.jpg",
+  "doubanUrl": "https://book.douban.com/subject/10750155/",
+  "detailUrl": "/book/10750155",
+  "listSummary": "吴军 / 人民邮电出版社 / 2012-5-1 / 45.00元",
+  "rating": 4,
+  "markedAt": "2013-01-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "大部分内容都轻轻扫过有没有，还是对里面的八卦比较感兴趣",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "数学之美"
+    },
+    {
+      "label": "作者",
+      "value": "吴军"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "Just-pub"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-5-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115282828"
+    },
+    {
+      "label": "页数",
+      "value": "272"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "45.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/10750155/"
+    }
+  ]
+}

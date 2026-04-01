@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1301230",
+  "title": "夺魂索 Rope",
+  "originalTitle": "(1948)",
+  "year": "1948",
+  "coverPath": "covers/movie/1301230.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154845412.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1301230/",
+  "detailUrl": "/movie/1301230",
+  "listSummary": "1948-08-28(美国) / 约翰·道尔 / 法利·格兰杰 / 詹姆斯·斯图尔特 / 伊迪丝·埃文森 / 道格拉斯·迪克 / 琼·钱德勒 / 塞德里克·哈德威克 / 康丝坦斯·柯莉儿 / 迪克·霍根 / 美国 / 阿尔弗雷德·希区柯克 / 80 分钟 / 夺魂索 / 犯罪 / 悬疑 / 惊悚 / 休姆·克罗宁 Hume Cronyn / 帕特里克·汉密尔顿 Patrick Hamilton / 亚瑟·劳伦特斯 Arthur Laurents / 本·赫克特 Ben Hecht / 英语",
+  "rating": 4,
+  "markedAt": "2024-01-21",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1948)"
+    },
+    {
+      "label": "Title",
+      "value": "夺魂索 Rope"
+    },
+    {
+      "label": "Year",
+      "value": "1948"
+    },
+    {
+      "label": "导演",
+      "value": "阿尔弗雷德·希区柯克"
+    },
+    {
+      "label": "编剧",
+      "value": "休姆·克罗宁 / 帕特里克·汉密尔顿 / 亚瑟·劳伦特斯 / 本·赫克特"
+    },
+    {
+      "label": "主演",
+      "value": "约翰·道尔 / 法利·格兰杰 / 詹姆斯·斯图尔特 / 伊迪丝·埃文森 / 道格拉斯·迪克 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1948-08-28(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "80 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "夺魄索(港) / 绳索 / Alfred Hitchcock's Rope"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0040746"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1301230/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0040746/"
+    }
+  ]
+}

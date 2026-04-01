@@ -1,0 +1,68 @@
+{
+  "kind": "music",
+  "sourceId": "1758317",
+  "title": "格格Blue",
+  "originalTitle": null,
+  "year": "2006",
+  "coverPath": "covers/music/1758317.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s2761140.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1758317/",
+  "detailUrl": "/music/1758317",
+  "listSummary": "曹格 / 2006-01-26 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2009-12-22",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "格格Blue"
+    },
+    {
+      "label": "又名",
+      "value": "Naughty Gentleman"
+    },
+    {
+      "label": "表演者",
+      "value": "曹格"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2006-01-26"
+    },
+    {
+      "label": "出版者",
+      "value": "滚石唱片"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "4710149644527"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNA490631200"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1758317/"
+    }
+  ]
+}

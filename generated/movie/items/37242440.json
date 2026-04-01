@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "37242440",
+  "title": "惊蛰无声",
+  "originalTitle": "(2026)",
+  "year": "2026",
+  "coverPath": "covers/movie/37242440.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929759786.webp",
+  "doubanUrl": "https://movie.douban.com/subject/37242440/",
+  "detailUrl": "/movie/37242440",
+  "listSummary": "2026-02-17(中国大陆) / 易烊千玺 / 朱一龙 / 宋佳 / 雷佳音 / 杨幂 / 张译 / 刘诗诗 / 刘耀文 / 林博洋 / 潘斌龙 / 中国大陆 / 张艺谋 / 104分钟 / 剧情 / 犯罪 / 陈亮 Liang Chen / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2026-02-19",
+  "estimatedMarkedAtRange": null,
+  "comment": "糊涂啊，龙葵天天在家等你，怎么还想着雪见啊",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2026)"
+    },
+    {
+      "label": "Title",
+      "value": "惊蛰无声"
+    },
+    {
+      "label": "Year",
+      "value": "2026"
+    },
+    {
+      "label": "导演",
+      "value": "张艺谋"
+    },
+    {
+      "label": "编剧",
+      "value": "陈亮"
+    },
+    {
+      "label": "主演",
+      "value": "易烊千玺 / 朱一龙 / 宋佳 / 雷佳音 / 杨幂 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2026-02-17(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "104分钟"
+    },
+    {
+      "label": "又名",
+      "value": "惊蛰 / Scare Out"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt36535318"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/37242440/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt36535318/"
+    }
+  ]
+}

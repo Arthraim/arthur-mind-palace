@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1294408",
+  "title": "音乐之声 The Sound of Music",
+  "originalTitle": "(1965)",
+  "year": "1965",
+  "coverPath": "covers/movie/1294408.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453788577.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1294408/",
+  "detailUrl": "/movie/1294408",
+  "listSummary": "1965-03-02(美国) / 朱莉·安德鲁斯 / 克里斯托弗·普卢默 / 埃琳诺·帕克 / 理查德·海顿 / 佩吉·伍德 / 查尔敏·卡尔 / 希瑟·孟席斯-尤里克 / 尼古拉斯·哈蒙德 / 杜安·蔡斯 / 安吉拉·卡特怀特 / 美国 / 罗伯特·怀斯 / 174分钟 / 音乐之声 / 剧情 / 传记 / 爱情 / 歌舞 / 乔治·胡达勒克 George Hurdalek / 霍华德·林赛 Howard Lindsay / 拉塞尔·克劳斯 Russel Crouse / 恩斯特·莱赫曼 Ernest Lehman / Maria von Trapp / 英语 / 德语",
+  "rating": 5,
+  "markedAt": "2018-06-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "老爸最喜欢的电影，跟着他看了不知道多少遍了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1965)"
+    },
+    {
+      "label": "Title",
+      "value": "音乐之声 The Sound of Music"
+    },
+    {
+      "label": "Year",
+      "value": "1965"
+    },
+    {
+      "label": "导演",
+      "value": "罗伯特·怀斯"
+    },
+    {
+      "label": "编剧",
+      "value": "乔治·胡达勒克 / 霍华德·林赛 / 拉塞尔·克劳斯 / 恩斯特·莱赫曼 / 玛丽亚·冯·特拉普"
+    },
+    {
+      "label": "主演",
+      "value": "朱莉·安德鲁斯 / 克里斯托弗·普卢默 / 埃琳诺·帕克 / 理查德·海顿 / 佩吉·伍德 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 歌舞 / 传记"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 德语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1965-03-02(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "174分钟"
+    },
+    {
+      "label": "又名",
+      "value": "仙乐飘飘处处闻(港) / 真善美(台) / 一个叛逆修女的故事"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0059742"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1294408/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0059742/"
+    }
+  ]
+}

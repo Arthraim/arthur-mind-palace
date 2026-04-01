@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "6431994",
+  "title": "悟空传",
+  "originalTitle": null,
+  "year": "2011",
+  "coverPath": "covers/book/6431994.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s6509536.jpg",
+  "doubanUrl": "https://book.douban.com/subject/6431994/",
+  "detailUrl": "/book/6431994",
+  "listSummary": "今何在 / 湖南文艺出版社 / 2011-6 / 28.00元",
+  "rating": 5,
+  "markedAt": "2013-08-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "相见恨晚！",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "悟空传"
+    },
+    {
+      "label": "作者",
+      "value": "今何在"
+    },
+    {
+      "label": "出版社",
+      "value": "湖南文艺出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "博集天卷"
+    },
+    {
+      "label": "出版年",
+      "value": "2011-6"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787540449438"
+    },
+    {
+      "label": "页数",
+      "value": "228"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "28.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "优阅吧"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/6431994/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "35313227",
+  "title": "刘擎西方现代思想讲义",
+  "originalTitle": null,
+  "year": "2021",
+  "coverPath": "covers/book/35313227.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s33802981.jpg",
+  "doubanUrl": "https://book.douban.com/subject/35313227/",
+  "detailUrl": "/book/35313227",
+  "listSummary": "刘擎 / 新星出版社 / 2021-1 / 79.00元",
+  "rating": 5,
+  "markedAt": "2026-03-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "21.03.29 想读；26.03.25 读过",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "刘擎西方现代思想讲义"
+    },
+    {
+      "label": "作者",
+      "value": "刘擎"
+    },
+    {
+      "label": "出版社",
+      "value": "新星出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2021-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787513342919"
+    },
+    {
+      "label": "页数",
+      "value": "384"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "79.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "得到讲义系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/35313227/"
+    }
+  ]
+}

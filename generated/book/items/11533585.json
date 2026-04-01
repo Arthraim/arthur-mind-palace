@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "11533585",
+  "title": "动物庄园",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/11533585.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s11148979.jpg",
+  "doubanUrl": "https://book.douban.com/subject/11533585/",
+  "detailUrl": "/book/11533585",
+  "listSummary": "[英]乔治·奥威尔 / 郝海龙 / 字节社 / 2012-7-30 / 12",
+  "rating": 5,
+  "markedAt": "2013-10-12",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "动物庄园"
+    },
+    {
+      "label": "作者",
+      "value": "[英]乔治·奥威尔"
+    },
+    {
+      "label": "译者",
+      "value": "郝海龙"
+    },
+    {
+      "label": "出版社",
+      "value": "字节社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-7-30"
+    },
+    {
+      "label": "ISBN",
+      "value": "9781451507164"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "12"
+    },
+    {
+      "label": "原作名",
+      "value": "Animal Farm"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/11533585/"
+    }
+  ]
+}

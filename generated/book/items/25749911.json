@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "25749911",
+  "title": "生命的单行道",
+  "originalTitle": null,
+  "year": "2013",
+  "coverPath": "covers/book/25749911.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27126802.jpg",
+  "doubanUrl": "https://book.douban.com/subject/25749911/",
+  "detailUrl": "/book/25749911",
+  "listSummary": "程浩 / 广西师范大学出版社 / 2013-11-1 / 29",
+  "rating": 4,
+  "markedAt": "2014-05-20",
+  "estimatedMarkedAtRange": null,
+  "comment": "真的感觉不到是在读一个93年的男生的日记。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "生命的单行道"
+    },
+    {
+      "label": "作者",
+      "value": "程浩"
+    },
+    {
+      "label": "出版社",
+      "value": "广西师范大学出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "理想国"
+    },
+    {
+      "label": "出版年",
+      "value": "2013-11-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787549528899"
+    },
+    {
+      "label": "页数",
+      "value": "304"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "29"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/25749911/"
+    }
+  ]
+}

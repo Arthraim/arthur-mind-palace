@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "6129247",
+  "title": "Bon Iver",
+  "originalTitle": null,
+  "year": "2011",
+  "coverPath": "covers/music/6129247.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4723056.jpg",
+  "doubanUrl": "https://music.douban.com/subject/6129247/",
+  "detailUrl": "/music/6129247",
+  "listSummary": "Bon Iver / 2011-06-21 / 专辑 / CD / 民谣",
+  "rating": 5,
+  "markedAt": "2026-03-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Bon Iver"
+    },
+    {
+      "label": "表演者",
+      "value": "Bon Iver"
+    },
+    {
+      "label": "流派",
+      "value": "民谣"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2011-06-21"
+    },
+    {
+      "label": "出版者",
+      "value": "Jagjaguwar"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0656605213521"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/6129247/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "4311667",
+  "title": "超级4场",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/music/4311667.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s3840701.jpg",
+  "doubanUrl": "https://music.douban.com/subject/4311667/",
+  "detailUrl": "/music/4311667",
+  "listSummary": "曹格 / 2009-06-19 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2009-12-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "超级4场"
+    },
+    {
+      "label": "又名",
+      "value": "supermarket"
+    },
+    {
+      "label": "表演者",
+      "value": "曹格"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2009-06-19"
+    },
+    {
+      "label": "出版者",
+      "value": "滚石唱片"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "4710149652034"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/4311667/"
+    }
+  ]
+}

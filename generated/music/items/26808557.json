@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "26808557",
+  "title": "時代在召喚",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/music/26808557.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28777454.jpg",
+  "doubanUrl": "https://music.douban.com/subject/26808557/",
+  "detailUrl": "/music/26808557",
+  "listSummary": "假假條/JaJaTao / 2016-05-20 / 专辑 / CD / 摇滚",
+  "rating": 5,
+  "markedAt": "2019-09-26",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "時代在召喚"
+    },
+    {
+      "label": "又名",
+      "value": "The Rite Of Spring"
+    },
+    {
+      "label": "表演者",
+      "value": "假假條/JaJaTao"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2016-05-20"
+    },
+    {
+      "label": "出版者",
+      "value": "独立出版"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0888295427630"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/26808557/"
+    }
+  ]
+}

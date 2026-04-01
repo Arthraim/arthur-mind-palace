@@ -1,0 +1,84 @@
+{
+  "kind": "movie",
+  "sourceId": "35332289",
+  "title": "开端",
+  "originalTitle": "(2022)",
+  "year": "2022",
+  "coverPath": "covers/movie/35332289.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2843045720.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35332289/",
+  "detailUrl": "/movie/35332289",
+  "listSummary": "2022-01-11(中国大陆) / 白敬亭 / 赵今麦 / 刘奕君 / 刘涛 / 黄觉 / 刘丹 / 宋家腾 / 曾柯琅 / 张喜前 / 马兰 / 中国大陆 / 孙墨龙 / 刘洪源 / 算 / 45分钟 / 剧情 / 祈祷君 Daojun Qi / 邱玉洁 Yujie Qiu / 老算 Passsee Mu / 黄凯文 KaiWen Huang / 袁继犀 / 魏市宁 / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2022-02-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2022)"
+    },
+    {
+      "label": "Title",
+      "value": "开端"
+    },
+    {
+      "label": "Year",
+      "value": "2022"
+    },
+    {
+      "label": "导演",
+      "value": "孙墨龙 / 刘洪源 / 算"
+    },
+    {
+      "label": "编剧",
+      "value": "祈祷君 / 邱玉洁 / 算 / 黄凯文 / 袁继犀 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "白敬亭 / 赵今麦 / 刘奕君 / 刘涛 / 黄觉 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2022-01-11(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "15"
+    },
+    {
+      "label": "单集片长",
+      "value": "45分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Reset"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt17506706"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35332289/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt17506706/"
+    }
+  ]
+}

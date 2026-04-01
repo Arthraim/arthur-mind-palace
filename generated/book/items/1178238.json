@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "1178238",
+  "title": "OOD启思录",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/1178238.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9901115.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1178238/",
+  "detailUrl": "/book/1178238",
+  "listSummary": "里尔(Riel.A.J.) / 鲍志云 / 人民邮电出版社 / 2004年8月1日 / 42.0",
+  "rating": 5,
+  "markedAt": "2009-09-07",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "OOD启思录"
+    },
+    {
+      "label": "作者",
+      "value": "里尔(Riel.A.J.)"
+    },
+    {
+      "label": "译者",
+      "value": "鲍志云"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2004年8月1日"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115123367"
+    },
+    {
+      "label": "页数",
+      "value": "358 页"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "42.0"
+    },
+    {
+      "label": "原作名",
+      "value": "Object-Oriented Design Heuristics"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1178238/"
+    }
+  ]
+}

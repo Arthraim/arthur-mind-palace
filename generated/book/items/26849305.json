@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "26849305",
+  "title": "成为乔布斯",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/book/26849305.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28948876.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26849305/",
+  "detailUrl": "/book/26849305",
+  "listSummary": "[美] 布伦特·施兰德、[美] 里克·特策利 / 陶亮 / 中信出版社 / 2016-10 / 69.00元",
+  "rating": 5,
+  "markedAt": "2020-09-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "看Tim想捐献自己肝脏给Steve，后者大发雷霆的那一段看哭了",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "成为乔布斯"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 布伦特·施兰德 / [美] 里克·特策利"
+    },
+    {
+      "label": "译者",
+      "value": "陶亮"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2016-10"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508662404"
+    },
+    {
+      "label": "页数",
+      "value": "360"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "69.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Becoming Steve Jobs： The Evolution of a Reckless Upstart into a Visionary Leader"
+    },
+    {
+      "label": "丛书",
+      "value": "创新书系"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26849305/"
+    }
+  ]
+}

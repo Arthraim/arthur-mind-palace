@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1291546",
+  "title": "霸王别姬",
+  "originalTitle": "(1993)",
+  "year": "1993",
+  "coverPath": "covers/movie/1291546.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1291546/",
+  "detailUrl": "/movie/1291546",
+  "listSummary": "1993-01-01(中国香港) / 1993-07-26(中国大陆) / 张国荣 / 张丰毅 / 巩俐 / 葛优 / 英达 / 蒋雯丽 / 吴大维 / 吕齐 / 雷汉 / 尹治 / 中国大陆 / 中国香港 / 陈凯歌 / 171分钟 / 155分钟(美国剧场版) / 剧情 / 爱情 / 同性 / 芦苇 Wei Lu / 李碧华 Lillian Lee / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2018-04-23",
+  "estimatedMarkedAtRange": null,
+  "comment": "真是张国荣本人啊",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1993)"
+    },
+    {
+      "label": "Title",
+      "value": "霸王别姬"
+    },
+    {
+      "label": "Year",
+      "value": "1993"
+    },
+    {
+      "label": "导演",
+      "value": "陈凯歌"
+    },
+    {
+      "label": "编剧",
+      "value": "芦苇 / 李碧华"
+    },
+    {
+      "label": "主演",
+      "value": "张国荣 / 张丰毅 / 巩俐 / 葛优 / 英达 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 同性"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆 / 中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1993-07-26(中国大陆) / 1993-01-01(中国香港)"
+    },
+    {
+      "label": "片长",
+      "value": "171分钟 / 155分钟(美国剧场版)"
+    },
+    {
+      "label": "又名",
+      "value": "再见，我的妾 / Farewell My Concubine / Adieu Ma Concubine"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0106332"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1291546/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0106332/"
+    }
+  ]
+}

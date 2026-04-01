@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "7000209",
+  "title": "Adele Live At The Royal Albert Hall",
+  "originalTitle": null,
+  "year": "2011",
+  "coverPath": "covers/music/7000209.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s7014032.jpg",
+  "doubanUrl": "https://music.douban.com/subject/7000209/",
+  "detailUrl": "/music/7000209",
+  "listSummary": "Adele / 2011-11-29 / Live / CD",
+  "rating": 5,
+  "markedAt": "2012-01-01",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Adele Live At The Royal Albert Hall"
+    },
+    {
+      "label": "表演者",
+      "value": "Adele"
+    },
+    {
+      "label": "专辑类型",
+      "value": "Live"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2011-11-29"
+    },
+    {
+      "label": "出版者",
+      "value": "Columbia"
+    },
+    {
+      "label": "唱片数",
+      "value": "2"
+    },
+    {
+      "label": "条形码",
+      "value": "0886919044690"
+    },
+    {
+      "label": "其他版本",
+      "value": "Live At The Royal Albert Hall （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/7000209/"
+    }
+  ]
+}

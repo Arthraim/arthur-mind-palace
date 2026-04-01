@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "35580154",
+  "title": "家有鲨鱼狗 Sharkdog",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/35580154.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2680652776.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35580154/",
+  "detailUrl": "/movie/35580154",
+  "listSummary": "2021-09-03(美国) / 迪·布莱德利·贝克 / 诺亚 / 朱迪·爱丽丝·李 / 美国 / 家有鲨鱼狗 / 25分钟 / 家有鲨鱼狗 / 动画 / 冒险 / 短片 / Andy Potter / Jacinth Tan / Ed Valentine / 英语",
+  "rating": 5,
+  "markedAt": "2023-05-02",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "家有鲨鱼狗 Sharkdog"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "编剧",
+      "value": "Andy Potter / Jacinth Tan / Ed Valentine"
+    },
+    {
+      "label": "主演",
+      "value": "Liam Mitchell / 迪·布莱德利·贝克 / Aly Mawji / Meaghan Davies / Judy Alice Lee"
+    },
+    {
+      "label": "类型",
+      "value": "动画 / 短片 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2021-09-03(美国)"
+    },
+    {
+      "label": "集数",
+      "value": "7"
+    },
+    {
+      "label": "单集片长",
+      "value": "25分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt12211696"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35580154/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt12211696/"
+    }
+  ]
+}

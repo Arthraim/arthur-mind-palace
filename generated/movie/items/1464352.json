@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1464352",
+  "title": "宫本武藏 宮本武蔵",
+  "originalTitle": "(1961)",
+  "year": "1961",
+  "coverPath": "covers/movie/1464352.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2634583662.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1464352/",
+  "detailUrl": "/movie/1464352",
+  "listSummary": "1961-05-27 / 中村锦之助 / 木村功 / 入江若叶 / 浪花千荣子 / 木暮实千代 / 加贺邦男 / 三国连太郎 / 丘里美 / 宫口精二 / 赤木春惠 / 日本 / 内田吐梦 / 110分钟 / 宫本武藏 / 剧情 / 传记 / 动作 / 铃木尚之 Naoyuki Suzuki / 成沢昌茂 / 日语",
+  "rating": 5,
+  "markedAt": "2021-06-17",
+  "estimatedMarkedAtRange": null,
+  "comment": "禅意到底",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1961)"
+    },
+    {
+      "label": "Title",
+      "value": "宫本武藏 宮本武蔵"
+    },
+    {
+      "label": "Year",
+      "value": "1961"
+    },
+    {
+      "label": "导演",
+      "value": "内田吐梦"
+    },
+    {
+      "label": "编剧",
+      "value": "铃木尚之 / 成沢昌茂"
+    },
+    {
+      "label": "主演",
+      "value": "中村锦之助 / 木村功 / 入江若叶 / 浪花千荣子 / 木暮实千代"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 传记"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1961-05-27"
+    },
+    {
+      "label": "片长",
+      "value": "110分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Zen and Sword"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0055188"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1464352/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0055188/"
+    }
+  ]
+}

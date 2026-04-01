@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1303173",
+  "title": "甲方乙方",
+  "originalTitle": "(1997)",
+  "year": "1997",
+  "coverPath": "covers/movie/1303173.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2901505312.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1303173/",
+  "detailUrl": "/movie/1303173",
+  "listSummary": "1997-12-24(中国大陆) / 葛优 / 刘蓓 / 何冰 / 冯小刚 / 英达 / 徐帆 / 杨立新 / 李琦 / 傅彪 / 李滨 / 中国大陆 / 冯小刚 / 87分钟 / 喜剧 / 冯小刚 Xiaogang Feng / 王刚 Gang Wang / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2021-11-04",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1997)"
+    },
+    {
+      "label": "Title",
+      "value": "甲方乙方"
+    },
+    {
+      "label": "Year",
+      "value": "1997"
+    },
+    {
+      "label": "导演",
+      "value": "冯小刚"
+    },
+    {
+      "label": "编剧",
+      "value": "冯小刚 / 王刚"
+    },
+    {
+      "label": "主演",
+      "value": "葛优 / 刘蓓 / 何冰 / 冯小刚 / 英达 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1997-12-24(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "87分钟"
+    },
+    {
+      "label": "又名",
+      "value": "比火还热的心 / 你不是一个俗人 / The Dream Factory"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0260987"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1303173/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0260987/"
+    }
+  ]
+}

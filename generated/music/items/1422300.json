@@ -1,0 +1,68 @@
+{
+  "kind": "music",
+  "sourceId": "1422300",
+  "title": "Jay",
+  "originalTitle": null,
+  "year": "2000",
+  "coverPath": "covers/music/1422300.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s8932514.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1422300/",
+  "detailUrl": "/music/1422300",
+  "listSummary": "周杰伦 / 2000-11-13 / 专辑 / Audio CD / 流行",
+  "rating": 4,
+  "markedAt": "2010-10-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Jay"
+    },
+    {
+      "label": "表演者",
+      "value": "周杰伦"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "Audio CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2000-11-13"
+    },
+    {
+      "label": "出版者",
+      "value": "BMG"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0743218389429"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNE020130300"
+    },
+    {
+      "label": "其他版本",
+      "value": "Jay （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1422300/"
+    }
+  ]
+}

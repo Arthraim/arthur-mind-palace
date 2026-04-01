@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "1152971",
+  "title": "DOOM启世录",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/1152971.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1488795.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1152971/",
+  "detailUrl": "/book/1152971",
+  "listSummary": "[美] 大卫·卡什诺 / 孙振南 / 电子工业出版社 / 2004-4 / 29.00元",
+  "rating": 5,
+  "markedAt": "2020-03-20",
+  "estimatedMarkedAtRange": null,
+  "comment": "09年标了想看的书终于这两周看完了。如果当年看肯定感触更大，那是刚看完《观止》的时候标记的想看，当年那本书把我钉死在了这一行业里。 现在看，经常被「买了几千美元的论文和书」这样的细节打动，卡马克的成功不是天赐的，虽然书里没有强调过，但天赋和努力真的分不开。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "DOOM启世录"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 大卫·卡什诺"
+    },
+    {
+      "label": "译者",
+      "value": "孙振南"
+    },
+    {
+      "label": "出版社",
+      "value": "电子工业出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2004-4"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787505396814"
+    },
+    {
+      "label": "页数",
+      "value": "318"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "29.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Masters of Doom"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1152971/"
+    }
+  ]
+}

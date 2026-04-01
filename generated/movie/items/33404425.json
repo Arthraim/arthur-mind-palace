@@ -1,0 +1,84 @@
+{
+  "kind": "movie",
+  "sourceId": "33404425",
+  "title": "隐秘的角落",
+  "originalTitle": "(2020)",
+  "year": "2020",
+  "coverPath": "covers/movie/33404425.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2609064048.webp",
+  "doubanUrl": "https://movie.douban.com/subject/33404425/",
+  "detailUrl": "/movie/33404425",
+  "listSummary": "2020-06-16(中国大陆) / 秦昊 / 王景春 / 荣梓杉 / 史彭元 / 王圣迪 / 张颂文 / 刘琳 / 芦芳生 / 李梦 / 黄米依 / 中国大陆 / 辛爽 / 50分钟 / 剧情 / 犯罪 / 悬疑 / 潘依然 Yiran Pan / 孙浩洋 Joker / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2024-12-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "有点过",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2020)"
+    },
+    {
+      "label": "Title",
+      "value": "隐秘的角落"
+    },
+    {
+      "label": "Year",
+      "value": "2020"
+    },
+    {
+      "label": "导演",
+      "value": "辛爽"
+    },
+    {
+      "label": "编剧",
+      "value": "潘依然 / 孙浩洋"
+    },
+    {
+      "label": "主演",
+      "value": "秦昊 / 王景春 / 荣梓杉 / 史彭元 / 王圣迪 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2020-06-16(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "12"
+    },
+    {
+      "label": "单集片长",
+      "value": "50分钟"
+    },
+    {
+      "label": "又名",
+      "value": "坏小孩 / The Bad Kids / Cat's Cradle / Bad Kids 隠秘之罪"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt12477942"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/33404425/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt12477942/"
+    }
+  ]
+}

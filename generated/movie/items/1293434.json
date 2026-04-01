@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293434",
+  "title": "王牌对王牌 The Negotiator",
+  "originalTitle": "(1998)",
+  "year": "1998",
+  "coverPath": "covers/movie/1293434.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1971419890.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293434/",
+  "detailUrl": "/movie/1293434",
+  "listSummary": "1998-07-29 / 塞缪尔·杰克逊 / 凯文·史派西 / 大卫·摩斯 / 朗·瑞弗金 / 约翰·斯宾塞 / J·T·沃尔什 / 希芳·法隆 / 保罗·吉亚玛提 / 雷吉娜·泰勒 / 迈克尔·库立兹 / 美国 / 德国 / F·加里·格雷 / 140分钟 / 王牌对王牌 / 动作 / 犯罪 / 剧情 / 悬疑 / 惊悚 / 詹姆斯·德莫纳克 James DeMonaco / 凯文·福克斯 Kevin Fox / 英语",
+  "rating": 4,
+  "markedAt": "2023-12-12",
+  "estimatedMarkedAtRange": null,
+  "comment": "有点不太适合发烧的时候看，狼人杀",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1998)"
+    },
+    {
+      "label": "Title",
+      "value": "王牌对王牌 The Negotiator"
+    },
+    {
+      "label": "Year",
+      "value": "1998"
+    },
+    {
+      "label": "导演",
+      "value": "F·加里·格雷"
+    },
+    {
+      "label": "编剧",
+      "value": "詹姆斯·德莫纳克 / 凯文·福克斯"
+    },
+    {
+      "label": "主演",
+      "value": "塞缪尔·杰克逊 / 凯文·史派西 / 大卫·摩斯 / 朗·瑞弗金 / 约翰·斯宾塞 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 德国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1998-07-29"
+    },
+    {
+      "label": "片长",
+      "value": "140分钟"
+    },
+    {
+      "label": "又名",
+      "value": "冇数讲(港) / 谈判专家"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0120768"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293434/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0120768/"
+    }
+  ]
+}

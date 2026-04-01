@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35183042",
+  "title": "独行月球",
+  "originalTitle": "(2022)",
+  "year": "2022",
+  "coverPath": "covers/movie/35183042.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876409008.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35183042/",
+  "detailUrl": "/movie/35183042",
+  "listSummary": "2022-07-29(中国大陆) / 沈腾 / 马丽 / 常远 / 李诚儒 / 黄才伦 / 李嘉琦 / 郝瀚 / 黄子韬 / 王成思 / 高海宝 / 中国大陆 / 张吃鱼 / 2022-07-27 19:00 / 122分钟 / 喜剧 / 科幻 / 张吃鱼 Chiyu Zhang / 钱晨光 Chenguang Qian / 戴思奥 Si'ao Dai / 沈雨悦 Yuyue Shen / 汉语普通话 / 英语",
+  "rating": 3,
+  "markedAt": "2022-08-18",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2022)"
+    },
+    {
+      "label": "Title",
+      "value": "独行月球"
+    },
+    {
+      "label": "Year",
+      "value": "2022"
+    },
+    {
+      "label": "导演",
+      "value": "张吃鱼"
+    },
+    {
+      "label": "编剧",
+      "value": "张吃鱼 / 钱晨光 / 戴思奥 / 沈雨悦"
+    },
+    {
+      "label": "主演",
+      "value": "沈腾 / 马丽 / 常远 / 李诚儒 / 黄才伦 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 科幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2022-07-29(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "122分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Moon Man"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt14557302"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35183042/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt14557302/"
+    }
+  ]
+}

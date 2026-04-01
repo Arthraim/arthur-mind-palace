@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "30306570",
+  "title": "囧妈",
+  "originalTitle": "(2020)",
+  "year": "2020",
+  "coverPath": "covers/movie/30306570.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581835383.webp",
+  "doubanUrl": "https://movie.douban.com/subject/30306570/",
+  "detailUrl": "/movie/30306570",
+  "listSummary": "2020-01-25(中国大陆网络) / 徐峥 / 黄梅莹 / 袁泉 / 郭京飞 / 黄景瑜 / 贾冰 / 高以翔 / 沈腾 / 宋小宝 / 黄渤 / 中国大陆 / 徐峥 / 126分钟 / 喜剧 / 何可可 Keke He / 布鲁鲁夫 Bululufu / 何一禾 Yihe He / 徐峥 Zheng Xu / 汉语普通话 / 俄语 / 英语",
+  "rating": 3,
+  "markedAt": "2020-01-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "片子一般，即刻nb！",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2020)"
+    },
+    {
+      "label": "Title",
+      "value": "囧妈"
+    },
+    {
+      "label": "Year",
+      "value": "2020"
+    },
+    {
+      "label": "导演",
+      "value": "徐峥"
+    },
+    {
+      "label": "编剧",
+      "value": "何可可 / 布鲁鲁夫 / 何一禾 / 徐峥"
+    },
+    {
+      "label": "主演",
+      "value": "徐峥 / 黄梅莹 / 袁泉 / 郭京飞 / 黄景瑜 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 俄语 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2020-01-25(中国大陆网络)"
+    },
+    {
+      "label": "片长",
+      "value": "126分钟"
+    },
+    {
+      "label": "又名",
+      "value": "俄囧 / Lost in Russia"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt11172926"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/30306570/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt11172926/"
+    }
+  ]
+}

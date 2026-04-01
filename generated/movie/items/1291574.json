@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1291574",
+  "title": "玩具总动员2 Toy Story 2",
+  "originalTitle": "(1999)",
+  "year": "1999",
+  "coverPath": "covers/movie/1291574.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1283688673.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1291574/",
+  "detailUrl": "/movie/1291574",
+  "listSummary": "1999-11-24(美国) / 汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 凯尔塞·格拉玛 / 唐·里克斯 / 吉姆·法尼 / 华莱士·肖恩 / 约翰·拉森贝格 / 安妮·波茨 / 韦恩·奈特 / 美国 / 约翰·拉塞特 / 艾什·布兰农 / 李·昂克里奇 / 92分钟 / 玩具总动员2 / 喜剧 / 动画 / 奇幻 / 冒险 / 约翰·拉塞特 John Lasseter / 彼特·道格特 Pete Docter / 艾什·布兰农 Ash Brannon / 安德鲁·斯坦顿 Andrew Stanton / 萧丽塔 Rita Hsiao / 道格·钱伯林 Doug Chamberlin / 克里斯·韦伯 Chris Webb / 英语",
+  "rating": 5,
+  "markedAt": "2021-06-05",
+  "estimatedMarkedAtRange": null,
+  "comment": "2的技术力明显变强了，《成为乔布斯》里提到他老人家特别喜欢把半成品拿回家给孩子们看，不知道2的进步他咋想的",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1999)"
+    },
+    {
+      "label": "Title",
+      "value": "玩具总动员2 Toy Story 2"
+    },
+    {
+      "label": "Year",
+      "value": "1999"
+    },
+    {
+      "label": "导演",
+      "value": "约翰·拉塞特 / 艾什·布兰农 / 李·昂克里奇"
+    },
+    {
+      "label": "编剧",
+      "value": "约翰·拉塞特 / 彼特·道格特 / 艾什·布兰农 / 安德鲁·斯坦顿 / 萧丽塔 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 凯尔塞·格拉玛 / 唐·里克斯 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动画 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1999-11-24(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "92分钟"
+    },
+    {
+      "label": "又名",
+      "value": "反斗奇兵2(港) / 反斗奇兵续集 / 玩具的故事2"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0120363"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1291574/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0120363/"
+    }
+  ]
+}

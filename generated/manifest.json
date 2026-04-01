@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-04-01T18:55:56.985Z",
+  "pageSize": 30,
+  "counts": {
+    "movie": 1380,
+    "book": 154,
+    "music": 47,
+    "game": 18
+  },
+  "totalPagesByKind": {
+    "movie": 46,
+    "book": 6,
+    "music": 2,
+    "game": 1
+  }
+}

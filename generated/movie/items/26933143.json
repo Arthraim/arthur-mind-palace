@@ -1,0 +1,68 @@
+{
+  "kind": "movie",
+  "sourceId": "26933143",
+  "title": "少年心气",
+  "originalTitle": "(2016)",
+  "year": "2016",
+  "coverPath": "covers/movie/26933143.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2404894075.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26933143/",
+  "detailUrl": "/movie/26933143",
+  "listSummary": "2016-12-12(中国大陆) / 崔健 / 汪峰 / 郑钧 / 臧天朔 / 刘义军 / 吴虹飞 / 罗琦 / 栾树 / 黄燎原 / 捞仔 / 中国大陆 / 66分钟 / 纪录片 / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2019-08-04",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "少年心气"
+    },
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "导演",
+      "value": "符榕"
+    },
+    {
+      "label": "主演",
+      "value": "崔健 / 汪峰 / 郑钧 / 臧天朔 / 刘义军 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "纪录片"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2016-12-12(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "66分钟"
+    },
+    {
+      "label": "又名",
+      "value": "中国摇滚三十年纪录片"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26933143/"
+    }
+  ]
+}

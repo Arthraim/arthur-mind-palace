@@ -1,0 +1,56 @@
+{
+  "kind": "music",
+  "sourceId": "36400683",
+  "title": "Young Fresh Chin II",
+  "originalTitle": null,
+  "year": "2023",
+  "coverPath": "covers/music/36400683.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34531279.jpg",
+  "doubanUrl": "https://music.douban.com/subject/36400683/",
+  "detailUrl": "/music/36400683",
+  "listSummary": "夏之禹 / 2023-05-10 / 专辑 / 数字(Digital) / 说唱",
+  "rating": 5,
+  "markedAt": "2023-08-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Young Fresh Chin II"
+    },
+    {
+      "label": "表演者",
+      "value": "夏之禹"
+    },
+    {
+      "label": "流派",
+      "value": "说唱"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2023-05-10"
+    },
+    {
+      "label": "出版者",
+      "value": "独立发行"
+    },
+    {
+      "label": "条形码",
+      "value": "3617059342516"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/36400683/"
+    }
+  ]
+}

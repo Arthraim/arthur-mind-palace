@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "35293430",
+  "title": "鸟鸟鸟",
+  "originalTitle": null,
+  "year": "2020",
+  "coverPath": "covers/music/35293430.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33782013.jpg",
+  "doubanUrl": "https://music.douban.com/subject/35293430/",
+  "detailUrl": "/music/35293430",
+  "listSummary": "deca joins / 2020-12-28 / 专辑 / CD / 摇滚",
+  "rating": 4,
+  "markedAt": "2020-12-29",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "鸟鸟鸟"
+    },
+    {
+      "label": "又名",
+      "value": "Birds and Reflections"
+    },
+    {
+      "label": "表演者",
+      "value": "deca joins"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2020-12-28"
+    },
+    {
+      "label": "出版者",
+      "value": "Airhead Records"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/35293430/"
+    }
+  ]
+}

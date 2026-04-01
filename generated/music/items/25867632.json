@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "25867632",
+  "title": "The Long Goodbye (Lcd Soundsystem Live At Madison Square Garden)",
+  "originalTitle": null,
+  "year": "2014",
+  "coverPath": "covers/music/25867632.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s27268600.jpg",
+  "doubanUrl": "https://music.douban.com/subject/25867632/",
+  "detailUrl": "/music/25867632",
+  "listSummary": "LCD Soundsystem / 2014-04-19 / Box set / Vinyl / 电子",
+  "rating": 5,
+  "markedAt": "2021-04-16",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "The Long Goodbye (Lcd Soundsystem Live At Madison Square Garden)"
+    },
+    {
+      "label": "表演者",
+      "value": "LCD Soundsystem"
+    },
+    {
+      "label": "流派",
+      "value": "电子"
+    },
+    {
+      "label": "专辑类型",
+      "value": "Box set"
+    },
+    {
+      "label": "介质",
+      "value": "Vinyl"
+    },
+    {
+      "label": "发行时间",
+      "value": "2014-04-19"
+    },
+    {
+      "label": "出版者",
+      "value": "PLG UK Frontline"
+    },
+    {
+      "label": "唱片数",
+      "value": "5"
+    },
+    {
+      "label": "条形码",
+      "value": "0825646327188"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/25867632/"
+    }
+  ]
+}

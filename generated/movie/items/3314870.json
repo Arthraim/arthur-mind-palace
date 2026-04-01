@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "3314870",
+  "title": "潜伏",
+  "originalTitle": "(2008)",
+  "year": "2008",
+  "coverPath": "covers/movie/3314870.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189694504.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3314870/",
+  "detailUrl": "/movie/3314870",
+  "listSummary": "2008-12-20(中国大陆) / 孙红雷 / 姚晨 / 沈傲君 / 祖峰 / 冯恩鹤 / 吴刚 / 朱杰 / 范雨林 / 王小毅 / 白利卫 / 中国大陆 / 姜伟 / 付玮 / 40分钟 / 剧情 / 姜伟 Wei Jiang / 龙一 Yi Long / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2021-03-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "太刺激了，大部分时候智商在线",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2008)"
+    },
+    {
+      "label": "Title",
+      "value": "潜伏"
+    },
+    {
+      "label": "Year",
+      "value": "2008"
+    },
+    {
+      "label": "导演",
+      "value": "姜伟 / 付玮"
+    },
+    {
+      "label": "编剧",
+      "value": "姜伟 / 龙一"
+    },
+    {
+      "label": "主演",
+      "value": "孙红雷 / 姚晨 / 沈傲君 / 祖峰 / 冯恩鹤 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2008-12-20(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "30"
+    },
+    {
+      "label": "单集片长",
+      "value": "40分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1430751"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3314870/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1430751/"
+    }
+  ]
+}

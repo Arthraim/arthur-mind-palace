@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26366496",
+  "title": "邪不压正",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/26366496.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526297221.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26366496/",
+  "detailUrl": "/movie/26366496",
+  "listSummary": "2018-07-13(中国大陆) / 彭于晏 / 廖凡 / 姜文 / 周韵 / 许晴 / 泽田谦也 / 安地 / 史航 / 李梦 / 丁嘉丽 / 中国大陆 / 姜文 / 137分钟 / 134分钟(香港) / 剧情 / 喜剧 / 动作 / 姜文 Wen Jiang / 何冀平 Jiping He / 李非 Fei Li / 孙悦 Yue Sun / 张北海 Beihai Zhang / 汉语普通话 / 英语 / 日语 / 法语",
+  "rating": 3,
+  "markedAt": "2018-12-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "害行吧……",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "邪不压正"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "姜文"
+    },
+    {
+      "label": "编剧",
+      "value": "姜文 / 何冀平 / 李非 / 孙悦 / 张北海"
+    },
+    {
+      "label": "主演",
+      "value": "彭于晏 / 廖凡 / 姜文 / 周韵 / 许晴 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 动作"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语 / 日语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-07-13(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "137分钟 / 134分钟(香港)"
+    },
+    {
+      "label": "又名",
+      "value": "侠隐 / Hidden Man"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt8434380"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26366496/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt8434380/"
+    }
+  ]
+}

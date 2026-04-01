@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293181",
+  "title": "惊魂记 Psycho",
+  "originalTitle": "(1960)",
+  "year": "1960",
+  "coverPath": "covers/movie/1293181.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293181/",
+  "detailUrl": "/movie/1293181",
+  "listSummary": "1960-06-16(纽约首映) / 1960-09-08(美国) / 安东尼·博金斯 / 维拉·迈尔斯 / 约翰·加文 / 珍妮特·利 / 马丁·鲍尔萨姆 / 约翰·麦克因泰 / 西蒙·奥克兰 / 弗兰克·艾伯森 / 帕特里夏·希区柯克 / 沃恩·泰勒 / 美国 / 阿尔弗雷德·希区柯克 / 109分钟 / 惊魂记 / 悬疑 / 惊悚 / 恐怖 / 约瑟夫·斯蒂凡诺 Joseph Stefano / 罗伯特·布洛克 Robert Bloch / 英语",
+  "rating": 5,
+  "markedAt": "2024-01-18",
+  "estimatedMarkedAtRange": null,
+  "comment": "始料未及的故事发展",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1960)"
+    },
+    {
+      "label": "Title",
+      "value": "惊魂记 Psycho"
+    },
+    {
+      "label": "Year",
+      "value": "1960"
+    },
+    {
+      "label": "导演",
+      "value": "阿尔弗雷德·希区柯克"
+    },
+    {
+      "label": "编剧",
+      "value": "约瑟夫·斯蒂凡诺 / 罗伯特·布洛克"
+    },
+    {
+      "label": "主演",
+      "value": "安东尼·博金斯 / 维拉·迈尔斯 / 约翰·加文 / 珍妮特·利 / 马丁·鲍尔萨姆 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚 / 恐怖"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1960-06-16(纽约首映) / 1960-09-08(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "109分钟"
+    },
+    {
+      "label": "又名",
+      "value": "精神病患者 / 触目惊心(港) / 精神病人"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0054215"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293181/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0054215/"
+    }
+  ]
+}

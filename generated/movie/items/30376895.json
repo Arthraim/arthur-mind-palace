@@ -1,0 +1,88 @@
+{
+  "kind": "movie",
+  "sourceId": "30376895",
+  "title": "安多 第一季 Andor Season 1",
+  "originalTitle": "(2022)",
+  "year": "2022",
+  "coverPath": "covers/movie/30376895.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877106534.webp",
+  "doubanUrl": "https://movie.douban.com/subject/30376895/",
+  "detailUrl": "/movie/30376895",
+  "listSummary": "2022-09-21(美国) / 迭戈·卢纳 / 斯特兰·斯卡斯加德 / 吉娜薇·欧瑞丽 / 丹妮斯·高夫 / 凯尔·索列尔 / 阿德里娅·阿霍纳 / 费奥纳·肖 / 安迪·瑟金斯 / 福里斯特·惠特克 / 乔普林·西伯顿 / 美国 / 托比·海恩斯 / 苏珊娜·怀特 / 本·卡隆 / 安多 / 40-55分钟 / 安多 / 剧情 / 动作 / 科幻 / 惊悚 / 冒险 / 托尼·吉尔罗伊 Tony Gilroy / 丹·吉尔罗伊 Dan Gilroy / 史蒂芬·希夫 Stephen Schiff / 鲍尔·威利蒙 Beau Willimon / 乔治·卢卡斯 George Lucas / 英语",
+  "rating": 5,
+  "markedAt": "2023-04-14",
+  "estimatedMarkedAtRange": null,
+  "comment": "rogue one把电影开头轻描淡写的事情写了一个史诗的前奏，安多把整个乐章给完整起来，每一个为了反抗军付出努力和生命的人都显得尤其悲壮。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2022)"
+    },
+    {
+      "label": "Title",
+      "value": "安多 第一季 Andor Season 1"
+    },
+    {
+      "label": "Year",
+      "value": "2022"
+    },
+    {
+      "label": "导演",
+      "value": "托比·海恩斯 / 苏珊娜·怀特 / 本·卡隆"
+    },
+    {
+      "label": "编剧",
+      "value": "托尼·吉尔罗伊 / 丹·吉尔罗伊 / 史蒂芬·希夫 / 博·威利蒙 / 乔治·卢卡斯"
+    },
+    {
+      "label": "主演",
+      "value": "迭戈·卢纳 / 斯特兰·斯卡斯加德 / 吉娜薇·欧瑞丽 / 丹妮斯·高夫 / 凯尔·索列尔 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 科幻 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2022-09-21(美国)"
+    },
+    {
+      "label": "季数",
+      "value": "1"
+    },
+    {
+      "label": "集数",
+      "value": "12"
+    },
+    {
+      "label": "单集片长",
+      "value": "40-55分钟"
+    },
+    {
+      "label": "又名",
+      "value": "星球大战外传：侠盗一号角色前传剧 / 安道尔(台)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt9253284"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/30376895/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt9253284/"
+    }
+  ]
+}

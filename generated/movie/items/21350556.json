@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "21350556",
+  "title": "三少爷的剑",
+  "originalTitle": "(2016)",
+  "year": "2016",
+  "coverPath": "covers/movie/21350556.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399366116.webp",
+  "doubanUrl": "https://movie.douban.com/subject/21350556/",
+  "detailUrl": "/movie/21350556",
+  "listSummary": "2016-10-21(罗马国际电影节) / 2016-12-02(中国大陆) / 林更新 / 何润东 / 江一燕 / 蒋梦婕 / 鲍起静 / 顾曹斌 / 马京京 / 徐少强 / 顾冠忠 / 吴元俊 / 中国大陆 / 尔冬升 / 黄昊 / 107分钟 / 剧情 / 动作 / 武侠 / 古装 / 古龙 Lung Ku / 徐克 Hark Tsui / 尔冬升 Tung-Shing Yee / 秦天南 Tin Nam Chun / 汉语普通话",
+  "rating": 2,
+  "markedAt": "2018-10-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "切",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "三少爷的剑"
+    },
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "导演",
+      "value": "尔冬升"
+    },
+    {
+      "label": "编剧",
+      "value": "古龙 / 徐克 / 尔冬升 / 秦天南"
+    },
+    {
+      "label": "主演",
+      "value": "林更新 / 何润东 / 江一燕 / 蒋梦婕 / 鲍起静 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 武侠 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2016-12-02(中国大陆) / 2016-10-21(罗马国际电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "107分钟"
+    },
+    {
+      "label": "又名",
+      "value": "三少爷的剑3D / Sword Master"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5269396"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/21350556/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5269396/"
+    }
+  ]
+}

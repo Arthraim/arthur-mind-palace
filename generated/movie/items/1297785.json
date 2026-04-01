@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1297785",
+  "title": "星球大战前传2：克隆人的进攻 Star Wars: Episode II - Attack of the Clones",
+  "originalTitle": "(2002)",
+  "year": "2002",
+  "coverPath": "covers/movie/1297785.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308393297.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1297785/",
+  "detailUrl": "/movie/1297785",
+  "listSummary": "2002-05-16(美国) / 2002-07-12(中国大陆) / 伊万·麦克格雷格 / 娜塔莉·波特曼 / 海登·克里斯滕森 / 克里斯托弗·李 / 塞缪尔·杰克逊 / 弗兰克·奥兹 / 伊恩·麦克迪阿梅德 / 潘妮拉·奥古斯特 / 特穆拉·莫里森 / 吉米·斯密茨 / 美国 / www.starwars.com / 乔治·卢卡斯 / 142分钟 / 120分钟(IMAX版) / 星球大战前传2：克隆人的进攻 / 动作 / 科幻 / 冒险 / 乔治·卢卡斯 George Lucas / 乔纳森·黑尔斯 Jonathan Hales / 英语",
+  "rating": null,
+  "markedAt": "2019-12-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2002)"
+    },
+    {
+      "label": "Title",
+      "value": "星球大战前传2：克隆人的进攻 Star Wars: Episode II - Attack of the Clones"
+    },
+    {
+      "label": "Year",
+      "value": "2002"
+    },
+    {
+      "label": "导演",
+      "value": "乔治·卢卡斯"
+    },
+    {
+      "label": "编剧",
+      "value": "乔治·卢卡斯 / 乔纳森·黑尔斯"
+    },
+    {
+      "label": "主演",
+      "value": "伊万·麦克格雷格 / 娜塔莉·波特曼 / 海登·克里斯滕森 / 克里斯托弗·李 / 塞缪尔·杰克逊 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2002-07-12(中国大陆) / 2002-05-16(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "142分钟 / 120分钟(IMAX版)"
+    },
+    {
+      "label": "又名",
+      "value": "星球大战第二集：克隆人的进攻 / 星球大战前传II：复制人侵略(港) / 星际大战二部曲：复制人全面进攻(台) / 星战前传之克隆人的进攻 / 复制人的袭击"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0121765"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1297785/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0121765/"
+    }
+  ]
+}

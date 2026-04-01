@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1939173",
+  "title": "破绽 Fracture",
+  "originalTitle": "(2007)",
+  "year": "2007",
+  "coverPath": "covers/movie/1939173.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p572433210.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1939173/",
+  "detailUrl": "/movie/1939173",
+  "listSummary": "2007-04-20(美国) / 安东尼·霍普金斯 / 瑞恩·高斯林 / 大卫·斯特雷泽恩 / 裴淳华 / 艾伯丝·戴维兹 / 比利·伯克 / 克利夫·柯蒂斯 / 鲍勃·冈顿 / 乔什·斯坦伯 / Petrea Burchard / 美国 / 德国 / 格里高利·霍布里特 / 113 分钟 / 破绽 / 犯罪 / 剧情 / 悬疑 / 惊悚 / Daniel Pyne / Glenn Gers / 英语",
+  "rating": 4,
+  "markedAt": "2023-07-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "原来高司令那时候已经可以和老爷子飙戏了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2007)"
+    },
+    {
+      "label": "Title",
+      "value": "破绽 Fracture"
+    },
+    {
+      "label": "Year",
+      "value": "2007"
+    },
+    {
+      "label": "导演",
+      "value": "格里高利·霍布里特"
+    },
+    {
+      "label": "编剧",
+      "value": "丹尼尔·佩尼 / 格伦·杰斯"
+    },
+    {
+      "label": "主演",
+      "value": "安东尼·霍普金斯 / 瑞恩·高斯林 / 大卫·斯特雷泽恩 / 裴淳华 / 艾伯丝·戴维兹 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 德国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2007-04-20(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "113 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "瞒天杀局"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0488120"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1939173/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0488120/"
+    }
+  ]
+}

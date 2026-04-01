@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "25861795",
+  "title": "重来2",
+  "originalTitle": null,
+  "year": "2014",
+  "coverPath": "covers/book/25861795.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s27255276.jpg",
+  "doubanUrl": "https://book.douban.com/subject/25861795/",
+  "detailUrl": "/book/25861795",
+  "listSummary": "[美] 贾森·弗里德、[美] 戴维·海涅迈尔·汉森 / 苏西 / 中信出版社 / 2014-4-8 / 39.00元",
+  "rating": 4,
+  "markedAt": "2016-01-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "上一本充满启发… 这一本就是看上帝了……… 太先进了（中文版书名我他妈也是醉了",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "重来2"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 贾森·弗里德 / [美] 戴维·海涅迈尔·汉森"
+    },
+    {
+      "label": "译者",
+      "value": "苏西"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2014-4-8"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508632032"
+    },
+    {
+      "label": "页数",
+      "value": "236"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "39.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Remote： Office Not Required"
+    },
+    {
+      "label": "丛书",
+      "value": "重来"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/25861795/"
+    }
+  ]
+}

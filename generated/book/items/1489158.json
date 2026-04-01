@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "1489158",
+  "title": "过年",
+  "originalTitle": null,
+  "year": "2006",
+  "coverPath": "covers/book/1489158.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1528415.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1489158/",
+  "detailUrl": "/book/1489158",
+  "listSummary": "那多 / 接力出版社 / 2006-1 / 15.80元",
+  "rating": 4,
+  "markedAt": "2011-03-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "好吧不管是平行宇宙无尽的迷宫无尽的宇宙都是老题材了, 不过这一篇的题材还蛮新的, 一开始还一直以为是穿越了...",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "过年"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "接力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2006-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787807321408"
+    },
+    {
+      "label": "页数",
+      "value": "194"
+    },
+    {
+      "label": "装帧",
+      "value": "简裝本"
+    },
+    {
+      "label": "定价",
+      "value": "15.80元"
+    },
+    {
+      "label": "丛书",
+      "value": "那多灵异手记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1489158/"
+    }
+  ]
+}

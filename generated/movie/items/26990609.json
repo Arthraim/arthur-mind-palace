@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26990609",
+  "title": "华盛顿邮报 The Post",
+  "originalTitle": "(2017)",
+  "year": "2017",
+  "coverPath": "covers/movie/26990609.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505577378.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26990609/",
+  "detailUrl": "/movie/26990609",
+  "listSummary": "2017-12-22(美国点映) / 2018-01-12(美国) / 梅丽尔·斯特里普 / 汤姆·汉克斯 / 莎拉·保罗森 / 鲍勃·奥登科克 / 崔西·莱茨 / 布莱德利·惠特福德 / 布鲁斯·格林伍德 / 马修·瑞斯 / 爱丽森·布里 / 凯莉·库恩 / 美国 / 英国 / www.foxmovies.com/movies/the-post / 史蒂文·斯皮尔伯格 / 116分钟 / 华盛顿邮报 / 剧情 / 传记 / 历史 / 丽兹·汉娜 Liz Hannah / 乔希·辛格 Josh Singer / 英语",
+  "rating": 5,
+  "markedAt": "2018-06-03",
+  "estimatedMarkedAtRange": null,
+  "comment": "敬畏",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "华盛顿邮报 The Post"
+    },
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "导演",
+      "value": "史蒂文·斯皮尔伯格"
+    },
+    {
+      "label": "编剧",
+      "value": "丽兹·汉娜 / 乔希·辛格"
+    },
+    {
+      "label": "主演",
+      "value": "梅丽尔·斯特里普 / 汤姆·汉克斯 / 莎拉·保罗森 / 鲍勃·奥登科克 / 崔西·莱茨 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 传记 / 历史"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-12-22(美国点映) / 2018-01-12(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "116分钟"
+    },
+    {
+      "label": "又名",
+      "value": "战云密报(港) / 邮报：密战(台) / 邮报 / The Papers"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6294822"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26990609/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6294822/"
+    }
+  ]
+}

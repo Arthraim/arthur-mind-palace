@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26628329",
+  "title": "南极之恋",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/26628329.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518028103.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26628329/",
+  "detailUrl": "/movie/26628329",
+  "listSummary": "2018-02-01(中国大陆) / 赵又廷 / 杨子姗 / 白雪 / 孙迪 / 董杨 / 张梓然 / 中国大陆 / 吴有音 / 117分钟 / 爱情 / 冒险 / 吴有音 Youyin Wu / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2018-03-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "嘿，我还真觉得不错",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "南极之恋"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "吴有音"
+    },
+    {
+      "label": "编剧",
+      "value": "吴有音"
+    },
+    {
+      "label": "主演",
+      "value": "赵又廷 / 杨子姗 / 白雪 / 阎悦 / 王啸 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "爱情 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-02-01(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟"
+    },
+    {
+      "label": "又名",
+      "value": "南极绝恋 / Till the End of the World"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7962598"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26628329/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7962598/"
+    }
+  ]
+}

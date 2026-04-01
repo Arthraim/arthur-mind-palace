@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1295872",
+  "title": "西北偏北 North by Northwest",
+  "originalTitle": "(1959)",
+  "year": "1959",
+  "coverPath": "covers/movie/1295872.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1769720671.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1295872/",
+  "detailUrl": "/movie/1295872",
+  "listSummary": "1959-07-17(美国) / 加里·格兰特 / 爱娃·玛丽·森特 / 詹姆斯·梅森 / 洁茜·罗伊丝·兰迪斯 / 里奥.G.卡罗尔 / 约瑟芬·哈钦森 / 菲利普·奥伯 / 马丁·兰道 / 亚当·威廉姆斯 / 爱德华·普拉特 / 美国 / 阿尔弗雷德·希区柯克 / 136分钟 / 西北偏北 / 悬疑 / 惊悚 / 冒险 / 恩斯特·莱赫曼 Ernest Lehman / 英语 / 法语",
+  "rating": 4,
+  "markedAt": "2024-01-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1959)"
+    },
+    {
+      "label": "Title",
+      "value": "西北偏北 North by Northwest"
+    },
+    {
+      "label": "Year",
+      "value": "1959"
+    },
+    {
+      "label": "导演",
+      "value": "阿尔弗雷德·希区柯克"
+    },
+    {
+      "label": "编剧",
+      "value": "恩斯特·莱赫曼"
+    },
+    {
+      "label": "主演",
+      "value": "加里·格兰特 / 爱娃·玛丽·森特 / 詹姆斯·梅森 / 洁茜·罗伊丝·兰迪斯 / 里奥.G.卡罗尔 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1959-07-17(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "136分钟"
+    },
+    {
+      "label": "又名",
+      "value": "夺魄惊魂(港) / 北西北(台) / 谍影疑云 / 北偏北"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0053125"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1295872/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0053125/"
+    }
+  ]
+}

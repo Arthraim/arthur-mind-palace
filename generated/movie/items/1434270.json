@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "1434270",
+  "title": "红楼梦第一部：宝黛相会",
+  "originalTitle": "(1989)",
+  "year": "1989",
+  "coverPath": "covers/movie/1434270.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538647106.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1434270/",
+  "detailUrl": "/movie/1434270",
+  "listSummary": "夏菁 / 陶慧敏 / 傅艺伟 / 刘晓庆 / 林默予 / 章杰 / 赵丽蓉 / 李法曾 / 李秀明 / 李翔 / 中国大陆 / 谢铁骊 / 赵元 / 160分钟 / 剧情 / 古装 / 谢铁骊 Tieli Xie / 谢逢松 Fengsong Xie / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2025-12-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "看得出是大制作",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1989)"
+    },
+    {
+      "label": "Title",
+      "value": "红楼梦第一部：宝黛相会"
+    },
+    {
+      "label": "Year",
+      "value": "1989"
+    },
+    {
+      "label": "导演",
+      "value": "谢铁骊 / 赵元"
+    },
+    {
+      "label": "编剧",
+      "value": "谢铁骊 / 谢逢松"
+    },
+    {
+      "label": "主演",
+      "value": "夏菁 / 陶慧敏 / 傅艺伟 / 刘晓庆 / 林默予 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1989"
+    },
+    {
+      "label": "片长",
+      "value": "160分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0106772"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1434270/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0106772/"
+    }
+  ]
+}

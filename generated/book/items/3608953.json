@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "3608953",
+  "title": "Superman",
+  "originalTitle": null,
+  "year": "2005",
+  "coverPath": "covers/book/3608953.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27257853.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3608953/",
+  "detailUrl": "/book/3608953",
+  "listSummary": "Kurt Busiek、Stuart Immonen / Titan Books Ltd / 2005-01-21 / USD 20.65",
+  "rating": 5,
+  "markedAt": "2016-07-15",
+  "estimatedMarkedAtRange": null,
+  "comment": "这是一个从「心」开始设定的超人（漫画各个章节的色调，都和超人当时的心情一一对应）",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Superman"
+    },
+    {
+      "label": "作者",
+      "value": "Kurt Busiek / Stuart Immonen"
+    },
+    {
+      "label": "出版社",
+      "value": "Titan Books Ltd"
+    },
+    {
+      "label": "出版年",
+      "value": "2005-01-21"
+    },
+    {
+      "label": "ISBN",
+      "value": "9781845760076"
+    },
+    {
+      "label": "页数",
+      "value": "208"
+    },
+    {
+      "label": "装帧",
+      "value": "Paperback"
+    },
+    {
+      "label": "定价",
+      "value": "USD 20.65"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3608953/"
+    }
+  ]
+}

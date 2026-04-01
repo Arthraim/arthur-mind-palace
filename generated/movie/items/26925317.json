@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26925317",
+  "title": "动物世界",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/26925317.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525528688.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26925317/",
+  "detailUrl": "/movie/26925317",
+  "listSummary": "2018-06-29(中国大陆) / 李易峰 / 迈克尔·道格拉斯 / 周冬雨 / 曹炳琨 / 王戈 / 苏可 / 吴彦姝 / 姚安濂 / 雷汉 / 李宜娟 / 中国大陆 / 韩延 / 132分钟 / 剧情 / 动作 / 冒险 / 韩延 Yan Han / 汉语普通话 / 英语",
+  "rating": 4,
+  "markedAt": "2018-10-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "改的还真不错，特效也很强大",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "动物世界"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "韩延"
+    },
+    {
+      "label": "编剧",
+      "value": "韩延"
+    },
+    {
+      "label": "主演",
+      "value": "李易峰 / 迈克尔·道格拉斯 / 周冬雨 / 曹炳琨 / 王戈 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-06-29(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "132分钟"
+    },
+    {
+      "label": "又名",
+      "value": "赌博默示录中国版 / Animal World"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7946836"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26925317/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7946836/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "27131703",
+  "title": "爆裂",
+  "originalTitle": null,
+  "year": "2017",
+  "coverPath": "covers/book/27131703.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29539567.jpg",
+  "doubanUrl": "https://book.douban.com/subject/27131703/",
+  "detailUrl": "/book/27131703",
+  "listSummary": "[美] 伊藤穰一、[美] 杰夫·豪 / 张培、吴建英、周卓斌 / 中信出版社 / 2017-10-1 / 65.00元",
+  "rating": 3,
+  "markedAt": "2018-11-04",
+  "estimatedMarkedAtRange": null,
+  "comment": "作者还是很会写，alphaGO 那段把我拉回了黑37和李世石的挖 T____T",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "爆裂"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 伊藤穰一 / [美] 杰夫·豪"
+    },
+    {
+      "label": "译者",
+      "value": "张培 / 吴建英 / 周卓斌"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2017-10-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508680231"
+    },
+    {
+      "label": "页数",
+      "value": "344"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "65.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Whiplash： How to Survive Our Faster Future"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/27131703/"
+    }
+  ]
+}

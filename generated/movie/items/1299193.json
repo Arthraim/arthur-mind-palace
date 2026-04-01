@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1299193",
+  "title": "理智与情感 Sense and Sensibility",
+  "originalTitle": "(1995)",
+  "year": "1995",
+  "coverPath": "covers/movie/1299193.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1107322461.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1299193/",
+  "detailUrl": "/movie/1299193",
+  "listSummary": "1995-12-04(加州首映) / 1996-01-26(美国) / 艾玛·汤普森 / 凯特·温斯莱特 / 休·格兰特 / 艾伦·瑞克曼 / 汤姆·威尔金森 / 杰玛·琼斯 / 哈丽特·瓦尔特 / 埃米莉·弗朗索瓦 / 詹姆斯·弗雷特 / 伊丽莎白·斯普里格斯 / 美国 / 英国 / 李安 / 136分钟 / 理智与情感 / 剧情 / 爱情 / 艾玛·汤普森 Emma Thompson / 简·奥斯汀 Jane Austen / 英语 / 法语",
+  "rating": 5,
+  "markedAt": "2026-03-30",
+  "estimatedMarkedAtRange": null,
+  "comment": "被褒奖的是姐姐和上校这种，把情感藏起来，用理智示人的角色。最打动人的也是他们理智和情感之间产生的痛苦，姐姐是用两场大哭释放的，布兰登更理智：给我点事情做，不然我要疯了。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1995)"
+    },
+    {
+      "label": "Title",
+      "value": "理智与情感 Sense and Sensibility"
+    },
+    {
+      "label": "Year",
+      "value": "1995"
+    },
+    {
+      "label": "导演",
+      "value": "李安"
+    },
+    {
+      "label": "编剧",
+      "value": "艾玛·汤普森 / 简·奥斯汀"
+    },
+    {
+      "label": "主演",
+      "value": "艾玛·汤普森 / 凯特·温斯莱特 / 休·格兰特 / 艾伦·瑞克曼 / 汤姆·威尔金森 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1995-12-04(加州首映) / 1996-01-26(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "136分钟"
+    },
+    {
+      "label": "又名",
+      "value": "理性与感性"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0114388"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1299193/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0114388/"
+    }
+  ]
+}

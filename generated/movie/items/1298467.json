@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1298467",
+  "title": "红灯停，绿灯行",
+  "originalTitle": "(1996)",
+  "year": "1996",
+  "coverPath": "covers/movie/1298467.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869987205.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1298467/",
+  "detailUrl": "/movie/1298467",
+  "listSummary": "牛振华 / 丁嘉丽 / 句号 / 康爱石 / 王劲松 / 许还山 / 贾妮 / 刘欣 / 中国大陆 / 黄建新 / 105分钟 / 喜剧 / 叶广芩 Guangqin Ye / 黄欣 Xin Huang / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2022-03-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "多有意思的时代呀",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1996)"
+    },
+    {
+      "label": "Title",
+      "value": "红灯停，绿灯行"
+    },
+    {
+      "label": "Year",
+      "value": "1996"
+    },
+    {
+      "label": "导演",
+      "value": "黄建新"
+    },
+    {
+      "label": "编剧",
+      "value": "叶广芩 / 黄建新"
+    },
+    {
+      "label": "主演",
+      "value": "牛振华 / 丁嘉丽 / 王刚 / 句号 / 康爱石 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1996"
+    },
+    {
+      "label": "片长",
+      "value": "105分钟"
+    },
+    {
+      "label": "又名",
+      "value": "打左灯，向右转 / Signal Left, Turn Right"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0182030"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1298467/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0182030/"
+    }
+  ]
+}

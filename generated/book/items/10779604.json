@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "10779604",
+  "title": "图灵的秘密",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/10779604.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s23127964.jpg",
+  "doubanUrl": "https://book.douban.com/subject/10779604/",
+  "detailUrl": "/book/10779604",
+  "listSummary": "[美] Charles Petzold / 杨卫东 / 人民邮电出版社 / 2012-11 / 69.00元",
+  "rating": 5,
+  "markedAt": "2013-06-17",
+  "estimatedMarkedAtRange": null,
+  "comment": "看到图灵通用机的时候我就跟不上了，大段的跳过了证明过程，直接看结论。即便这样我也只能跪舔图灵的脚印。知道计算机伟大，知道这些人伟大，没想到这么伟大。。。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "图灵的秘密"
+    },
+    {
+      "label": "作者",
+      "value": "[美] Charles Petzold"
+    },
+    {
+      "label": "译者",
+      "value": "杨卫东"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "图灵新知"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-11"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115282149"
+    },
+    {
+      "label": "页数",
+      "value": "344"
+    },
+    {
+      "label": "定价",
+      "value": "69.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "The Annotated Turing： A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/10779604/"
+    }
+  ]
+}

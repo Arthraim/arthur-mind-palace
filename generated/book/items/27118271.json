@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "27118271",
+  "title": "今夜宜有彩虹",
+  "originalTitle": null,
+  "year": "2017",
+  "coverPath": "covers/book/27118271.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s29537050.jpg",
+  "doubanUrl": "https://book.douban.com/subject/27118271/",
+  "detailUrl": "/book/27118271",
+  "listSummary": "陆烨华 / 新星出版社 / 2017-10 / 36.00元",
+  "rating": 5,
+  "markedAt": "2017-10-12",
+  "estimatedMarkedAtRange": null,
+  "comment": "「……不过最近有不少有才华长得也好看的作者冒出来，我对未来还是很有信心的。」 —— 赵知奇",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "今夜宜有彩虹"
+    },
+    {
+      "label": "作者",
+      "value": "陆烨华"
+    },
+    {
+      "label": "出版社",
+      "value": "新星出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2017-10"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787513328173"
+    },
+    {
+      "label": "页数",
+      "value": "312"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "36.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "午夜文库·原创系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/27118271/"
+    }
+  ]
+}

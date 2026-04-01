@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "4884157",
+  "title": "洛克先生Mr.Rock演唱會Live紀實",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/music/4884157.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4714799.jpg",
+  "doubanUrl": "https://music.douban.com/subject/4884157/",
+  "detailUrl": "/music/4884157",
+  "listSummary": "蕭敬騰 / 2010-07-05 / 专辑 / DVD / 流行",
+  "rating": 5,
+  "markedAt": "2010-07-18",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "洛克先生Mr.Rock演唱會Live紀實"
+    },
+    {
+      "label": "表演者",
+      "value": "蕭敬騰"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "DVD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2010-07-05"
+    },
+    {
+      "label": "出版者",
+      "value": "華納唱片"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "5052498136520"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/4884157/"
+    }
+  ]
+}

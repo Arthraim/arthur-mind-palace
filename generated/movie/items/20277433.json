@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "20277433",
+  "title": "焦点 Focus",
+  "originalTitle": "(2015)",
+  "year": "2015",
+  "coverPath": "covers/movie/20277433.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2228702598.webp",
+  "doubanUrl": "https://movie.douban.com/subject/20277433/",
+  "detailUrl": "/movie/20277433",
+  "listSummary": "2015-02-27(美国) / 威尔·史密斯 / 玛格特·罗比 / 阿德里安·马丁斯 / 杰拉尔德·麦克雷尼 / 罗德里戈·桑托罗 / 黄荣亮 / 布雷南·布朗 / 罗伯特·泰勒 / 格里夫·弗斯特 / 斯蒂芬妮·奥诺雷 / 美国 / focusmovie.com / 格伦·费卡拉 / 约翰·里夸 / 105分钟 / 焦点 / 剧情 / 喜剧 / 犯罪 / 格伦·费卡拉 Glenn Ficarra / 约翰·里夸 John Requa / 英语",
+  "rating": 3,
+  "markedAt": "2023-07-08",
+  "estimatedMarkedAtRange": null,
+  "comment": "诺基亚win phone植入广告勾起很多回忆，三年后的剧情差的离谱",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "焦点 Focus"
+    },
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "导演",
+      "value": "格伦·费卡拉 / 约翰·里夸"
+    },
+    {
+      "label": "编剧",
+      "value": "格伦·费卡拉 / 约翰·里夸"
+    },
+    {
+      "label": "主演",
+      "value": "威尔·史密斯 / 玛格特·罗比 / 阿德里安·马丁斯 / 杰拉尔德·麦克雷尼 / 罗德里戈·桑托罗 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-02-27(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "105分钟"
+    },
+    {
+      "label": "又名",
+      "value": "决胜焦点(台) / 千骗万化 (港)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2381941"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/20277433/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2381941/"
+    }
+  ]
+}

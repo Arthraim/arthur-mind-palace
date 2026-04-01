@@ -1,0 +1,72 @@
+{
+  "kind": "music",
+  "sourceId": "1401853",
+  "title": "七里香",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/music/1401853.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3737076.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1401853/",
+  "detailUrl": "/music/1401853",
+  "listSummary": "周杰伦 / 2004 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2010-10-26",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "七里香"
+    },
+    {
+      "label": "又名",
+      "value": "Common Jasmin Orange"
+    },
+    {
+      "label": "表演者",
+      "value": "周杰伦"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2004"
+    },
+    {
+      "label": "出版者",
+      "value": "上海声像出版社"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "9787799415932"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNE040444800"
+    },
+    {
+      "label": "其他版本",
+      "value": "七里香 （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1401853/"
+    }
+  ]
+}

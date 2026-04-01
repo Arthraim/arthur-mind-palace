@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "1780253",
+  "title": "亡者永生",
+  "originalTitle": null,
+  "year": "2006",
+  "coverPath": "covers/book/1780253.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s1840760.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1780253/",
+  "detailUrl": "/book/1780253",
+  "listSummary": "那多 / 接力出版社 / 2006-5-1 / 19.9",
+  "rating": 4,
+  "markedAt": "2011-04-06",
+  "estimatedMarkedAtRange": null,
+  "comment": "填字游戏的密码真是雷死我了，敢再牵强一点么 － －",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "亡者永生"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "接力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2006-5-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787807322658"
+    },
+    {
+      "label": "页数",
+      "value": "275"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "19.9"
+    },
+    {
+      "label": "丛书",
+      "value": "那多灵异手记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1780253/"
+    }
+  ]
+}

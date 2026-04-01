@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "3092491",
+  "title": "萧敬腾同名专辑",
+  "originalTitle": null,
+  "year": "2008",
+  "coverPath": "covers/music/3092491.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3132122.jpg",
+  "doubanUrl": "https://music.douban.com/subject/3092491/",
+  "detailUrl": "/music/3092491",
+  "listSummary": "萧敬腾 / 2008-06-16 / Import / CD / 流行",
+  "rating": 5,
+  "markedAt": "2009-12-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "萧敬腾同名专辑"
+    },
+    {
+      "label": "表演者",
+      "value": "萧敬腾"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "Import"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2008-06-16"
+    },
+    {
+      "label": "出版者",
+      "value": "華納國際音樂股份有限公司"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "5051442887327"
+    },
+    {
+      "label": "其他版本",
+      "value": "萧敬腾同名专辑 （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/3092491/"
+    }
+  ]
+}

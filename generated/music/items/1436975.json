@@ -1,0 +1,68 @@
+{
+  "kind": "music",
+  "sourceId": "1436975",
+  "title": "十一月的萧邦",
+  "originalTitle": null,
+  "year": "2005",
+  "coverPath": "covers/music/1436975.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1456874.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1436975/",
+  "detailUrl": "/music/1436975",
+  "listSummary": "周杰伦 / 2005-11-01 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2010-10-26",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "十一月的萧邦"
+    },
+    {
+      "label": "又名",
+      "value": "11月的蕭邦 / 11月的萧邦 / 十一月的肖邦 / 11月的肖邦 / November's Chopin"
+    },
+    {
+      "label": "表演者",
+      "value": "周杰伦"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2005-11-01"
+    },
+    {
+      "label": "出版者",
+      "value": "上海声像出版社"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "9787799420561"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNE040547400"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1436975/"
+    }
+  ]
+}

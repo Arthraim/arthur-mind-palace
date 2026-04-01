@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1291841",
+  "title": "教父 The Godfather",
+  "originalTitle": "(1972)",
+  "year": "1972",
+  "coverPath": "covers/movie/1291841.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1291841/",
+  "detailUrl": "/movie/1291841",
+  "listSummary": "1972-03-15(纽约首映) / 1972-03-24(美国) / 马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩 / 理查德·S·卡斯特尔诺 / 罗伯特·杜瓦尔 / 斯特林·海登 / 约翰·马利 / 理查德·康特 / 艾尔·勒提埃里 / 黛安·基顿 / 美国 / 弗朗西斯·福特·科波拉 / 175 分钟 / 教父 / 剧情 / 犯罪 / 马里奥·普佐 Mario Puzo / 弗朗西斯·福特·科波拉 Francis Ford Coppola / 英语 / 意大利语 / 拉丁语",
+  "rating": 5,
+  "markedAt": "2024-10-14",
+  "estimatedMarkedAtRange": null,
+  "comment": "意识到虽然当年看了n遍，甚至看了导演解说音轨，所有的删减都瞒不过我，但这确实是我2008年之后第一次完整的看一遍教父",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1972)"
+    },
+    {
+      "label": "Title",
+      "value": "教父 The Godfather"
+    },
+    {
+      "label": "Year",
+      "value": "1972"
+    },
+    {
+      "label": "导演",
+      "value": "弗朗西斯·福特·科波拉"
+    },
+    {
+      "label": "编剧",
+      "value": "马里奥·普佐 / 弗朗西斯·福特·科波拉"
+    },
+    {
+      "label": "主演",
+      "value": "马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩 / 理查德·S·卡斯特尔诺 / 罗伯特·杜瓦尔 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 意大利语 / 拉丁语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1972-03-15(纽约首映) / 1972-03-24(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "175 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Mario Puzo's The Godfather"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0068646"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1291841/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0068646/"
+    }
+  ]
+}

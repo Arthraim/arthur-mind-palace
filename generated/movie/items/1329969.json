@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1329969",
+  "title": "红楼梦",
+  "originalTitle": "(1962)",
+  "year": "1962",
+  "coverPath": "covers/movie/1329969.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2322451692.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1329969/",
+  "detailUrl": "/movie/1329969",
+  "listSummary": "1962(中国大陆制作) / 1978(中国大陆) / 徐玉兰 / 王文娟 / 吕瑞英 / 金采风 / 周宝奎 / 孟莉英 / 徐天红 / 陈兰芳 / 郑忠梅 / 唐月瑛 / 中国大陆 / 岑范 / 161分钟 / 剧情 / 爱情 / 古装 / 戏曲 / 徐进 Jin Xu / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2025-11-30",
+  "estimatedMarkedAtRange": null,
+  "comment": "好精彩的改编，详略得当，重心基本在两个人的感情线上，其他角色都被简化了。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1962)"
+    },
+    {
+      "label": "Title",
+      "value": "红楼梦"
+    },
+    {
+      "label": "Year",
+      "value": "1962"
+    },
+    {
+      "label": "导演",
+      "value": "岑范"
+    },
+    {
+      "label": "编剧",
+      "value": "徐进"
+    },
+    {
+      "label": "主演",
+      "value": "徐玉兰 / 王文娟 / 吕瑞英 / 金采风 / 周宝奎 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 古装 / 戏曲"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1962(中国大陆制作) / 1978(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "161分钟"
+    },
+    {
+      "label": "又名",
+      "value": "A Dream of Red Mansions"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0056078"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1329969/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0056078/"
+    }
+  ]
+}

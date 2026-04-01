@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1299687",
+  "title": "错位",
+  "originalTitle": "(1986)",
+  "year": "1986",
+  "coverPath": "covers/movie/1299687.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2247620315.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1299687/",
+  "detailUrl": "/movie/1299687",
+  "listSummary": "刘子枫 / 牟红 / 杨昆 / 孙飞虎 / 中国大陆 / 黄建新 / 85分钟 / 科幻 / 张敏 Min Zhang / 黄建新 Jianxin Huang / 汉语普通话 / 德语",
+  "rating": 4,
+  "markedAt": "2022-03-31",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1986)"
+    },
+    {
+      "label": "Title",
+      "value": "错位"
+    },
+    {
+      "label": "Year",
+      "value": "1986"
+    },
+    {
+      "label": "导演",
+      "value": "黄建新"
+    },
+    {
+      "label": "编剧",
+      "value": "张敏 / 黄建新"
+    },
+    {
+      "label": "主演",
+      "value": "刘子枫 / 牟红 / 杨昆 / 孙飞虎"
+    },
+    {
+      "label": "类型",
+      "value": "科幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 德语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1986"
+    },
+    {
+      "label": "片长",
+      "value": "85分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Dislocation"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0346810"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1299687/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0346810/"
+    }
+  ]
+}

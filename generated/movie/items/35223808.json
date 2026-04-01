@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "35223808",
+  "title": "盖比的娃娃屋 第一季 Gabby's Dollhouse Season 1",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/35223808.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2622809120.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35223808/",
+  "detailUrl": "/movie/35223808",
+  "listSummary": "2021-01-04(美国) / 多诺万·巴顿 / 美国 / 盖比的娃娃屋 / 盖比的娃娃屋 / 动画 / 奇幻 / 冒险 / 短片 / Traci Paige Johnson / Jennifer Twomey / 英语",
+  "rating": null,
+  "markedAt": "2023-09-17",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "盖比的娃娃屋 第一季 Gabby's Dollhouse Season 1"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "编剧",
+      "value": "Traci Paige Johnson / Jennifer Twomey"
+    },
+    {
+      "label": "主演",
+      "value": "Tucker Chandler / Juliet Donenfeld / Laila Lockhart Kraner / Maggie Lowe / 多诺万·巴顿"
+    },
+    {
+      "label": "类型",
+      "value": "动画 / 短片 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2021-01-04(美国)"
+    },
+    {
+      "label": "季数",
+      "value": "1"
+    },
+    {
+      "label": "集数",
+      "value": "12"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt9165438"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35223808/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt9165438/"
+    }
+  ]
+}

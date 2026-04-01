@@ -1,0 +1,56 @@
+{
+  "kind": "music",
+  "sourceId": "27042261",
+  "title": "五亿探长",
+  "originalTitle": null,
+  "year": "2017",
+  "coverPath": "covers/music/27042261.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29448261.jpg",
+  "doubanUrl": "https://music.douban.com/subject/27042261/",
+  "detailUrl": "/music/27042261",
+  "listSummary": "艾福杰尼 / 2017-05-11 / 专辑 / CD / 说唱",
+  "rating": 4,
+  "markedAt": "2023-08-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "五亿探长"
+    },
+    {
+      "label": "表演者",
+      "value": "艾福杰尼"
+    },
+    {
+      "label": "流派",
+      "value": "说唱"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2017-05-11"
+    },
+    {
+      "label": "出版者",
+      "value": "发现音乐"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/27042261/"
+    }
+  ]
+}

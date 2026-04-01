@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26100958",
+  "title": "复仇者联盟4：终局之战 Avengers: Endgame",
+  "originalTitle": "(2019)",
+  "year": "2019",
+  "coverPath": "covers/movie/26100958.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550755859.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26100958/",
+  "detailUrl": "/movie/26100958",
+  "listSummary": "2019-04-24(中国大陆) / 2019-04-26(美国) / 小罗伯特·唐尼 / 克里斯·埃文斯 / 克里斯·海姆斯沃斯 / 马克·鲁法洛 / 斯嘉丽·约翰逊 / 杰瑞米·雷纳 / 乔什·布洛林 / 保罗·路德 / 凯伦·吉兰 / 唐·钱德尔 / 美国 / www.marvel.com/movies/avengers-endgame / 安东尼·罗素 / 乔·罗素 / 181分钟 / 复仇者联盟4：终局之战 / 剧情 / 动作 / 科幻 / 奇幻 / 冒险 / 克里斯托弗·马库斯 Christopher Markus / 斯蒂芬·麦克菲利 Stephen McFeely / 斯坦·李 Stan Lee / 杰克·科比 Jack Kirby / 吉姆·斯特林 Jim Starlin / 英语 / 日语 / 科萨语",
+  "rating": 5,
+  "markedAt": "2019-05-05",
+  "estimatedMarkedAtRange": null,
+  "comment": "漫威nb…… 10年布局最完美的句号。穿越不但服务了故事走向，还服务了粉丝情怀，有点东西……",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2019)"
+    },
+    {
+      "label": "Title",
+      "value": "复仇者联盟4：终局之战 Avengers: Endgame"
+    },
+    {
+      "label": "Year",
+      "value": "2019"
+    },
+    {
+      "label": "导演",
+      "value": "安东尼·罗素 / 乔·罗素"
+    },
+    {
+      "label": "编剧",
+      "value": "克里斯托弗·马库斯 / 斯蒂芬·麦克菲利 / 斯坦·李 / 杰克·科比 / 吉姆·斯特林"
+    },
+    {
+      "label": "主演",
+      "value": "小罗伯特·唐尼 / 克里斯·埃文斯 / 克里斯·海姆斯沃斯 / 马克·鲁法洛 / 斯嘉丽·约翰逊 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 科幻 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 日语 / 科萨语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2019-04-24(中国大陆) / 2019-04-26(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "181分钟"
+    },
+    {
+      "label": "又名",
+      "value": "复仇者联盟3：无尽之战(下) / 复联4 / Avengers： Infinity War - Part II / The Avengers 3： Part 2 / The Avengers 4： Endgame / AVG4"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4154796"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26100958/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4154796/"
+    }
+  ]
+}

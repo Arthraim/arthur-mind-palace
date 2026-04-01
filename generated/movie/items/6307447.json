@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "6307447",
+  "title": "被解救的姜戈 Django Unchained",
+  "originalTitle": "(2012)",
+  "year": "2012",
+  "coverPath": "covers/movie/6307447.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.webp",
+  "doubanUrl": "https://movie.douban.com/subject/6307447/",
+  "detailUrl": "/movie/6307447",
+  "listSummary": "2012-12-25(美国) / 2013-05-12(中国大陆) / 杰米·福克斯 / 莱昂纳多·迪卡普里奥 / 克里斯托弗·瓦尔兹 / 塞缪尔·杰克逊 / 凯丽·华盛顿 / 沃尔顿·戈金斯 / 丹尼斯·克里斯托弗 / 乔纳·希尔 / 詹姆斯·瑞马尔 / 爱波·塔布琳 / 美国 / unchainedmovie.com / 昆汀·塔伦蒂诺 / 163分钟(中国大陆) / 165分钟(美国) / 被解救的姜戈 / 剧情 / 动作 / 西部 / 冒险 / 昆汀·塔伦蒂诺 Quentin Tarantino / 英语 / 法语 / 德语",
+  "rating": 5,
+  "markedAt": "2019-06-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "卧槽，昆汀真的爆炸！",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2012)"
+    },
+    {
+      "label": "Title",
+      "value": "被解救的姜戈 Django Unchained"
+    },
+    {
+      "label": "Year",
+      "value": "2012"
+    },
+    {
+      "label": "导演",
+      "value": "昆汀·塔伦蒂诺"
+    },
+    {
+      "label": "编剧",
+      "value": "昆汀·塔伦蒂诺"
+    },
+    {
+      "label": "主演",
+      "value": "杰米·福克斯 / 莱昂纳多·迪卡普里奥 / 克里斯托弗·瓦尔兹 / 塞缪尔·杰克逊 / 凯丽·华盛顿 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 西部 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 法语 / 德语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2013-05-12(中国大陆) / 2012-12-25(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "163分钟(中国大陆) / 165分钟(美国)"
+    },
+    {
+      "label": "又名",
+      "value": "被解放的姜戈 / 决杀令(台) / 黑杀令(港) / 被解放的迪亚戈 / 铁血枷锁 / 解放的詹哥 / 奔放的强哥 / 强哥好强"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1853728"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/6307447/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1853728/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35187381",
+  "title": "世间有她",
+  "originalTitle": "(2022)",
+  "year": "2022",
+  "coverPath": "covers/movie/35187381.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2878770125.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35187381/",
+  "detailUrl": "/movie/35187381",
+  "listSummary": "2022-09-09(中国大陆) / 周迅 / 郑秀文 / 易烊千玺 / 许娣 / 冯德伦 / 白客 / 黄米依 / 鲍起静 / 朱雅芬 / 苏小明 / 中国大陆 / 李少红 / 陈冲 / 张艾嘉 / 116分钟 / 剧情 / 张艾嘉 Sylvia Chang / 陈冲 Joan Chen / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2022-09-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "第一个及格",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2022)"
+    },
+    {
+      "label": "Title",
+      "value": "世间有她"
+    },
+    {
+      "label": "Year",
+      "value": "2022"
+    },
+    {
+      "label": "导演",
+      "value": "李少红 / 陈冲 / 张艾嘉"
+    },
+    {
+      "label": "编剧",
+      "value": "张艾嘉 / 陈冲"
+    },
+    {
+      "label": "主演",
+      "value": "周迅 / 郑秀文 / 易烊千玺 / 许娣 / 冯德伦 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2022-09-09(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "116分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Hero / HerStory"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt13611620"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35187381/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt13611620/"
+    }
+  ]
+}

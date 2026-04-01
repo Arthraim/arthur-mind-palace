@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1763385",
+  "title": "Kingdom Come",
+  "originalTitle": null,
+  "year": "1997",
+  "coverPath": "covers/book/1763385.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9063295.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1763385/",
+  "detailUrl": "/book/1763385",
+  "listSummary": "Mark Waid / DC Comics / 1997-10-1 / USD 14.99",
+  "rating": 5,
+  "markedAt": "2017-11-22",
+  "estimatedMarkedAtRange": null,
+  "comment": "知道是神作，但是结局………",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Kingdom Come"
+    },
+    {
+      "label": "作者",
+      "value": "Mark Waid"
+    },
+    {
+      "label": "出版社",
+      "value": "DC Comics"
+    },
+    {
+      "label": "出版年",
+      "value": "1997-10-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9781563893308"
+    },
+    {
+      "label": "页数",
+      "value": "232"
+    },
+    {
+      "label": "装帧",
+      "value": "Paperback"
+    },
+    {
+      "label": "定价",
+      "value": "USD 14.99"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1763385/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "25863940",
+  "title": "预告犯 予告犯",
+  "originalTitle": "(2015)",
+  "year": "2015",
+  "coverPath": "covers/movie/25863940.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2232713173.webp",
+  "doubanUrl": "https://movie.douban.com/subject/25863940/",
+  "detailUrl": "/movie/25863940",
+  "listSummary": "2015-06-06(日本) / 生田斗真 / 户田惠梨香 / 铃木亮平 / 荒川良良 / 滨田岳 / 宅间孝行 / 坂口健太郎 / 洼田正孝 / 小松菜奈 / 福原耕平 / 日本 / yokoku-han.jp / 中村义洋 / 119分钟(日本) / 预告犯 / 悬疑 / 林民夫 Tamio Hayashi / 筒井哲也 / 日语",
+  "rating": 3,
+  "markedAt": "2025-02-03",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "预告犯 予告犯"
+    },
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "导演",
+      "value": "中村义洋"
+    },
+    {
+      "label": "编剧",
+      "value": "林民夫 / 筒井哲也"
+    },
+    {
+      "label": "主演",
+      "value": "生田斗真 / 户田惠梨香 / 铃木亮平 / 荒川良良 / 滨田岳 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-06-06(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "119分钟(日本)"
+    },
+    {
+      "label": "又名",
+      "value": "Yokokuhan / Advanced Notice Criminal"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3952226"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/25863940/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3952226/"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kind": "music",
+  "sourceId": "34463658",
+  "title": "i,i",
+  "originalTitle": null,
+  "year": "2019",
+  "coverPath": "covers/music/34463658.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s33321101.jpg",
+  "doubanUrl": "https://music.douban.com/subject/34463658/",
+  "detailUrl": "/music/34463658",
+  "listSummary": "Bon Iver / 2019-8-30 / 专辑 / CD / 民谣",
+  "rating": 4,
+  "markedAt": "2026-03-10",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "i,i"
+    },
+    {
+      "label": "表演者",
+      "value": "Bon Iver"
+    },
+    {
+      "label": "流派",
+      "value": "民谣"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2019-8-30"
+    },
+    {
+      "label": "出版者",
+      "value": "Jagjaguwar"
+    },
+    {
+      "label": "条形码",
+      "value": "0656605235028"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/34463658/"
+    }
+  ]
+}

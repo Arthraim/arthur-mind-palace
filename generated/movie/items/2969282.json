@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "2969282",
+  "title": "七磅 Seven Pounds",
+  "originalTitle": "(2008)",
+  "year": "2008",
+  "coverPath": "covers/movie/2969282.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p729808513.webp",
+  "doubanUrl": "https://movie.douban.com/subject/2969282/",
+  "detailUrl": "/movie/2969282",
+  "listSummary": "2008-12-19(美国) / 威尔·史密斯 / 罗莎里奥·道森 / 伍迪·哈里森 / 迈克尔·伊雷 / 巴里·佩珀 / 艾尔皮迪娅·卡里洛 / 萝宾·李 / 乔·努内斯 / 比尔·斯米托洛维奇 / 蒂姆·科勒赫 / 美国 / 加布里埃莱·穆奇诺 / 123 分钟 / 七磅 / 剧情 / 格兰特·尼波特 Grant Nieporte / 英语 / 西班牙语",
+  "rating": 4,
+  "markedAt": "2023-07-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2008)"
+    },
+    {
+      "label": "Title",
+      "value": "七磅 Seven Pounds"
+    },
+    {
+      "label": "Year",
+      "value": "2008"
+    },
+    {
+      "label": "导演",
+      "value": "加布里埃莱·穆奇诺"
+    },
+    {
+      "label": "编剧",
+      "value": "格兰特·尼波特"
+    },
+    {
+      "label": "主演",
+      "value": "威尔·史密斯 / 罗莎里奥·道森 / 伍迪·哈里森 / 迈克尔·伊雷 / 巴里·佩珀 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2008-12-19(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "123 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "七生有幸(台) / 救人七命(港) / 七面人生 / 七重天"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0814314"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/2969282/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0814314/"
+    }
+  ]
+}

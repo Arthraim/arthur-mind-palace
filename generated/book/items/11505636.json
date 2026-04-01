@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "11505636",
+  "title": "旅行的艺术",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/11505636.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s11180156.jpg",
+  "doubanUrl": "https://book.douban.com/subject/11505636/",
+  "detailUrl": "/book/11505636",
+  "listSummary": "[英] 阿兰·德波顿 / 南治国、彭俊豪、何世原 / 上海译文出版社 / 2012-8 / 28.00元",
+  "rating": 5,
+  "markedAt": "2026-03-17",
+  "estimatedMarkedAtRange": null,
+  "comment": "喜欢作者的敏锐，和产生共鸣的部分。也有很多新收获，比如文字记录和独自在熟悉的地方旅行。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "旅行的艺术"
+    },
+    {
+      "label": "作者",
+      "value": "[英] 阿兰·德波顿"
+    },
+    {
+      "label": "译者",
+      "value": "南治国 / 彭俊豪 / 何世原"
+    },
+    {
+      "label": "出版社",
+      "value": "上海译文出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-8"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787532758814"
+    },
+    {
+      "label": "页数",
+      "value": "261"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "28.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "The Art of Travel"
+    },
+    {
+      "label": "丛书",
+      "value": "译文经典（精装本）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/11505636/"
+    }
+  ]
+}

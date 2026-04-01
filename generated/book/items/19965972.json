@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "19965972",
+  "title": "我读书少，你可别骗我",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/19965972.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s24428402.jpg",
+  "doubanUrl": "https://book.douban.com/subject/19965972/",
+  "detailUrl": "/book/19965972",
+  "listSummary": "马伯庸 / 浙江大学出版社 / 2012-12 / 29.80元",
+  "rating": 4,
+  "markedAt": "2013-12-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "四个故事都好神，很难说最喜欢哪一个。。。 第一个最棒吧。。。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "我读书少，你可别骗我"
+    },
+    {
+      "label": "作者",
+      "value": "马伯庸"
+    },
+    {
+      "label": "出版社",
+      "value": "浙江大学出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "蓝狮子"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-12"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787308106603"
+    },
+    {
+      "label": "页数",
+      "value": "266"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "29.80元"
+    },
+    {
+      "label": "丛书",
+      "value": "蓝耳短腔调"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/19965972/"
+    }
+  ]
+}

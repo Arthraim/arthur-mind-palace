@@ -1,0 +1,48 @@
+{
+  "kind": "book",
+  "sourceId": "3764948",
+  "title": "Google API大全",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/book/3764948.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s6029162.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3764948/",
+  "detailUrl": "/book/3764948",
+  "listSummary": "《Google API大全》编委会 编 / 2009-6 / 69.80元",
+  "rating": 5,
+  "markedAt": "2009-12-31",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Google API大全"
+    },
+    {
+      "label": "作者",
+      "value": "《Google API大全》编委会 编"
+    },
+    {
+      "label": "出版年",
+      "value": "2009-6"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787121089725"
+    },
+    {
+      "label": "页数",
+      "value": "564"
+    },
+    {
+      "label": "定价",
+      "value": "69.80元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3764948/"
+    }
+  ]
+}

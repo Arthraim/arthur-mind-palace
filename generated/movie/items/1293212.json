@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293212",
+  "title": "长大 Big",
+  "originalTitle": "(1988)",
+  "year": "1988",
+  "coverPath": "covers/movie/1293212.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554096254.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293212/",
+  "detailUrl": "/movie/1293212",
+  "listSummary": "1988-06-03(美国) / 汤姆·汉克斯 / 伊丽莎白·珀金斯 / 罗伯特·劳吉亚 / 约翰·赫德 / 杰瑞德·拉什顿 / 大卫·莫斯科 / 乔恩·拉威茨 / 梅塞迪丝·鲁尔 / 乔什·克拉克 / Oliver Block / 美国 / 潘妮·马歇尔 / 104 分钟 / 130分钟(加长版) / 长大 / 喜剧 / 爱情 / 奇幻 / 盖瑞·罗斯 Gary Ross / 安妮·斯皮尔伯格 Anne Spielberg / 英语",
+  "rating": 4,
+  "markedAt": "2021-05-24",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1988)"
+    },
+    {
+      "label": "Title",
+      "value": "长大 Big"
+    },
+    {
+      "label": "Year",
+      "value": "1988"
+    },
+    {
+      "label": "导演",
+      "value": "潘妮·马歇尔"
+    },
+    {
+      "label": "编剧",
+      "value": "盖瑞·罗斯 / 安妮·斯皮尔伯格"
+    },
+    {
+      "label": "主演",
+      "value": "汤姆·汉克斯 / 伊丽莎白·珀金斯 / 罗伯特·劳吉亚 / 约翰·赫德 / 杰瑞德·拉什顿 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 爱情 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1988-06-03(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "104 分钟 / 130分钟(加长版)"
+    },
+    {
+      "label": "又名",
+      "value": "飞越未来 / 飞进未来 / 飞向未来 / 飞越童真 / 嗨，我长大了 / 大人"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0094737"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293212/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0094737/"
+    }
+  ]
+}

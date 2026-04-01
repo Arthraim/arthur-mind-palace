@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "24734642",
+  "title": "敏感者",
+  "originalTitle": null,
+  "year": "2013",
+  "coverPath": "covers/music/24734642.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s26839539.jpg",
+  "doubanUrl": "https://music.douban.com/subject/24734642/",
+  "detailUrl": "/music/24734642",
+  "listSummary": "李代沫 / 2013-07-02 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2013-07-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "敏感者"
+    },
+    {
+      "label": "表演者",
+      "value": "李代沫"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2013-07-02"
+    },
+    {
+      "label": "出版者",
+      "value": "当然娱乐"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "9787798503487"
+    },
+    {
+      "label": "其他版本",
+      "value": "敏感者 （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/24734642/"
+    }
+  ]
+}

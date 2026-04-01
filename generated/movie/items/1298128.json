@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1298128",
+  "title": "西雅图未眠夜 Sleepless in Seattle",
+  "originalTitle": "(1993)",
+  "year": "1993",
+  "coverPath": "covers/movie/1298128.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480953026.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1298128/",
+  "detailUrl": "/movie/1298128",
+  "listSummary": "1993-06-25(美国) / 汤姆·汉克斯 / 梅格·瑞恩 / 罗斯·马林格 / 丽塔·威尔逊 / 维克多·加博 / 汤姆·里斯·法雷尔 / 凯莉·洛维 / 比尔·普尔曼 / 勒克朗谢·迪兰德 / 凯文·欧莫里森 / 美国 / 诺拉·艾芙隆 / 105分钟 / 西雅图未眠夜 / 喜剧 / 爱情 / 剧情 / 诺拉·艾芙隆 Nora Ephron / 杰夫·阿奇 Jeff Arch / 大卫·S·瓦德 David S. Ward / 英语",
+  "rating": 4,
+  "markedAt": "2021-06-05",
+  "estimatedMarkedAtRange": null,
+  "comment": "magic",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1993)"
+    },
+    {
+      "label": "Title",
+      "value": "西雅图未眠夜 Sleepless in Seattle"
+    },
+    {
+      "label": "Year",
+      "value": "1993"
+    },
+    {
+      "label": "导演",
+      "value": "诺拉·艾芙隆"
+    },
+    {
+      "label": "编剧",
+      "value": "诺拉·艾芙隆 / 杰夫·阿奇 / 大卫·S·瓦德"
+    },
+    {
+      "label": "主演",
+      "value": "汤姆·汉克斯 / 梅格·瑞恩 / 罗斯·马林格 / 丽塔·威尔逊 / 维克多·加博 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 爱情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1993-06-25(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "105分钟"
+    },
+    {
+      "label": "又名",
+      "value": "缘份的天空(港) / 西雅图夜未眠(台) / 西雅图不眠夜"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0108160"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1298128/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0108160/"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "35339729",
+  "title": "微信背后的产品观",
+  "originalTitle": null,
+  "year": "2021",
+  "coverPath": "covers/book/35339729.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33957064.jpg",
+  "doubanUrl": "https://book.douban.com/subject/35339729/",
+  "detailUrl": "/book/35339729",
+  "listSummary": "张小龙 / 电子工业出版社 / 2021-1 / 49",
+  "rating": 4,
+  "markedAt": "2021-01-30",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "微信背后的产品观"
+    },
+    {
+      "label": "作者",
+      "value": "张小龙"
+    },
+    {
+      "label": "出版社",
+      "value": "电子工业出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "有艺"
+    },
+    {
+      "label": "出版年",
+      "value": "2021-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787121402524"
+    },
+    {
+      "label": "页数",
+      "value": "160"
+    },
+    {
+      "label": "定价",
+      "value": "49"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/35339729/"
+    }
+  ]
+}

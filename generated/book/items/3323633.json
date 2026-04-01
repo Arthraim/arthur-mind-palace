@@ -1,0 +1,72 @@
+{
+  "kind": "book",
+  "sourceId": "3323633",
+  "title": "写给大家看的设计书（第3版）",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/book/3323633.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s23486434.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3323633/",
+  "detailUrl": "/book/3323633",
+  "listSummary": "[美] Robin Williams / 苏金国、刘亮 / 人民邮电出版社 / 2009-1 / 49.00元",
+  "rating": 3,
+  "markedAt": "2014-03-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "收获不多",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "写给大家看的设计书（第3版）"
+    },
+    {
+      "label": "作者",
+      "value": "[美] Robin Williams"
+    },
+    {
+      "label": "译者",
+      "value": "苏金国 / 刘亮"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "图灵教育"
+    },
+    {
+      "label": "出版年",
+      "value": "2009-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115188120"
+    },
+    {
+      "label": "页数",
+      "value": "210"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "49.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "The Non-Designer's Design Book"
+    },
+    {
+      "label": "丛书",
+      "value": "图灵交互设计丛书"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3323633/"
+    }
+  ]
+}

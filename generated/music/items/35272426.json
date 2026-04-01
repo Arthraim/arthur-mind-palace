@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "35272426",
+  "title": "法利勝神經",
+  "originalTitle": null,
+  "year": "2020",
+  "coverPath": "covers/music/35272426.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s33769140.jpg",
+  "doubanUrl": "https://music.douban.com/subject/35272426/",
+  "detailUrl": "/music/35272426",
+  "listSummary": "假假條 / 2020-12-01 / 专辑 / 数字(Digital) / 摇滚",
+  "rating": 4,
+  "markedAt": "2020-12-27",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "法利勝神經"
+    },
+    {
+      "label": "又名",
+      "value": "法利胜神经"
+    },
+    {
+      "label": "表演者",
+      "value": "假假條"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2020-12-01"
+    },
+    {
+      "label": "出版者",
+      "value": "摩登天空"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/35272426/"
+    }
+  ]
+}

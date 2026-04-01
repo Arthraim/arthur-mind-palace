@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "34852976",
+  "title": "乌海",
+  "originalTitle": "(2020)",
+  "year": "2020",
+  "coverPath": "covers/movie/34852976.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2708387245.webp",
+  "doubanUrl": "https://movie.douban.com/subject/34852976/",
+  "detailUrl": "/movie/34852976",
+  "listSummary": "2020-09-24(圣塞巴斯蒂安国际电影节) / 2021-10-29(中国大陆) / 黄轩 / 杨子姗 / 王韶华 / 王煜 / 黄雯 / 涂们 / 王超北 / 邹旭峰 / 中国大陆 / 周子阳 / 102分钟 / 剧情 / 爱情 / 悬疑 / 周子阳 Ziyang Zhou / 汉语普通话",
+  "rating": 2,
+  "markedAt": "2026-01-15",
+  "estimatedMarkedAtRange": null,
+  "comment": "每个角色都让人讨厌",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2020)"
+    },
+    {
+      "label": "Title",
+      "value": "乌海"
+    },
+    {
+      "label": "Year",
+      "value": "2020"
+    },
+    {
+      "label": "导演",
+      "value": "周子阳"
+    },
+    {
+      "label": "编剧",
+      "value": "周子阳"
+    },
+    {
+      "label": "主演",
+      "value": "黄轩 / 杨子姗 / 王韶华 / 王煜 / 黄雯 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 悬疑"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-10-29(中国大陆) / 2020-09-24(圣塞巴斯蒂安国际电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "102分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Wu Hai"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt10986342"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/34852976/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt10986342/"
+    }
+  ]
+}

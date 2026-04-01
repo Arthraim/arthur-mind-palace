@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "2038779",
+  "title": "版本控制之道",
+  "originalTitle": null,
+  "year": "2007",
+  "coverPath": "covers/book/2038779.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24951186.jpg",
+  "doubanUrl": "https://book.douban.com/subject/2038779/",
+  "detailUrl": "/book/2038779",
+  "listSummary": "(美)梅森(Mike Mason) / 陶文 / 电子工业出版社 / 2007-03-01 / 32",
+  "rating": 4,
+  "markedAt": "2009-08-18",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "版本控制之道"
+    },
+    {
+      "label": "作者",
+      "value": "(美)梅森(Mike Mason)"
+    },
+    {
+      "label": "译者",
+      "value": "陶文"
+    },
+    {
+      "label": "出版社",
+      "value": "电子工业出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2007-03-01"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787121037689"
+    },
+    {
+      "label": "页数",
+      "value": "231"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "32"
+    },
+    {
+      "label": "原作名",
+      "value": "Pragmatic Version Control Using Subversion"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/2038779/"
+    }
+  ]
+}

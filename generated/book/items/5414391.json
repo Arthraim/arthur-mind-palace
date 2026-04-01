@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "5414391",
+  "title": "寻路中国",
+  "originalTitle": null,
+  "year": "2011",
+  "coverPath": "covers/book/5414391.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4575849.jpg",
+  "doubanUrl": "https://book.douban.com/subject/5414391/",
+  "detailUrl": "/book/5414391",
+  "listSummary": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元",
+  "rating": 4,
+  "markedAt": "2012-12-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "刚开始看的时候，朋友问我：“为什么要看一个外国人写的在中国的旅程”。其实这本书真正的魅力恰恰在于此，你司空见惯的东西在外国人眼里是完全不一样的。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "寻路中国"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 彼得·海斯勒"
+    },
+    {
+      "label": "译者",
+      "value": "李雪顺"
+    },
+    {
+      "label": "出版社",
+      "value": "上海译文出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2011-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787532752805"
+    },
+    {
+      "label": "页数",
+      "value": "426"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "33.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Country Driving： A Journey Through China from Farm to Factory"
+    },
+    {
+      "label": "丛书",
+      "value": "译文纪实"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/5414391/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1292754",
+  "title": "007之杀人执照 Licence to Kill",
+  "originalTitle": "(1989)",
+  "year": "1989",
+  "coverPath": "covers/movie/1292754.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1019030573.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1292754/",
+  "detailUrl": "/movie/1292754",
+  "listSummary": "1989-07-14 / 提摩西·道尔顿 / 凯莉·洛维 / 罗伯特·达维 / 塔丽萨·索托 / 安东尼·泽比 / 弗兰克·麦克雷 / 埃沃雷特·麦克吉尔 / 韦恩·牛顿 / 本尼西奥·德尔·托罗 / 安东尼·斯塔尔克 / 英国 / 美国 / 约翰·格兰 / 133 分钟 / 007之杀人执照 / 动作 / 冒险 / 惊悚 / 迈克尔·G·威尔森 Michael G. Wilson / 理查德·麦鲍姆 Richard Maibaum / 伊恩·弗莱明 Ian Fleming / 英语 / 西班牙语",
+  "rating": 2,
+  "markedAt": "2025-02-11",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1989)"
+    },
+    {
+      "label": "Title",
+      "value": "007之杀人执照 Licence to Kill"
+    },
+    {
+      "label": "Year",
+      "value": "1989"
+    },
+    {
+      "label": "导演",
+      "value": "约翰·格兰"
+    },
+    {
+      "label": "编剧",
+      "value": "迈克尔·G·威尔森 / 理查德·麦鲍姆 / 伊恩·弗莱明"
+    },
+    {
+      "label": "主演",
+      "value": "提摩西·道尔顿 / 凯莉·洛维 / 罗伯特·达维 / 塔丽萨·索托 / 安东尼·泽比 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1989-07-14"
+    },
+    {
+      "label": "片长",
+      "value": "133 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "铁金刚勇战杀人狂魔 / 致命执照"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0097742"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1292754/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0097742/"
+    }
+  ]
+}

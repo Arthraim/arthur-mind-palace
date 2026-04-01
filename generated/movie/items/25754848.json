@@ -1,0 +1,84 @@
+{
+  "kind": "movie",
+  "sourceId": "25754848",
+  "title": "琅琊榜",
+  "originalTitle": "(2015)",
+  "year": "2015",
+  "coverPath": "covers/movie/25754848.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2271982968.webp",
+  "doubanUrl": "https://movie.douban.com/subject/25754848/",
+  "detailUrl": "/movie/25754848",
+  "listSummary": "2015-09-19(中国大陆) / 胡歌 / 刘涛 / 王凯 / 陈龙 / 黄维德 / 靳东 / 高鑫 / 张棪琰 / 张龄心 / 王鸥 / 中国大陆 / 孔笙 / 李雪 / 45分钟 / 剧情 / 古装 / 海宴 Yan Hai / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2025-06-08",
+  "estimatedMarkedAtRange": null,
+  "comment": "这个剧和甄嬛传比心机和权谋肯定是没法比，主打一个超级英雄复仇，只有睡着了才会被算计",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "琅琊榜"
+    },
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "导演",
+      "value": "孔笙 / 李雪"
+    },
+    {
+      "label": "编剧",
+      "value": "海宴"
+    },
+    {
+      "label": "主演",
+      "value": "胡歌 / 刘涛 / 王凯 / 陈龙 / 黄维德 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2015-09-19(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "54"
+    },
+    {
+      "label": "单集片长",
+      "value": "45分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Nirvana in Fire / List of Langya"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5141800"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/25754848/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5141800/"
+    }
+  ]
+}

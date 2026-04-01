@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "21371465",
+  "title": "沉默的羔羊",
+  "originalTitle": null,
+  "year": "2013",
+  "coverPath": "covers/book/21371465.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s25791504.jpg",
+  "doubanUrl": "https://book.douban.com/subject/21371465/",
+  "detailUrl": "/book/21371465",
+  "listSummary": "(美)托马斯•哈里斯 / 杨昊成 / 译林出版社 / 2013-1 / 26.80元",
+  "rating": 5,
+  "markedAt": "2013-09-01",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "沉默的羔羊"
+    },
+    {
+      "label": "作者",
+      "value": "(美)托马斯•哈里斯"
+    },
+    {
+      "label": "译者",
+      "value": "杨昊成"
+    },
+    {
+      "label": "出版社",
+      "value": "译林出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2013-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787544733670"
+    },
+    {
+      "label": "页数",
+      "value": "369"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "26.80元"
+    },
+    {
+      "label": "原作名",
+      "value": "The Silence of the Lambs"
+    },
+    {
+      "label": "丛书",
+      "value": "沉默的羔羊系列（2013年版）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/21371465/"
+    }
+  ]
+}

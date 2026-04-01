@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "10482130",
+  "title": "任天堂传奇",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/10482130.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s8908431.jpg",
+  "doubanUrl": "https://book.douban.com/subject/10482130/",
+  "detailUrl": "/book/10482130",
+  "listSummary": "[美]斯隆 / 张玳 / 人民邮电出版社 / 2012-3-12 / 39.00元",
+  "rating": 2,
+  "markedAt": "2012-10-30",
+  "estimatedMarkedAtRange": null,
+  "comment": "枯燥乏味，线索混乱。要不是对题材有兴趣，鬼才会找得到乐趣。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "任天堂传奇"
+    },
+    {
+      "label": "作者",
+      "value": "[美]斯隆"
+    },
+    {
+      "label": "译者",
+      "value": "张玳"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-3-12"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115271075"
+    },
+    {
+      "label": "页数",
+      "value": "209"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "39.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Playing to Wiin： Nintendo and the Video Game Industrys Greatest Comeback"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/10482130/"
+    }
+  ]
+}

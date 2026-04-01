@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1292225",
+  "title": "闪灵 The Shining",
+  "originalTitle": "(1980)",
+  "year": "1980",
+  "coverPath": "covers/movie/1292225.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928985187.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1292225/",
+  "detailUrl": "/movie/1292225",
+  "listSummary": "1980-05-23(美国点映) / 1980-06-13(美国) / 2026-01-30(中国大陆) / 杰克·尼科尔森 / 谢莉·杜瓦尔 / 丹尼·劳埃德 / 斯加特曼·克罗索斯 / 巴瑞·尼尔森 / 菲利普·斯通 / 乔·托克尔 / 安妮·杰克逊 / 托尼·伯顿 / 薇薇安·库布里克 / 英国 / 美国 / 斯坦利·库布里克 / 119分钟(欧洲版) / 144分钟(北美版) / 146分钟(初始版) / 闪灵 / 恐怖 / 斯坦利·库布里克 Stanley Kubrick / 黛安·约翰逊 Diane Johnson / 斯蒂芬·金 Stephen King / 英语",
+  "rating": 3,
+  "markedAt": "2018-03-04",
+  "estimatedMarkedAtRange": null,
+  "comment": "最近神经强壮来还了多年老债。都说经典都说好我咋看不懂呢… 最后20分钟坐定打算被重敲一记闷棍，结果啥也没发生……",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1980)"
+    },
+    {
+      "label": "Title",
+      "value": "闪灵 The Shining"
+    },
+    {
+      "label": "Year",
+      "value": "1980"
+    },
+    {
+      "label": "导演",
+      "value": "斯坦利·库布里克"
+    },
+    {
+      "label": "编剧",
+      "value": "斯坦利·库布里克 / 黛安·约翰逊 / 斯蒂芬·金"
+    },
+    {
+      "label": "主演",
+      "value": "杰克·尼科尔森 / 谢莉·杜瓦尔 / 丹尼·劳埃德 / 斯加特曼·克罗索斯 / 巴瑞·尼尔森 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "恐怖"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2026-01-30(中国大陆) / 1980-05-23(美国点映) / 1980-06-13(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "119分钟(欧洲版) / 144分钟(北美版) / 146分钟(初始版)"
+    },
+    {
+      "label": "又名",
+      "value": "鬼店(台) / 幻觉 / 幽光"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0081505"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1292225/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0081505/"
+    }
+  ]
+}

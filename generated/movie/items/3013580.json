@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "3013580",
+  "title": "意外",
+  "originalTitle": "(2009)",
+  "year": "2009",
+  "coverPath": "covers/movie/3013580.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2196915554.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3013580/",
+  "detailUrl": "/movie/3013580",
+  "listSummary": "2009-09-05(威尼斯电影节) / 2009-09-24(中国香港) / 古天乐 / 任贤齐 / 冯淬帆 / 叶璇 / 林雪 / 陈望华 / 韩雨芹 / 刘宗基 / 吕少坤 / 明德丰 / 中国香港 / www.mediaasia.com/accident / 郑保瑞 / 87分钟 / 意外 / 悬疑 / 惊悚 / 司徒锦源 Kam-Yuen Szeto / 邓力奇 Nicholl Tang / 粤语",
+  "rating": 4,
+  "markedAt": "2023-04-05",
+  "estimatedMarkedAtRange": null,
+  "comment": "男主又造出了另一个男主",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2009)"
+    },
+    {
+      "label": "Title",
+      "value": "意外"
+    },
+    {
+      "label": "Year",
+      "value": "2009"
+    },
+    {
+      "label": "导演",
+      "value": "郑保瑞"
+    },
+    {
+      "label": "编剧",
+      "value": "司徒锦源 / 邓力奇"
+    },
+    {
+      "label": "主演",
+      "value": "古天乐 / 任贤齐 / 冯淬帆 / 叶璇 / 林雪 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "粤语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2009-09-24(中国香港) / 2009-09-05(威尼斯电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "87分钟"
+    },
+    {
+      "label": "又名",
+      "value": "暗杀 / Assassins / Accident"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1202514"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3013580/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1202514/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1302425",
+  "title": "喜剧之王 喜劇之王",
+  "originalTitle": "(1999)",
+  "year": "1999",
+  "coverPath": "covers/movie/1302425.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917778954.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1302425/",
+  "detailUrl": "/movie/1302425",
+  "listSummary": "1999-02-13(中国香港) / 周星驰 / 张柏芝 / 莫文蔚 / 吴孟达 / 林子善 / 田启文 / 李兆基 / 成龙 / 李思捷 / 郑文辉 / 中国香港 / 周星驰 / 李力持 / 89分钟 / 喜剧之王 / 喜剧 / 剧情 / 爱情 / 曾谨昌 Kan-Cheung Tsang / 周星驰 Stephen Chow / 李敏 Erica Lee / 郑文辉 Man-Fai Cheng / 冯勉恒 Min Hun Fung / 梁嘉杰 Ka-Kit Leung / 粤语",
+  "rating": 4,
+  "markedAt": "2022-09-13",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1999)"
+    },
+    {
+      "label": "Title",
+      "value": "喜剧之王 喜劇之王"
+    },
+    {
+      "label": "Year",
+      "value": "1999"
+    },
+    {
+      "label": "导演",
+      "value": "周星驰 / 李力持"
+    },
+    {
+      "label": "编剧",
+      "value": "曾瑾昌 / 周星驰 / 李敏 / 郑文辉 / 冯勉恒 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "周星驰 / 张柏芝 / 莫文蔚 / 吴孟达 / 林子善 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 爱情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "粤语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1999-02-13(中国香港)"
+    },
+    {
+      "label": "片长",
+      "value": "89分钟"
+    },
+    {
+      "label": "又名",
+      "value": "King of Comedy"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0188766"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1302425/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0188766/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "34841067",
+  "title": "你好，李焕英",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/34841067.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629056068.webp",
+  "doubanUrl": "https://movie.douban.com/subject/34841067/",
+  "detailUrl": "/movie/34841067",
+  "listSummary": "2021-02-12(中国大陆) / 贾玲 / 张小斐 / 沈腾 / 陈赫 / 刘佳 / 丁嘉丽 / 王琳 / 杜源 / 何翯 / 何欢 / 中国大陆 / 贾玲 / 128分钟 / 剧情 / 喜剧 / 奇幻 / 贾玲 Ling Jia / 孙集斌 Jibin Sun / 王宇 Yu Wang / 刘宏禄 Honglu Liu / 卜钰 Yu Bu / 郭宇鹏 Yupeng Guo / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2021-02-15",
+  "estimatedMarkedAtRange": null,
+  "comment": "是个好笑好哭的（穿越？反转？）好故事，倒是后面无所不用其极的大段煽情反而滋生了我「不要操纵我情绪」的反感变得没啥大感觉了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "你好，李焕英"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "导演",
+      "value": "贾玲"
+    },
+    {
+      "label": "编剧",
+      "value": "贾玲 / 孙集斌 / 王宇 / 刘宏禄 / 卜钰 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "贾玲 / 张小斐 / 沈腾 / 陈赫 / 刘佳 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-02-12(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "128分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Hi, Mom / こんにちは、私のお母さん"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt13364790"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/34841067/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt13364790/"
+    }
+  ]
+}

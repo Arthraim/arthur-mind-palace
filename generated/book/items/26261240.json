@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "26261240",
+  "title": "古董局中局 3",
+  "originalTitle": null,
+  "year": "2014",
+  "coverPath": "covers/book/26261240.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s27963366.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26261240/",
+  "detailUrl": "/book/26261240",
+  "listSummary": "马伯庸 / 北京联合出版公司 / 2014-12 / 32.00元",
+  "rating": 5,
+  "markedAt": "2015-02-13",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "古董局中局 3"
+    },
+    {
+      "label": "作者",
+      "value": "马伯庸"
+    },
+    {
+      "label": "出版社",
+      "value": "北京联合出版公司"
+    },
+    {
+      "label": "出品方",
+      "value": "读客文化"
+    },
+    {
+      "label": "出版年",
+      "value": "2014-12"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787550235861"
+    },
+    {
+      "label": "页数",
+      "value": "304"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "32.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "古董局中局"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26261240/"
+    }
+  ]
+}

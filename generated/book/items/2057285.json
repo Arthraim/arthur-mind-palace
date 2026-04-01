@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "2057285",
+  "title": "盗墓笔记2",
+  "originalTitle": null,
+  "year": "2007",
+  "coverPath": "covers/book/2057285.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34564228.jpg",
+  "doubanUrl": "https://book.douban.com/subject/2057285/",
+  "detailUrl": "/book/2057285",
+  "listSummary": "南派三叔 / 中国友谊出版公司 / 2007-4 / 26.80元",
+  "rating": 4,
+  "markedAt": "2015-03-13",
+  "estimatedMarkedAtRange": null,
+  "comment": "这一部还挺靠谱的嘛",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "盗墓笔记2"
+    },
+    {
+      "label": "作者",
+      "value": "南派三叔"
+    },
+    {
+      "label": "出版社",
+      "value": "中国友谊出版公司"
+    },
+    {
+      "label": "出品方",
+      "value": "磨铁图书"
+    },
+    {
+      "label": "出版年",
+      "value": "2007-4"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787505723306"
+    },
+    {
+      "label": "页数",
+      "value": "264"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "26.80元"
+    },
+    {
+      "label": "丛书",
+      "value": "盗墓笔记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/2057285/"
+    }
+  ]
+}

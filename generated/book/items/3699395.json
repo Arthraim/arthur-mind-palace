@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "3699395",
+  "title": "观止",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/book/3699395.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3869235.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3699395/",
+  "detailUrl": "/book/3699395",
+  "listSummary": "[美] G·Pascal Zachary / 张银奎 / 机械工业出版社 / 2009 / 42.00元",
+  "rating": 5,
+  "markedAt": "2009-08-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "1个多亿，250多人，1500多天，开发了我们死都不能离开的操作系统",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "观止"
+    },
+    {
+      "label": "作者",
+      "value": "[美] G·Pascal Zachary"
+    },
+    {
+      "label": "译者",
+      "value": "张银奎"
+    },
+    {
+      "label": "出版社",
+      "value": "机械工业出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2009"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787111265306"
+    },
+    {
+      "label": "页数",
+      "value": "203"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "42.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Showstopper!： The Breakneck Race to Create Windows NT and the Next Generation at Microsoft"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3699395/"
+    }
+  ]
+}

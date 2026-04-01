@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1172442",
+  "title": "Producter 让产品从0到1",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/book/1172442.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29249433.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1172442/",
+  "detailUrl": "/book/1172442",
+  "listSummary": "周楷雯 / 人民邮电出版社 / 2016-12-25 / CNY 69.00",
+  "rating": 2,
+  "markedAt": "2017-02-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "很宽很浅，适合一点概念都没有的读者",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Producter 让产品从0到1"
+    },
+    {
+      "label": "作者",
+      "value": "周楷雯"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2016-12-25"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115439208"
+    },
+    {
+      "label": "页数",
+      "value": "316"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "CNY 69.00"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1172442/"
+    }
+  ]
+}

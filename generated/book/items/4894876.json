@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "4894876",
+  "title": "小王子",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/book/4894876.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24590106.jpg",
+  "doubanUrl": "https://book.douban.com/subject/4894876/",
+  "detailUrl": "/book/4894876",
+  "listSummary": "安东·圣埃克苏佩里 / 王之光 / 时代文艺出版社 / 2010年7月1日 / 29.80",
+  "rating": 5,
+  "markedAt": "2013-09-08",
+  "estimatedMarkedAtRange": null,
+  "comment": "更喜欢第一人称的灰行员",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "小王子"
+    },
+    {
+      "label": "作者",
+      "value": "安东·圣埃克苏佩里"
+    },
+    {
+      "label": "译者",
+      "value": "王之光"
+    },
+    {
+      "label": "出版社",
+      "value": "时代文艺出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2010年7月1日"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787538730586"
+    },
+    {
+      "label": "页数",
+      "value": "238"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "29.80"
+    },
+    {
+      "label": "原作名",
+      "value": "Le Petit Prince"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/4894876/"
+    }
+  ]
+}

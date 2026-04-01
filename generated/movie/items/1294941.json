@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1294941",
+  "title": "大白鲨 Jaws",
+  "originalTitle": "(1975)",
+  "year": "1975",
+  "coverPath": "covers/movie/1294941.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455723402.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1294941/",
+  "detailUrl": "/movie/1294941",
+  "listSummary": "1975-06-20 / 罗伊·谢德 / 罗伯特·肖 / 理查德·德莱福斯 / 洛兰·加里 / 莫瑞·汉密尔顿 / 卡尔·哥特列布 / 杰弗瑞·克莱默 / 苏珊·巴克林尼 / 乔纳森·菲利 / 泰迪·格鲁斯曼 / 美国 / 史蒂文·斯皮尔伯格 / 124 分钟 / 130分钟(美国电视版) / 大白鲨 / 剧情 / 惊悚 / 冒险 / 彼得·本奇利 Peter Benchley / 卡尔·哥特列布 Carl Gottlieb / 英语",
+  "rating": 4,
+  "markedAt": "2024-07-13",
+  "estimatedMarkedAtRange": null,
+  "comment": "太有意思了，所有抓鱼的细节",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1975)"
+    },
+    {
+      "label": "Title",
+      "value": "大白鲨 Jaws"
+    },
+    {
+      "label": "Year",
+      "value": "1975"
+    },
+    {
+      "label": "导演",
+      "value": "史蒂文·斯皮尔伯格"
+    },
+    {
+      "label": "编剧",
+      "value": "彼得·本奇利 / 卡尔·哥特列布"
+    },
+    {
+      "label": "主演",
+      "value": "罗伊·谢德 / 罗伯特·肖 / 理查德·德莱福斯 / 洛兰·加里 / 莫瑞·汉密尔顿 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1975-06-20"
+    },
+    {
+      "label": "片长",
+      "value": "124 分钟 / 130分钟(美国电视版)"
+    },
+    {
+      "label": "又名",
+      "value": "Stillness in the Water / Hajen"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0073195"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1294941/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0073195/"
+    }
+  ]
+}

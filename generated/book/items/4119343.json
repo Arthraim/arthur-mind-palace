@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "4119343",
+  "title": "Blackest Night",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/book/4119343.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s4041071.jpg",
+  "doubanUrl": "https://book.douban.com/subject/4119343/",
+  "detailUrl": "/book/4119343",
+  "listSummary": "[美] 乔夫·琼斯 / DC Comics / 2010-07-06 / USD 29.99",
+  "rating": 4,
+  "markedAt": "2016-06-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "额…… 补大事件…… 英雄太符号化了… 一点内心戏都没有………",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Blackest Night"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 乔夫·琼斯"
+    },
+    {
+      "label": "出版社",
+      "value": "DC Comics"
+    },
+    {
+      "label": "出版年",
+      "value": "2010-07-06"
+    },
+    {
+      "label": "ISBN",
+      "value": "9781401226930"
+    },
+    {
+      "label": "页数",
+      "value": "304"
+    },
+    {
+      "label": "装帧",
+      "value": "Hardcover"
+    },
+    {
+      "label": "定价",
+      "value": "USD 29.99"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/4119343/"
+    }
+  ]
+}

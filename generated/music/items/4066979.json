@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "4066979",
+  "title": "寂寞好了",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/music/4066979.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s4006907.jpg",
+  "doubanUrl": "https://music.douban.com/subject/4066979/",
+  "detailUrl": "/music/4066979",
+  "listSummary": "蔡旻佑 / 2009-10-09 / 专辑 / CD / 流行",
+  "rating": 3,
+  "markedAt": "2009-12-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "寂寞好了"
+    },
+    {
+      "label": "又名",
+      "value": "Loneliness"
+    },
+    {
+      "label": "表演者",
+      "value": "蔡旻佑"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2009-10-09"
+    },
+    {
+      "label": "出版者",
+      "value": "SONY MUSIC"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0886976050726"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/4066979/"
+    }
+  ]
+}

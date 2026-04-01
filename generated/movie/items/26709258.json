@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26709258",
+  "title": "罗小黑战记",
+  "originalTitle": "(2019)",
+  "year": "2019",
+  "coverPath": "covers/movie/26709258.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568288336.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26709258/",
+  "detailUrl": "/movie/26709258",
+  "listSummary": "2019-08-27(大规模点映) / 2019-09-07(中国大陆) / 山新 / 郝祥海 / 刘明月 / 曹云图 / 叮当 / 图特哈蒙 / 杨凝 / 陈思宇 / 李璐 / 邢子皓 / 中国大陆 / 木头 / 皇贞季 / 顾杰 / 101分钟 / 动作 / 动画 / 奇幻 / 木头 MTJJ / 彭可欣 Kexin Peng / 风息神泪 Fengxi Shen / 李冠萱 Guanxuan Li / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2020-10-25",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2019)"
+    },
+    {
+      "label": "Title",
+      "value": "罗小黑战记"
+    },
+    {
+      "label": "Year",
+      "value": "2019"
+    },
+    {
+      "label": "导演",
+      "value": "木头"
+    },
+    {
+      "label": "编剧",
+      "value": "木头 / 彭可欣 / 风息 / 李冠萱"
+    },
+    {
+      "label": "主演",
+      "value": "山新 / 郝祥海 / 刘明月 / 曹云图 / 叮当 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 动画 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2019-09-07(中国大陆) / 2019-08-27(大规模点映)"
+    },
+    {
+      "label": "片长",
+      "value": "101分钟"
+    },
+    {
+      "label": "又名",
+      "value": "罗小黑战记大电影 / The Legend of Hei / 羅小黒戦記 ぼくが選ぶ未来"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt10734928"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26709258/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt10734928/"
+    }
+  ]
+}

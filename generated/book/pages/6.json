@@ -1,0 +1,69 @@
+{
+  "kind": "book",
+  "page": 6,
+  "pageSize": 30,
+  "totalEntries": 154,
+  "totalPages": 6,
+  "entries": [
+    {
+      "kind": "book",
+      "sourceId": "1178238",
+      "title": "OOD启思录",
+      "originalTitle": null,
+      "year": "2004",
+      "coverPath": "covers/book/1178238.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9901115.jpg",
+      "detailUrl": "/book/1178238",
+      "listSummary": "里尔(Riel.A.J.) / 鲍志云 / 人民邮电出版社 / 2004年8月1日 / 42.0",
+      "rating": 5,
+      "markedAt": "2009-09-07",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
+    {
+      "kind": "book",
+      "sourceId": "2038779",
+      "title": "版本控制之道",
+      "originalTitle": null,
+      "year": "2007",
+      "coverPath": "covers/book/2038779.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24951186.jpg",
+      "detailUrl": "/book/2038779",
+      "listSummary": "(美)梅森(Mike Mason) / 陶文 / 电子工业出版社 / 2007-03-01 / 32",
+      "rating": 4,
+      "markedAt": "2009-08-18",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
+    {
+      "kind": "book",
+      "sourceId": "3699395",
+      "title": "观止",
+      "originalTitle": null,
+      "year": "2009",
+      "coverPath": "covers/book/3699395.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3869235.jpg",
+      "detailUrl": "/book/3699395",
+      "listSummary": "[美] G·Pascal Zachary / 张银奎 / 机械工业出版社 / 2009 / 42.00元",
+      "rating": 5,
+      "markedAt": "2009-08-09",
+      "estimatedMarkedAtRange": null,
+      "comment": "1个多亿，250多人，1500多天，开发了我们死都不能离开的操作系统"
+    },
+    {
+      "kind": "book",
+      "sourceId": "3662219",
+      "title": "Silverlight 2 完美征程",
+      "originalTitle": null,
+      "year": "2009",
+      "coverPath": "covers/book/3662219.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s6011059.jpg",
+      "detailUrl": "/book/3662219",
+      "listSummary": "李会军 / 2009-4 / 78.00元",
+      "rating": 5,
+      "markedAt": "2009-08-07",
+      "estimatedMarkedAtRange": null,
+      "comment": "的确是好书"
+    }
+  ]
+}

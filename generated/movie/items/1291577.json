@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1291577",
+  "title": "超人总动员 The Incredibles",
+  "originalTitle": "(2004)",
+  "year": "2004",
+  "coverPath": "covers/movie/1291577.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167017148.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1291577/",
+  "detailUrl": "/movie/1291577",
+  "listSummary": "2004-11-05(美国) / 2005-01-28(中国大陆) / 格雷格·T·尼尔森 / 霍利·亨特 / 塞缪尔·杰克逊 / 杰森·李 / 泰迪·牛顿 / 华莱士·肖恩 / 姜文 / 陈佩斯 / 徐熙娣 / 徐帆 / 美国 / 布拉德·伯德 / 115分钟 / 超人总动员 / 喜剧 / 动作 / 动画 / 冒险 / 布拉德·伯德 Brad Bird / 英语 / 西班牙语 / 法语",
+  "rating": 4,
+  "markedAt": "2018-11-17",
+  "estimatedMarkedAtRange": null,
+  "comment": "秋克好看！不过现在看明显画面不行，想想现在游戏实时演算画面都比那个时候渲染的要好了真实啧啧科技真香",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2004)"
+    },
+    {
+      "label": "Title",
+      "value": "超人总动员 The Incredibles"
+    },
+    {
+      "label": "Year",
+      "value": "2004"
+    },
+    {
+      "label": "导演",
+      "value": "布拉德·伯德"
+    },
+    {
+      "label": "编剧",
+      "value": "布拉德·伯德"
+    },
+    {
+      "label": "主演",
+      "value": "格雷格·T·尼尔森 / 霍利·亨特 / 塞缪尔·杰克逊 / 杰森·李 / 泰迪·牛顿 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动作 / 动画 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 西班牙语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2005-01-28(中国大陆) / 2004-11-05(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "115分钟"
+    },
+    {
+      "label": "又名",
+      "value": "超人特工队(港) / 超人特攻队(台) / 超人家族"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0317705"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1291577/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0317705/"
+    }
+  ]
+}

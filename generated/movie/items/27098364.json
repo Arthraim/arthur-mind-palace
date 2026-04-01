@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "27098364",
+  "title": "超人之死 The Death of Superman",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/27098364.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526823875.webp",
+  "doubanUrl": "https://movie.douban.com/subject/27098364/",
+  "detailUrl": "/movie/27098364",
+  "listSummary": "2018-07-24(美国) / 杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 罗莎里奥·道森 / 内森·菲利安 / 克里斯托弗·戈勒姆 / 马特·兰特尔 / 谢默·摩尔 / 尼扬比·尼扬比 / 杰森·奥玛拉 / 美国 / 杰克·卡斯托雷纳 / 山姆·刘 / 81分钟 / 超人之死 / 动作 / 科幻 / 动画 / 彼得·托马西 Peter Tomasi / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster / 露易丝·西蒙森 Louise Simonson / 英语",
+  "rating": 3,
+  "markedAt": "2018-11-21",
+  "estimatedMarkedAtRange": null,
+  "comment": "wb动画也学会各种摔来摔去的大场面了，但制作技术真是落后，3D警车跟头文字D年代的特效有点像……",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "超人之死 The Death of Superman"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "杰克·卡斯托雷纳 / 山姆·刘"
+    },
+    {
+      "label": "编剧",
+      "value": "彼得·托马西 / 杰里·西格尔 / 乔·舒斯特 / 露易丝·西蒙森"
+    },
+    {
+      "label": "主演",
+      "value": "杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 罗莎里奥·道森 / 内森·菲利安 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 动画"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-07-24(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "81分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7167658"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/27098364/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7167658/"
+    }
+  ]
+}

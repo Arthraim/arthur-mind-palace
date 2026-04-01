@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "19949020",
+  "title": "程序员的数学",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/19949020.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s20811702.jpg",
+  "doubanUrl": "https://book.douban.com/subject/19949020/",
+  "detailUrl": "/book/19949020",
+  "listSummary": "结城浩 / 管杰 / 人民邮电出版社 / 2012-10 / 49.00元",
+  "rating": 3,
+  "markedAt": "2013-02-23",
+  "estimatedMarkedAtRange": null,
+  "comment": "看了《数学之美》余温没退，看到别人在看这本于是好奇买了本瞄瞄",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "程序员的数学"
+    },
+    {
+      "label": "作者",
+      "value": "结城浩"
+    },
+    {
+      "label": "译者",
+      "value": "管杰"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "图灵教育"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-10"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115293688"
+    },
+    {
+      "label": "页数",
+      "value": "232"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "49.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "图灵程序设计丛书·程序员的数学"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/19949020/"
+    }
+  ]
+}

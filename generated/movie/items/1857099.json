@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1857099",
+  "title": "老无所依 No Country for Old Men",
+  "originalTitle": "(2007)",
+  "year": "2007",
+  "coverPath": "covers/movie/1857099.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p551171670.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1857099/",
+  "detailUrl": "/movie/1857099",
+  "listSummary": "2007-05-19(戛纳电影节) / 2007-11-21(美国) / 汤米·李·琼斯 / 哈维尔·巴登 / 乔什·布洛林 / 伍迪·哈里森 / 凯莉·麦克唐纳 / 加瑞特·迪拉胡特 / 泰丝·哈珀 / 巴里·柯宾 / 斯蒂芬·鲁特 / 贝丝·格兰特 / 美国 / 伊桑·科恩 / 乔尔·科恩 / 122 分钟 / 老无所依 / 犯罪 / 剧情 / 惊悚 / 乔尔·科恩 Joel Coen / 伊桑·科恩 Ethan Coen / 英语 / 西班牙语",
+  "rating": 4,
+  "markedAt": "2025-02-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "每一秒都在预期之外",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2007)"
+    },
+    {
+      "label": "Title",
+      "value": "老无所依 No Country for Old Men"
+    },
+    {
+      "label": "Year",
+      "value": "2007"
+    },
+    {
+      "label": "导演",
+      "value": "伊桑·科恩 / 乔尔·科恩"
+    },
+    {
+      "label": "编剧",
+      "value": "乔尔·科恩 / 伊桑·科恩"
+    },
+    {
+      "label": "主演",
+      "value": "汤米·李·琼斯 / 哈维尔·巴登 / 乔什·布洛林 / 伍迪·哈里森 / 凯莉·麦克唐纳 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2007-05-19(戛纳电影节) / 2007-11-21(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "122 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "2百万夺命奇案(港) / 险路勿近(台) / 人心不古"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0477348"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1857099/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0477348/"
+    }
+  ]
+}

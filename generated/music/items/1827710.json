@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "1827710",
+  "title": "ガーネット",
+  "originalTitle": null,
+  "year": "2006",
+  "coverPath": "covers/music/1827710.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s2892237.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1827710/",
+  "detailUrl": "/music/1827710",
+  "listSummary": "奥華子 / 2006-07-12 / Import / CD / 流行",
+  "rating": 5,
+  "markedAt": "2010-03-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "ガーネット"
+    },
+    {
+      "label": "又名",
+      "value": "ガーネット"
+    },
+    {
+      "label": "表演者",
+      "value": "奥華子"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "Import"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2006-07-12"
+    },
+    {
+      "label": "出版者",
+      "value": "Pony Canyon"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "4988013149045"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1827710/"
+    }
+  ]
+}

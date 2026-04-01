@@ -1,0 +1,26 @@
+{
+  "kind": "book",
+  "sourceId": "20427187",
+  "title": "未知图书",
+  "originalTitle": null,
+  "year": null,
+  "coverPath": "covers/book/20427187.gif",
+  "coverUrl": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+  "doubanUrl": "https://book.douban.com/subject/20427187/",
+  "detailUrl": "/book/20427187",
+  "listSummary": null,
+  "rating": null,
+  "markedAt": "",
+  "estimatedMarkedAtRange": {
+    "start": "2013-01-21",
+    "end": "2013-01-31"
+  },
+  "comment": null,
+  "metadata": [],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/20427187/"
+    }
+  ]
+}

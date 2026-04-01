@@ -1,0 +1,84 @@
+{
+  "kind": "movie",
+  "sourceId": "35427522",
+  "title": "漂流少年 Sonny Boy",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/35427522.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2659821253.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35427522/",
+  "detailUrl": "/movie/35427522",
+  "listSummary": "2021-07-15(日本) / 市川苍 / 大西沙织 / 悠木碧 / 小林千晃 / 后藤弘树 / 内藤有海 / 佐藤花 / 上田燿司 / 山本祥太 / 橘龙丸 / 日本 / anime.shochiku.co.jp/sonny-boy/ / 夏目真悟 / 斋藤圭一郎 / 北川朋哉 / 24分钟 / 漂流少年 / 科幻 / 动画 / 夏目真悟 Shingo Natsume / 日语",
+  "rating": 5,
+  "markedAt": "2022-06-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "漂流少年 Sonny Boy"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "导演",
+      "value": "夏目真悟 / 斋藤圭一郎"
+    },
+    {
+      "label": "编剧",
+      "value": "夏目真悟"
+    },
+    {
+      "label": "主演",
+      "value": "市川苍 / 大西沙织 / 悠木碧 / 小林千晃 / 后藤弘树 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "科幻 / 动画"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "首播",
+      "value": "2021-07-15(日本)"
+    },
+    {
+      "label": "集数",
+      "value": "12"
+    },
+    {
+      "label": "单集片长",
+      "value": "24分钟"
+    },
+    {
+      "label": "又名",
+      "value": "サニーボーイ"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt14642342"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35427522/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt14642342/"
+    }
+  ]
+}

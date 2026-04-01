@@ -1,0 +1,64 @@
+{
+  "kind": "movie",
+  "sourceId": "3124124",
+  "title": "代码奔腾 Code Rush",
+  "originalTitle": "(2000)",
+  "year": "2000",
+  "coverPath": "covers/movie/3124124.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512511705.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3124124/",
+  "detailUrl": "/movie/3124124",
+  "listSummary": "2000-04-25 / 美国 / 59分钟 / 代码奔腾 / 纪录片 / 英语",
+  "rating": 5,
+  "markedAt": "2020-01-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "第一次看的时候以为程序员都像朋克青年一样酷…… 哪知道后来入了行发现国内程序员成了格子衬衫双肩包形象……",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2000)"
+    },
+    {
+      "label": "Title",
+      "value": "代码奔腾 Code Rush"
+    },
+    {
+      "label": "Year",
+      "value": "2000"
+    },
+    {
+      "label": "类型",
+      "value": "纪录片"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2000-04-25"
+    },
+    {
+      "label": "片长",
+      "value": "59分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0499004"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3124124/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0499004/"
+    }
+  ]
+}

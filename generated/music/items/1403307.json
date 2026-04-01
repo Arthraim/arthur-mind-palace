@@ -1,0 +1,72 @@
+{
+  "kind": "music",
+  "sourceId": "1403307",
+  "title": "范特西",
+  "originalTitle": null,
+  "year": "2001",
+  "coverPath": "covers/music/1403307.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35019288.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1403307/",
+  "detailUrl": "/music/1403307",
+  "listSummary": "周杰伦 / 2001-09-14 / 专辑 / CD / 流行",
+  "rating": 5,
+  "markedAt": "2010-10-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "范特西"
+    },
+    {
+      "label": "又名",
+      "value": "Fantasy"
+    },
+    {
+      "label": "表演者",
+      "value": "周杰伦"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2001-09-14"
+    },
+    {
+      "label": "出版者",
+      "value": "BMG"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "9787799602868"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNA260150200"
+    },
+    {
+      "label": "其他版本",
+      "value": "Fantasy （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1403307/"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1026425",
+  "title": "三重门",
+  "originalTitle": null,
+  "year": "2000",
+  "coverPath": "covers/book/1026425.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s1024882.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1026425/",
+  "detailUrl": "/book/1026425",
+  "listSummary": "韩寒 / 作家出版社 / 2000-5 / 16.00",
+  "rating": 4,
+  "markedAt": "2016-01-17",
+  "estimatedMarkedAtRange": null,
+  "comment": "“尽管情节不曲折，但小说里的人生存着，活着，这就是生活。”",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "三重门"
+    },
+    {
+      "label": "作者",
+      "value": "韩寒"
+    },
+    {
+      "label": "出版社",
+      "value": "作家出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2000-5"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787506318884"
+    },
+    {
+      "label": "页数",
+      "value": "365"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "16.00"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1026425/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "34884712",
+  "title": "不要抬头 Don't Look Up",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/34884712.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2730833093.webp",
+  "doubanUrl": "https://movie.douban.com/subject/34884712/",
+  "detailUrl": "/movie/34884712",
+  "listSummary": "2021-12-10(美国) / 2021-12-24(美国网络) / 莱昂纳多·迪卡普里奥 / 詹妮弗·劳伦斯 / 梅丽尔·斯特里普 / 凯特·布兰切特 / 罗布·摩根 / 乔纳·希尔 / 马克·里朗斯 / 泰勒·派瑞 / 提莫西·查拉梅 / 朗·普尔曼 / 美国 / 亚当·麦凯 / 138分钟 / 不要抬头 / 喜剧 / 科幻 / 亚当·麦凯 Adam McKay / 戴维·西罗塔 David Sirota / 英语",
+  "rating": 4,
+  "markedAt": "2022-05-15",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "不要抬头 Don't Look Up"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "导演",
+      "value": "亚当·麦凯"
+    },
+    {
+      "label": "编剧",
+      "value": "亚当·麦凯 / 戴维·西罗塔"
+    },
+    {
+      "label": "主演",
+      "value": "莱昂纳多·迪卡普里奥 / 詹妮弗·劳伦斯 / 梅丽尔·斯特里普 / 凯特·布兰切特 / 罗布·摩根 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 科幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-12-10(美国) / 2021-12-24(美国网络)"
+    },
+    {
+      "label": "片长",
+      "value": "138分钟"
+    },
+    {
+      "label": "又名",
+      "value": "千万别抬头 / 别往天上看"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt11286314"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/34884712/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt11286314/"
+    }
+  ]
+}

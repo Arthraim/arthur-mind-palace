@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "2133433",
+  "title": "迷镇凶案 Suburbicon",
+  "originalTitle": "(2017)",
+  "year": "2017",
+  "coverPath": "covers/movie/2133433.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508546069.webp",
+  "doubanUrl": "https://movie.douban.com/subject/2133433/",
+  "detailUrl": "/movie/2133433",
+  "listSummary": "2017-09-02(威尼斯电影节) / 2017-10-27(美国) / 2018-01-12(中国大陆) / 马特·达蒙 / 朱丽安·摩尔 / 奥斯卡·伊萨克 / 诺亚·尤佩 / 托尼·埃斯皮诺萨 / 格伦·弗莱舍尔 / 梅根·弗格森 / 杰克·康利 / 迈克尔·D·科恩 / 黛安·德恩 / 美国 / 英国 / 乔治·克鲁尼 / 104分钟 / 迷镇凶案 / 喜剧 / 犯罪 / 悬疑 / 乔尔·科恩 Joel Coen / 伊桑·科恩 Ethan Coen / 乔治·克鲁尼 George Clooney / 格兰特·赫斯洛夫 Grant Heslov / 英语",
+  "rating": 3,
+  "markedAt": "2020-10-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "就很荒唐",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "迷镇凶案 Suburbicon"
+    },
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "导演",
+      "value": "乔治·克鲁尼"
+    },
+    {
+      "label": "编剧",
+      "value": "乔尔·科恩 / 伊桑·科恩 / 乔治·克鲁尼 / 格兰特·赫斯洛夫"
+    },
+    {
+      "label": "主演",
+      "value": "马特·达蒙 / 朱丽安·摩尔 / 奥斯卡·伊萨克 / 诺亚·尤佩 / 托尼·埃斯皮诺萨 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-01-12(中国大陆) / 2017-09-02(威尼斯电影节) / 2017-10-27(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "104分钟"
+    },
+    {
+      "label": "又名",
+      "value": "完美社区谋杀案(台) / 坚离地死人劫案(港) / 迷镇 / 小镇郊区"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0491175"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/2133433/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0491175/"
+    }
+  ]
+}

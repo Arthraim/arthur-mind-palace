@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "35085562",
+  "title": "skmt：坂本龙一是谁",
+  "originalTitle": null,
+  "year": "2020",
+  "coverPath": "covers/book/35085562.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33736796.jpg",
+  "doubanUrl": "https://book.douban.com/subject/35085562/",
+  "detailUrl": "/book/35085562",
+  "listSummary": "[日] 坂本龙一、[日] 后藤繁雄 / 许建明 / 重庆大学出版社 / 2020-11-15 / 69",
+  "rating": 4,
+  "markedAt": "2021-03-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "收获颇丰。不过这样的闲谈类的书有个问题就是坂本龙一很多聊过的东西可能也只是他那个时候一时兴起的东西。比起这样，作为一个开始试图了解他的人，还是更想知道沉淀在这个人身上最重要的那些东西，毕竟书名给我的预期也是这样的。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "skmt：坂本龙一是谁"
+    },
+    {
+      "label": "作者",
+      "value": "[日] 坂本龙一 / [日] 后藤繁雄"
+    },
+    {
+      "label": "译者",
+      "value": "许建明"
+    },
+    {
+      "label": "出版社",
+      "value": "重庆大学出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2020-11-15"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787568921725"
+    },
+    {
+      "label": "页数",
+      "value": "440"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "69"
+    },
+    {
+      "label": "丛书",
+      "value": "时尚文化丛书"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/35085562/"
+    }
+  ]
+}

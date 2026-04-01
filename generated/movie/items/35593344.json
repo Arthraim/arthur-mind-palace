@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "35593344",
+  "title": "奥本海默 Oppenheimer",
+  "originalTitle": "(2023)",
+  "year": "2023",
+  "coverPath": "covers/movie/35593344.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2876555451.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35593344/",
+  "detailUrl": "/movie/35593344",
+  "listSummary": "2023-07-21(美国) / 2023-08-30(中国大陆) / 2024-03-01(中国大陆重映) / 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙 / 小罗伯特·唐尼 / 弗洛伦丝·皮尤 / 阿尔登·埃伦瑞奇 / 大卫·克朗姆霍茨 / 乔什·哈奈特 / 杰森·克拉克 / 卡西·阿弗莱克 / 美国 / 英国 / www.oppenheimermovie.com / 克里斯托弗·诺兰 / 180分钟 / 奥本海默 / 剧情 / 传记 / 历史 / 克里斯托弗·诺兰 Christopher Nolan / 英语 / 德语 / 荷兰语 / 意大利语 / 意第绪语",
+  "rating": 5,
+  "markedAt": "2023-08-31",
+  "estimatedMarkedAtRange": null,
+  "comment": "只有我被诺兰骂哭了吗",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2023)"
+    },
+    {
+      "label": "Title",
+      "value": "奥本海默 Oppenheimer"
+    },
+    {
+      "label": "Year",
+      "value": "2023"
+    },
+    {
+      "label": "导演",
+      "value": "克里斯托弗·诺兰"
+    },
+    {
+      "label": "编剧",
+      "value": "克里斯托弗·诺兰"
+    },
+    {
+      "label": "主演",
+      "value": "基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙 / 小罗伯特·唐尼 / 弗洛伦丝·皮尤 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 传记 / 历史"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 德语 / 荷兰语 / 意大利语 / 意第绪语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2023-08-30(中国大陆) / 2024-03-01(中国大陆重映) / 2023-07-21(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "180分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt15398776"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35593344/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt15398776/"
+    }
+  ]
+}

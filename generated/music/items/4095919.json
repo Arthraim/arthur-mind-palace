@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "4095919",
+  "title": "LOVE Moments 愛的時刻",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/music/4095919.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4032066.jpg",
+  "doubanUrl": "https://music.douban.com/subject/4095919/",
+  "detailUrl": "/music/4095919",
+  "listSummary": "蕭敬騰 / 2009-11-13 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2009-11-16",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "LOVE Moments 愛的時刻"
+    },
+    {
+      "label": "又名",
+      "value": "LOVE Moments 爱的时刻"
+    },
+    {
+      "label": "表演者",
+      "value": "蕭敬騰"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2009-11-13"
+    },
+    {
+      "label": "出版者",
+      "value": "華納音樂"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "5051865669128"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/4095919/"
+    }
+  ]
+}

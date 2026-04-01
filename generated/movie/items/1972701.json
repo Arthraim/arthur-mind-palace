@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1972701",
+  "title": "糊涂侦探 Get Smart",
+  "originalTitle": "(2008)",
+  "year": "2008",
+  "coverPath": "covers/movie/1972701.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154983077.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1972701/",
+  "detailUrl": "/movie/1972701",
+  "listSummary": "2008-06-20(美国) / 史蒂夫·卡瑞尔 / 安妮·海瑟薇 / 道恩·强森 / 艾伦·阿金 / 特伦斯·斯坦普 / 泰瑞·克鲁斯 / 大卫·科恩查内 / 詹姆斯·肯恩 / 比尔·默瑞 / 帕特里克·沃伯顿 / 美国 / 彼得·西格尔 / 110分钟 / 糊涂侦探 / 动作 / 冒险 / 喜剧 / Tom J. Astle / Matt Ember / 英语 / 俄语",
+  "rating": 3,
+  "markedAt": "2024-01-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2008)"
+    },
+    {
+      "label": "Title",
+      "value": "糊涂侦探 Get Smart"
+    },
+    {
+      "label": "Year",
+      "value": "2008"
+    },
+    {
+      "label": "导演",
+      "value": "彼得·西格尔"
+    },
+    {
+      "label": "编剧",
+      "value": "汤姆·J·阿瑟尔 / 马特·恩贝尔"
+    },
+    {
+      "label": "主演",
+      "value": "史蒂夫·卡瑞尔 / 安妮·海瑟薇 / 道恩·强森 / 艾伦·阿金 / 特伦斯·斯坦普 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动作 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 俄语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2008-06-20(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "110分钟"
+    },
+    {
+      "label": "又名",
+      "value": "特务行不行 / 特务S唛"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0425061"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1972701/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0425061/"
+    }
+  ]
+}

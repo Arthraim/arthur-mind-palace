@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26303622",
+  "title": "大空头 The Big Short",
+  "originalTitle": "(2015)",
+  "year": "2015",
+  "coverPath": "covers/movie/26303622.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2283531871.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26303622/",
+  "detailUrl": "/movie/26303622",
+  "listSummary": "2015-11-12(AFI影展) / 2015-12-11(美国点映) / 2015-12-23(美国) / 克里斯蒂安·贝尔 / 史蒂夫·卡瑞尔 / 瑞恩·高斯林 / 布拉德·皮特 / 梅丽莎·里奥 / 约翰·马加罗 / 拉菲·斯波 / 杰瑞米·斯特朗 / 芬·维特洛克 / 玛丽莎·托梅 / 美国 / 亚当·麦凯 / 130分钟 / 大空头 / 剧情 / 传记 / 查尔斯·伦道夫 Charles Randolph / 亚当·麦凯 Adam McKay / 迈克尔·刘易斯 Michael Lewis / 英语",
+  "rating": 4,
+  "markedAt": "2020-04-06",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "大空头 The Big Short"
+    },
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "导演",
+      "value": "亚当·麦凯"
+    },
+    {
+      "label": "编剧",
+      "value": "查尔斯·伦道夫 / 亚当·麦凯 / 迈克尔·刘易斯"
+    },
+    {
+      "label": "主演",
+      "value": "克里斯蒂安·贝尔 / 史蒂夫·卡瑞尔 / 瑞恩·高斯林 / 布拉德·皮特 / 梅丽莎·里奥 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 传记"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-11-12(AFI影展) / 2015-12-11(美国点映) / 2015-12-23(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "130分钟"
+    },
+    {
+      "label": "又名",
+      "value": "大卖空(台) / 沽注一掷(港) / The Big Short： Inside the Doomsday Machine"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1596363"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26303622/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1596363/"
+    }
+  ]
+}

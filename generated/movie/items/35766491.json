@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35766491",
+  "title": "满江红",
+  "originalTitle": "(2023)",
+  "year": "2023",
+  "coverPath": "covers/movie/35766491.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887555071.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35766491/",
+  "detailUrl": "/movie/35766491",
+  "listSummary": "2023-01-22(中国大陆) / 沈腾 / 易烊千玺 / 张译 / 雷佳音 / 岳云鹏 / 王佳怡 / 潘斌龙 / 余皑磊 / 郭京飞 / 欧豪 / 中国大陆 / 张艺谋 / 159分钟 / 剧情 / 喜剧 / 悬疑 / 古装 / 陈宇 Yu Chen / 张艺谋 Yimou Zhang / 汉语普通话 / 中国手语",
+  "rating": 3,
+  "markedAt": "2023-12-16",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2023)"
+    },
+    {
+      "label": "Title",
+      "value": "满江红"
+    },
+    {
+      "label": "Year",
+      "value": "2023"
+    },
+    {
+      "label": "导演",
+      "value": "张艺谋"
+    },
+    {
+      "label": "编剧",
+      "value": "陈宇 / 张艺谋"
+    },
+    {
+      "label": "主演",
+      "value": "沈腾 / 易烊千玺 / 张译 / 雷佳音 / 岳云鹏 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧 / 悬疑 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 中国手语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2023-01-22(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "159分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Full River Red"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt21148018"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35766491/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt21148018/"
+    }
+  ]
+}

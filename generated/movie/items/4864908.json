@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "4864908",
+  "title": "影",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/4864908.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530513100.webp",
+  "doubanUrl": "https://movie.douban.com/subject/4864908/",
+  "detailUrl": "/movie/4864908",
+  "listSummary": "2018-09-06(威尼斯电影节) / 2018-09-30(中国大陆) / 邓超 / 孙俪 / 郑恺 / 王千源 / 王景春 / 胡军 / 关晓彤 / 吴磊 / 封柏 / 罗嘉孟 / 中国大陆 / 中国香港 / 张艺谋 / 116分钟 / 剧情 / 动作 / 武侠 / 古装 / 李威 Wei Li / 张艺谋 Yimou Zhang / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2018-12-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "说什么好呢，这影武者主意也太多了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "影"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "张艺谋"
+    },
+    {
+      "label": "编剧",
+      "value": "李威 / 张艺谋"
+    },
+    {
+      "label": "主演",
+      "value": "邓超 / 孙俪 / 郑恺 / 王千源 / 王景春 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 武侠 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆 / 中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-09-30(中国大陆) / 2018-09-06(威尼斯电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "116分钟"
+    },
+    {
+      "label": "又名",
+      "value": "三国·荆州 / 荆州保卫战 / Shadow"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6864046"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/4864908/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6864046/"
+    }
+  ]
+}

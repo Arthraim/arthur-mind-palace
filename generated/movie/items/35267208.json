@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35267208",
+  "title": "流浪地球2",
+  "originalTitle": "(2023)",
+  "year": "2023",
+  "coverPath": "covers/movie/35267208.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916835424.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35267208/",
+  "detailUrl": "/movie/35267208",
+  "listSummary": "2023-01-22(中国大陆) / 2024-09-15(中国大陆重映) / 吴京 / 刘德华 / 李雪健 / 沙溢 / 宁理 / 王智 / 朱颜曼滋 / 安地 / 王若熹 / 佟丽娅 / 中国大陆 / 郭帆 / 173分钟 / 科幻 / 冒险 / 灾难 / 杨治学 Zhixue Yang / 龚格尔 Geer Gong / 郭帆 Frant Gwo / 叶濡畅 Ruchang Ye / 汉语普通话 / 俄语 / 英语 / 印地语 / 法语 / 葡萄牙语 / 日语 / 韩语 / 泰语 / 南非荷兰语",
+  "rating": 3,
+  "markedAt": "2023-03-28",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2023)"
+    },
+    {
+      "label": "Title",
+      "value": "流浪地球2"
+    },
+    {
+      "label": "Year",
+      "value": "2023"
+    },
+    {
+      "label": "导演",
+      "value": "郭帆"
+    },
+    {
+      "label": "编剧",
+      "value": "杨治学 / 龚格尔 / 郭帆 / 叶濡畅"
+    },
+    {
+      "label": "主演",
+      "value": "吴京 / 刘德华 / 李雪健 / 沙溢 / 宁理 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "科幻 / 冒险 / 灾难"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 俄语 / 英语 / 印地语 / 法语 / 葡萄牙语 / 日语 / 韩语 / 泰语 / 南非荷兰语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2023-01-22(中国大陆) / 2024-09-15(中国大陆重映)"
+    },
+    {
+      "label": "片长",
+      "value": "173分钟"
+    },
+    {
+      "label": "又名",
+      "value": "流浪地球2(3D版) / The Wandering Earth Ⅱ / The Wandering Earth 2 / 《流浪地球》前传"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt13539646"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35267208/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt13539646/"
+    }
+  ]
+}

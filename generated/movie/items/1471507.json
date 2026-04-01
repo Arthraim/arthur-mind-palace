@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1471507",
+  "title": "十三罗汉 Ocean's Thirteen",
+  "originalTitle": "(2007)",
+  "year": "2007",
+  "coverPath": "covers/movie/1471507.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2203093998.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1471507/",
+  "detailUrl": "/movie/1471507",
+  "listSummary": "2007-05-24(戛纳电影节) / 2007-06-08(美国) / 乔治·克鲁尼 / 布拉德·皮特 / 马特·达蒙 / 迈克尔·曼特尔 / 埃利奥特·古尔德 / 雷·昔佛 / 阿尔·帕西诺 / 亚当·拉扎尔-怀特 / 埃迪·杰米森 / 唐·钱德尔 / 美国 / 史蒂文·索德伯格 / 122 分钟 / 十三罗汉 / 犯罪 / 惊悚 / 布赖恩·科佩尔曼 Brian Koppelman / 大卫·莱维恩 David Levien / 乔治·克莱顿·约翰逊 George Clayton Johnson / 杰克·戈登·拉塞尔 Jack Golden Russell / 英语 / 法语 / 西班牙语",
+  "rating": 4,
+  "markedAt": "2018-07-04",
+  "estimatedMarkedAtRange": null,
+  "comment": "这集太萌了，为了队友报复了一波，有点爽",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2007)"
+    },
+    {
+      "label": "Title",
+      "value": "十三罗汉 Ocean's Thirteen"
+    },
+    {
+      "label": "Year",
+      "value": "2007"
+    },
+    {
+      "label": "导演",
+      "value": "史蒂文·索德伯格"
+    },
+    {
+      "label": "编剧",
+      "value": "布赖恩·科佩尔曼 / 大卫·莱维恩 / 乔治·克莱顿·约翰逊 / 杰克·戈登·拉塞尔"
+    },
+    {
+      "label": "主演",
+      "value": "乔治·克鲁尼 / 布拉德·皮特 / 马特·达蒙 / 迈克尔·曼特尔 / 埃利奥特·古尔德 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 法语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2007-05-24(戛纳电影节) / 2007-06-08(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "122 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "盗海豪情13王牌(港) / 瞒天过海：13王牌(台) / 13罗汉 / 盗海13侠"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0496806"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1471507/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0496806/"
+    }
+  ]
+}

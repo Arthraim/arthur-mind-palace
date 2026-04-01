@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26862829",
+  "title": "芳华",
+  "originalTitle": "(2017)",
+  "year": "2017",
+  "coverPath": "covers/movie/26862829.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507227732.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26862829/",
+  "detailUrl": "/movie/26862829",
+  "listSummary": "2017-09-07(多伦多电影节) / 2017-12-15(中国大陆) / 黄轩 / 苗苗 / 钟楚曦 / 杨采钰 / 李晓峰 / 王天辰 / 王可如 / 隋源 / 张仁博 / 苏岩 / 中国大陆 / 冯小刚 / 136分钟 / 146分钟(多伦多电影节) / 剧情 / 历史 / 战争 / 严歌苓 / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2018-06-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "神奇的年代 神奇的人们",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "芳华"
+    },
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "导演",
+      "value": "冯小刚"
+    },
+    {
+      "label": "编剧",
+      "value": "严歌苓"
+    },
+    {
+      "label": "主演",
+      "value": "黄轩 / 苗苗 / 钟楚曦 / 杨采钰 / 李晓峰 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 历史 / 战争"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-12-15(中国大陆) / 2017-09-07(多伦多电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "136分钟 / 146分钟(多伦多电影节)"
+    },
+    {
+      "label": "又名",
+      "value": "歌声离我远去 / Youth"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6654316"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26862829/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6654316/"
+    }
+  ]
+}

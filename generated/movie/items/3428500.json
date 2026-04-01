@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "3428500",
+  "title": "潜伏者 The Infiltrator",
+  "originalTitle": "(2016)",
+  "year": "2016",
+  "coverPath": "covers/movie/3428500.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2337024492.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3428500/",
+  "detailUrl": "/movie/3428500",
+  "listSummary": "2016-07-15(美国) / 布莱恩·克兰斯顿 / 黛安·克鲁格 / 本杰明·布拉特 / 埃伦娜·安纳亚 / 鲁本·奥查迪亚诺 / 马克·霍尔登 / 米切尔·马伦 / 宾利·卡鲁 / 理查德·卡茨 / 叶卡捷琳娜·扎利特科 / 英国 / www.theinfiltrator.com / 布拉德·福尔曼 / 127分钟 / 潜伏者 / 剧情 / 传记 / 犯罪 / 罗伯特·马泽 Robert Mazur / 艾伦·布朗·弗曼 Ellen Brown Furman / 英语",
+  "rating": 3,
+  "markedAt": "2024-07-13",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "潜伏者 The Infiltrator"
+    },
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "导演",
+      "value": "布拉德·福尔曼"
+    },
+    {
+      "label": "编剧",
+      "value": "罗伯特·马泽 / 艾伦·布朗·弗曼"
+    },
+    {
+      "label": "主演",
+      "value": "布莱恩·克兰斯顿 / 黛安·克鲁格 / 本杰明·布拉特 / 埃伦娜·安纳亚 / 鲁本·奥查迪亚诺 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 传记 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2016-07-15(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "127分钟"
+    },
+    {
+      "label": "又名",
+      "value": "潜入者 / 慕色拉行动(台)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1355631"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3428500/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1355631/"
+    }
+  ]
+}

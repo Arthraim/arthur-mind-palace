@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "6059207",
+  "title": "把你的命交给我",
+  "originalTitle": null,
+  "year": "2011",
+  "coverPath": "covers/book/6059207.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s6505556.jpg",
+  "doubanUrl": "https://book.douban.com/subject/6059207/",
+  "detailUrl": "/book/6059207",
+  "listSummary": "那多 / 湖南文艺出版社 / 2011-5 / 26.00元",
+  "rating": 3,
+  "markedAt": "2011-05-12",
+  "estimatedMarkedAtRange": null,
+  "comment": "好无聊。。。那多一定很郁闷。。。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "把你的命交给我"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "湖南文艺出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "博集天卷"
+    },
+    {
+      "label": "出版年",
+      "value": "2011-5"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787540448486"
+    },
+    {
+      "label": "页数",
+      "value": "224"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "26.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "那多灵异手记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/6059207/"
+    }
+  ]
+}

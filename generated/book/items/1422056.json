@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1422056",
+  "title": "Programming Ruby",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/1422056.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4244255.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1422056/",
+  "detailUrl": "/book/1422056",
+  "listSummary": "Dave Thomas、Chad Fowler、Andy Hunt / Pragmatic Bookshelf / 2004-10-8 / USD 44.95",
+  "rating": 3,
+  "markedAt": "2011-06-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Programming Ruby"
+    },
+    {
+      "label": "作者",
+      "value": "Dave Thomas / Chad Fowler / Andy Hunt"
+    },
+    {
+      "label": "出版社",
+      "value": "Pragmatic Bookshelf"
+    },
+    {
+      "label": "出版年",
+      "value": "2004-10-8"
+    },
+    {
+      "label": "ISBN",
+      "value": "9780974514055"
+    },
+    {
+      "label": "页数",
+      "value": "829"
+    },
+    {
+      "label": "装帧",
+      "value": "Paperback"
+    },
+    {
+      "label": "定价",
+      "value": "USD 44.95"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1422056/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293824",
+  "title": "蝴蝶梦 Rebecca",
+  "originalTitle": "(1940)",
+  "year": "1940",
+  "coverPath": "covers/movie/1293824.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1071757804.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293824/",
+  "detailUrl": "/movie/1293824",
+  "listSummary": "1940-03-21(迈阿密首映) / 1940-04-12(美国) / 劳伦斯·奥利弗 / 琼·芳登 / 乔治·桑德斯 / 朱迪丝·安德森 / 奈杰尔·布鲁斯 / 莱吉纳德·戴尼 / C.奥布雷·史密斯 / 格拉黛丝·库珀 / 梅尔维尔·库珀 / 里奥.G.卡罗尔 / 美国 / 阿尔弗雷德·希区柯克 / 130分钟 / 蝴蝶梦 / 剧情 / 爱情 / 悬疑 / 达芙妮·杜穆里埃 Daphne Du Maurier / 罗伯特·E·舍伍德 Robert E. Sherwood / 琼·哈里森 Joan Harrison / 菲利普·麦克唐纳 Philip MacDonald / 迈克尔·霍根 Michael Hogan / 英语",
+  "rating": 4,
+  "markedAt": "2024-01-23",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1940)"
+    },
+    {
+      "label": "Title",
+      "value": "蝴蝶梦 Rebecca"
+    },
+    {
+      "label": "Year",
+      "value": "1940"
+    },
+    {
+      "label": "导演",
+      "value": "阿尔弗雷德·希区柯克"
+    },
+    {
+      "label": "编剧",
+      "value": "达芙妮·杜穆里埃 / 罗伯特·E·舍伍德 / 琼·哈里森 / 菲利普·麦克唐纳 / 迈克尔·霍根"
+    },
+    {
+      "label": "主演",
+      "value": "劳伦斯·奥利弗 / 琼·芳登 / 乔治·桑德斯 / 朱迪丝·安德森 / 奈杰尔·布鲁斯 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 悬疑"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1940-03-21(迈阿密首映) / 1940-04-12(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "130分钟"
+    },
+    {
+      "label": "又名",
+      "value": "丽贝卡 / 蝴蝶春梦 / 瑞贝卡"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0032976"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293824/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0032976/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "3001114",
+  "title": "沙丘 Dune",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/3001114.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2687443734.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3001114/",
+  "detailUrl": "/movie/3001114",
+  "listSummary": "2021-09-03(威尼斯电影节) / 2021-10-22(美国/中国大陆) / 2024-03-01(中国大陆重映) / 提莫西·查拉梅 / 丽贝卡·弗格森 / 奥斯卡·伊萨克 / 戴夫·巴蒂斯塔 / 赞达亚 / 杰森·莫玛 / 乔什·布洛林 / 哈维尔·巴登 / 斯特兰·斯卡斯加德 / 夏洛特·兰普林 / 美国 / www.dunemovie.net / 丹尼斯·维伦纽瓦 / 156分钟 / 沙丘 / 剧情 / 科幻 / 冒险 / 丹尼斯·维伦纽瓦 Denis Villeneuve / 乔·斯派茨 Jon Spaihts / 艾瑞克·罗斯 Eric Roth / 弗兰克·赫伯特 Frank Herbert / 英语 / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2021-10-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "唯一的期望是音乐少一点和音效/噪音分不清的元素",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "沙丘 Dune"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "导演",
+      "value": "丹尼斯·维伦纽瓦"
+    },
+    {
+      "label": "编剧",
+      "value": "丹尼斯·维伦纽瓦 / 乔·斯派茨 / 埃里克·罗思 / 弗兰克·赫伯特"
+    },
+    {
+      "label": "主演",
+      "value": "提莫西·查拉梅 / 丽贝卡·弗格森 / 奥斯卡·伊萨克 / 戴夫·巴蒂斯塔 / 赞达亚 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-10-22(美国/中国大陆) / 2024-03-01(中国大陆重映) / 2021-09-03(威尼斯电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "156分钟"
+    },
+    {
+      "label": "又名",
+      "value": "沙丘瀚战(港) / Dune： Part One"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1160419"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3001114/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1160419/"
+    }
+  ]
+}

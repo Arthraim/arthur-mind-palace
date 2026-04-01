@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "36566263",
+  "title": "贝克汉姆 Beckham",
+  "originalTitle": "(2023)",
+  "year": "2023",
+  "coverPath": "covers/movie/36566263.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2899015345.webp",
+  "doubanUrl": "https://movie.douban.com/subject/36566263/",
+  "detailUrl": "/movie/36566263",
+  "listSummary": "2023-10-04(英国) / 大卫·贝克汉姆 / 维多利亚·贝克汉姆 / 安娜·温图尔 / 英国 / 费舍·史蒂芬斯 / 贝克汉姆 / 72分钟 / 贝克汉姆 / 传记 / 纪录片 / 运动 / 英语",
+  "rating": 4,
+  "markedAt": "2023-10-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "98世界杯和贝克汉姆是让我和我弟喜欢上足球最重要的两个原因，我移情别恋了，我弟坚持到了现在",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2023)"
+    },
+    {
+      "label": "Title",
+      "value": "贝克汉姆 Beckham"
+    },
+    {
+      "label": "Year",
+      "value": "2023"
+    },
+    {
+      "label": "导演",
+      "value": "费舍·史蒂芬斯"
+    },
+    {
+      "label": "主演",
+      "value": "大卫·贝克汉姆 / 维多利亚·贝克汉姆"
+    },
+    {
+      "label": "类型",
+      "value": "纪录片 / 传记 / 运动"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2023-10-04(英国)"
+    },
+    {
+      "label": "集数",
+      "value": "4"
+    },
+    {
+      "label": "单集片长",
+      "value": "72分钟"
+    },
+    {
+      "label": "又名",
+      "value": "碧咸传（港）"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt14524712"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/36566263/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt14524712/"
+    }
+  ]
+}

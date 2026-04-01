@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "5258148",
+  "title": "极限",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/music/5258148.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4467256.jpg",
+  "doubanUrl": "https://music.douban.com/subject/5258148/",
+  "detailUrl": "/music/5258148",
+  "listSummary": "徐佳莹 / 2010-09-03 / 专辑 / CD / 流行",
+  "rating": 4,
+  "markedAt": "2023-08-11",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "极限"
+    },
+    {
+      "label": "又名",
+      "value": "lala第2张创作专辑"
+    },
+    {
+      "label": "表演者",
+      "value": "徐佳莹"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2010-09-03"
+    },
+    {
+      "label": "出版者",
+      "value": "亚神音乐"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "4712523870751"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/5258148/"
+    }
+  ]
+}

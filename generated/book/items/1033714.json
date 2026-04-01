@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "1033714",
+  "title": "凶心人",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/1033714.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s1172691.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1033714/",
+  "detailUrl": "/book/1033714",
+  "listSummary": "那多 / 南海出版公司 / 2004-02 / 18.00",
+  "rating": 4,
+  "markedAt": "2011-02-21",
+  "estimatedMarkedAtRange": null,
+  "comment": "恶补那多的小说ing，这是恶补到现在最喜欢的作品了，4颗星，给后面留点空间。。。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "凶心人"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "南海出版公司"
+    },
+    {
+      "label": "出版年",
+      "value": "2004-02"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787544226547"
+    },
+    {
+      "label": "页数",
+      "value": "210"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "18.00"
+    },
+    {
+      "label": "丛书",
+      "value": "那多灵异手记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1033714/"
+    }
+  ]
+}

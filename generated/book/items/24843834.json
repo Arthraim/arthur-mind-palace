@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "24843834",
+  "title": "羊毛战记",
+  "originalTitle": null,
+  "year": "2013",
+  "coverPath": "covers/book/24843834.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27003062.jpg",
+  "doubanUrl": "https://book.douban.com/subject/24843834/",
+  "detailUrl": "/book/24843834",
+  "listSummary": "(美)休·豪伊 / 陈宗琛 / 湖南人民出版社 / 2013-9 / 58.00元",
+  "rating": 3,
+  "markedAt": "2014-03-05",
+  "estimatedMarkedAtRange": null,
+  "comment": "故事发展缓慢，从头到尾没有什么激动人心的剧情，期待一个爆发结果始终不瘟不火的，和1984一样大概这种立意的小说不怎么吸引我",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "羊毛战记"
+    },
+    {
+      "label": "作者",
+      "value": "(美)休·豪伊"
+    },
+    {
+      "label": "译者",
+      "value": "陈宗琛"
+    },
+    {
+      "label": "出版社",
+      "value": "湖南人民出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "浦睿文化"
+    },
+    {
+      "label": "出版年",
+      "value": "2013-9"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787543895768"
+    },
+    {
+      "label": "页数",
+      "value": "512"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "58.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "WOOL"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/24843834/"
+    }
+  ]
+}

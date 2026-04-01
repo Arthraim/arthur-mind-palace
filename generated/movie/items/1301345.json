@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1301345",
+  "title": "偷天换日 The Italian Job",
+  "originalTitle": "(2003)",
+  "year": "2003",
+  "coverPath": "covers/movie/1301345.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1693861981.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1301345/",
+  "detailUrl": "/movie/1301345",
+  "listSummary": "2003-05-30(美国) / 马克·沃尔伯格 / 查理兹·塞隆 / 唐纳德·萨瑟兰 / 杰森·斯坦森 / 赛斯·格林 / 茅斯·达夫 / 爱德华·诺顿 / 福斯托·卡莱加里尼 / 吉米·舒伯特 / 塔米·卡比莱特 / 美国 / 英国 / 意大利 / 德国 / www.italianjobmovie.com / F·加里·格雷 / 111分钟 / 偷天换日 / 动作 / 犯罪 / 惊悚 / 特洛伊·肯尼迪-马丁 Troy Kennedy-Martin / 唐娜·鲍尔斯 / 韦恩·鲍尔斯 / 英语 / 英语 / 意大利语",
+  "rating": 4,
+  "markedAt": "2021-08-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "看了估摸有十遍了。居然第一次标记",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2003)"
+    },
+    {
+      "label": "Title",
+      "value": "偷天换日 The Italian Job"
+    },
+    {
+      "label": "Year",
+      "value": "2003"
+    },
+    {
+      "label": "导演",
+      "value": "F·加里·格雷"
+    },
+    {
+      "label": "编剧",
+      "value": "特洛伊·肯尼迪-马丁 / 唐娜·鲍尔斯 / 韦恩·鲍尔斯"
+    },
+    {
+      "label": "主演",
+      "value": "马克·沃尔伯格 / 查理兹·塞隆 / 唐纳德·萨瑟兰 / 杰森·斯坦森 / 赛斯·格林 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国 / 意大利 / 德国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 英语 / 意大利语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2003-05-30(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "111分钟"
+    },
+    {
+      "label": "又名",
+      "value": "天罗盗网(港) / 意大利任务 / 爆窃意大利"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0317740"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1301345/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0317740/"
+    }
+  ]
+}

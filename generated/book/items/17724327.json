@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "17724327",
+  "title": "盛夏的方程式",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/17724327.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24230504.jpg",
+  "doubanUrl": "https://book.douban.com/subject/17724327/",
+  "detailUrl": "/book/17724327",
+  "listSummary": "[日] 东野圭吾 / 袁斌 / 现代出版社 / 2012-12-1 / 28.00元",
+  "rating": 4,
+  "markedAt": "2013-09-12",
+  "estimatedMarkedAtRange": null,
+  "comment": "写的是人",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "盛夏的方程式"
+    },
+    {
+      "label": "作者",
+      "value": "[日] 东野圭吾"
+    },
+    {
+      "label": "译者",
+      "value": "袁斌"
+    },
+    {
+      "label": "出版社",
+      "value": "现代出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-12-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787514307542"
+    },
+    {
+      "label": "页数",
+      "value": "317"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "28.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "真夏の方程式"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/17724327/"
+    }
+  ]
+}

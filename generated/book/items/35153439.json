@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "35153439",
+  "title": "助手的自我修养",
+  "originalTitle": null,
+  "year": "2020",
+  "coverPath": "covers/book/35153439.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33694214.jpg",
+  "doubanUrl": "https://book.douban.com/subject/35153439/",
+  "detailUrl": "/book/35153439",
+  "listSummary": "陆烨华 / 新星出版社 / 2020-8 / 48.00",
+  "rating": 4,
+  "markedAt": "2024-04-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "书到了一半的地方开始疯狂输出推理部分，结局有点复杂，其实最后是个简单点的小诡计就够了的感觉",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "助手的自我修养"
+    },
+    {
+      "label": "作者",
+      "value": "陆烨华"
+    },
+    {
+      "label": "出版社",
+      "value": "新星出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2020-8"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787513340977"
+    },
+    {
+      "label": "页数",
+      "value": "264"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "48.00"
+    },
+    {
+      "label": "丛书",
+      "value": "午夜文库·原创系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/35153439/"
+    }
+  ]
+}

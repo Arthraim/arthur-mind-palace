@@ -1,0 +1,52 @@
+{
+  "kind": "music",
+  "sourceId": "36495787",
+  "title": "郊游",
+  "originalTitle": null,
+  "year": "2023",
+  "coverPath": "covers/music/36495787.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34602968.jpg",
+  "doubanUrl": "https://music.douban.com/subject/36495787/",
+  "detailUrl": "/music/36495787",
+  "listSummary": "蛙池 / 2023-07-26 / 专辑 / 数字(Digital) / 摇滚",
+  "rating": 3,
+  "markedAt": "2023-08-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "郊游"
+    },
+    {
+      "label": "表演者",
+      "value": "蛙池"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2023-07-26"
+    },
+    {
+      "label": "出版者",
+      "value": "东莞市池边蛙声文化传播有限公司"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/36495787/"
+    }
+  ]
+}

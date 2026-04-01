@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "4238754",
+  "title": "失恋33天",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/book/4238754.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s6980516.jpg",
+  "doubanUrl": "https://book.douban.com/subject/4238754/",
+  "detailUrl": "/book/4238754",
+  "listSummary": "鲍鲸鲸 / 中信出版社 / 2010-1 / 25.00元",
+  "rating": 5,
+  "markedAt": "2013-10-12",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "失恋33天"
+    },
+    {
+      "label": "作者",
+      "value": "鲍鲸鲸"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2010-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508618081"
+    },
+    {
+      "label": "页数",
+      "value": "192"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "25.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/4238754/"
+    }
+  ]
+}

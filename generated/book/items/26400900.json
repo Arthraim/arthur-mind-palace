@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "26400900",
+  "title": "创京东",
+  "originalTitle": null,
+  "year": "2015",
+  "coverPath": "covers/book/26400900.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28091725.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26400900/",
+  "detailUrl": "/book/26400900",
+  "listSummary": "李志刚 / 中信出版社 / 2015-5-1 / CNY 49.80",
+  "rating": 2,
+  "markedAt": "2018-02-15",
+  "estimatedMarkedAtRange": null,
+  "comment": "写得一般般… 对这个人也越来越没兴趣",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "创京东"
+    },
+    {
+      "label": "作者",
+      "value": "李志刚"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "中信·商业家"
+    },
+    {
+      "label": "出版年",
+      "value": "2015-5-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508651880"
+    },
+    {
+      "label": "页数",
+      "value": "292"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "CNY 49.80"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26400900/"
+    }
+  ]
+}

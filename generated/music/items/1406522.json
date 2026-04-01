@@ -1,0 +1,72 @@
+{
+  "kind": "music",
+  "sourceId": "1406522",
+  "title": "叶惠美",
+  "originalTitle": null,
+  "year": "2003",
+  "coverPath": "covers/music/1406522.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29265961.jpg",
+  "doubanUrl": "https://music.douban.com/subject/1406522/",
+  "detailUrl": "/music/1406522",
+  "listSummary": "周杰伦 / 2003-07-31 / 专辑 / CD / 流行",
+  "rating": 5,
+  "markedAt": "2010-10-20",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "叶惠美"
+    },
+    {
+      "label": "又名",
+      "value": "葉惠美"
+    },
+    {
+      "label": "表演者",
+      "value": "周杰伦"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2003-07-31"
+    },
+    {
+      "label": "出版者",
+      "value": "Sony Music"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "9787799411934"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNE040350500"
+    },
+    {
+      "label": "其他版本",
+      "value": "葉惠美 （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/1406522/"
+    }
+  ]
+}

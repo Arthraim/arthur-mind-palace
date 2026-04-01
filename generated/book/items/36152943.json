@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "36152943",
+  "title": "通俗小说",
+  "originalTitle": null,
+  "year": "2022",
+  "coverPath": "covers/book/36152943.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s34369811.jpg",
+  "doubanUrl": "https://book.douban.com/subject/36152943/",
+  "detailUrl": "/book/36152943",
+  "listSummary": "仁科 / 四川文艺出版社 / 2022-12-15 / 49",
+  "rating": 4,
+  "markedAt": "2026-02-26",
+  "estimatedMarkedAtRange": null,
+  "comment": "最喜欢疯马村，他好会写啊，尤其是那些挂壁经历写成的文字，很有意思。最后那种meta又不meta嵌套的感觉仿佛是喝多了，读起来还挺过瘾的。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "通俗小说"
+    },
+    {
+      "label": "作者",
+      "value": "仁科"
+    },
+    {
+      "label": "出版社",
+      "value": "四川文艺出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "磨铁图书 / 磨铁读诗会"
+    },
+    {
+      "label": "出版年",
+      "value": "2022-12-15"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787541164880"
+    },
+    {
+      "label": "页数",
+      "value": "256"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "49"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/36152943/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "26753594",
+  "title": "醜奴兒",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/music/26753594.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s28541447.jpg",
+  "doubanUrl": "https://music.douban.com/subject/26753594/",
+  "detailUrl": "/music/26753594",
+  "listSummary": "草東沒有派對 / 2016-04-30 / 专辑 / CD / 摇滚",
+  "rating": 5,
+  "markedAt": "2019-09-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "醜奴兒"
+    },
+    {
+      "label": "又名",
+      "value": "丑奴儿"
+    },
+    {
+      "label": "表演者",
+      "value": "草東沒有派對"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2016-04-30"
+    },
+    {
+      "label": "出版者",
+      "value": "草東沒有派對"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/26753594/"
+    }
+  ]
+}

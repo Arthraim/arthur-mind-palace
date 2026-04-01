@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1473915",
+  "title": "Watchmen",
+  "originalTitle": null,
+  "year": "1995",
+  "coverPath": "covers/book/1473915.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s4229733.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1473915/",
+  "detailUrl": "/book/1473915",
+  "listSummary": "Alan Moore、Dave Gibbons (Illustrator/Letterer)、John Higgins (Colorist) / DC Comics / 1995-4-1 / CAD 22.99",
+  "rating": 5,
+  "markedAt": "2016-06-23",
+  "estimatedMarkedAtRange": null,
+  "comment": "用了两个星期，终于看完了，太高估自己的英语水平了，看得好辛苦…… 看完真觉得可以给 Allan Moore 跪……",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Watchmen"
+    },
+    {
+      "label": "作者",
+      "value": "Alan Moore / Dave Gibbons (Illustrator/Letterer) / John Higgins (Colorist)"
+    },
+    {
+      "label": "出版社",
+      "value": "DC Comics"
+    },
+    {
+      "label": "出版年",
+      "value": "1995-4-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9780930289232"
+    },
+    {
+      "label": "页数",
+      "value": "416"
+    },
+    {
+      "label": "装帧",
+      "value": "Paperback"
+    },
+    {
+      "label": "定价",
+      "value": "CAD 22.99"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1473915/"
+    }
+  ]
+}

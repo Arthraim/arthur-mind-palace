@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1293359",
+  "title": "菊次郎的夏天 菊次郎の夏",
+  "originalTitle": "(1999)",
+  "year": "1999",
+  "coverPath": "covers/movie/1293359.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1293359/",
+  "detailUrl": "/movie/1293359",
+  "listSummary": "1999-05-20(戛纳电影节) / 1999-06-05(日本) / 2020-09-25(中国大陆) / 北野武 / 关口雄介 / 岸本加世子 / 吉行和子 / 细川典江 / 大家由祐子 / 磨赤儿 / 铃木忠幸 / 井手博士 / 今村鼠 / 日本 / 北野武 / 121分钟 / 菊次郎的夏天 / 剧情 / 喜剧 / 北野武 Takeshi Kitano / 日语",
+  "rating": 5,
+  "markedAt": "2020-09-30",
+  "estimatedMarkedAtRange": null,
+  "comment": "感谢好电影，感谢四格漫画",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1999)"
+    },
+    {
+      "label": "Title",
+      "value": "菊次郎的夏天 菊次郎の夏"
+    },
+    {
+      "label": "Year",
+      "value": "1999"
+    },
+    {
+      "label": "导演",
+      "value": "北野武"
+    },
+    {
+      "label": "编剧",
+      "value": "北野武"
+    },
+    {
+      "label": "主演",
+      "value": "北野武 / 关口雄介 / 岸本加世子 / 吉行和子 / 细川典江 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2020-09-25(中国大陆) / 1999-05-20(戛纳电影节) / 1999-06-05(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "121分钟"
+    },
+    {
+      "label": "又名",
+      "value": "菊次郎之夏 / Kikujirô no natsu / Kikujiro"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0199683"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1293359/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0199683/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "30368448",
+  "title": "无限 Infinite",
+  "originalTitle": "(2021)",
+  "year": "2021",
+  "coverPath": "covers/movie/30368448.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2655492682.webp",
+  "doubanUrl": "https://movie.douban.com/subject/30368448/",
+  "detailUrl": "/movie/30368448",
+  "listSummary": "2021-06-10(美国网络) / 马克·沃尔伯格 / 迪伦·奥布莱恩 / 杰森·曼楚克斯 / 鲁伯特·弗兰德 / 索菲·库克森 / 切瓦特·埃加福 / 托比·琼斯 / 沃利斯·戴 / 汤姆·休斯 / 约翰内斯·豪克尔·约翰内森 / 美国 / 安东尼·福奎阿 / 106分钟 / 无限 / 动作 / 科幻 / 惊悚 / 伊恩·肖尔 Ian Shorr / 托德·斯坦因 Todd Stein / D· 埃里克·麦克兰兹 D. Eric Maikranz / 英语",
+  "rating": 2,
+  "markedAt": "2022-03-19",
+  "estimatedMarkedAtRange": null,
+  "comment": "这东西怎么立项的",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "无限 Infinite"
+    },
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "导演",
+      "value": "安东尼·福奎阿"
+    },
+    {
+      "label": "编剧",
+      "value": "伊恩·肖尔 / 托德·斯坦因 / D· 埃里克·麦克兰兹"
+    },
+    {
+      "label": "主演",
+      "value": "马克·沃尔伯格 / 迪伦·奥布莱恩 / 杰森·曼楚克斯 / 鲁伯特·弗兰德 / 索菲·库克森 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-06-10(美国网络)"
+    },
+    {
+      "label": "片长",
+      "value": "106分钟"
+    },
+    {
+      "label": "又名",
+      "value": "无限轮回 / 回忆解码 / 无穹回役"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6654210"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/30368448/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6654210/"
+    }
+  ]
+}

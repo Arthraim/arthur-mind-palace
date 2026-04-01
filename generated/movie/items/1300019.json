@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1300019",
+  "title": "埋伏",
+  "originalTitle": "(1997)",
+  "year": "1997",
+  "coverPath": "covers/movie/1300019.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2870046328.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1300019/",
+  "detailUrl": "/movie/1300019",
+  "listSummary": "1997-01-14(中国大陆) / 1997-11-08(日本) / 冯巩 / 江珊 / 滕汝骏 / 张嘉益 / 牛振华 / 师小红 / 郭冬临 / 林海海 / 赵秀云 / 陈好 / 中国大陆 / 黄建新 / 杨亚洲 / 100分钟 / 剧情 / 孙毅安 Yi-an Sun / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2022-04-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "黄建新那个时候的电影怎么每一部都好看",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1997)"
+    },
+    {
+      "label": "Title",
+      "value": "埋伏"
+    },
+    {
+      "label": "Year",
+      "value": "1997"
+    },
+    {
+      "label": "导演",
+      "value": "黄建新 / 杨亚洲"
+    },
+    {
+      "label": "编剧",
+      "value": "孙毅安"
+    },
+    {
+      "label": "主演",
+      "value": "冯巩 / 江珊 / 滕汝骏 / 张嘉益 / 牛振华 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1997-01-14(中国大陆) / 1997-11-08(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "100分钟"
+    },
+    {
+      "label": "又名",
+      "value": "趁热打劫 / Surveillance / Ambush"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0151464"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1300019/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0151464/"
+    }
+  ]
+}

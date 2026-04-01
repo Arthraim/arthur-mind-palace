@@ -1,0 +1,84 @@
+{
+  "kind": "movie",
+  "sourceId": "1864810",
+  "title": "红楼梦",
+  "originalTitle": "(1987)",
+  "year": "1987",
+  "coverPath": "covers/movie/1864810.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554030915.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1864810/",
+  "detailUrl": "/movie/1864810",
+  "listSummary": "1987-05-02(中国大陆) / 欧阳奋强 / 陈晓旭 / 邓婕 / 张莉 / 李婷 / 袁玫 / 张蕾 / 郭霄珍 / 周贤珍 / 郑铮 / 中国大陆 / 王扶林 / 45分钟 / 剧情 / 爱情 / 古装 / 曹雪芹 Xueqin Cao / 周雷 Lei Zhou / 刘耕路 Geng-lu Liu / 周岭 Ling Zhou / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2025-11-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1987)"
+    },
+    {
+      "label": "Title",
+      "value": "红楼梦"
+    },
+    {
+      "label": "Year",
+      "value": "1987"
+    },
+    {
+      "label": "导演",
+      "value": "王扶林"
+    },
+    {
+      "label": "编剧",
+      "value": "曹雪芹 / 周雷 / 刘耕路 / 周岭"
+    },
+    {
+      "label": "主演",
+      "value": "欧阳奋强 / 陈晓旭 / 邓婕 / 张莉 / 李婷 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "1987-05-02(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "36"
+    },
+    {
+      "label": "单集片长",
+      "value": "45分钟"
+    },
+    {
+      "label": "又名",
+      "value": "87版红楼梦 / 央视版红楼梦 / A Dream in Red Mansions / Dream of the Red Chamber"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1162595"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1864810/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1162595/"
+    }
+  ]
+}

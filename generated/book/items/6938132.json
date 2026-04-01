@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "6938132",
+  "title": "書劍恩仇錄（新修版）（全二冊）",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/6938132.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s28724898.jpg",
+  "doubanUrl": "https://book.douban.com/subject/6938132/",
+  "detailUrl": "/book/6938132",
+  "listSummary": "金庸 / 明河社 / 2004-4 / HK$100",
+  "rating": 3,
+  "markedAt": "2021-03-01",
+  "estimatedMarkedAtRange": null,
+  "comment": "很遗憾入坑居然在没有搞清楚版本的情况下看了一个明河社新修版。发现很多用词很像嘉兴方言，比如「你寻死啊？」hhh",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "書劍恩仇錄（新修版）（全二冊）"
+    },
+    {
+      "label": "作者",
+      "value": "金庸"
+    },
+    {
+      "label": "出版社",
+      "value": "明河社"
+    },
+    {
+      "label": "出版年",
+      "value": "2004-4"
+    },
+    {
+      "label": "ISBN",
+      "value": "9789628129614"
+    },
+    {
+      "label": "页数",
+      "value": "805"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "HK$100"
+    },
+    {
+      "label": "丛书",
+      "value": "金庸作品（明河新修版）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/6938132/"
+    }
+  ]
+}

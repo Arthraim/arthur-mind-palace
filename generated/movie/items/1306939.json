@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1306939",
+  "title": "推手",
+  "originalTitle": "(1991)",
+  "year": "1991",
+  "coverPath": "covers/movie/1306939.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p753043026.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1306939/",
+  "detailUrl": "/movie/1306939",
+  "listSummary": "1991-12-07(金马影展) / 郎雄 / 王莱 / 王伯昭 / 戴布·斯内德 / 李涵 / 陈捷文 / 黎拨佳 / 李巨源 / 刘怡明 / 王洪彰 / 中国台湾 / 美国 / 李安 / 105 分钟 / 推手 / 剧情 / 家庭 / 李安 Ang Lee / 詹姆斯·夏慕斯 James Schamus / 汉语普通话 / 英语 / 粤语",
+  "rating": 4,
+  "markedAt": "2026-03-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "推手就是中国人的生活哲学，卸掉正面冲突的力，各自保持自身平衡，但始终连接不断。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1991)"
+    },
+    {
+      "label": "Title",
+      "value": "推手"
+    },
+    {
+      "label": "Year",
+      "value": "1991"
+    },
+    {
+      "label": "导演",
+      "value": "李安"
+    },
+    {
+      "label": "编剧",
+      "value": "李安 / 詹姆斯·夏慕斯"
+    },
+    {
+      "label": "主演",
+      "value": "郎雄 / 王莱 / 王伯昭 / 戴布·斯内德 / 李涵"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 家庭"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国台湾 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语 / 粤语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1991-12-07(金马影展)"
+    },
+    {
+      "label": "片长",
+      "value": "105 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Pushing Hands"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0105652"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1306939/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0105652/"
+    }
+  ]
+}

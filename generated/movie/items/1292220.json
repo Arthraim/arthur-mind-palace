@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1292220",
+  "title": "情书 Love Letter",
+  "originalTitle": "(1995)",
+  "year": "1995",
+  "coverPath": "covers/movie/1292220.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1292220/",
+  "detailUrl": "/movie/1292220",
+  "listSummary": "1995-03-25(日本) / 1999-03(中国大陆) / 2021-05-20(中国大陆重映) / 2025-05-20(中国大陆重映) / 中山美穗 / 丰川悦司 / 酒井美纪 / 柏原崇 / 范文雀 / 篠原胜之 / 铃木庆一 / 田口智朗 / 加贺麻理子 / 光石研 / 日本 / 岩井俊二 / 117分钟 / 情书 / 剧情 / 爱情 / 岩井俊二 Shunji Iwai / 日语",
+  "rating": 5,
+  "markedAt": "2022-03-25",
+  "estimatedMarkedAtRange": null,
+  "comment": "心疼这四个人",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1995)"
+    },
+    {
+      "label": "Title",
+      "value": "情书 Love Letter"
+    },
+    {
+      "label": "Year",
+      "value": "1995"
+    },
+    {
+      "label": "导演",
+      "value": "岩井俊二"
+    },
+    {
+      "label": "编剧",
+      "value": "岩井俊二"
+    },
+    {
+      "label": "主演",
+      "value": "中山美穗 / 丰川悦司 / 酒井美纪 / 柏原崇 / 范文雀 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1999-03(中国大陆) / 2021-05-20(中国大陆重映) / 2025-05-20(中国大陆重映) / 1995-03-25(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟"
+    },
+    {
+      "label": "又名",
+      "value": "When I Close My Eyes / Letters of Love"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0113703"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1292220/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0113703/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "26760160",
+  "title": "破·局",
+  "originalTitle": "(2017)",
+  "year": "2017",
+  "coverPath": "covers/movie/26760160.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496288510.webp",
+  "doubanUrl": "https://movie.douban.com/subject/26760160/",
+  "detailUrl": "/movie/26760160",
+  "listSummary": "2017-08-17(中国大陆) / 郭富城 / 王千源 / 刘涛 / 余皑磊 / 冯嘉怡 / 郑凯 / 吴中天 / 卢宣彤 / 中国大陆 / 连奕琦 / 112分钟 / 动作 / 犯罪 / 林宇辰 Yu-Chen Lin / 于尚民 Johnny Yu / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2023-04-05",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "破·局"
+    },
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "导演",
+      "value": "连奕琦"
+    },
+    {
+      "label": "编剧",
+      "value": "林宇辰 / 于尚民"
+    },
+    {
+      "label": "主演",
+      "value": "郭富城 / 王千源 / 刘涛 / 余皑磊 / 冯嘉怡 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-08-17(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "112分钟"
+    },
+    {
+      "label": "又名",
+      "value": "肇事者 / 走到尽头 / Peace Breaker"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7180392"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/26760160/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7180392/"
+    }
+  ]
+}

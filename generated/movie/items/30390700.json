@@ -1,0 +1,72 @@
+{
+  "kind": "movie",
+  "sourceId": "30390700",
+  "title": "美国工厂 American Factory",
+  "originalTitle": "(2019)",
+  "year": "2019",
+  "coverPath": "covers/movie/30390700.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566470596.webp",
+  "doubanUrl": "https://movie.douban.com/subject/30390700/",
+  "detailUrl": "/movie/30390700",
+  "listSummary": "2019-01-25(圣丹斯电影节) / 2019-08-21(美国) / 曹德旺 / 王河 / Junming 'Jimmy' Wang / 美国 / 史蒂文·博格纳尔 / 朱莉娅·赖克特 / 110分钟 / 美国工厂 / 纪录片 / 英语 / 汉语普通话",
+  "rating": 4,
+  "markedAt": "2019-10-27",
+  "estimatedMarkedAtRange": null,
+  "comment": "有点意思",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2019)"
+    },
+    {
+      "label": "Title",
+      "value": "美国工厂 American Factory"
+    },
+    {
+      "label": "Year",
+      "value": "2019"
+    },
+    {
+      "label": "导演",
+      "value": "史蒂文·博格纳尔 / 朱莉娅·赖克特"
+    },
+    {
+      "label": "主演",
+      "value": "曹德旺 / 王河 / Junming 'Jimmy' Wang"
+    },
+    {
+      "label": "类型",
+      "value": "纪录片"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2019-01-25(圣丹斯电影节) / 2019-08-21(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "110分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt9351980"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/30390700/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt9351980/"
+    }
+  ]
+}

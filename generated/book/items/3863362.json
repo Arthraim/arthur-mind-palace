@@ -1,0 +1,52 @@
+{
+  "kind": "book",
+  "sourceId": "3863362",
+  "title": "暗影三十八万",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/book/3863362.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3933624.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3863362/",
+  "detailUrl": "/book/3863362",
+  "listSummary": "那多 / 万卷出版公司 / 2009-7 / 21.00元",
+  "rating": 4,
+  "markedAt": "2011-04-26",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "暗影三十八万"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "万卷出版公司"
+    },
+    {
+      "label": "出版年",
+      "value": "2009-7"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787547000038"
+    },
+    {
+      "label": "页数",
+      "value": "248"
+    },
+    {
+      "label": "定价",
+      "value": "21.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3863362/"
+    }
+  ]
+}

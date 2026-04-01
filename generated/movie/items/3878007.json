@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "3878007",
+  "title": "海王 Aquaman",
+  "originalTitle": "(2018)",
+  "year": "2018",
+  "coverPath": "covers/movie/3878007.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541280047.webp",
+  "doubanUrl": "https://movie.douban.com/subject/3878007/",
+  "detailUrl": "/movie/3878007",
+  "listSummary": "2018-12-07(中国大陆) / 2018-12-21(美国) / 杰森·莫玛 / 安珀·赫德 / 威廉·达福 / 帕特里克·威尔森 / 妮可·基德曼 / 杜夫·龙格尔 / 叶海亚·阿卜杜勒-迈丁 / 特穆拉·莫里森 / 林路迪 / 迈克尔·比奇 / 美国 / 澳大利亚 / www.aquamanmovie.com / 温子仁 / 143分钟 / 海王 / 动作 / 奇幻 / 冒险 / 大卫·莱斯利·约翰逊-麦戈德里克 David Leslie Johnson-McGoldrick / 威尔·比尔 Will Beall / 乔夫·琼斯 Geoff Johns / 温子仁 James Wan / 莫尔特·魏辛格 Mort Weisinger / 保罗·诺里斯 Paul Norris / 英语 / 毛利语 / 意大利语 / 俄语",
+  "rating": 4,
+  "markedAt": "2019-03-27",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2018)"
+    },
+    {
+      "label": "Title",
+      "value": "海王 Aquaman"
+    },
+    {
+      "label": "Year",
+      "value": "2018"
+    },
+    {
+      "label": "导演",
+      "value": "温子仁"
+    },
+    {
+      "label": "编剧",
+      "value": "大卫·莱斯利·约翰逊-麦戈德里克 / 威尔·比尔 / 乔夫·琼斯 / 温子仁 / 莫尔特·魏辛格 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "杰森·莫玛 / 安珀·赫德 / 威廉·达福 / 帕特里克·威尔森 / 妮可·基德曼 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 澳大利亚"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 毛利语 / 意大利语 / 俄语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-12-07(中国大陆) / 2018-12-21(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "143分钟"
+    },
+    {
+      "label": "又名",
+      "value": "水行侠(港/台) / 潜水侠 / 水人 / 人鱼哥(豆友译名)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1477834"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/3878007/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1477834/"
+    }
+  ]
+}

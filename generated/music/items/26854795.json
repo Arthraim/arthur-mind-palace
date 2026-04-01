@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "26854795",
+  "title": "22, A Million",
+  "originalTitle": null,
+  "year": "2016",
+  "coverPath": "covers/music/26854795.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s28972837.jpg",
+  "doubanUrl": "https://music.douban.com/subject/26854795/",
+  "detailUrl": "/music/26854795",
+  "listSummary": "Bon Iver / 2016-09-30 / 专辑 / Audio CD / 电子",
+  "rating": 5,
+  "markedAt": "2026-03-08",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "22, A Million"
+    },
+    {
+      "label": "表演者",
+      "value": "Bon Iver"
+    },
+    {
+      "label": "流派",
+      "value": "电子"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "Audio CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2016-09-30"
+    },
+    {
+      "label": "出版者",
+      "value": "Jagjaguwar"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0656605230023"
+    },
+    {
+      "label": "其他版本",
+      "value": "22, a Million [12 inch Analog] （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/26854795/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "kind": "movie",
+  "sourceId": "1309046",
+  "title": "V字仇杀队",
+  "originalTitle": null,
+  "year": null,
+  "coverPath": "covers/movie/1309046.png",
+  "coverUrl": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+  "doubanUrl": "https://movie.douban.com/subject/1309046/",
+  "detailUrl": "/movie/1309046",
+  "listSummary": null,
+  "rating": null,
+  "markedAt": "",
+  "estimatedMarkedAtRange": {
+    "start": "2013-05-29",
+    "end": "2013-06-15"
+  },
+  "comment": null,
+  "metadata": [],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1309046/"
+    }
+  ]
+}

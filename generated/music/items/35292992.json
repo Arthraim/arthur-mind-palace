@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "35292992",
+  "title": "冀西南林路行",
+  "originalTitle": null,
+  "year": "2020",
+  "coverPath": "covers/music/35292992.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33802807.jpg",
+  "doubanUrl": "https://music.douban.com/subject/35292992/",
+  "detailUrl": "/music/35292992",
+  "listSummary": "万能青年旅店 / 2020-12-22 / 专辑 / CD / 摇滚",
+  "rating": 4,
+  "markedAt": "2020-12-27",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "冀西南林路行"
+    },
+    {
+      "label": "又名",
+      "value": "Inside The Cable Temple"
+    },
+    {
+      "label": "表演者",
+      "value": "万能青年旅店"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2020-12-22"
+    },
+    {
+      "label": "出版者",
+      "value": "独立出品"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/35292992/"
+    }
+  ]
+}

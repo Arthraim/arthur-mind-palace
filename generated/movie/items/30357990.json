@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "30357990",
+  "title": "乐队的夏天 第一季",
+  "originalTitle": "(2019)",
+  "year": "2019",
+  "coverPath": "covers/movie/30357990.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556110785.webp",
+  "doubanUrl": "https://movie.douban.com/subject/30357990/",
+  "detailUrl": "/movie/30357990",
+  "listSummary": "2019-05-25(中国大陆) / 马东 / 吴青峰 / 张亚东 / 高晓松 / 乔杉 / 欧阳娜娜 / 大张伟 / 老狼 / 白岩松 / 李宇春 / 中国大陆 / 李楠楠 / 陈雨璇 / 王雪 / 124分钟 / 音乐 / 真人秀 / 汉语普通话",
+  "rating": 5,
+  "markedAt": "2019-08-04",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2019)"
+    },
+    {
+      "label": "Title",
+      "value": "乐队的夏天 第一季"
+    },
+    {
+      "label": "Year",
+      "value": "2019"
+    },
+    {
+      "label": "导演",
+      "value": "李楠楠 / 王雪 / 陈雨璇"
+    },
+    {
+      "label": "主演",
+      "value": "马东 / 吴青峰 / 张亚东 / 高晓松 / 乔杉 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "音乐 / 真人秀"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2019-05-25(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "12"
+    },
+    {
+      "label": "单集片长",
+      "value": "124分钟"
+    },
+    {
+      "label": "又名",
+      "value": "The Big Band"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt35107030"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/30357990/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt35107030/"
+    }
+  ]
+}

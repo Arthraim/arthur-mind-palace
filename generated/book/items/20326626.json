@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "20326626",
+  "title": "少年Pi的奇幻漂流",
+  "originalTitle": null,
+  "year": "2012",
+  "coverPath": "covers/book/20326626.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s24223033.jpg",
+  "doubanUrl": "https://book.douban.com/subject/20326626/",
+  "detailUrl": "/book/20326626",
+  "listSummary": "[加拿大] 扬·马特尔 / 姚媛 / 译林出版社 / 2012-11 / 35.00元",
+  "rating": 5,
+  "markedAt": "2012-12-18",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "少年Pi的奇幻漂流"
+    },
+    {
+      "label": "作者",
+      "value": "[加拿大] 扬·马特尔"
+    },
+    {
+      "label": "译者",
+      "value": "姚媛"
+    },
+    {
+      "label": "出版社",
+      "value": "译林出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2012-11"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787544731706"
+    },
+    {
+      "label": "页数",
+      "value": "吴昂"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "35.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Life of Pi"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/20326626/"
+    }
+  ]
+}

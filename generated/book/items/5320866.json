@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "5320866",
+  "title": "重来",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/book/5320866.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s4502451.jpg",
+  "doubanUrl": "https://book.douban.com/subject/5320866/",
+  "detailUrl": "/book/5320866",
+  "listSummary": "[美] 贾森·弗里德、[丹] 戴维·海涅迈尔·汉森 / 李瑜偲 / 中信出版社 / 2010-10 / 36.00元",
+  "rating": 5,
+  "markedAt": "2013-07-24",
+  "estimatedMarkedAtRange": null,
+  "comment": "其中某一条激发了你的某些思考甚至改变了一些想法就是胜利了",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "重来"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 贾森·弗里德 / [丹] 戴维·海涅迈尔·汉森"
+    },
+    {
+      "label": "译者",
+      "value": "李瑜偲"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2010-10"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508623610"
+    },
+    {
+      "label": "页数",
+      "value": "236"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "36.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Rework"
+    },
+    {
+      "label": "丛书",
+      "value": "重来"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/5320866/"
+    }
+  ]
+}

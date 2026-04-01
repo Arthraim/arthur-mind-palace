@@ -1,0 +1,76 @@
+{
+  "kind": "movie",
+  "sourceId": "27098365",
+  "title": "超人王朝 Reign of the Supermen",
+  "originalTitle": "(2019)",
+  "year": "2019",
+  "coverPath": "covers/movie/27098365.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545769995.webp",
+  "doubanUrl": "https://movie.douban.com/subject/27098365/",
+  "detailUrl": "/movie/27098365",
+  "listSummary": "2019-01-10(美国) / 杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 帕特里克·法比安 / 查尔斯·哈尔福德 / 卡梅隆·莫纳汉 / 克莱斯·威廉斯 / 罗莎里奥·道森 / 内森·菲利安 / 克里斯托弗·戈勒姆 / 美国 / 山姆·刘 / 87分钟 / 超人王朝 / 动作 / 科幻 / 动画 / 詹姆斯·克里格 James Krieg / 蒂姆·谢里丹 Tim Sheridan / 英语",
+  "rating": 3,
+  "markedAt": "2021-02-17",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2019)"
+    },
+    {
+      "label": "Title",
+      "value": "超人王朝 Reign of the Supermen"
+    },
+    {
+      "label": "Year",
+      "value": "2019"
+    },
+    {
+      "label": "导演",
+      "value": "山姆·刘"
+    },
+    {
+      "label": "编剧",
+      "value": "詹姆斯·克莉格 / 蒂姆·谢里丹"
+    },
+    {
+      "label": "主演",
+      "value": "杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 帕特里克·法比安 / 查尔斯·哈尔福德 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 动画"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2019-01-10(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "87分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7167686"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/27098365/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7167686/"
+    }
+  ]
+}

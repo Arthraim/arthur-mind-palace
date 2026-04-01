@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "10484041",
+  "title": "横道世之介",
+  "originalTitle": "(2013)",
+  "year": "2013",
+  "coverPath": "covers/movie/10484041.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2021127692.webp",
+  "doubanUrl": "https://movie.douban.com/subject/10484041/",
+  "detailUrl": "/movie/10484041",
+  "listSummary": "2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
+  "rating": 5,
+  "markedAt": "2018-05-20",
+  "estimatedMarkedAtRange": null,
+  "comment": "做这样的一个人多好",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2013)"
+    },
+    {
+      "label": "Title",
+      "value": "横道世之介"
+    },
+    {
+      "label": "Year",
+      "value": "2013"
+    },
+    {
+      "label": "导演",
+      "value": "冲田修一"
+    },
+    {
+      "label": "编剧",
+      "value": "冲田修一 / 前田司郎 / 吉田修一"
+    },
+    {
+      "label": "主演",
+      "value": "高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2013-02-23(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "160分钟"
+    },
+    {
+      "label": "又名",
+      "value": "那年遇上世之介(港) / A Story of Yonosuke"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2151915"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/10484041/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2151915/"
+    }
+  ]
+}

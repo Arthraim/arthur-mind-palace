@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1305869",
+  "title": "意大利任务 The Italian Job",
+  "originalTitle": "(1969)",
+  "year": "1969",
+  "coverPath": "covers/movie/1305869.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1648539524.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1305869/",
+  "detailUrl": "/movie/1305869",
+  "listSummary": "1969-06-05(英国) / 迈克尔·凯恩 / 诺埃尔·考沃德 / 班尼·希尔 / 雷夫·瓦朗 / 托尼·贝克利 / 罗萨诺·布拉齐 / 玛格丽特·布赖 / 艾琳·汉铎 / 约翰·勒·梅苏里尔 / Fred Emney / 英国 / 彼得·克林逊 / 99 分钟 / 意大利任务 / 喜剧 / 动作 / 犯罪 / 特洛伊·肯尼迪-马丁 Troy Kennedy-Martin / 英语 / 意大利语",
+  "rating": 4,
+  "markedAt": "2021-09-02",
+  "estimatedMarkedAtRange": null,
+  "comment": "老板从三辆mini出发开始看就可以了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1969)"
+    },
+    {
+      "label": "Title",
+      "value": "意大利任务 The Italian Job"
+    },
+    {
+      "label": "Year",
+      "value": "1969"
+    },
+    {
+      "label": "导演",
+      "value": "彼得·克林逊"
+    },
+    {
+      "label": "编剧",
+      "value": "特洛伊·肯尼迪-马丁"
+    },
+    {
+      "label": "主演",
+      "value": "迈克尔·凯恩 / 诺埃尔·考沃德 / 班尼·希尔 / 雷夫·瓦朗 / 托尼·贝克利 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动作 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 意大利语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1969-06-05(英国)"
+    },
+    {
+      "label": "片长",
+      "value": "99 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "奇谋妙计劫金砖(港) / 大淘金(台) / 意大利计划"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0064505"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1305869/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0064505/"
+    }
+  ]
+}

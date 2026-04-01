@@ -1,0 +1,72 @@
+{
+  "kind": "book",
+  "sourceId": "26302533",
+  "title": "编程珠玑（第2版•修订版）",
+  "originalTitle": null,
+  "year": "2014",
+  "coverPath": "covers/book/26302533.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s27984539.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26302533/",
+  "detailUrl": "/book/26302533",
+  "listSummary": "[美] Jon Bentley / 黄倩、钱丽艳、刘田 审校 / 人民邮电出版社 / 2014-12 / 39",
+  "rating": 4,
+  "markedAt": "2019-10-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "没必要过于深入每一个具体问题, 除非他帮助你了解作者具体想表达什么. 是一本越读越厚的书",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "编程珠玑（第2版•修订版）"
+    },
+    {
+      "label": "作者",
+      "value": "[美] Jon Bentley"
+    },
+    {
+      "label": "译者",
+      "value": "黄倩 / 钱丽艳 / 刘田 审校"
+    },
+    {
+      "label": "出版社",
+      "value": "人民邮电出版社"
+    },
+    {
+      "label": "出品方",
+      "value": "异步图书"
+    },
+    {
+      "label": "出版年",
+      "value": "2014-12"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787115357618"
+    },
+    {
+      "label": "页数",
+      "value": "280"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "39"
+    },
+    {
+      "label": "原作名",
+      "value": "Programming Pearls"
+    },
+    {
+      "label": "丛书",
+      "value": "编程珠玑（修订版）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26302533/"
+    }
+  ]
+}

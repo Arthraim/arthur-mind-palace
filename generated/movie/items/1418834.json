@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1418834",
+  "title": "断背山 Brokeback Mountain",
+  "originalTitle": "(2005)",
+  "year": "2005",
+  "coverPath": "covers/movie/1418834.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169104127.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1418834/",
+  "detailUrl": "/movie/1418834",
+  "listSummary": "2005-09-02(威尼斯电影节) / 2006-01-06(加拿大) / 2006-01-13(美国) / 希斯·莱杰 / 杰克·吉伦哈尔 / 米歇尔·威廉姆斯 / 安妮·海瑟薇 / 凯特·玛拉 / 兰迪·奎德 / 琳达·卡德里尼 / 安娜·法瑞丝 / 格拉汉姆·贝克尔 / 斯科特·迈克尔·坎贝尔 / 美国 / 加拿大 / www.brokebackmountain.com / 李安 / 134分钟 / 断背山 / 剧情 / 爱情 / 同性 / 家庭 / 拉里·麦克穆特瑞 Larry McMurtry / 黛安娜·奥撒纳 Diana Ossana / 安妮·普鲁 Annie Proulx / 英语",
+  "rating": 5,
+  "markedAt": "2026-03-02",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2005)"
+    },
+    {
+      "label": "Title",
+      "value": "断背山 Brokeback Mountain"
+    },
+    {
+      "label": "Year",
+      "value": "2005"
+    },
+    {
+      "label": "导演",
+      "value": "李安"
+    },
+    {
+      "label": "编剧",
+      "value": "拉里·麦克穆特瑞 / 黛安娜·奥撒纳 / 安妮·普鲁"
+    },
+    {
+      "label": "主演",
+      "value": "希斯·莱杰 / 杰克·吉伦哈尔 / 米歇尔·威廉姆斯 / 安妮·海瑟薇 / 凯特·玛拉 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 同性 / 家庭"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 加拿大"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2005-09-02(威尼斯电影节) / 2006-01-06(加拿大) / 2006-01-13(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "134分钟"
+    },
+    {
+      "label": "又名",
+      "value": "断臂山 / BBM"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0388795"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1418834/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0388795/"
+    }
+  ]
+}

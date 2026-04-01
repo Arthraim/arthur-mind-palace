@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1291580",
+  "title": "杀死比尔 Kill Bill: Vol. 1",
+  "originalTitle": "(2003)",
+  "year": "2003",
+  "coverPath": "covers/movie/1291580.webp",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493495946.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1291580/",
+  "detailUrl": "/movie/1291580",
+  "listSummary": "2003-09-29(好莱坞首映) / 2003-10-10(美国) / 乌玛·瑟曼 / 刘玉玲 / 薇薇卡·福克斯 / 达丽尔·汉纳 / 大卫·卡拉丁 / 迈克尔·马德森 / 朱莉·德赖弗斯 / 栗山千明 / 千叶真一 / 刘家辉 / 美国 / 昆汀·塔伦蒂诺 / 111分钟 / 杀死比尔 / 动作 / 犯罪 / 惊悚 / 昆汀·塔伦蒂诺 Quentin Tarantino / 乌玛·瑟曼 Uma Thurman / 英语 / 日语 / 法语",
+  "rating": 5,
+  "markedAt": "2022-09-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2003)"
+    },
+    {
+      "label": "Title",
+      "value": "杀死比尔 Kill Bill: Vol. 1"
+    },
+    {
+      "label": "Year",
+      "value": "2003"
+    },
+    {
+      "label": "导演",
+      "value": "昆汀·塔伦蒂诺"
+    },
+    {
+      "label": "编剧",
+      "value": "昆汀·塔伦蒂诺 / 乌玛·瑟曼"
+    },
+    {
+      "label": "主演",
+      "value": "乌玛·瑟曼 / 刘玉玲 / 薇薇卡·福克斯 / 达丽尔·汉纳 / 大卫·卡拉丁 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 日语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2003-09-29(好莱坞首映) / 2003-10-10(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "111分钟"
+    },
+    {
+      "label": "又名",
+      "value": "标杀令(港) / 追杀比尔(台) / 杀死比尔：第一卷 / 谋杀比尔"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0266697"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1291580/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0266697/"
+    }
+  ]
+}

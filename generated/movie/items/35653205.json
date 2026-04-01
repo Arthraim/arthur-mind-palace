@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35653205",
+  "title": "人生路不熟",
+  "originalTitle": "(2023)",
+  "year": "2023",
+  "coverPath": "covers/movie/35653205.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.webp",
+  "doubanUrl": "https://movie.douban.com/subject/35653205/",
+  "detailUrl": "/movie/35653205",
+  "listSummary": "2023-04-28(中国大陆) / 乔杉 / 范丞丞 / 马丽 / 张婧仪 / 常远 / 田雨 / 尹正 / 小爱 / 张磊 / 张熙然 / 中国大陆 / 易小星 / 100分钟 / 剧情 / 喜剧 / 周运海 Yunhai Zhou / 姜坤 Kun Jiang / 侯锦涛 Jintao Hou / 王超然 Chaoran Wang / 辛明嫣 Mingyan Xin / 易小星 Joshua / 汉语普通话",
+  "rating": 2,
+  "markedAt": "2023-05-11",
+  "estimatedMarkedAtRange": null,
+  "comment": "突然不认可了，突然又认可了",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2023)"
+    },
+    {
+      "label": "Title",
+      "value": "人生路不熟"
+    },
+    {
+      "label": "Year",
+      "value": "2023"
+    },
+    {
+      "label": "导演",
+      "value": "易小星"
+    },
+    {
+      "label": "编剧",
+      "value": "周运海 / 姜坤 / 侯锦涛 / 王超然 / 辛明嫣 / 更多..."
+    },
+    {
+      "label": "主演",
+      "value": "乔杉 / 范丞丞 / 马丽 / 张婧仪 / 常远 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2023-04-28(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "100分钟"
+    },
+    {
+      "label": "又名",
+      "value": "年少有为 / Godspeed"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt26935962"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35653205/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt26935962/"
+    }
+  ]
+}

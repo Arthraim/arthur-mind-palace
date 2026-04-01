@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1958120",
+  "title": "格鲁夫给经理人的第一课",
+  "originalTitle": null,
+  "year": "2007",
+  "coverPath": "covers/book/1958120.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1980824.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1958120/",
+  "detailUrl": "/book/1958120",
+  "listSummary": "[美] 安迪•格鲁夫 / 巫宗融 / 中信出版社 / 2007-1 / 28.00元",
+  "rating": 4,
+  "markedAt": "2020-03-31",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "格鲁夫给经理人的第一课"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 安迪•格鲁夫"
+    },
+    {
+      "label": "译者",
+      "value": "巫宗融"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2007-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508607665"
+    },
+    {
+      "label": "页数",
+      "value": "191"
+    },
+    {
+      "label": "定价",
+      "value": "28.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1958120/"
+    }
+  ]
+}

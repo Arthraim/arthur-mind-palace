@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1920523",
+  "title": "红楼梦 紅樓夢",
+  "originalTitle": "(1962)",
+  "year": "1962",
+  "coverPath": "covers/movie/1920523.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327687018.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1920523/",
+  "detailUrl": "/movie/1920523",
+  "listSummary": "1962-08-03(中国香港) / 乐蒂 / 任洁 / 丁宁 / 丁红 / 杜娟 / 朱少泉 / 葛萍 / 周瑾 / 赵国起 / 凌波 / 中国香港 / 袁秋枫 / 101分钟 / 红楼梦 / 爱情 / 古装 / 戏曲 / 歌舞 / 易凡 Fan Yi / 汉语普通话",
+  "rating": 3,
+  "markedAt": "2025-12-12",
+  "estimatedMarkedAtRange": null,
+  "comment": "最通俗的版本了，任何复杂的部分都解读成了最世俗的方式改写台词，毫无趣味。演员的台词也念的硬邦邦的。",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1962)"
+    },
+    {
+      "label": "Title",
+      "value": "红楼梦 紅樓夢"
+    },
+    {
+      "label": "Year",
+      "value": "1962"
+    },
+    {
+      "label": "导演",
+      "value": "袁秋枫"
+    },
+    {
+      "label": "编剧",
+      "value": "易凡"
+    },
+    {
+      "label": "主演",
+      "value": "乐蒂 / 任洁 / 丁宁 / 丁红 / 杜娟"
+    },
+    {
+      "label": "类型",
+      "value": "爱情 / 歌舞 / 古装 / 戏曲"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "1962-08-03(中国香港)"
+    },
+    {
+      "label": "片长",
+      "value": "101分钟"
+    },
+    {
+      "label": "又名",
+      "value": "The Dream of the Red Chamber"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0452024"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1920523/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0452024/"
+    }
+  ]
+}

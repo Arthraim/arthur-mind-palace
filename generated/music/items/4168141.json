@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "4168141",
+  "title": "方大同 Timeless演唱会",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/music/4168141.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4077328.jpg",
+  "doubanUrl": "https://music.douban.com/subject/4168141/",
+  "detailUrl": "/music/4168141",
+  "listSummary": "方大同 / 2009-11-27 / 专辑 / CD / 流行",
+  "rating": 3,
+  "markedAt": "2009-12-14",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "方大同 Timeless演唱会"
+    },
+    {
+      "label": "又名",
+      "value": "Live in Hong Kong 2009"
+    },
+    {
+      "label": "表演者",
+      "value": "方大同"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2009-11-27"
+    },
+    {
+      "label": "出版者",
+      "value": "华纳唱片"
+    },
+    {
+      "label": "唱片数",
+      "value": "2"
+    },
+    {
+      "label": "条形码",
+      "value": "5051865716525"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/4168141/"
+    }
+  ]
+}

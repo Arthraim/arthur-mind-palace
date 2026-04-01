@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "1027528",
+  "title": "Borland传奇",
+  "originalTitle": null,
+  "year": "2004",
+  "coverPath": "covers/book/1027528.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s1241938.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1027528/",
+  "detailUrl": "/book/1027528",
+  "listSummary": "李维 / 水利电力出版社 / 2004-6-1 / 29.00元",
+  "rating": 4,
+  "markedAt": "2020-12-10",
+  "estimatedMarkedAtRange": null,
+  "comment": "现在看可能连前传都称不上了",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Borland传奇"
+    },
+    {
+      "label": "作者",
+      "value": "李维"
+    },
+    {
+      "label": "出版社",
+      "value": "水利电力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2004-6-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787120000561"
+    },
+    {
+      "label": "页数",
+      "value": "296"
+    },
+    {
+      "label": "装帧",
+      "value": "平装(无盘)"
+    },
+    {
+      "label": "定价",
+      "value": "29.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1027528/"
+    }
+  ]
+}

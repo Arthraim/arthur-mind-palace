@@ -1,0 +1,72 @@
+{
+  "kind": "music",
+  "sourceId": "3821598",
+  "title": "Timeless 可啦思刻",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/music/3821598.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s27078161.jpg",
+  "doubanUrl": "https://music.douban.com/subject/3821598/",
+  "detailUrl": "/music/3821598",
+  "listSummary": "方大同 / 2009-08-11 / 自选集 / CD / 放克/灵歌/R&B",
+  "rating": 5,
+  "markedAt": "2009-11-16",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Timeless 可啦思刻"
+    },
+    {
+      "label": "又名",
+      "value": "方大同 2009全新大碟 自選輯 / 可啦思刻 / Timeless"
+    },
+    {
+      "label": "表演者",
+      "value": "方大同"
+    },
+    {
+      "label": "流派",
+      "value": "放克/灵歌/R&B"
+    },
+    {
+      "label": "专辑类型",
+      "value": "自选集"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2009-08-11"
+    },
+    {
+      "label": "出版者",
+      "value": "华纳唱片"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "5051865514428"
+    },
+    {
+      "label": "ISRC(中国)",
+      "value": "CNF230933000"
+    },
+    {
+      "label": "其他版本",
+      "value": "Timeless 可啦思刻 Taipei Tour 2009典藏限定版 （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/3821598/"
+    }
+  ]
+}

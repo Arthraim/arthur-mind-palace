@@ -1,0 +1,56 @@
+{
+  "kind": "book",
+  "sourceId": "17813067",
+  "title": "Batman",
+  "originalTitle": null,
+  "year": "1988",
+  "coverPath": "covers/book/17813067.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29711623.jpg",
+  "doubanUrl": "https://book.douban.com/subject/17813067/",
+  "detailUrl": "/book/17813067",
+  "listSummary": "Alan Moore / DC Comics / 1988 / GBP 4.99",
+  "rating": 5,
+  "markedAt": "2016-07-16",
+  "estimatedMarkedAtRange": null,
+  "comment": "两个人就是一会事",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Batman"
+    },
+    {
+      "label": "作者",
+      "value": "Alan Moore"
+    },
+    {
+      "label": "出版社",
+      "value": "DC Comics"
+    },
+    {
+      "label": "出版年",
+      "value": "1988"
+    },
+    {
+      "label": "ISBN",
+      "value": "9781852860820"
+    },
+    {
+      "label": "页数",
+      "value": "48"
+    },
+    {
+      "label": "装帧",
+      "value": "Paperback"
+    },
+    {
+      "label": "定价",
+      "value": "GBP 4.99"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/17813067/"
+    }
+  ]
+}

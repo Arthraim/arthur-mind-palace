@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "1945014",
+  "title": "变形人",
+  "originalTitle": null,
+  "year": "2007",
+  "coverPath": "covers/book/1945014.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s1951287.jpg",
+  "doubanUrl": "https://book.douban.com/subject/1945014/",
+  "detailUrl": "/book/1945014",
+  "listSummary": "那多 / 接力出版社 / 2007-1-1 / 13.80元",
+  "rating": 3,
+  "markedAt": "2011-04-18",
+  "estimatedMarkedAtRange": null,
+  "comment": "虽然出版晚，不过应该是那多早起的作品，因为后来很多作品都提到过水笙夫妇。不过我有个问题啊，棒子一头是A，一头是B。蚯蚓是B，蟑螂和猫是A，A保持了自己的形态拥有了B的能力。水笙是A那多是B，可是A保持了B的形态拥有了A的能力 - - 这是神马神奇的棒子啊。。。",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "变形人"
+    },
+    {
+      "label": "作者",
+      "value": "那多"
+    },
+    {
+      "label": "出版社",
+      "value": "接力出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2007-1-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787807323303"
+    },
+    {
+      "label": "页数",
+      "value": "169"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "13.80元"
+    },
+    {
+      "label": "丛书",
+      "value": "那多灵异手记"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/1945014/"
+    }
+  ]
+}

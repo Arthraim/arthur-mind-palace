@@ -1,0 +1,48 @@
+{
+  "kind": "book",
+  "sourceId": "3662219",
+  "title": "Silverlight 2 完美征程",
+  "originalTitle": null,
+  "year": "2009",
+  "coverPath": "covers/book/3662219.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s6011059.jpg",
+  "doubanUrl": "https://book.douban.com/subject/3662219/",
+  "detailUrl": "/book/3662219",
+  "listSummary": "李会军 / 2009-4 / 78.00元",
+  "rating": 5,
+  "markedAt": "2009-08-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "的确是好书",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Silverlight 2 完美征程"
+    },
+    {
+      "label": "作者",
+      "value": "李会军"
+    },
+    {
+      "label": "出版年",
+      "value": "2009-4"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787121085864"
+    },
+    {
+      "label": "页数",
+      "value": "536"
+    },
+    {
+      "label": "定价",
+      "value": "78.00元"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/3662219/"
+    }
+  ]
+}

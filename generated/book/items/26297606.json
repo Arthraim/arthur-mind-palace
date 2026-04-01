@@ -1,0 +1,68 @@
+{
+  "kind": "book",
+  "sourceId": "26297606",
+  "title": "从0到1",
+  "originalTitle": null,
+  "year": "2015",
+  "coverPath": "covers/book/26297606.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28299265.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26297606/",
+  "detailUrl": "/book/26297606",
+  "listSummary": "[美] 彼得·蒂尔、[美] 布莱克·马斯特斯 / 高玉芳 / 中信出版社 / 2015-1-1 / 45.00元",
+  "rating": 4,
+  "markedAt": "2016-01-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "黑了精益创业，又黑了 remote，看书看得我都纠结了",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "从0到1"
+    },
+    {
+      "label": "作者",
+      "value": "[美] 彼得·蒂尔 / [美] 布莱克·马斯特斯"
+    },
+    {
+      "label": "译者",
+      "value": "高玉芳"
+    },
+    {
+      "label": "出版社",
+      "value": "中信出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2015-1-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787508649719"
+    },
+    {
+      "label": "页数",
+      "value": "260"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "45.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Zero to One： Notes on Startups, or How to Build the Future"
+    },
+    {
+      "label": "丛书",
+      "value": "奇点系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26297606/"
+    }
+  ]
+}

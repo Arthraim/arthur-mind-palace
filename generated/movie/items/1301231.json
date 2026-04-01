@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1301231",
+  "title": "电话谋杀案 Dial M for Murder",
+  "originalTitle": "(1954)",
+  "year": "1954",
+  "coverPath": "covers/movie/1301231.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1205111193.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1301231/",
+  "detailUrl": "/movie/1301231",
+  "listSummary": "1954-05-29(美国) / 雷·米兰德 / 格蕾丝·凯利 / 罗伯特·卡明斯 / 约翰·威廉姆斯 / 安东尼·道森 / 利奥·布里特 / 帕特里克·艾伦 / 乔治·利 / 罗温·休斯 / 盖·唐尔曼 / 美国 / 阿尔弗雷德·希区柯克 / 105分钟 / 88分钟(葡萄牙) / 电话谋杀案 / 犯罪 / 悬疑 / 惊悚 / 弗雷德里克·诺特 Frederick Knott / 英语",
+  "rating": 5,
+  "markedAt": "2024-01-18",
+  "estimatedMarkedAtRange": null,
+  "comment": "几乎是一个舞台剧，经精彩",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(1954)"
+    },
+    {
+      "label": "Title",
+      "value": "电话谋杀案 Dial M for Murder"
+    },
+    {
+      "label": "Year",
+      "value": "1954"
+    },
+    {
+      "label": "导演",
+      "value": "阿尔弗雷德·希区柯克"
+    },
+    {
+      "label": "编剧",
+      "value": "弗雷德里克·诺特"
+    },
+    {
+      "label": "主演",
+      "value": "雷·米兰德 / 格蕾丝·凯利 / 罗伯特·卡明斯 / 约翰·威廉姆斯 / 安东尼·道森 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1954-05-29(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "105分钟 / 88分钟(葡萄牙)"
+    },
+    {
+      "label": "又名",
+      "value": "电话情杀案"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0046912"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1301231/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0046912/"
+    }
+  ]
+}

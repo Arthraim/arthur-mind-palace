@@ -1,0 +1,64 @@
+{
+  "kind": "book",
+  "sourceId": "5299764",
+  "title": "1984",
+  "originalTitle": null,
+  "year": "2010",
+  "coverPath": "covers/book/5299764.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4542846.jpg",
+  "doubanUrl": "https://book.douban.com/subject/5299764/",
+  "detailUrl": "/book/5299764",
+  "listSummary": "[英] 乔治·奥威尔 / 董乐山、傅惟慈 / 万卷出版公司 / 2010-10 / 25.00元",
+  "rating": 4,
+  "markedAt": "2013-07-16",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "1984"
+    },
+    {
+      "label": "作者",
+      "value": "[英] 乔治·奥威尔"
+    },
+    {
+      "label": "译者",
+      "value": "董乐山 / 傅惟慈"
+    },
+    {
+      "label": "出版社",
+      "value": "万卷出版公司"
+    },
+    {
+      "label": "出版年",
+      "value": "2010-10"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787547011607"
+    },
+    {
+      "label": "页数",
+      "value": "338"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "25.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Nineteen Eighty-Four"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/5299764/"
+    }
+  ]
+}

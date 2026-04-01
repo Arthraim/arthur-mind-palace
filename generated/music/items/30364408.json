@@ -1,0 +1,56 @@
+{
+  "kind": "music",
+  "sourceId": "30364408",
+  "title": "Go Slow",
+  "originalTitle": null,
+  "year": "2018",
+  "coverPath": "covers/music/30364408.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29971656.jpg",
+  "doubanUrl": "https://music.douban.com/subject/30364408/",
+  "detailUrl": "/music/30364408",
+  "listSummary": "Deca Joins / 2018-11-14 / EP / CD / 摇滚",
+  "rating": 4,
+  "markedAt": "2019-09-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Go Slow"
+    },
+    {
+      "label": "表演者",
+      "value": "Deca Joins"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "EP"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2018-11-14"
+    },
+    {
+      "label": "出版者",
+      "value": "StreetVoice / Airhead Records"
+    },
+    {
+      "label": "其他版本",
+      "value": "Go Slow （全部）"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/30364408/"
+    }
+  ]
+}

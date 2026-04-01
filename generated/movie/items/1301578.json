@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "1301578",
+  "title": "十一罗汉 Ocean's Eleven",
+  "originalTitle": "(2001)",
+  "year": "2001",
+  "coverPath": "covers/movie/1301578.webp",
+  "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1973370351.webp",
+  "doubanUrl": "https://movie.douban.com/subject/1301578/",
+  "detailUrl": "/movie/1301578",
+  "listSummary": "2001-12-07(美国) / 乔治·克鲁尼 / 布拉德·皮特 / 马特·达蒙 / 朱莉娅·罗伯茨 / 安迪·加西亚 / 卡西·阿弗莱克 / 伯尼·麦克 / 秦少波 / 唐·钱德尔 / 斯科特·凯恩 / 美国 / 史蒂文·索德伯格 / 116 分钟 / 十一罗汉 / 犯罪 / 惊悚 / Ted Griffin / Harry Brown / Charles Lederer / 英语 / 意大利语 / 粤语",
+  "rating": 4,
+  "markedAt": "2018-07-01",
+  "estimatedMarkedAtRange": null,
+  "comment": "读书时候看过，重温一下，好看",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "(2001)"
+    },
+    {
+      "label": "Title",
+      "value": "十一罗汉 Ocean's Eleven"
+    },
+    {
+      "label": "Year",
+      "value": "2001"
+    },
+    {
+      "label": "导演",
+      "value": "史蒂文·索德伯格"
+    },
+    {
+      "label": "编剧",
+      "value": "泰德·格里芬 / 哈利·布朗 / 查尔斯·莱德勒"
+    },
+    {
+      "label": "主演",
+      "value": "乔治·克鲁尼 / 布拉德·皮特 / 马特·达蒙 / 朱莉娅·罗伯茨 / 安迪·加西亚 / 更多..."
+    },
+    {
+      "label": "类型",
+      "value": "惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 意大利语 / 粤语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2001-12-07(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "116 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "瞒天过海(台) / 盗海豪情(港) / 十一王牌 / 赌场劫案 / 11罗汉 / 盗海11侠 / 江洋大盗"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0240772"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/1301578/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0240772/"
+    }
+  ]
+}

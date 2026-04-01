@@ -1,0 +1,64 @@
+{
+  "kind": "music",
+  "sourceId": "2296457",
+  "title": "For Emma, Forever Ago",
+  "originalTitle": null,
+  "year": "2008",
+  "coverPath": "covers/music/2296457.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s2884787.jpg",
+  "doubanUrl": "https://music.douban.com/subject/2296457/",
+  "detailUrl": "/music/2296457",
+  "listSummary": "Bon Iver / 2008-02-19 / 专辑 / Vinyl / 民谣",
+  "rating": 5,
+  "markedAt": "2026-03-01",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "For Emma, Forever Ago"
+    },
+    {
+      "label": "又名",
+      "value": "献给艾玛"
+    },
+    {
+      "label": "表演者",
+      "value": "Bon Iver"
+    },
+    {
+      "label": "流派",
+      "value": "民谣"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "Vinyl"
+    },
+    {
+      "label": "发行时间",
+      "value": "2008-02-19"
+    },
+    {
+      "label": "出版者",
+      "value": "Jagjaguwar"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "0652637280920"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/2296457/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "music",
+  "sourceId": "27067035",
+  "title": "浴室",
+  "originalTitle": null,
+  "year": "2017",
+  "coverPath": "covers/music/27067035.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29473026.jpg",
+  "doubanUrl": "https://music.douban.com/subject/27067035/",
+  "detailUrl": "/music/27067035",
+  "listSummary": "Deca joins / 2017-06-08 / 专辑 / CD / 摇滚",
+  "rating": 4,
+  "markedAt": "2019-09-09",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "浴室"
+    },
+    {
+      "label": "又名",
+      "value": "Bathroom"
+    },
+    {
+      "label": "表演者",
+      "value": "Deca joins"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2017-06-08"
+    },
+    {
+      "label": "出版者",
+      "value": "Airhead Records"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/27067035/"
+    }
+  ]
+}
