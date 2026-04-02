@@ -2,13 +2,13 @@
   "kind": "movie",
   "sourceId": "1309046",
   "title": "V字仇杀队",
-  "originalTitle": null,
-  "year": null,
-  "coverPath": "covers/movie/1309046.png",
-  "coverUrl": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+  "originalTitle": "V for Vendetta",
+  "year": "2005",
+  "coverPath": "covers/movie/1309046.jpg",
+  "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Vforvendettamov.jpg",
   "doubanUrl": "https://movie.douban.com/subject/1309046/",
   "detailUrl": "/movie/1309046",
-  "listSummary": null,
+  "listSummary": "2006-03-17(美国) / James McTeigue / Hugo Weaving / Natalie Portman / Rupert Graves / 美国 / 英国 / 德国 / 132分钟 / 动作 / 剧情 / 科幻 / 英语 / 法语 / 拉丁语 / 西班牙语",
   "rating": null,
   "markedAt": "",
   "estimatedMarkedAtRange": {
@@ -16,11 +16,64 @@
     "end": "2013-06-15"
   },
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "V字仇杀队"
+    },
+    {
+      "label": "Original Title",
+      "value": "V for Vendetta"
+    },
+    {
+      "label": "Year",
+      "value": "2005"
+    },
+    {
+      "label": "导演",
+      "value": "James McTeigue"
+    },
+    {
+      "label": "编剧",
+      "value": "Lilly Wachowski / Lana Wachowski / David Lloyd"
+    },
+    {
+      "label": "主演",
+      "value": "Hugo Weaving / Natalie Portman / Rupert Graves"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 剧情 / 科幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国 / 德国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 法语 / 拉丁语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2006-03-17(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "132分钟"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1309046/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0434409/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/V_for_Vendetta_(film)"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 154,
+  "totalEntries": 155,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "27055133",
+      "title": "神秘组织",
+      "originalTitle": null,
+      "year": "2017",
+      "coverPath": "covers/book/27055133.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29462221.jpg",
+      "detailUrl": "/book/27055133",
+      "listSummary": "陆烨华 / 新星出版社 / 2017-6 / 35.00",
+      "rating": 5,
+      "markedAt": "2017-07-02",
+      "estimatedMarkedAtRange": null,
+      "comment": "下次写个 freestyle 吗"
+    },
     {
       "kind": "book",
       "sourceId": "1172442",
@@ -439,21 +454,6 @@
       "markedAt": "2013-12-27",
       "estimatedMarkedAtRange": null,
       "comment": "可惜没有我喜欢的角色太多的戏份，只有马承很怂的在白帝城走了一遭。书里后面的故事挺牵强的。"
-    },
-    {
-      "kind": "book",
-      "sourceId": "19965972",
-      "title": "我读书少，你可别骗我",
-      "originalTitle": null,
-      "year": "2012",
-      "coverPath": "covers/book/19965972.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s24428402.jpg",
-      "detailUrl": "/book/19965972",
-      "listSummary": "马伯庸 / 浙江大学出版社 / 2012-12 / 29.80元",
-      "rating": 4,
-      "markedAt": "2013-12-11",
-      "estimatedMarkedAtRange": null,
-      "comment": "四个故事都好神，很难说最喜欢哪一个。。。 第一个最棒吧。。。"
     }
   ]
 }

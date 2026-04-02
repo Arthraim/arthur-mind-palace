@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 154,
+  "totalEntries": 155,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "10482130",
+      "title": "任天堂传奇",
+      "originalTitle": null,
+      "year": "2012",
+      "coverPath": "covers/book/10482130.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s8908431.jpg",
+      "detailUrl": "/book/10482130",
+      "listSummary": "[美]斯隆 / 张玳 / 人民邮电出版社 / 2012-3-12 / 39.00元",
+      "rating": 2,
+      "markedAt": "2012-10-30",
+      "estimatedMarkedAtRange": null,
+      "comment": "枯燥乏味，线索混乱。要不是对题材有兴趣，鬼才会找得到乐趣。"
+    },
     {
       "kind": "book",
       "sourceId": "5363767",
@@ -439,21 +454,6 @@
       "markedAt": "2009-10-20",
       "estimatedMarkedAtRange": null,
       "comment": "我不同意你，但是支持你"
-    },
-    {
-      "kind": "book",
-      "sourceId": "1056144",
-      "title": "中的精神",
-      "originalTitle": null,
-      "year": "2003",
-      "coverPath": "covers/book/1056144.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s1068459.jpg",
-      "detailUrl": "/book/1056144",
-      "listSummary": "吴清源 / 王亦青 / 中信出版社 / 2003-09 / 24.00",
-      "rating": 5,
-      "markedAt": "2009-09-24",
-      "estimatedMarkedAtRange": null,
-      "comment": "中庸之道"
     }
   ]
 }

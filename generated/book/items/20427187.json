@@ -1,14 +1,14 @@
 {
   "kind": "book",
   "sourceId": "20427187",
-  "title": "未知图书",
+  "title": "看见",
   "originalTitle": null,
-  "year": null,
-  "coverPath": "covers/book/20427187.gif",
-  "coverUrl": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+  "year": "2013",
+  "coverPath": "covers/book/20427187.jpg",
+  "coverUrl": "https://upload.wikimedia.org/wikipedia/zh/7/71/KanjianCover.jpg",
   "doubanUrl": "https://book.douban.com/subject/20427187/",
   "detailUrl": "/book/20427187",
-  "listSummary": null,
+  "listSummary": "柴静 / 广西师范大学出版社 / 2013-01-01 / 39.80元",
   "rating": null,
   "markedAt": "",
   "estimatedMarkedAtRange": {
@@ -16,11 +16,48 @@
     "end": "2013-01-31"
   },
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "看见"
+    },
+    {
+      "label": "作者",
+      "value": "柴静"
+    },
+    {
+      "label": "出版社",
+      "value": "广西师范大学出版社"
+    },
+    {
+      "label": "出版年",
+      "value": "2013-01-01"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787549529322"
+    },
+    {
+      "label": "页数",
+      "value": "424"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "39.80元"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://book.douban.com/subject/20427187/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E7%9C%8B%E8%A6%8B_(2013%E5%B9%B4%E6%9B%B8%E7%B1%8D)"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "music",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 47,
+  "totalEntries": 48,
   "totalPages": 2,
   "entries": [
+    {
+      "kind": "music",
+      "sourceId": "3718803",
+      "title": "ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック SPECIAL EDITION",
+      "originalTitle": null,
+      "year": "2009",
+      "coverPath": "covers/music/3718803.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s4610517.jpg",
+      "detailUrl": "/music/3718803",
+      "listSummary": "鷺巣詩郎 / 2009-07-08 / 专辑 / CD / 原声",
+      "rating": 5,
+      "markedAt": "2010-08-18",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "music",
       "sourceId": "4884157",

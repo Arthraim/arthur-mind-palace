@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 154,
+  "totalEntries": 155,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "19965972",
+      "title": "我读书少，你可别骗我",
+      "originalTitle": null,
+      "year": "2012",
+      "coverPath": "covers/book/19965972.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s24428402.jpg",
+      "detailUrl": "/book/19965972",
+      "listSummary": "马伯庸 / 浙江大学出版社 / 2012-12 / 29.80元",
+      "rating": 4,
+      "markedAt": "2013-12-11",
+      "estimatedMarkedAtRange": null,
+      "comment": "四个故事都好神，很难说最喜欢哪一个。。。 第一个最棒吧。。。"
+    },
     {
       "kind": "book",
       "sourceId": "24882288",
@@ -338,13 +353,13 @@
     {
       "kind": "book",
       "sourceId": "20427187",
-      "title": "未知图书",
+      "title": "看见",
       "originalTitle": null,
-      "year": null,
-      "coverPath": "covers/book/20427187.gif",
-      "coverUrl": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+      "year": "2013",
+      "coverPath": "covers/book/20427187.jpg",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/zh/7/71/KanjianCover.jpg",
       "detailUrl": "/book/20427187",
-      "listSummary": null,
+      "listSummary": "柴静 / 广西师范大学出版社 / 2013-01-01 / 39.80元",
       "rating": null,
       "markedAt": "",
       "estimatedMarkedAtRange": {
@@ -442,21 +457,6 @@
       "markedAt": "2012-11-17",
       "estimatedMarkedAtRange": null,
       "comment": "居然看完了求续集求同人。果然比电影好很多"
-    },
-    {
-      "kind": "book",
-      "sourceId": "10482130",
-      "title": "任天堂传奇",
-      "originalTitle": null,
-      "year": "2012",
-      "coverPath": "covers/book/10482130.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s8908431.jpg",
-      "detailUrl": "/book/10482130",
-      "listSummary": "[美]斯隆 / 张玳 / 人民邮电出版社 / 2012-3-12 / 39.00元",
-      "rating": 2,
-      "markedAt": "2012-10-30",
-      "estimatedMarkedAtRange": null,
-      "comment": "枯燥乏味，线索混乱。要不是对题材有兴趣，鬼才会找得到乐趣。"
     }
   ]
 }

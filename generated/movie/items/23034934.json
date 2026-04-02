@@ -2,13 +2,13 @@
   "kind": "movie",
   "sourceId": "23034934",
   "title": "采访",
-  "originalTitle": null,
-  "year": null,
-  "coverPath": "covers/movie/23034934.png",
-  "coverUrl": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_medium.png",
+  "originalTitle": "The Interview",
+  "year": "2014",
+  "coverPath": "covers/movie/23034934.jpg",
+  "coverUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Interview_2014_poster.jpg",
   "doubanUrl": "https://movie.douban.com/subject/23034934/",
   "detailUrl": "/movie/23034934",
-  "listSummary": null,
+  "listSummary": "2014-12-24(美国) / Evan Goldberg / Seth Rogen / James Franco / Seth Rogen / Randall Park / 美国 / 112分钟 / 动作 / 冒险 / 喜剧 / 英语 / 韩语",
   "rating": null,
   "markedAt": "",
   "estimatedMarkedAtRange": {
@@ -16,11 +16,64 @@
     "end": "2014-12-30"
   },
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "采访"
+    },
+    {
+      "label": "Original Title",
+      "value": "The Interview"
+    },
+    {
+      "label": "Year",
+      "value": "2014"
+    },
+    {
+      "label": "导演",
+      "value": "Evan Goldberg / Seth Rogen"
+    },
+    {
+      "label": "编剧",
+      "value": "Dan Sterling / Seth Rogen / Evan Goldberg"
+    },
+    {
+      "label": "主演",
+      "value": "James Franco / Seth Rogen / Randall Park"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 冒险 / 喜剧"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 韩语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2014-12-24(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "112分钟"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/23034934/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2788710/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Interview"
     }
   ]
 }
