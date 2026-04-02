@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Arthur's Mind Palace favicon</title>
+  <rect width="64" height="64" rx="12" fill="#f3ede2" />
+  <text
+    x="32"
+    y="48"
+    text-anchor="middle"
+    font-family="Baskerville, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif"
+    font-size="50"
+    font-weight="700"
+    fill="#171411"
+  >
+    A
+  </text>
+</svg>
