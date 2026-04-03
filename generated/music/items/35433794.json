@@ -5,7 +5,7 @@
   "originalTitle": null,
   "year": "2021",
   "coverPath": "covers/music/35433794.jpg",
-  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s33901198.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/m/public/s33901198.jpg",
   "doubanUrl": "https://music.douban.com/subject/35433794/",
   "detailUrl": "/music/35433794",
   "listSummary": "藤井風 / 2021-05-20 / 专辑 / CD / 流行",
@@ -13,7 +13,36 @@
   "markedAt": "2026-04-01",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "HELP EVER HURT COVER [1CD+ブックレット]"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2021-05-20"
+    },
+    {
+      "label": "出版者",
+      "value": "ユニバーサルミュージック"
+    },
+    {
+      "label": "条形码",
+      "value": "4988031433461"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
