@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "33454474",
   "title": "如果声音不记得",
-  "originalTitle": "那些生命中温暖而美好的事情 / The End of Endless Love",
+  "originalTitle": "(2020)",
   "year": "2020",
   "coverPath": "covers/movie/33454474.jpg",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2627432193.jpg",
@@ -13,11 +13,68 @@
   "markedAt": "2026-04-03",
   "estimatedMarkedAtRange": null,
   "comment": "气人😡",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2020"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2020)"
+    },
+    {
+      "label": "Title",
+      "value": "如果声音不记得"
+    },
+    {
+      "label": "导演",
+      "value": "落落"
+    },
+    {
+      "label": "编剧",
+      "value": "郭敬明 / 落落"
+    },
+    {
+      "label": "主演",
+      "value": "章若楠 / 孙晨竣 / 王彦霖 / 严屹宽 / 左小青 / 张瑶 / 郭姝彤"
+    },
+    {
+      "label": "类型",
+      "value": "爱情 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2020-12-04(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "102分钟"
+    },
+    {
+      "label": "又名",
+      "value": "那些生命中温暖而美好的事情 / The End of Endless Love"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt13154372"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/33454474/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt13154372/"
     }
   ]
 }

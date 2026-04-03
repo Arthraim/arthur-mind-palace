@@ -13,7 +13,36 @@
   "markedAt": "2026-04-01",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "图说敦煌二五四窟"
+    },
+    {
+      "label": "出版年",
+      "value": "2017-11"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787108060273"
+    },
+    {
+      "label": "页数",
+      "value": "247"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "96.00元"
+    },
+    {
+      "label": "丛书",
+      "value": "敦煌研究院学术文库"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
