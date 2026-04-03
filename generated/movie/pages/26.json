@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 26,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26059437",
+      "title": "第四公民",
+      "originalTitle": "Citizenfour",
+      "year": "2014",
+      "coverPath": "covers/movie/26059437.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2225693416.webp",
+      "detailUrl": "/movie/26059437",
+      "listSummary": "2014-10-10(纽约电影节) / 2014-10-24(美国) / 爱德华·斯诺登 / 朱利安·阿桑奇 / 杰里米·斯卡希尔 / 威廉·宾尼 / 雅各布·阿佩尔鲍姆 / 伊文·麦克阿斯基尔 / 巴拉克·奥巴马 / 格兰·格林沃德 / 美国 / 德国 / 英国 / citizenfourfilm.com / 劳拉·珀特拉斯 / 114分钟 / 第四公民 / 传记 / 纪录片 / 英语 / 葡萄牙语 / 德语",
+      "rating": 5,
+      "markedAt": "2015-07-07",
+      "estimatedMarkedAtRange": null,
+      "comment": "人家一听「被窃听被监控」吓得眼睛都瞪出来了…… 我朝同学只能看一眼刚刚发在群里和公安局的QQ信息呵呵一笑"
+    },
     {
       "kind": "movie",
       "sourceId": "3592854",
@@ -439,21 +454,6 @@
       "markedAt": "2015-02-24",
       "estimatedMarkedAtRange": null,
       "comment": "每2年选一次就相当于一次自宫。。。。 这种制度那个王八蛋前辈想出来的。。。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1309220",
-      "title": "黑社会",
-      "originalTitle": "黑社會",
-      "year": "2005",
-      "coverPath": "covers/movie/1309220.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213462183.webp",
-      "detailUrl": "/movie/1309220",
-      "listSummary": "2005-10-20(中国香港) / 任达华 / 梁家辉 / 古天乐 / 林雪 / 张家辉 / 张兆辉 / 林家栋 / 王天林 / 谭炳文 / 邵美琪 / 中国香港 / 杜琪峰 / 100 分钟 / 85 分钟(删减版) / 黑社会 / 犯罪 / 剧情 / 惊悚 / 游乃海 Nai-Hoi Yau / 叶天成 Tin-Shing Yip / 汉语普通话 / 粤语",
-      "rating": 5,
-      "markedAt": "2015-02-24",
-      "estimatedMarkedAtRange": null,
-      "comment": "看看那时候的杜琪峰………… 几年前找个原版好难，现在直接可以在线看了……"
     }
   ]
 }

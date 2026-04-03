@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 13,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27099158",
+      "title": "早间新闻 第一季 The Morning Show Season 1",
+      "originalTitle": "(2019)",
+      "year": "2019",
+      "coverPath": "covers/movie/27099158.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575288133.webp",
+      "detailUrl": "/movie/27099158",
+      "listSummary": "2019-11-01(美国) / 詹妮弗·安妮斯顿 / 瑞茜·威瑟斯彭 / 比利·克鲁德普 / 史蒂夫·卡瑞尔 / 古古·姆巴塔-劳 / 马克·杜普拉斯 / 内斯特·卡博内尔 / 凯伦·皮特曼 / 蓓尔·波利 / 德赛恩·泰瑞 / 美国 / 米密·莱德 / 大卫·弗兰科尔 / 琳·谢尔顿 / 罗克珊·道森 / 塔克·盖茨 / 米歇尔·麦克拉伦 / 凯文·布雷 / 早间新闻 / 60分钟 / 早间新闻 / 剧情 / 凯瑞·依云 Kerry Ehrin / 杰伊·卡森 Jay Carson / Erica Lipez / Adam Milch / Torrey Speer / Kristen Layden / Jeff Augustin / J·C·李 J.C. Lee / Alison G. Vingiano / 英语",
+      "rating": 5,
+      "markedAt": "2020-01-24",
+      "estimatedMarkedAtRange": null,
+      "comment": "（看完最后一集前不要评价"
+    },
     {
       "kind": "movie",
       "sourceId": "1927369",
@@ -436,21 +451,6 @@
       "detailUrl": "/movie/2156528",
       "listSummary": "2007-09-24(美国) / 吉姆·帕森斯 / 约翰尼·盖尔克奇 / 凯莉·库柯 / 西蒙·赫尔伯格 / 昆瑙·内亚 / 莎拉·吉尔伯特 / DJ·考尔斯 / 考特尼·海根勒 / 莎拉尤·拉奧 / 布鲁克·朵赛 / 美国 / www.cbs.com/shows/big_bang_theory/ / 詹姆斯·伯罗斯 / 泰德·瓦斯 / 马克·森卓斯基 / 乔尔·默里 / 生活大爆炸 / 21 分钟 / 生活大爆炸 / 喜剧 / 查克·罗瑞 Chuck Lorre / 比尔·布拉迪 Bill Prady / 英语 / 意大利语",
       "rating": 5,
-      "markedAt": "2019-10-20",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "21339708",
-      "title": "生活大爆炸 第七季 The Big Bang Theory Season 7",
-      "originalTitle": "(2013)",
-      "year": "2013",
-      "coverPath": "covers/movie/21339708.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016948076.webp",
-      "detailUrl": "/movie/21339708",
-      "listSummary": "2013-09-27(美国) / 约翰尼·盖尔克奇 / 吉姆·帕森斯 / 凯莉·库柯 / 西蒙·赫尔伯格 / 昆瑙·内亚 / 马伊姆·拜力克 / 梅丽莎·劳奇 / 威尔·惠顿 / 凯文·苏斯曼 / 克里斯汀·芭伦斯基 / 美国 / www.cbs.com/shows/big_bang_theory/ / 马克·森卓斯基 / 彼得·查克斯 / 生活大爆炸 / 22分钟 / 生活大爆炸 / 喜剧 / 查克·罗瑞 Chuck Lorre / 英语",
-      "rating": null,
       "markedAt": "2019-10-20",
       "estimatedMarkedAtRange": null,
       "comment": null

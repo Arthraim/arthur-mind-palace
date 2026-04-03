@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 21,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26325320",
+      "title": "血战钢锯岭",
+      "originalTitle": "Hacksaw Ridge",
+      "year": "2016",
+      "coverPath": "covers/movie/26325320.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.webp",
+      "detailUrl": "/movie/26325320",
+      "listSummary": "2016-09-04(威尼斯电影节) / 2016-11-04(美国) / 2016-12-08(中国大陆) / 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 内森奈尔·布佐里克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 澳大利亚 / 美国 / www.hacksawridge.movie/ / 梅尔·吉布森 / 139分钟(中国大陆) / 140分钟(美国) / 血战钢锯岭 / 剧情 / 传记 / 历史 / 战争 / 安德鲁·奈特 Andrew Knight / 罗伯特·申坎 Robert Schenkkan / 英语 / 日语",
+      "rating": 5,
+      "markedAt": "2017-01-01",
+      "estimatedMarkedAtRange": null,
+      "comment": "简直是太平洋战争剧场版，那一夜过后扣分项就多了起来……"
+    },
     {
       "kind": "movie",
       "sourceId": "26284595",
@@ -436,21 +451,6 @@
       "detailUrl": "/movie/25884416",
       "listSummary": "2014-10-01(中国大陆) / 2014-10-01(中国香港) / 2019-04-05(中国大陆重映) / 黄磊 / 吴君如 / 张正中 / 黄秋生 / 蔡明丽 / 蔡瀚亿 / 李云迪 / 黄忆慈 / 中国香港 / 中国大陆 / 谢立文 / 李俊民 / 81分钟 / 麦兜·我和我妈妈 / 喜剧 / 动画 / 家庭 / 谢立文 Brian Tse / 汉语普通话 / 粤语",
       "rating": 4,
-      "markedAt": "2016-09-04",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1468154",
-      "title": "春田花花同学会",
-      "originalTitle": "春田花花同學會",
-      "year": "2006",
-      "coverPath": "covers/movie/1468154.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2345141203.webp",
-      "detailUrl": "/movie/1468154",
-      "listSummary": "2006-01-22(中国香港) / 2006-01-26(中国大陆) / 周笔畅 / 陈慧琳 / 郑中基 / 梁咏琪 / 吴君如 / 黄秋生 / 曾志伟 / 陈柏霖 / 何超仪 / 张靓颖 / 中国香港 / 赵良骏 / 91分钟 / 春田花花同学会 / 动画 / 喜剧 / 奇幻 / 谢立文 Brian Tse / 粤语",
-      "rating": 3,
       "markedAt": "2016-09-04",
       "estimatedMarkedAtRange": null,
       "comment": null

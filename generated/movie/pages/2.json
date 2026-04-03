@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27615467",
+      "title": "大法官金斯伯格 RBG",
+      "originalTitle": "(2018)",
+      "year": "2018",
+      "coverPath": "covers/movie/27615467.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511664915.webp",
+      "detailUrl": "/movie/27615467",
+      "listSummary": "2018-01-21(圣丹斯电影节) / 鲁斯·巴德·金斯伯格 / 比尔·克林顿 / 奥林·G·哈奇 / 拉什·林博 / 安东宁·斯卡利亚 / 格洛丽亚·斯泰纳姆 / 妮娜·托滕贝格 / 乔治·W· 布什 / 巴拉克·奥巴马 / 唐纳德·特朗普 / 美国 / 朱莉·科昂 / 贝齐·韦斯特 / Julie Cohen / 98分钟 / 大法官金斯伯格 / 传记 / 纪录片 / 英语",
+      "rating": 5,
+      "markedAt": "2025-11-14",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1864810",
@@ -439,21 +454,6 @@
       "markedAt": "2025-05-25",
       "estimatedMarkedAtRange": null,
       "comment": "最唏嘘的还是一起进宫的三个人的命运起伏。总体感觉是个复仇爽剧。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "34780991",
-      "title": "哪吒之魔童闹海",
-      "originalTitle": "(2025)",
-      "year": "2025",
-      "coverPath": "covers/movie/34780991.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916323291.webp",
-      "detailUrl": "/movie/34780991",
-      "listSummary": "2025-01-29(中国大陆) / 吕艳婷 / 囧森瑟夫 / 瀚墨 / 陈浩 / 绿绮 / 张珈铭 / 杨卫 / 王德顺 / 雨辰 / 李南 / 中国大陆 / 饺子 / 144分钟 / 剧情 / 喜剧 / 动画 / 奇幻 / 饺子 Yu Yang / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-05-12",
-      "estimatedMarkedAtRange": null,
-      "comment": "感觉也不至于吹上天"
     }
   ]
 }

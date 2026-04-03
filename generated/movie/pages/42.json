@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 42,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1293934",
+      "title": "爱国者",
+      "originalTitle": "The Patriot",
+      "year": "2000",
+      "coverPath": "covers/movie/1293934.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2247135266.jpg",
+      "detailUrl": "/movie/1293934",
+      "listSummary": "2000-06-28(美国) / 梅尔·吉布森 / 希斯·莱杰 / 乔莉·理查德森 / 詹森·艾萨克 / 克里斯·库珀 / 丽莎·布瑞纳 / 汤姆·威尔金森 / 罗根·勒曼 / 帕特里克·塔特普洛斯 / 特拉沃·摩根 / 美国 / 德国 / 罗兰·艾默里奇 / 165分钟 / 175分钟(加长版) / 爱国者 / 动作 / 剧情 / 战争 / 罗伯特·罗达特 Robert Rodat / 英语",
+      "rating": 5,
+      "markedAt": "2010-09-27",
+      "estimatedMarkedAtRange": null,
+      "comment": "真嫉妒美国人，爱国教育题材的片子都拍得这么好"
+    },
     {
       "kind": "movie",
       "sourceId": "1306392",
@@ -439,21 +454,6 @@
       "markedAt": "2010-08-11",
       "estimatedMarkedAtRange": null,
       "comment": "瞻仰神片，我给你打满分吧，你太神了，我看不懂…… 第一次看大卫林奇的电影，看不懂，这个打击比较大，还好mtime有神人写剧情全解析……【Naomi Watts好漂亮啊"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3874981",
-      "title": "全城戒备",
-      "originalTitle": "全城戒備",
-      "year": "2010",
-      "coverPath": "covers/movie/3874981.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p564132460.jpg",
-      "detailUrl": "/movie/3874981",
-      "listSummary": "2010-08-06(中国大陆) / 郭富城 / 舒淇 / 邹兆龙 / 张静初 / 吴京 / 张宝雯 / 铁男 / 元华 / 周秀娜 / 尹子维 / 中国香港 / 中国大陆 / 陈木胜 / 112分钟 / 全城戒备 / 动作 / 科幻 / 惊悚 / 陈木胜 Benny Chan / 凌志民 Chi-man Ling / 刘尚然 / 粤语 / 汉语普通话",
-      "rating": 1,
-      "markedAt": "2010-08-09",
-      "estimatedMarkedAtRange": null,
-      "comment": "放过我吧哥哥…… 陈木胜你吃大便了是不是啊。。。。"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 33,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3387483",
+      "title": "特警判官",
+      "originalTitle": "Dredd",
+      "year": "2012",
+      "coverPath": "covers/movie/3387483.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1679624292.jpg",
+      "detailUrl": "/movie/3387483",
+      "listSummary": "2012-09-21(美国) / 2013-03-01(中国大陆) / 卡尔·厄本 / 詹森·库伯 / 奥莉薇·瑟尔比 / 芮姬·阿约拉 / 琳娜·海蒂 / 塔梅尔·伯贾克 / 伍德·哈里斯 / 道比·欧帕瑞 / 帕特里克·利斯特 / 查德·菲利普斯 / 英国 / 美国 / 印度 / 南非 / www.dreddthemovie.com / 皮特·特拉维斯 / 90分钟(中国大陆) / 95分钟(美国) / 特警判官 / 动作 / 科幻 / 惊悚 / 犯罪 / 亚历克斯·加兰 Alex Garland / 约翰·瓦格纳 John Wagner / 卡洛斯·埃斯克拉 Carlos Ezquerra / 英语",
+      "rating": 3,
+      "markedAt": "2013-04-06",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "2993217",
@@ -437,21 +452,6 @@
       "listSummary": "2012-09-30(美国) / 克莱尔·丹尼斯 / 戴米恩·路易斯 / 曼迪·帕廷金 / 鲁伯特·弗兰德 / 莫蕾娜·巴卡琳 / 迪亚哥·克莱特霍夫 / 大卫·哈雷伍德 / 提莫西·查拉梅 / F·默里·亚伯拉罕 / 詹姆斯·瑞布霍恩 / 美国 / www.sho.com/sho/homeland/home / 盖·费尔兰德 / 杰雷米·波德斯瓦 / 迈克尔·科斯塔 / 大卫·塞梅尔 / 莱丝莉·琳卡·格拉特 / 丹尼尔·艾提奥斯 / 约翰·达尔 / 洛奇·科里根 / 国土安全 / 60分钟 / 国土安全 / 剧情 / 悬疑 / 惊悚 / 霍华德·戈登 Howard Gordon / 阿莱克斯·甘萨 Alex Gansa / 英语 / 阿拉伯语",
       "rating": 4,
       "markedAt": "2013-01-02",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1296153",
-      "title": "八毫米",
-      "originalTitle": "8MM",
-      "year": "1999",
-      "coverPath": "covers/movie/1296153.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1088311945.jpg",
-      "detailUrl": "/movie/1296153",
-      "listSummary": "1999-02-26 / 尼古拉斯·凯奇 / 华金·菲尼克斯 / 詹姆斯·甘多菲尼 / 彼得·斯特曼 / 凯瑟琳·基纳 / 诺曼·瑞杜斯 / 杰克·贝茨 / 诺姆·卡普顿 / 美国 / 德国 / 乔·舒马赫 / 123 分钟 / 八毫米 / 犯罪 / 悬疑 / 惊悚 / 安德鲁·凯文·沃克 Andrew Kevin Walker / 英语",
-      "rating": 3,
-      "markedAt": "2012-12-29",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

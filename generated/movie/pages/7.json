@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 7,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "35315950",
+      "title": "灌篮高手 The First Slam Dunk",
+      "originalTitle": "(2022)",
+      "year": "2022",
+      "coverPath": "covers/movie/35315950.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910235168.webp",
+      "detailUrl": "/movie/35315950",
+      "listSummary": "2022-12-03(日本) / 2023-04-20(中国大陆) / 2024-08-03(中国大陆重映) / 仲村宗悟 / 笠间淳 / 木村昴 / 神尾晋一郎 / 三宅健太 / 岩崎谅太 / 坂本真绫 / 濑户麻沙美 / 宝龟克寿 / 小林亲弘 / 日本 / 井上雄彦 / 124分钟 / 灌篮高手 / 动画 / 运动 / 井上雄彦 Inoue Takehiko / 日语",
+      "rating": 5,
+      "markedAt": "2023-04-21",
+      "estimatedMarkedAtRange": null,
+      "comment": "比赛部分不如漫画，比赛之外超越漫画"
+    },
     {
       "kind": "movie",
       "sourceId": "30376895",
@@ -439,21 +454,6 @@
       "markedAt": "2022-09-18",
       "estimatedMarkedAtRange": null,
       "comment": "确实没看过粤语对对子"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1297863",
-      "title": "武状元苏乞儿 武狀元蘇乞兒",
-      "originalTitle": "(1992)",
-      "year": "1992",
-      "coverPath": "covers/movie/1297863.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1148052547.webp",
-      "detailUrl": "/movie/1297863",
-      "listSummary": "1992-12-17(中国香港) / 周星驰 / 张敏 / 吴孟达 / 徐少强 / 林威 / 陈百祥 / 郑丹瑞 / 苑琼丹 / 陈慧仪 / 杨幂 / 中国香港 / 陈嘉上 / 96分钟(台湾) / 101分钟(香港) / 93分钟(英国) / 武状元苏乞儿 / 喜剧 / 动作 / 武侠 / 古装 / 陈建忠 John Chan Kin-Chung / 陈嘉上 Gordon Chan / 粤语",
-      "rating": 4,
-      "markedAt": "2022-09-18",
-      "estimatedMarkedAtRange": null,
-      "comment": "高清粤语就是船新电影"
     }
   ]
 }

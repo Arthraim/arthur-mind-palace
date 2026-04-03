@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 27,
   "pageSize": 30,
-  "totalEntries": 1380,
-  "totalPages": 46,
+  "totalEntries": 1381,
+  "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1309220",
+      "title": "黑社会",
+      "originalTitle": "黑社會",
+      "year": "2005",
+      "coverPath": "covers/movie/1309220.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213462183.webp",
+      "detailUrl": "/movie/1309220",
+      "listSummary": "2005-10-20(中国香港) / 任达华 / 梁家辉 / 古天乐 / 林雪 / 张家辉 / 张兆辉 / 林家栋 / 王天林 / 谭炳文 / 邵美琪 / 中国香港 / 杜琪峰 / 100 分钟 / 85 分钟(删减版) / 黑社会 / 犯罪 / 剧情 / 惊悚 / 游乃海 Nai-Hoi Yau / 叶天成 Tin-Shing Yip / 汉语普通话 / 粤语",
+      "rating": 5,
+      "markedAt": "2015-02-24",
+      "estimatedMarkedAtRange": null,
+      "comment": "看看那时候的杜琪峰………… 几年前找个原版好难，现在直接可以在线看了……"
+    },
     {
       "kind": "movie",
       "sourceId": "25743807",
@@ -442,21 +457,6 @@
       "markedAt": "2014-09-26",
       "estimatedMarkedAtRange": null,
       "comment": "在这片子上映、拿奖、每年马丁x莱昂纳多有新片的时候，我都尝试了而且都很快睡着。没想到这次看完觉得是马丁x莱昂纳多最好的一部。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1295638",
-      "title": "永远的蝙蝠侠",
-      "originalTitle": "Batman Forever",
-      "year": "1995",
-      "coverPath": "covers/movie/1295638.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2410156576.jpg",
-      "detailUrl": "/movie/1295638",
-      "listSummary": "1995-06-16 / 方·基默 / 汤米·李·琼斯 / 金·凯瑞 / 妮可·基德曼 / 克里斯·奥唐纳 / 德鲁·巴里摩尔 / 黛比·玛扎 / 迈克尔·高夫 / 陆建艺 / 格雷格·劳伦 / 美国 / 英国 / 乔·舒马赫 / 121 分钟 / 永远的蝙蝠侠 / 动作 / 冒险 / Lee Batchler / Janet Scott Batchler / Akiva Goldsman / 英语",
-      "rating": 3,
-      "markedAt": "2014-09-25",
-      "estimatedMarkedAtRange": null,
-      "comment": "这一集也太扯了。我就光在看妮可基德曼了"
     }
   ]
 }
