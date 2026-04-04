@@ -2,9 +2,24 @@
   "kind": "music",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 48,
+  "totalEntries": 49,
   "totalPages": 2,
   "entries": [
+    {
+      "kind": "music",
+      "sourceId": "4744841",
+      "title": "燕姿HIGH翻垦丁",
+      "originalTitle": null,
+      "year": "2010",
+      "coverPath": "covers/music/4744841.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4265576.jpg",
+      "detailUrl": "/music/4744841",
+      "listSummary": "孙燕姿 / 2010-04-04 / Bootleg / 数字(Digital) / 流行",
+      "rating": 5,
+      "markedAt": "2010-08-18",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "music",
       "sourceId": "3718803",

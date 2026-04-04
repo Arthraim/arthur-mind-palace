@@ -1,11 +1,11 @@
 {
   "kind": "movie",
   "sourceId": "1298976",
-  "title": "铁血战士",
-  "originalTitle": "Predator",
+  "title": "铁血战士 Predator",
+  "originalTitle": "(1987)",
   "year": "1987",
   "coverPath": "covers/movie/1298976.webp",
-  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2101543383.webp",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2101543383.jpg",
   "doubanUrl": "https://movie.douban.com/subject/1298976/",
   "detailUrl": "/movie/1298976",
   "listSummary": "1987-06-12 / 阿诺·施瓦辛格 / 卡尔·韦瑟斯 / 艾尔皮迪娅·卡里洛 / 比尔·杜克 / 杰西·温图拉 / 索尼·兰哈姆 / 理查德·切夫斯 / R·G·阿姆斯特朗 / 沙恩·布莱克 / 凯文·彼得·豪尔 / 美国 / 约翰·麦克蒂尔南 / 107 分钟 / 铁血战士 / 动作 / 冒险 / 科幻 / 惊悚 / 吉姆·托马斯 Jim Thomas / 约翰·托马斯 John Thomas / 英语 / 西班牙语",
@@ -13,11 +13,68 @@
   "markedAt": "2018-03-04",
   "estimatedMarkedAtRange": null,
   "comment": "有点中二但是相当刺激啊",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1987"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1987)"
+    },
+    {
+      "label": "Title",
+      "value": "铁血战士 Predator"
+    },
+    {
+      "label": "导演",
+      "value": "约翰·麦克蒂尔南"
+    },
+    {
+      "label": "编剧",
+      "value": "吉姆·托马斯 / 约翰·托马斯"
+    },
+    {
+      "label": "主演",
+      "value": "阿诺·施瓦辛格 / 卡尔·韦瑟斯 / 艾尔皮迪娅·卡里洛 / 比尔·杜克 / 杰西·温图拉 / 索尼·兰哈姆 / 理查德·切夫斯 / R·G·阿姆斯特朗 / 沙恩·布莱克 / 凯文·彼得·豪尔 / 史蒂夫·博伊姆 / William H. Burton Jr. / 弗兰科·哥伦布 / 彼得·库伦 / 亨利·金吉 / 史文-欧尔·托尔森"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1987-06-12"
+    },
+    {
+      "label": "片长",
+      "value": "107 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "终极战士(台) / 掠夺者 / 猎食者"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0093773"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1298976/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0093773/"
     }
   ]
 }

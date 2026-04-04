@@ -1,11 +1,11 @@
 {
   "kind": "movie",
   "sourceId": "1308769",
-  "title": "异形大战铁血战士",
-  "originalTitle": "AVP: Alien vs. Predator",
+  "title": "异形大战铁血战士 AVP: Alien vs. Predator",
+  "originalTitle": "(2004)",
   "year": "2004",
   "coverPath": "covers/movie/1308769.webp",
-  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1529816649.webp",
+  "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1529816649.jpg",
   "doubanUrl": "https://movie.douban.com/subject/1308769/",
   "detailUrl": "/movie/1308769",
   "listSummary": "2004-08-13(美国) / 桑娜·莱瑟 / 雷欧·波瓦 / 兰斯·亨利克森 / 艾文·布莱纳 / 科林·萨尔蒙 / 汤米·弗拉纳根 / 约瑟夫·雷耶 / 阿加特·德拉·波拉耶 / 卡尔斯腾·诺尔加拉德 / 山姆·特劳顿 / 美国 / 德国 / 捷克 / 英国 / 保罗·安德森 / 101分钟 / 104分钟(加长版) / 109分钟(未分级版) / 异形大战铁血战士 / 动作 / 科幻 / 惊悚 / 丹·欧班农 Dan O'Bannon / 罗纳德·舒塞特 Ronald Shusett / 吉姆·托马斯 Jim Thomas / 约翰·托马斯 John Thomas / 保罗·安德森 Paul W.S. Anderson / 英语 / 意大利语",
@@ -13,11 +13,68 @@
   "markedAt": "2018-03-04",
   "estimatedMarkedAtRange": null,
   "comment": "这样的脑洞请再来一打",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2004"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2004)"
+    },
+    {
+      "label": "Title",
+      "value": "异形大战铁血战士 AVP: Alien vs. Predator"
+    },
+    {
+      "label": "导演",
+      "value": "保罗·安德森"
+    },
+    {
+      "label": "编剧",
+      "value": "丹·欧班农 / 罗纳德·舒塞特 / 吉姆·托马斯 / 约翰·托马斯 / 保罗·安德森"
+    },
+    {
+      "label": "主演",
+      "value": "桑娜·莱瑟 / 雷欧·波瓦 / 兰斯·亨利克森 / 艾文·布莱纳 / 科林·萨尔蒙 / 汤米·弗拉纳根 / 约瑟夫·雷耶 / 阿加特·德拉·波拉耶 / 卡尔斯腾·诺尔加拉德 / 山姆·特劳顿 / 彼得·雅克尔 / 基兰·比尤"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 德国 / 捷克 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 意大利语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2004-08-13(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "101分钟 / 104分钟(加长版) / 109分钟(未分级版)"
+    },
+    {
+      "label": "又名",
+      "value": "异兽战(港) / 异形战场(台) / 异形大战捕食者"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0370263"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1308769/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0370263/"
     }
   ]
 }

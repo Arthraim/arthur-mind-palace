@@ -1,0 +1,48 @@
+{
+  "kind": "music",
+  "sourceId": "38389481",
+  "title": "东方分子",
+  "originalTitle": null,
+  "year": "2026",
+  "coverPath": "covers/music/38389481.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35440728.jpg",
+  "doubanUrl": "https://music.douban.com/subject/38389481/",
+  "detailUrl": "/music/38389481",
+  "listSummary": "觀觀Guanguan / 2026-03-16 / 单曲 / 数字(Digital) / 摇滚",
+  "rating": 4,
+  "markedAt": "2026-04-04",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "东方分子"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "单曲"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2026-03-16"
+    },
+    {
+      "label": "出版者",
+      "value": "觀觀Guanguan"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/38389481/"
+    }
+  ]
+}
