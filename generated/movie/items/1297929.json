@@ -13,11 +13,68 @@
   "markedAt": "2018-03-03",
   "estimatedMarkedAtRange": null,
   "comment": "还是非常具有大卫芬奇个人特点的，25个暴徒勇斗连环杀手异形",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1992"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1992)"
+    },
+    {
+      "label": "Title",
+      "value": "异形3 Alien³"
+    },
+    {
+      "label": "导演",
+      "value": "大卫·芬奇"
+    },
+    {
+      "label": "编剧",
+      "value": "大卫·吉勒 / 沃尔特·希尔 / 拉里·弗格森 / 丹·欧班农 / 罗纳德·舒塞特 / 文森特·沃德"
+    },
+    {
+      "label": "主演",
+      "value": "西格妮·韦弗 / 查尔斯·达顿 / 查尔斯·丹斯 / 保罗·麦甘恩 / 布莱恩·格洛弗 / 拉尔夫·布朗 / 丹尼·韦伯 / 克里斯托弗·约翰·菲尔兹 / 霍特·麦克卡兰尼 / 兰斯·亨利克森 / 克里斯托弗·法里班克"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 恐怖"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1992-05-22(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "114分钟 / 145分钟(2003年特别版)"
+    },
+    {
+      "label": "又名",
+      "value": "异形Ⅲ / Alien 3"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0103644"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1297929/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0103644/"
     }
   ]
 }

@@ -13,11 +13,76 @@
   "markedAt": "2018-01-07",
   "estimatedMarkedAtRange": null,
   "comment": "忘记标了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "黑镜 第三季 Black Mirror Season 3"
+    },
+    {
+      "label": "导演",
+      "value": "欧文·哈里斯 / 乔·赖特 / 詹姆斯·瓦特金斯 / 雅各布·维尔布鲁根 / 詹姆斯·霍斯 / 丹·特拉亨伯格"
+    },
+    {
+      "label": "编剧",
+      "value": "查理·布鲁克 / 拉什达·琼斯 / 迈克尔·舒尔"
+    },
+    {
+      "label": "主演",
+      "value": "古古·姆巴塔-劳 / 麦肯兹·戴维斯 / 布莱丝·达拉斯·霍华德 / 凯莉·麦克唐纳 / 杰罗姆·弗林 / 埃里克斯·劳瑟 / 爱丽丝·伊芙 / 詹姆斯·诺顿 / 迈克尔·凯利 / 马拉基·卡比 / 玛德琳·布鲁尔 / 怀亚特·罗素 / 汉娜·乔恩-卡门 / 费伊·马赛 / 王汉斌"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 科幻 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2016-10-21(美国)"
+    },
+    {
+      "label": "季数",
+      "value": "3"
+    },
+    {
+      "label": "集数",
+      "value": "6"
+    },
+    {
+      "label": "单集片长",
+      "value": "60分钟 / 89分钟(第六集)"
+    },
+    {
+      "label": "又名",
+      "value": "黑镜子 第三季"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5497778"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25966044/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5497778/"
     }
   ]
 }

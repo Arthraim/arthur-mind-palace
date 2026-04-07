@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 27,
   "pageSize": 30,
-  "totalEntries": 1381,
+  "totalEntries": 1382,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1484760",
+      "title": "黑社会2：以和为贵",
+      "originalTitle": "黑社會以和為貴",
+      "year": "2006",
+      "coverPath": "covers/movie/1484760.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2431230483.webp",
+      "detailUrl": "/movie/1484760",
+      "listSummary": "2006-04-27(中国香港) / 古天乐 / 任达华 / 张家辉 / 林家栋 / 王天林 / 林雪 / 安志杰 / 郑浩南 / 张兆辉 / 谭炳文 / 中国香港 / 杜琪峰 / 92分钟 / 黑社会2：以和为贵 / 犯罪 / 剧情 / 惊悚 / 游乃海 Nai-Hoi Yau / 叶天成 Tin-Shing Yip / 汉语普通话 / 粤语",
+      "rating": 4,
+      "markedAt": "2015-02-24",
+      "estimatedMarkedAtRange": null,
+      "comment": "每2年选一次就相当于一次自宫。。。。 这种制度那个王八蛋前辈想出来的。。。"
+    },
     {
       "kind": "movie",
       "sourceId": "1309220",
@@ -442,21 +457,6 @@
       "markedAt": "2014-10-06",
       "estimatedMarkedAtRange": null,
       "comment": "烂"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1309070",
-      "title": "飞行家",
-      "originalTitle": "The Aviator",
-      "year": "2004",
-      "coverPath": "covers/movie/1309070.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215458280.jpg",
-      "detailUrl": "/movie/1309070",
-      "listSummary": "2004-12-25(美国) / 莱昂纳多·迪卡普里奥 / 凯特·布兰切特 / 凯特·贝金赛尔 / 约翰·C·赖利 / 亚历克·鲍德温 / 阿伦·阿尔达 / 伊安·霍姆 / 丹尼·赫斯顿 / 格温·斯蒂芬妮 / 裘德·洛 / 美国 / 德国 / 马丁·斯科塞斯 / 170 分钟 / 飞行家 / 剧情 / 传记 / 约翰·洛根 John Logan / 英语",
-      "rating": 5,
-      "markedAt": "2014-09-26",
-      "estimatedMarkedAtRange": null,
-      "comment": "在这片子上映、拿奖、每年马丁x莱昂纳多有新片的时候，我都尝试了而且都很快睡着。没想到这次看完觉得是马丁x莱昂纳多最好的一部。"
     }
   ]
 }

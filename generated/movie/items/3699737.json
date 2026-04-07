@@ -13,11 +13,68 @@
   "markedAt": "2018-03-04",
   "estimatedMarkedAtRange": null,
   "comment": "一看标题是复数形式就觉得不妙",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2010"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2010)"
+    },
+    {
+      "label": "Title",
+      "value": "新铁血战士 Predators"
+    },
+    {
+      "label": "导演",
+      "value": "尼姆罗德·安陶尔"
+    },
+    {
+      "label": "编剧",
+      "value": "亚历克斯·利特瓦克 / 迈克尔·芬奇"
+    },
+    {
+      "label": "主演",
+      "value": "阿德里安·布罗迪 / 托弗·格雷斯 / 艾莉丝·布拉加 / 沃尔顿·戈金斯 / 欧勒格·塔克塔罗夫 / 劳伦斯·菲什伯恩 / 丹尼·特雷霍 / 路易斯·小泽·张简 / 马赫沙拉·阿里 / 欧文·凯里·琼斯 / 布莱恩·斯蒂尔 / 德里克·梅耶斯 / Aaron Richardson"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2010-07-09"
+    },
+    {
+      "label": "片长",
+      "value": "107分钟"
+    },
+    {
+      "label": "又名",
+      "value": "铁血战士S(港) / 终极战士团(台) / 铁血战士团"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1424381"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3699737/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1424381/"
     }
   ]
 }

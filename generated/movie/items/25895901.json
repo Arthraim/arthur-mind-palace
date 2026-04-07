@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "25895901",
+  "title": "海街日记",
+  "originalTitle": "海街diary",
+  "year": "2015",
+  "coverPath": "covers/movie/25895901.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg",
+  "doubanUrl": "https://movie.douban.com/subject/25895901/",
+  "detailUrl": "/movie/25895901",
+  "listSummary": "2015-05-14(戛纳电影节) / 2015-06-13(日本) / 绫濑遥 / 长泽雅美 / 夏帆 / 广濑铃 / 大竹忍 / 堤真一 / 加濑亮 / 风吹淳 / 中川雅也 / 前田旺志郎 / 日本 / umimachi.gaga.ne.jp / 是枝裕和 / 127分钟 / 海街日记 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 吉田秋生 Akimi Yoshida / 日语",
+  "rating": 5,
+  "markedAt": "2026-04-07",
+  "estimatedMarkedAtRange": null,
+  "comment": "超级温暖的童话，不管是什么样的价值冲突，最终都被美美地包裹住了。",
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "海街日记 海街diary"
+    },
+    {
+      "label": "导演",
+      "value": "是枝裕和"
+    },
+    {
+      "label": "编剧",
+      "value": "是枝裕和 / 吉田秋生"
+    },
+    {
+      "label": "主演",
+      "value": "绫濑遥 / 长泽雅美 / 夏帆 / 广濑铃 / 大竹忍 / 堤真一 / 加濑亮 / 风吹淳 / 中川雅也 / 前田旺志郎 / 铃木亮平 / 坂口健太郎 / 树木希林"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 家庭"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-05-14(戛纳电影节) / 2015-06-13(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "127分钟"
+    },
+    {
+      "label": "又名",
+      "value": "海街女孩日记(港) / Kamakura Diary / Umimachi Diary / Our Little Sister"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3756788"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/25895901/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3756788/"
+    }
+  ]
+}

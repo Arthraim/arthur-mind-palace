@@ -13,11 +13,68 @@
   "markedAt": "2018-02-18",
   "estimatedMarkedAtRange": null,
   "comment": "真的喜欢这两兄弟导的片子",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "三块广告牌 Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "label": "导演",
+      "value": "马丁·麦克唐纳"
+    },
+    {
+      "label": "编剧",
+      "value": "马丁·麦克唐纳"
+    },
+    {
+      "label": "主演",
+      "value": "弗兰西斯·麦克多蒙德 / 伍迪·哈里森 / 山姆·洛克威尔 / 艾比·考尼什 / 卢卡斯·赫奇斯 / 彼特·丁拉基 / 约翰·浩克斯 / 卡莱伯·兰德里·琼斯 / 凯瑟琳·纽顿 / 凯瑞·康顿 / 泽利科·伊万内克 / 萨玛拉·维文 / 克拉克·彼得斯 / 尼克·瑟西 / 阿曼达·沃伦 / 玛拉雅·瑞沃拉·德鲁 / 布兰登·萨克斯顿 / 迈克尔·艾伦·米利甘"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-03-02(中国大陆) / 2017-09-04(威尼斯电影节) / 2017-12-01(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "115分钟"
+    },
+    {
+      "label": "又名",
+      "value": "广告牌杀人事件(港) / 意外(台)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5027774"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26611804/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5027774/"
     }
   ]
 }

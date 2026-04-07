@@ -13,11 +13,68 @@
   "markedAt": "2018-02-18",
   "estimatedMarkedAtRange": null,
   "comment": "现在看还是不错的",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1979"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1979)"
+    },
+    {
+      "label": "Title",
+      "value": "异形 Alien"
+    },
+    {
+      "label": "导演",
+      "value": "雷德利·斯科特"
+    },
+    {
+      "label": "编剧",
+      "value": "丹·欧班农 / 罗纳德·舒塞特"
+    },
+    {
+      "label": "主演",
+      "value": "西格妮·韦弗 / 汤姆·斯凯里特 / 维罗尼卡·卡维特 / 哈利·迪恩·斯坦顿 / 约翰·赫特 / 伊安·霍姆 / 亚非特·科托 / 博拉吉·巴迪乔 / 海伦·霍顿"
+    },
+    {
+      "label": "类型",
+      "value": "科幻 / 惊悚 / 恐怖"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1979-05-25(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟 / 116分钟(2004年导演剪辑版)"
+    },
+    {
+      "label": "又名",
+      "value": "异形杀手 / Star Beast"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0078748"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1300868/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0078748/"
     }
   ]
 }

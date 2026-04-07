@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 8,
   "pageSize": 30,
-  "totalEntries": 1381,
+  "totalEntries": 1382,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1306249",
+      "title": "唐伯虎点秋香 唐伯虎點秋香",
+      "originalTitle": "(1993)",
+      "year": "1993",
+      "coverPath": "covers/movie/1306249.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.webp",
+      "detailUrl": "/movie/1306249",
+      "listSummary": "1993-07-01(中国香港) / 周星驰 / 巩俐 / 陈百祥 / 郑佩佩 / 朱咪咪 / 梁家仁 / 苑琼丹 / 梁荣忠 / 黄一山 / 黄霑 / 中国香港 / 李力持 / 102 分钟 / 唐伯虎点秋香 / 喜剧 / 爱情 / 古装 / 李力持 Lik-Chi Lee / 谷德昭 Vincent Kok / 陈文强 Man Keung Chan / 粤语",
+      "rating": 4,
+      "markedAt": "2022-09-18",
+      "estimatedMarkedAtRange": null,
+      "comment": "确实没看过粤语对对子"
+    },
     {
       "kind": "movie",
       "sourceId": "1297863",
@@ -439,21 +454,6 @@
       "markedAt": "2022-05-10",
       "estimatedMarkedAtRange": null,
       "comment": "尝试看了无数次都在盖茨比出场前睡着了。好看。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26766214",
-      "title": "风起陇西",
-      "originalTitle": "(2022)",
-      "year": "2022",
-      "coverPath": "covers/movie/26766214.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2872590641.webp",
-      "detailUrl": "/movie/26766214",
-      "listSummary": "2022-04-27(中国大陆) / 陈坤 / 白宇 / 聂远 / 尹铸胜 / 常远 / 杨颖 / 孙怡 / 俞灏明 / 王骁 / 杨轶 / 中国大陆 / 路阳 / 46分钟 / 剧情 / 历史 / 悬疑 / 古装 / 金海曙 Haishu Jin / 金昱 Jin Yu / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2022-05-08",
-      "estimatedMarkedAtRange": null,
-      "comment": "几乎一口气看完了。好看。设计比较复杂，难免有点故事拉着角色走的感觉。"
     }
   ]
 }

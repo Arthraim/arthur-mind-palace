@@ -13,11 +13,68 @@
   "markedAt": "2018-01-05",
   "estimatedMarkedAtRange": null,
   "comment": "Luke 第二次 Every word of what you just said was wrong…… 的时候我真是老泪纵横！",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "星球大战8：最后的绝地武士 Star Wars: The Last Jedi"
+    },
+    {
+      "label": "导演",
+      "value": "莱恩·约翰逊"
+    },
+    {
+      "label": "编剧",
+      "value": "莱恩·约翰逊 / 乔治·卢卡斯"
+    },
+    {
+      "label": "主演",
+      "value": "马克·哈米尔 / 凯丽·费雪 / 黛西·雷德利 / 亚当·德赖弗 / 约翰·博耶加 / 奥斯卡·伊萨克 / 安迪·瑟金斯 / 露皮塔·尼永奥 / 多姆纳尔·格里森 / 安东尼·丹尼尔斯 / 格温多兰·克里斯蒂 / 凯莉·玛丽·陈 / 劳拉·邓恩 / 本尼西奥·德尔·托罗 / 弗兰克·奥兹 / 比莉·洛德 / 阿曼达·劳伦斯 / 吉米·维 / 贾斯汀·塞洛克斯 / 蒂姆·罗斯 / 汤姆·凯恩 / 亚德里安·埃德蒙松 / 马克·路易斯·琼斯 / 赫敏·科菲尔德 / 吴青芸 / 诺阿·西甘 / 保罗·卡塞 / 米凯拉·科尔 / 普莉安卡·伯福德 / 纳温·乔杜里 / 安德鲁·杰克 / 克里斯塔·克拉克 / 伊川东吾"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2018-01-05(中国大陆) / 2017-12-15(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "152分钟"
+    },
+    {
+      "label": "又名",
+      "value": "星球大战：最后绝地武士(港) / 星球大战8 / 星战8 / Star Wars： Episode VIII"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2527336"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/22265634/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2527336/"
     }
   ]
 }

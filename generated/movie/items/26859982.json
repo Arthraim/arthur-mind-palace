@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26859982",
   "title": "鬼吹灯之黄皮子坟",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/26859982.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514905827.webp",
@@ -13,11 +13,72 @@
   "markedAt": "2018-03-02",
   "estimatedMarkedAtRange": null,
   "comment": "摄影、特效都质量上乘，剧情也很不错",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "鬼吹灯之黄皮子坟"
+    },
+    {
+      "label": "导演",
+      "value": "管虎 / 费振翔"
+    },
+    {
+      "label": "编剧",
+      "value": "冯骥 / 徐速 / 天下霸唱"
+    },
+    {
+      "label": "主演",
+      "value": "阮经天 / 徐璐 / 郝好 / 刘潮 / 尚铁龙 / 胡晓光 / 李沐宸 / 梁静 / 于黛琴 / 宋家腾 / 李思博 / 陈友旺 / 王刚 / 丁嘉文 / 曹雪 / 王文涛 / 毕英杰 / 高岛真一 / 李子轩 / 金钊 / 孙垒 / 夏丹 / 刘恋 / 周诗雅"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2017-07-21(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "20"
+    },
+    {
+      "label": "单集片长",
+      "value": "35分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Candle in the Tomb： The Weasel Grave / The tomb of Ghost Blows Out the Light"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7162124"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26859982/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7162124/"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 9,
   "pageSize": 30,
-  "totalEntries": 1381,
+  "totalEntries": 1382,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26766214",
+      "title": "风起陇西",
+      "originalTitle": "(2022)",
+      "year": "2022",
+      "coverPath": "covers/movie/26766214.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2872590641.webp",
+      "detailUrl": "/movie/26766214",
+      "listSummary": "2022-04-27(中国大陆) / 陈坤 / 白宇 / 聂远 / 尹铸胜 / 常远 / 杨颖 / 孙怡 / 俞灏明 / 王骁 / 杨轶 / 中国大陆 / 路阳 / 46分钟 / 剧情 / 历史 / 悬疑 / 古装 / 金海曙 Haishu Jin / 金昱 Jin Yu / 汉语普通话",
+      "rating": 4,
+      "markedAt": "2022-05-08",
+      "estimatedMarkedAtRange": null,
+      "comment": "几乎一口气看完了。好看。设计比较复杂，难免有点故事拉着角色走的感觉。"
+    },
     {
       "kind": "movie",
       "sourceId": "32493124",
@@ -439,21 +454,6 @@
       "markedAt": "2021-11-15",
       "estimatedMarkedAtRange": null,
       "comment": "本人的007入坑作，印象里是很现代的，现在重新看还真是复古，果然充满了冷战气息"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3097572",
-      "title": "双子杀手 Gemini Man",
-      "originalTitle": "(2019)",
-      "year": "2019",
-      "coverPath": "covers/movie/3097572.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554402180.webp",
-      "detailUrl": "/movie/3097572",
-      "listSummary": "2019-09-25(布达佩斯首映) / 2019-10-11(美国) / 2019-10-18(中国大陆) / 威尔·史密斯 / 玛丽·伊丽莎白·温斯特德 / 克里夫·欧文 / 王汉斌 / 道格拉斯·霍奇 / 拉尔夫·布朗 / 琳达·埃蒙德 / 伊利亚·沃里克 / E·J·博尼拉 / 维克多·雨果 / 美国 / 中国大陆 / 李安 / 117分钟 / 双子杀手 / 剧情 / 动作 / 科幻 / 戴维·贝尼奥夫 David Benioff / 比利·雷 Billy Ray / 达伦·莱姆克 Darren Lemke / 英语",
-      "rating": 3,
-      "markedAt": "2021-11-05",
-      "estimatedMarkedAtRange": null,
-      "comment": "看之前不知道，看的时候也没想到是李安，比较中规中矩的类型片"
     }
   ]
 }

@@ -13,11 +13,68 @@
   "markedAt": "2018-03-03",
   "estimatedMarkedAtRange": null,
   "comment": "刚好十年了… 有点感慨",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2008"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2008)"
+    },
+    {
+      "label": "Title",
+      "value": "本杰明·巴顿奇事 The Curious Case of Benjamin Button"
+    },
+    {
+      "label": "导演",
+      "value": "大卫·芬奇"
+    },
+    {
+      "label": "编剧",
+      "value": "埃里克·罗思 / 罗宾·史威考德 / F.斯科特·菲茨杰拉德"
+    },
+    {
+      "label": "主演",
+      "value": "布拉德·皮特 / 凯特·布兰切特 / 朱莉娅·奥蒙德 / 芳妮·A·钱勃丝 / 伊莱亚斯·科泰斯 / 杰森·弗莱明 / 大卫·詹森 / 蒂尔达·斯文顿 / 艾丽·范宁 / 乔安娜·塞勒 / 乔什·斯图沃特 / 丹尼·文森 / 塔拉吉·P·汉森 / 马赫沙拉·阿里 / 菲奥娜·黑尔 / 唐娜·杜普兰提尔 / 兰斯·E·尼克尔斯 / 特德·曼森 / 克莱·卡伦 / 菲莉丝·萨莫维尔 / 杰瑞德·哈里斯 / 麦迪逊·贝蒂 / 汤姆·埃沃雷特 / 克里斯托弗·马克斯韦尔 / 伊利亚·沃里克"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 爱情 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 俄语 / 法语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2008-12-25(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "166分钟"
+    },
+    {
+      "label": "又名",
+      "value": "奇幻逆缘(港) / 班杰明的奇幻旅程(台) / 返老还童"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0421715"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1485260/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0421715/"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-04-04T03:56:03.611Z",
+  "generatedAt": "2026-04-07T14:08:16.622Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "25895901",
+        "title": "海街日记",
+        "originalTitle": "海街diary",
+        "year": "2015",
+        "coverPath": "covers/movie/25895901.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg",
+        "detailUrl": "/movie/25895901",
+        "listSummary": "2015-05-14(戛纳电影节) / 2015-06-13(日本) / 绫濑遥 / 长泽雅美 / 夏帆 / 广濑铃 / 大竹忍 / 堤真一 / 加濑亮 / 风吹淳 / 中川雅也 / 前田旺志郎 / 日本 / umimachi.gaga.ne.jp / 是枝裕和 / 127分钟 / 海街日记 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 吉田秋生 Akimi Yoshida / 日语",
+        "rating": 5,
+        "markedAt": "2026-04-07",
+        "estimatedMarkedAtRange": null,
+        "comment": "超级温暖的童话，不管是什么样的价值冲突，最终都被美美地包裹住了。"
+      },
       {
         "kind": "movie",
         "sourceId": "33454474",
@@ -7701,7 +7716,7 @@
         "kind": "movie",
         "sourceId": "26859982",
         "title": "鬼吹灯之黄皮子坟",
-        "originalTitle": null,
+        "originalTitle": "(2017)",
         "year": "2017",
         "coverPath": "covers/movie/26859982.webp",
         "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514905827.webp",
@@ -7791,7 +7806,7 @@
         "kind": "movie",
         "sourceId": "26298935",
         "title": "鬼吹灯之精绝古城",
-        "originalTitle": null,
+        "originalTitle": "(2016)",
         "year": "2016",
         "coverPath": "covers/movie/26298935.webp",
         "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404604903.webp",

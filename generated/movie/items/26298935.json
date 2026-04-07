@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26298935",
   "title": "鬼吹灯之精绝古城",
-  "originalTitle": null,
+  "originalTitle": "(2016)",
   "year": "2016",
   "coverPath": "covers/movie/26298935.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404604903.webp",
@@ -13,11 +13,72 @@
   "markedAt": "2018-02-17",
   "estimatedMarkedAtRange": null,
   "comment": "相当不错啊",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "鬼吹灯之精绝古城"
+    },
+    {
+      "label": "导演",
+      "value": "孔笙 / 周游 / 孙墨龙"
+    },
+    {
+      "label": "编剧",
+      "value": "白一骢 / 天下霸唱"
+    },
+    {
+      "label": "主演",
+      "value": "靳东 / 陈乔恩 / 赵达 / 岳旸 / 王永泉 / 杨新鸣 / 冯晖 / 金泽灏 / 付美 / 匡牧野 / 张晓谦 / 张艺上 / 吴昊宸 / 邵伟桐 / 王宏 / 魏伟 / 王双宝 / 邢宇飞 / 铁政 / 孙明明 / 朱梦瑶"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "首播",
+      "value": "2016-12-19(中国大陆)"
+    },
+    {
+      "label": "集数",
+      "value": "21"
+    },
+    {
+      "label": "单集片长",
+      "value": "35分钟"
+    },
+    {
+      "label": "又名",
+      "value": "鬼吹灯网剧版 / Candle in the Tomb"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6413278"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26298935/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6413278/"
     }
   ]
 }

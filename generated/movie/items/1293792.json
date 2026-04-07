@@ -13,11 +13,68 @@
   "markedAt": "2018-03-03",
   "estimatedMarkedAtRange": null,
   "comment": "真不愧是卡梅隆，动作大片……",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1986"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1986)"
+    },
+    {
+      "label": "Title",
+      "value": "异形2 Aliens"
+    },
+    {
+      "label": "导演",
+      "value": "詹姆斯·卡梅隆"
+    },
+    {
+      "label": "编剧",
+      "value": "詹姆斯·卡梅隆 / 大卫·吉勒 / 沃尔特·希尔 / 丹·欧班农 / 罗纳德·舒塞特"
+    },
+    {
+      "label": "主演",
+      "value": "西格妮·韦弗 / 凯莉·赫恩 / 迈克尔·比恩 / 保罗·雷瑟 / 兰斯·亨利克森 / 比尔·帕克斯顿 / 威廉·霍普 / 詹妮特·戈德斯坦恩 / 阿尔·马修斯 / 马克·罗斯顿 / 里科·罗斯 / 科莱特·希勒 / 丹尼尔·卡什 / 辛西娅·戴尔·斯科特 / 提普·蒂平 / 保罗·马克斯韦尔 / 约翰·利斯 / 卡尔·图普"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1986-07-18(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "137分钟 / 154分钟(1992年特别版)"
+    },
+    {
+      "label": "又名",
+      "value": "异形Ⅱ / 异形续集"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0090605"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293792/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0090605/"
     }
   ]
 }

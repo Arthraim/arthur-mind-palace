@@ -13,11 +13,76 @@
   "markedAt": "2018-01-20",
   "estimatedMarkedAtRange": null,
   "comment": "不错呀 9.5 分，对第六集开始的发展比较失望",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "怪奇物语 第一季 Stranger Things Season 1"
+    },
+    {
+      "label": "导演",
+      "value": "肖恩·利维 / 马特·达菲 / 罗斯·达菲"
+    },
+    {
+      "label": "编剧",
+      "value": "马特·达菲 / 罗斯·达菲"
+    },
+    {
+      "label": "主演",
+      "value": "薇诺娜·瑞德 / 大卫·哈伯 / 米莉·波比·布朗 / 菲恩·伍法德 / 伽塔·马塔拉佐 / 凯莱布·麦克劳克林 / 诺亚·施纳普 / 娜塔莉·戴尔 / 查理·希顿 / 乔·基瑞 / 卡拉·布欧诺 / 乔·克里斯特 / 马修·莫迪恩 / 凯萨琳·戴尔 / 罗布·摩根 / 约翰·雷诺兹 / 兰德尔·P·海文斯 / 香农·珀瑟 / 克里斯·沙利文 / 罗斯·帕特里奇 / 艾米·穆林斯 / 艾米·西米茨 / 苏珊·沙尔霍布·拉金 / 佩顿·威奇 / 马克·斯达格"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 恐怖 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2016-07-15(美国)"
+    },
+    {
+      "label": "季数",
+      "value": "1"
+    },
+    {
+      "label": "集数",
+      "value": "8"
+    },
+    {
+      "label": "单集片长",
+      "value": "50分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Montauk"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4574334"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26359270/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4574334/"
     }
   ]
 }
