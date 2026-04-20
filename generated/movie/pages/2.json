@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1382,
+  "totalEntries": 1383,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26924522",
+      "title": "红楼梦之金玉良缘",
+      "originalTitle": "(2024)",
+      "year": "2024",
+      "coverPath": "covers/movie/26924522.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910806004.webp",
+      "detailUrl": "/movie/26924522",
+      "listSummary": "2024-08-16(中国大陆) / 林鹏 / 卢燕 / 边程 / 张淼怡 / 黄佳容 / 关晓彤 / 王斑 / 苑琼丹 / 罗海琼 / 杨童舒 / 中国大陆 / 胡玫 / 2024-07-26 / 116分钟 / 剧情 / 爱情 / 古装 / 何燕江 Yanjiang He / 汉语普通话",
+      "rating": 1,
+      "markedAt": "2025-11-23",
+      "estimatedMarkedAtRange": null,
+      "comment": "什么是金玉姻缘，我偏说是木石姻缘"
+    },
     {
       "kind": "movie",
       "sourceId": "26404869",
@@ -439,21 +454,6 @@
       "markedAt": "2025-06-08",
       "estimatedMarkedAtRange": null,
       "comment": "这个剧和甄嬛传比心机和权谋肯定是没法比，主打一个超级英雄复仇，只有睡着了才会被算计"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1291936",
-      "title": "攻壳机动队 攻殻機動隊",
-      "originalTitle": "(1995)",
-      "year": "1995",
-      "coverPath": "covers/movie/1291936.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921045013.webp",
-      "detailUrl": "/movie/1291936",
-      "listSummary": "1995-11-18(日本) / 2025-05-10(中国大陆) / 田中敦子 / 大塚明夫 / 山寺宏一 / 大木民夫 / 家弓家正 / 玄田哲章 / 山内雅人 / 小川真司 / 布莱恩·克兰斯顿 / 山路和弘 / 日本 / 押井守 / 83分钟 / 攻壳机动队 / 动作 / 科幻 / 动画 / 伊藤和典 Kazunori Itô / 士郎正宗 Masamune Shirow / 日语",
-      "rating": 4,
-      "markedAt": "2025-05-27",
-      "estimatedMarkedAtRange": null,
-      "comment": "小时候就看不懂"
     }
   ]
 }

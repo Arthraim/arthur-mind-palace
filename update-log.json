@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-04-20T02:24:47.600Z",
+  "entries": [
+    {
+      "id": "2026-04-20T02:24:47.600Z",
+      "generatedAt": "2026-04-20T02:24:47.600Z",
+      "lastDoubanSyncAt": "2026-04-20T02:09:14.491Z",
+      "totals": {
+        "added": 3,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 2,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "36765646",
+          "title": "蓦然回首",
+          "markedAt": "2026-04-20",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "38426139",
+          "title": "Cacophonic Symphony 不安的交响",
+          "markedAt": "2026-04-18",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "38391221",
+          "title": "THE PROTÉGÉ",
+          "markedAt": "2026-04-15",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    }
+  ]
+}

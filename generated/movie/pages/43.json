@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1382,
+  "totalEntries": 1383,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2301701",
+      "title": "人兽杂交",
+      "originalTitle": "Splice",
+      "year": "2009",
+      "coverPath": "covers/movie/2301701.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p537003213.jpg",
+      "detailUrl": "/movie/2301701",
+      "listSummary": "2009-10-06(希格斯国际奇幻恐怖电影节) / 2010-06-04(加拿大) / 阿德里安·布罗迪 / 莎拉·波利 / 德尔菲娜·尚内亚克 / 大卫·休莱特 / 布兰登·麦吉本 / 加拿大 / 法国 / 美国 / 文森佐·纳塔利 / 104 分钟 / 人兽杂交 / 剧情 / 科幻 / 惊悚 / 文森佐·纳塔利 Vincenzo Natali / Antoinette Terry Bryant / 道格·泰勒 Doug Taylor / 英语",
+      "rating": 4,
+      "markedAt": "2010-08-11",
+      "estimatedMarkedAtRange": null,
+      "comment": "一开始一直觉得“人兽杂交”翻译的不好，看到后来我觉得原来翻译的很到位。。。"
+    },
     {
       "kind": "movie",
       "sourceId": "1292217",
@@ -439,21 +454,6 @@
       "markedAt": "2010-06-03",
       "estimatedMarkedAtRange": null,
       "comment": "枪战场景堆在一起，节奏从头到尾慢悠悠一个调…… 好乏味。杜琪峰会不高兴的。。。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2980437",
-      "title": "20世纪少年 最终章",
-      "originalTitle": "20世紀少年 最終章 ぼくらの旗",
-      "year": "2009",
-      "coverPath": "covers/movie/2980437.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2203430489.jpg",
-      "detailUrl": "/movie/2980437",
-      "listSummary": "2009-08-29 / 唐泽寿明 / 丰川悦司 / 平爱梨 / 常盘贵子 / 黑木瞳 / 香川照之 / 宫迫博之 / 石桥莲司 / 木南晴夏 / 神木隆之介 / 日本 / 堤幸彦 / 156 分钟 / 20世纪少年 最终章 / 冒险 / 长崎尚志 Takashi Nagasaki / 浦泽直树 Naoki Urasawa / 日语",
-      "rating": 5,
-      "markedAt": "2010-06-03",
-      "estimatedMarkedAtRange": null,
-      "comment": "终于把这部天马行空般的电影看全了，悬念终于得到了揭示，虽然第三部总体节奏太慢了，不过最后揭开真相的过程真可谓是酣畅淋漓！"
     }
   ]
 }

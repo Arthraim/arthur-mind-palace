@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1382,
+  "totalEntries": 1383,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36765646",
+      "title": "蓦然回首",
+      "originalTitle": "ルックバック",
+      "year": "2024",
+      "coverPath": "covers/movie/36765646.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2914342253.jpg",
+      "detailUrl": "/movie/36765646",
+      "listSummary": "2024-06-10(安纳西国际动画电影节) / 2024-06-14(上海国际电影节) / 2024-06-28(日本) / 2024-10-26(中国大陆) / 河合优实 / 吉田美月喜 / 齐藤阳一郎 / 森川智之 / 坂本真绫 / 伊奈圣岚 / 日本 / lookback-anime.com / 押山清高 / 75分钟(中国大陆) / 58分钟 / 蓦然回首 / 剧情 / 动画 / 押山清高 Oshiyama Kiyotaka / 日语",
+      "rating": 4,
+      "markedAt": "2026-04-20",
+      "estimatedMarkedAtRange": null,
+      "comment": "创作者得走出来，不管是走出自己的卧室，还是走出京ani的伤痛。"
+    },
     {
       "kind": "movie",
       "sourceId": "25895901",
@@ -439,21 +454,6 @@
       "markedAt": "2025-11-30",
       "estimatedMarkedAtRange": null,
       "comment": "好精彩的改编，详略得当，重心基本在两个人的感情线上，其他角色都被简化了。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26924522",
-      "title": "红楼梦之金玉良缘",
-      "originalTitle": "(2024)",
-      "year": "2024",
-      "coverPath": "covers/movie/26924522.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910806004.webp",
-      "detailUrl": "/movie/26924522",
-      "listSummary": "2024-08-16(中国大陆) / 林鹏 / 卢燕 / 边程 / 张淼怡 / 黄佳容 / 关晓彤 / 王斑 / 苑琼丹 / 罗海琼 / 杨童舒 / 中国大陆 / 胡玫 / 2024-07-26 / 116分钟 / 剧情 / 爱情 / 古装 / 何燕江 Yanjiang He / 汉语普通话",
-      "rating": 1,
-      "markedAt": "2025-11-23",
-      "estimatedMarkedAtRange": null,
-      "comment": "什么是金玉姻缘，我偏说是木石姻缘"
     }
   ]
 }

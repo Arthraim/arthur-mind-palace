@@ -1,0 +1,56 @@
+{
+  "kind": "music",
+  "sourceId": "38391221",
+  "title": "THE PROTÉGÉ",
+  "originalTitle": null,
+  "year": "2026",
+  "coverPath": "covers/music/38391221.jpg",
+  "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35442159.jpg",
+  "doubanUrl": "https://music.douban.com/subject/38391221/",
+  "detailUrl": "/music/38391221",
+  "listSummary": "Gareth.T / 2026-03-26 / 专辑 / CD / 放克/灵歌/R&B",
+  "rating": 4,
+  "markedAt": "2026-04-15",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "THE PROTÉGÉ"
+    },
+    {
+      "label": "流派",
+      "value": "放克/灵歌/R&B"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2026-03-26"
+    },
+    {
+      "label": "出版者",
+      "value": "Warner Music Hong Kong Limited"
+    },
+    {
+      "label": "唱片数",
+      "value": "1"
+    },
+    {
+      "label": "条形码",
+      "value": "5026854799131"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/38391221/"
+    }
+  ]
+}

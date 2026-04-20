@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-04-20T01:55:36.716Z",
+  "generatedAt": "2026-04-20T02:25:52.235Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "36765646",
+        "title": "蓦然回首",
+        "originalTitle": "ルックバック",
+        "year": "2024",
+        "coverPath": "covers/movie/36765646.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2914342253.jpg",
+        "detailUrl": "/movie/36765646",
+        "listSummary": "2024-06-10(安纳西国际动画电影节) / 2024-06-14(上海国际电影节) / 2024-06-28(日本) / 2024-10-26(中国大陆) / 河合优实 / 吉田美月喜 / 齐藤阳一郎 / 森川智之 / 坂本真绫 / 伊奈圣岚 / 日本 / lookback-anime.com / 押山清高 / 75分钟(中国大陆) / 58分钟 / 蓦然回首 / 剧情 / 动画 / 押山清高 Oshiyama Kiyotaka / 日语",
+        "rating": 4,
+        "markedAt": "2026-04-20",
+        "estimatedMarkedAtRange": null,
+        "comment": "创作者得走出来，不管是走出自己的卧室，还是走出京ani的伤痛。"
+      },
       {
         "kind": "movie",
         "sourceId": "25895901",
@@ -23070,6 +23085,36 @@
       }
     ],
     "music": [
+      {
+        "kind": "music",
+        "sourceId": "38426139",
+        "title": "Cacophonic Symphony 不安的交响",
+        "originalTitle": null,
+        "year": "2026",
+        "coverPath": "covers/music/38426139.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s35468153.jpg",
+        "detailUrl": "/music/38426139",
+        "listSummary": "STOLEN秘密行动 / 2026-04-15 / 专辑 / CD / 摇滚",
+        "rating": 2,
+        "markedAt": "2026-04-18",
+        "estimatedMarkedAtRange": null,
+        "comment": null
+      },
+      {
+        "kind": "music",
+        "sourceId": "38391221",
+        "title": "THE PROTÉGÉ",
+        "originalTitle": null,
+        "year": "2026",
+        "coverPath": "covers/music/38391221.jpg",
+        "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35442159.jpg",
+        "detailUrl": "/music/38391221",
+        "listSummary": "Gareth.T / 2026-03-26 / 专辑 / CD / 放克/灵歌/R&B",
+        "rating": 4,
+        "markedAt": "2026-04-15",
+        "estimatedMarkedAtRange": null,
+        "comment": null
+      },
       {
         "kind": "music",
         "sourceId": "38389481",

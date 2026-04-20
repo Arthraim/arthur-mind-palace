@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1382,
+  "totalEntries": 1383,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1291936",
+      "title": "攻壳机动队 攻殻機動隊",
+      "originalTitle": "(1995)",
+      "year": "1995",
+      "coverPath": "covers/movie/1291936.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921045013.webp",
+      "detailUrl": "/movie/1291936",
+      "listSummary": "1995-11-18(日本) / 2025-05-10(中国大陆) / 田中敦子 / 大塚明夫 / 山寺宏一 / 大木民夫 / 家弓家正 / 玄田哲章 / 山内雅人 / 小川真司 / 布莱恩·克兰斯顿 / 山路和弘 / 日本 / 押井守 / 83分钟 / 攻壳机动队 / 动作 / 科幻 / 动画 / 伊藤和典 Kazunori Itô / 士郎正宗 Masamune Shirow / 日语",
+      "rating": 4,
+      "markedAt": "2025-05-27",
+      "estimatedMarkedAtRange": null,
+      "comment": "小时候就看不懂"
+    },
     {
       "kind": "movie",
       "sourceId": "4922787",
@@ -439,21 +454,6 @@
       "markedAt": "2024-10-14",
       "estimatedMarkedAtRange": null,
       "comment": "我发现盖里奇真的向来很对我胃口"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1291841",
-      "title": "教父 The Godfather",
-      "originalTitle": "(1972)",
-      "year": "1972",
-      "coverPath": "covers/movie/1291841.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.webp",
-      "detailUrl": "/movie/1291841",
-      "listSummary": "1972-03-15(纽约首映) / 1972-03-24(美国) / 马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩 / 理查德·S·卡斯特尔诺 / 罗伯特·杜瓦尔 / 斯特林·海登 / 约翰·马利 / 理查德·康特 / 艾尔·勒提埃里 / 黛安·基顿 / 美国 / 弗朗西斯·福特·科波拉 / 175 分钟 / 教父 / 剧情 / 犯罪 / 马里奥·普佐 Mario Puzo / 弗朗西斯·福特·科波拉 Francis Ford Coppola / 英语 / 意大利语 / 拉丁语",
-      "rating": 5,
-      "markedAt": "2024-10-14",
-      "estimatedMarkedAtRange": null,
-      "comment": "意识到虽然当年看了n遍，甚至看了导演解说音轨，所有的删减都瞒不过我，但这确实是我2008年之后第一次完整的看一遍教父"
     }
   ]
 }

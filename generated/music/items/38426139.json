@@ -1,0 +1,48 @@
+{
+  "kind": "music",
+  "sourceId": "38426139",
+  "title": "Cacophonic Symphony 不安的交响",
+  "originalTitle": null,
+  "year": "2026",
+  "coverPath": "covers/music/38426139.jpg",
+  "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s35468153.jpg",
+  "doubanUrl": "https://music.douban.com/subject/38426139/",
+  "detailUrl": "/music/38426139",
+  "listSummary": "STOLEN秘密行动 / 2026-04-15 / 专辑 / CD / 摇滚",
+  "rating": 2,
+  "markedAt": "2026-04-18",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Cacophonic Symphony 不安的交响"
+    },
+    {
+      "label": "流派",
+      "value": "摇滚"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "CD"
+    },
+    {
+      "label": "发行时间",
+      "value": "2026-04-15"
+    },
+    {
+      "label": "出版者",
+      "value": "STOLEN秘密行动"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/38426139/"
+    }
+  ]
+}

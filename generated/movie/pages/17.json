@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 17,
   "pageSize": 30,
-  "totalEntries": 1382,
+  "totalEntries": 1383,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1292344",
+      "title": "十二罗汉 Ocean's Twelve",
+      "originalTitle": "(2004)",
+      "year": "2004",
+      "coverPath": "covers/movie/1292344.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p677446893.webp",
+      "detailUrl": "/movie/1292344",
+      "listSummary": "2004-12-10(美国) / 乔治·克鲁尼 / 布拉德·皮特 / 凯瑟琳·泽塔-琼斯 / 朱莉娅·罗伯茨 / 安迪·加西亚 / 马特·达蒙 / 唐·钱德尔 / 卡西·阿弗莱克 / 伯尼·麦克 / 文森特·卡索 / 美国 / 史蒂文·索德伯格 / 125分钟 / 十二罗汉 / 犯罪 / 惊悚 / 乔治·诺非 George Nolfi / George Clayton Johnson / 杰克·戈登·拉塞尔 Jack Golden Russell / 英语 / 荷兰语 / 法语 / 意大利语 / 普通话",
+      "rating": 3,
+      "markedAt": "2018-07-04",
+      "estimatedMarkedAtRange": null,
+      "comment": "凯瑟琳泽塔琼斯真是逆天的好看 -。- 整个剧本也太蠢了"
+    },
     {
       "kind": "movie",
       "sourceId": "1301578",
@@ -439,21 +454,6 @@
       "markedAt": "2018-03-04",
       "estimatedMarkedAtRange": null,
       "comment": "有点中二但是相当刺激啊"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1292225",
-      "title": "闪灵 The Shining",
-      "originalTitle": "(1980)",
-      "year": "1980",
-      "coverPath": "covers/movie/1292225.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928985187.webp",
-      "detailUrl": "/movie/1292225",
-      "listSummary": "1980-05-23(美国点映) / 1980-06-13(美国) / 2026-01-30(中国大陆) / 杰克·尼科尔森 / 谢莉·杜瓦尔 / 丹尼·劳埃德 / 斯加特曼·克罗索斯 / 巴瑞·尼尔森 / 菲利普·斯通 / 乔·托克尔 / 安妮·杰克逊 / 托尼·伯顿 / 薇薇安·库布里克 / 英国 / 美国 / 斯坦利·库布里克 / 119分钟(欧洲版) / 144分钟(北美版) / 146分钟(初始版) / 闪灵 / 恐怖 / 斯坦利·库布里克 Stanley Kubrick / 黛安·约翰逊 Diane Johnson / 斯蒂芬·金 Stephen King / 英语",
-      "rating": 3,
-      "markedAt": "2018-03-04",
-      "estimatedMarkedAtRange": null,
-      "comment": "最近神经强壮来还了多年老债。都说经典都说好我咋看不懂呢… 最后20分钟坐定打算被重敲一记闷棍，结果啥也没发生……"
     }
   ]
 }
