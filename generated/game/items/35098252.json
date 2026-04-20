@@ -13,7 +13,12 @@
   "markedAt": "2025-06-10",
   "estimatedMarkedAtRange": null,
   "comment": "好久没有通关一个游戏了，感谢steamdeck。剧情绝对是一个（老套）但上乘的电影剧本",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "四海兄弟: 最终版 Mafia: Definitive Edition"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

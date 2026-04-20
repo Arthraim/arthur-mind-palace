@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": "在PSP上用PS模拟器玩的非官方汉化版，最喜欢的FF没有之一",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想9 Final Fantasy IX"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

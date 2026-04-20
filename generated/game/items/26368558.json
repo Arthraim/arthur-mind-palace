@@ -13,7 +13,12 @@
   "markedAt": "2019-08-15",
   "estimatedMarkedAtRange": null,
   "comment": "这也太诡异了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "即插即玩 Plug & Play"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

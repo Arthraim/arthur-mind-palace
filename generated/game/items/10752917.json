@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想战略版：狮子战争 Final Fantasy Tactics 獅子戦争"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

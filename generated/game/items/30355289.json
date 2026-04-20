@@ -13,7 +13,12 @@
   "markedAt": "2019-08-15",
   "estimatedMarkedAtRange": null,
   "comment": "画面和交互更加震撼……",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "孩子们 KIDS"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

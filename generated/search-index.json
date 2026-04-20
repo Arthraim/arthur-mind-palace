@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T14:08:16.622Z",
+  "generatedAt": "2026-04-20T01:55:36.716Z",
   "entriesByKind": {
     "movie": [
       {
@@ -23827,7 +23827,7 @@
         "sourceId": "25931998",
         "title": "赛博朋克 2077 Cyberpunk 2077",
         "originalTitle": null,
-        "year": null,
+        "year": "2077",
         "coverPath": "covers/game/25931998.jpg",
         "coverUrl": "https://img1.doubanio.com/lpic/s34334930.jpg",
         "detailUrl": "/game/25931998",

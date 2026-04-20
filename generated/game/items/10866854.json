@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": "玩的是NDS上的3D版，其实剧情和系统都显得有些落后，3D的重制画面加分很多",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想3 FINAL FANTASY III"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

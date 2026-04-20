@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": "的确是我玩过最好的SLG，但我没通关",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想战略版 Final Fantasy Tactics"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

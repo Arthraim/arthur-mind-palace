@@ -13,7 +13,12 @@
   "markedAt": "2025-08-11",
   "estimatedMarkedAtRange": null,
   "comment": "不能放过任何一条线索，最后点连成线",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "星际拓荒 Outer Wilds"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

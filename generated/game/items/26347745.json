@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": "入坑之作，特别好。（2没有通关，不太喜欢熟练度系统",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想1+2 魂之黎明 Final Fantasy I & II: Dawn of Souls"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

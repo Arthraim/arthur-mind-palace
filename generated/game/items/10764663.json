@@ -13,7 +13,12 @@
   "markedAt": "2025-06-16",
   "estimatedMarkedAtRange": null,
   "comment": "剧情设计、叙事结构和游戏体验都远不如1代（终极版），最大惊喜是和1代的剧情连线，但那个安排其实也有点太容易了。",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "四海兄弟2 Mafia II"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",

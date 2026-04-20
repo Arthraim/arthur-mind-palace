@@ -13,7 +13,12 @@
   "markedAt": "2021-03-18",
   "estimatedMarkedAtRange": null,
   "comment": "很喜欢这一代的剧情，GBA和NDS的3D版都通关了，最早玩GBA真是泪流满面。后来的月之归还没有玩。",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "最终幻想4 ファイナルファンタジーIV/Final Fantasy IV"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
