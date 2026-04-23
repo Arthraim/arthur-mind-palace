@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-20T02:25:52.235Z",
+  "generatedAt": "2026-04-23T09:35:32.402Z",
   "pageSize": 30,
   "counts": {
     "movie": 1383,
     "book": 155,
-    "music": 51,
+    "music": 52,
     "game": 18
   },
   "totalPagesByKind": {
@@ -13,5 +13,5 @@
     "music": 2,
     "game": 1
   },
-  "lastDoubanSyncAt": "2026-04-20T02:25:41.906Z"
+  "lastDoubanSyncAt": "2026-04-23T09:35:29.374Z"
 }

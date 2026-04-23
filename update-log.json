@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-20T02:24:47.600Z",
+  "generatedAt": "2026-04-23T09:35:32.402Z",
   "entries": [
+    {
+      "id": "2026-04-23T09:35:32.402Z",
+      "generatedAt": "2026-04-23T09:35:32.402Z",
+      "lastDoubanSyncAt": "2026-04-23T09:35:29.374Z",
+      "totals": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "music",
+          "sourceId": "38391228",
+          "title": "在這裡停一下",
+          "markedAt": "2026-04-23",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-04-20T02:24:47.600Z",
       "generatedAt": "2026-04-20T02:24:47.600Z",

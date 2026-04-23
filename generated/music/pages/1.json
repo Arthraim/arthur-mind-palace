@@ -2,9 +2,24 @@
   "kind": "music",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 51,
+  "totalEntries": 52,
   "totalPages": 2,
   "entries": [
+    {
+      "kind": "music",
+      "sourceId": "38391228",
+      "title": "在這裡停一下",
+      "originalTitle": "在这里停一下",
+      "year": "2026",
+      "coverPath": "covers/music/38391228.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35442166.jpg",
+      "detailUrl": "/music/38391228",
+      "listSummary": "deca joins / 2026-03-23 / 专辑 / 数字(Digital) / 摇滚",
+      "rating": 4,
+      "markedAt": "2026-04-23",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "music",
       "sourceId": "38426139",
@@ -436,21 +451,6 @@
       "detailUrl": "/music/1422300",
       "listSummary": "周杰伦 / 2000-11-13 / 专辑 / Audio CD / 流行",
       "rating": 4,
-      "markedAt": "2010-10-20",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "music",
-      "sourceId": "1406522",
-      "title": "叶惠美",
-      "originalTitle": null,
-      "year": "2003",
-      "coverPath": "covers/music/1406522.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29265961.jpg",
-      "detailUrl": "/music/1406522",
-      "listSummary": "周杰伦 / 2003-07-31 / 专辑 / CD / 流行",
-      "rating": 5,
       "markedAt": "2010-10-20",
       "estimatedMarkedAtRange": null,
       "comment": null
