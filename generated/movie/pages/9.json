@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 9,
   "pageSize": 30,
-  "totalEntries": 1383,
+  "totalEntries": 1384,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "6424756",
+      "title": "新蝙蝠侠 The Batman",
+      "originalTitle": "(2022)",
+      "year": "2022",
+      "coverPath": "covers/movie/6424756.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868425292.webp",
+      "detailUrl": "/movie/6424756",
+      "listSummary": "2022-03-01(韩国) / 2022-03-04(美国) / 2022-03-18(中国大陆) / 2022-04-19(美国网络) / 罗伯特·帕丁森 / 佐伊·克罗维兹 / 保罗·达诺 / 科林·法瑞尔 / 杰弗里·怀特 / 安迪·瑟金斯 / 约翰·特托罗 / 彼得·萨斯加德 / 巴里·基奥恩 / 杰米·劳森 / 美国 / 马特·里夫斯 / 176分钟 / 新蝙蝠侠 / 剧情 / 动作 / 犯罪 / 悬疑 / 马特·里夫斯 Matt Reeves / 彼得·克莱格 Peter Craig / 比尔·芬格 Bill Finger / 鲍勃·凯恩 Bob Kane / 英语",
+      "rating": 5,
+      "markedAt": "2022-05-12",
+      "estimatedMarkedAtRange": null,
+      "comment": "主体应该是A Long Halloween，所以台词提到Falcone是Thomas Wayne救的，所以Thomas会去找他帮忙，也所以会被拿住把柄，才有了Bruce知道后对自己成为蝙蝠侠的理由以及目标的怀疑。这个设计确实精彩。"
+    },
     {
       "kind": "movie",
       "sourceId": "3364223",
@@ -439,21 +454,6 @@
       "markedAt": "2021-11-28",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1299247",
-      "title": "007之明日帝国 Tomorrow Never Dies",
-      "originalTitle": "(1997)",
-      "year": "1997",
-      "coverPath": "covers/movie/1299247.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1721307776.webp",
-      "detailUrl": "/movie/1299247",
-      "listSummary": "1997-12-09(伦敦首映) / 1997-12-12(英国) / 1997-12-19(美国) / 皮尔斯·布鲁斯南 / 乔纳森·普雷斯 / 杨紫琼 / 特丽·哈彻 / 瑞奇·杰 / 戈兹·奥托 / 乔·唐·巴克 / 文森特·斯卡维利 / 朱迪·丹奇 / 戴斯蒙德·莱维林 / 英国 / 美国 / 罗杰·斯波蒂斯伍德 / 119 分钟 / 007之明日帝国 / 动作 / 冒险 / 惊悚 / 布鲁斯·费尔斯坦 Bruce Feirstein / 伊恩·弗莱明 Ian Fleming / 英语 / 德语 / 丹麦语 / 汉语普通话 / 粤语",
-      "rating": 4,
-      "markedAt": "2021-11-21",
-      "estimatedMarkedAtRange": null,
-      "comment": "小时候真是可喜欢遥控车那段了"
     }
   ]
 }

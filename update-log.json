@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-23T09:35:32.402Z",
+  "generatedAt": "2026-04-26T10:02:26.990Z",
   "entries": [
+    {
+      "id": "2026-04-26T10:02:26.990Z",
+      "generatedAt": "2026-04-26T10:02:26.990Z",
+      "lastDoubanSyncAt": "2026-04-26T10:02:24.410Z",
+      "totals": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "36352371",
+          "title": "同乐者 第一季",
+          "markedAt": "2026-04-26",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-04-23T09:35:32.402Z",
       "generatedAt": "2026-04-23T09:35:32.402Z",

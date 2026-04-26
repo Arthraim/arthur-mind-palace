@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1383,
+  "totalEntries": 1384,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36352371",
+      "title": "同乐者 第一季",
+      "originalTitle": "Pluribus Season 1",
+      "year": "2025",
+      "coverPath": "covers/movie/36352371.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926012363.jpg",
+      "detailUrl": "/movie/36352371",
+      "listSummary": "2025-11-07(美国) / 蕾亚·塞洪 / 卡罗利娜·维德拉 / 卡洛斯-曼努埃尔·贝斯加 / 莫奈·洛特 / 莫妮克·洛特 / 米丽娅姆·肖尔 / 麦肯齐·斯科特 / 帕里斯·梅斯 / 凯文·钱伯斯 / 杰里迈亚·拉特雷尔·考德威尔 / 美国 / 文斯·吉利根 / 戈登·史密斯 / 亚当·伯恩斯坦 / 梅丽莎·伯恩斯坦 / 姿娜·富恩特斯 / 甘加·蒙泰罗 / 60分钟 / 同乐者 / 剧情 / 科幻 / 文斯·吉里根 Vince Gilligan / 戈登·史密斯 Gordon Smith / 艾莉森·塔特洛克 Alison Tatlock / 维拉·布拉西 Vera Blasi / Jenn Carroll / Jonny Gomez / 阿莉尔·莱文 Ariel Levine / 英语",
+      "rating": 4,
+      "markedAt": "2026-04-26",
+      "estimatedMarkedAtRange": null,
+      "comment": "第五集味道太正了，耐心、不大惊小怪地讲一个荒诞的无人机的事，最终引出牛奶，是熟悉的Albuquerque。第七集也很惊人，两个人精神、肉体上的独立反抗最终全都失败了。"
+    },
     {
       "kind": "movie",
       "sourceId": "36765646",
@@ -439,21 +454,6 @@
       "markedAt": "2025-12-01",
       "estimatedMarkedAtRange": null,
       "comment": "缺点还是前面有点赶，电影篇幅关系也只能落脚在宝黛钗的爱情故事上"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1329969",
-      "title": "红楼梦",
-      "originalTitle": "(1962)",
-      "year": "1962",
-      "coverPath": "covers/movie/1329969.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2322451692.webp",
-      "detailUrl": "/movie/1329969",
-      "listSummary": "1962(中国大陆制作) / 1978(中国大陆) / 徐玉兰 / 王文娟 / 吕瑞英 / 金采风 / 周宝奎 / 孟莉英 / 徐天红 / 陈兰芳 / 郑忠梅 / 唐月瑛 / 中国大陆 / 岑范 / 161分钟 / 剧情 / 爱情 / 古装 / 戏曲 / 徐进 Jin Xu / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2025-11-30",
-      "estimatedMarkedAtRange": null,
-      "comment": "好精彩的改编，详略得当，重心基本在两个人的感情线上，其他角色都被简化了。"
     }
   ]
 }

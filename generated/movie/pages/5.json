@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 1383,
+  "totalEntries": 1384,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "30175306",
+      "title": "追龙Ⅱ 追龍2：賊王",
+      "originalTitle": "(2019)",
+      "year": "2019",
+      "coverPath": "covers/movie/30175306.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559100280.webp",
+      "detailUrl": "/movie/30175306",
+      "listSummary": "2019-06-06(中国大陆) / 梁家辉 / 古天乐 / 林家栋 / 邱意浓 / 叶项明 / 任达华 / 杜江 / 王敏德 / 余安安 / 韦家雄 / 中国香港 / 中国大陆 / 王晶 / 关智耀 / 103分钟 / 追龙Ⅱ / 剧情 / 动作 / 犯罪 / 王晶 Jing Wong / 吕冠南 Lui Koon Nam / 粤语 / 汉语普通话",
+      "rating": 2,
+      "markedAt": "2024-05-24",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "24284175",
@@ -439,21 +454,6 @@
       "markedAt": "2024-01-11",
       "estimatedMarkedAtRange": null,
       "comment": "温子仁还是有办法"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1296519",
-      "title": "喋血双雄 喋血雙雄",
-      "originalTitle": "(1989)",
-      "year": "1989",
-      "coverPath": "covers/movie/1296519.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554438688.webp",
-      "detailUrl": "/movie/1296519",
-      "listSummary": "1989-07-06 / 周润发 / 李修贤 / 叶倩文 / 曾江 / 朱江 / 成奎安 / 黄光亮 / 林聪 / 黄炳耀 / 黄柏文 / 中国香港 / 吴宇森 / 111分钟 / 124分钟(加长版) / 喋血双雄 / 动作 / 犯罪 / 剧情 / 惊悚 / 吴宇森 John Woo / 粤语",
-      "rating": 4,
-      "markedAt": "2023-12-25",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

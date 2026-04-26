@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 19,
   "pageSize": 30,
-  "totalEntries": 1383,
+  "totalEntries": 1384,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26378579",
+      "title": "王牌特工2：黄金圈",
+      "originalTitle": "Kingsman: The Golden Circle",
+      "year": "2017",
+      "coverPath": "covers/movie/26378579.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499792043.webp",
+      "detailUrl": "/movie/26378579",
+      "listSummary": "2017-09-20(英国) / 2017-09-22(美国) / 2017-10-20(中国大陆) / 塔伦·埃哲顿 / 科林·费尔斯 / 马克·斯特朗 / 朱丽安·摩尔 / 埃尔顿·约翰 / 爱德华·霍尔克罗夫特 / 哈莉·贝瑞 / 佩德罗·帕斯卡 / 查宁·塔图姆 / 杰夫·布里吉斯 / 英国 / 美国 / 马修·沃恩 / 141分钟 / 139分钟(中国大陆) / 王牌特工2：黄金圈 / 喜剧 / 动作 / 冒险 / 简·古德曼 Jane Goldman / 马修·沃恩 Matthew Vaughn / 马克·米勒 Mark Millar / 戴夫·吉布森 Dave Gibbons / 英语 / 意大利语 / 瑞典语",
+      "rating": 4,
+      "markedAt": "2017-10-27",
+      "estimatedMarkedAtRange": null,
+      "comment": "太戏剧化了，简直是真人卡通片…… 商业片这么拍简直也是侮辱观众智商了…… 不过的确看得很愉悦，大概我就是这个智商水平的"
+    },
     {
       "kind": "movie",
       "sourceId": "1291839",
@@ -439,21 +454,6 @@
       "markedAt": "2017-06-29",
       "estimatedMarkedAtRange": null,
       "comment": "很有力"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "20438714",
-      "title": "弹丸论破 希望的学园和绝望高中生",
-      "originalTitle": "ダンガンロンパ 希望の学園と絶望の高校生",
-      "year": "2013",
-      "coverPath": "covers/movie/20438714.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1967434491.webp",
-      "detailUrl": "/movie/20438714",
-      "listSummary": "2013-07-04(日本) / 绪方惠美 / 大本真基子 / 樱井孝宏 / 日笠阳子 / 石田彰 / 山口胜平 / 中井和哉 / 泽城美雪 / 椎名碧流 / 斋藤千和 / 日本 / 岸诚二 / 木村真一郎 / 下司泰弘 / 小林孝志 / 野亦则行 / 镰田祐辅 / 岩田义彦 / 24分钟 / 弹丸论破 希望的学园和绝望高中生 / 剧情 / 动画 / 悬疑 / 犯罪 / 上江洲诚 Makoto Uezu / 待田堂子 Touko Machida / 关根聪子 Sekine Satoko / 朱白葵 Akashiro Aoi / 日语",
-      "rating": 4,
-      "markedAt": "2017-06-26",
-      "estimatedMarkedAtRange": null,
-      "comment": "额结局略失望"
     }
   ]
 }

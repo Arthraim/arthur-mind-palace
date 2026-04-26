@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1383,
+  "totalEntries": 1384,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1329969",
+      "title": "红楼梦",
+      "originalTitle": "(1962)",
+      "year": "1962",
+      "coverPath": "covers/movie/1329969.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2322451692.webp",
+      "detailUrl": "/movie/1329969",
+      "listSummary": "1962(中国大陆制作) / 1978(中国大陆) / 徐玉兰 / 王文娟 / 吕瑞英 / 金采风 / 周宝奎 / 孟莉英 / 徐天红 / 陈兰芳 / 郑忠梅 / 唐月瑛 / 中国大陆 / 岑范 / 161分钟 / 剧情 / 爱情 / 古装 / 戏曲 / 徐进 Jin Xu / 汉语普通话",
+      "rating": 5,
+      "markedAt": "2025-11-30",
+      "estimatedMarkedAtRange": null,
+      "comment": "好精彩的改编，详略得当，重心基本在两个人的感情线上，其他角色都被简化了。"
+    },
     {
       "kind": "movie",
       "sourceId": "26924522",
@@ -439,21 +454,6 @@
       "markedAt": "2025-06-12",
       "estimatedMarkedAtRange": null,
       "comment": "居然错过如此神片"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "25754848",
-      "title": "琅琊榜",
-      "originalTitle": "(2015)",
-      "year": "2015",
-      "coverPath": "covers/movie/25754848.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2271982968.webp",
-      "detailUrl": "/movie/25754848",
-      "listSummary": "2015-09-19(中国大陆) / 胡歌 / 刘涛 / 王凯 / 陈龙 / 黄维德 / 靳东 / 高鑫 / 张棪琰 / 张龄心 / 王鸥 / 中国大陆 / 孔笙 / 李雪 / 45分钟 / 剧情 / 古装 / 海宴 Yan Hai / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2025-06-08",
-      "estimatedMarkedAtRange": null,
-      "comment": "这个剧和甄嬛传比心机和权谋肯定是没法比，主打一个超级英雄复仇，只有睡着了才会被算计"
     }
   ]
 }
