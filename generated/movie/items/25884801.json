@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "25884801",
   "title": "记忆大师",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/25884801.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455156816.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2017-10-02",
   "estimatedMarkedAtRange": null,
   "comment": "还不错啊，第三次看这个导演的片子觉得不错了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "记忆大师"
+    },
+    {
+      "label": "导演",
+      "value": "陈正道"
+    },
+    {
+      "label": "编剧",
+      "value": "任鹏 / 陈正道"
+    },
+    {
+      "label": "主演",
+      "value": "黄渤 / 段奕宏 / 徐静蕾 / 杨子姗 / 梁杰理 / 许玮甯 / 王真儿 / 焦刚 / 张隽溢 / 杜函梦 / 栾元晖 / 曹英睿"
+    },
+    {
+      "label": "类型",
+      "value": "悬疑 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-04-28(中国大陆) / 2017-04-23(北京电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "119分钟"
+    },
+    {
+      "label": "又名",
+      "value": "记忆战 / 催眠大师2 / Battle of Memories"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5636668"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25884801/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5636668/"
     }
   ]
 }

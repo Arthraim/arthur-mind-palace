@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26966580",
   "title": "妖铃铃",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/26966580.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506825662.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2017-12-31",
   "estimatedMarkedAtRange": null,
   "comment": "我决定就从这部片开始，严防死守的一颗星正式被开放",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "妖铃铃"
+    },
+    {
+      "label": "导演",
+      "value": "吴君如"
+    },
+    {
+      "label": "编剧",
+      "value": "周运海 / 查慕春 / 王贻兴"
+    },
+    {
+      "label": "主演",
+      "value": "吴君如 / 沈腾 / 岳云鹏 / 张译 / 姜逸磊 / 吴镇宇 / 方中信 / 焦俊艳 / 潘斌龙 / 阿如那 / 许君聪 / 李亦航 / 周冬雨 / 马思纯 / 李尚正"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-12-29(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "88分钟"
+    },
+    {
+      "label": "又名",
+      "value": "妖妖铃 / 妖妖零 / 玲姐大闹萌贵坊 / 铃姐大闹萌贵坊 / Goldbuster"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7743588"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26966580/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7743588/"
     }
   ]
 }

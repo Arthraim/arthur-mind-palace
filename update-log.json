@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-04-26T10:02:26.990Z",
+  "generatedAt": "2026-04-29T02:13:49.201Z",
   "entries": [
+    {
+      "id": "2026-04-29T02:13:49.201Z",
+      "generatedAt": "2026-04-29T02:13:49.201Z",
+      "lastDoubanSyncAt": "2026-04-29T02:13:46.206Z",
+      "totals": {
+        "added": 3,
+        "updated": 6,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 2,
+          "updated": 6,
+          "removed": 0
+        },
+        "book": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "36491177",
+          "title": "坂本龙一：杰作",
+          "markedAt": "2026-04-29",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "35694442",
+          "title": "空间的敦煌 : 走近莫高窟",
+          "markedAt": "2026-04-29",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "35235502",
+          "title": "驾驶我的车",
+          "markedAt": "2026-04-28",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "26850326",
+          "title": "欢乐喜剧人",
+          "markedAt": "2018-01-01",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "27038183",
+          "title": "羞羞的铁拳",
+          "markedAt": "2018-01-01",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "26654146",
+          "title": "解忧杂货店",
+          "markedAt": "2017-12-31",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "26966580",
+          "title": "妖铃铃",
+          "markedAt": "2017-12-31",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "26926321",
+          "title": "缝纫机乐队",
+          "markedAt": "2017-12-11",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "25884801",
+          "title": "记忆大师",
+          "markedAt": "2017-10-02",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-04-26T10:02:26.990Z",
       "generatedAt": "2026-04-26T10:02:26.990Z",

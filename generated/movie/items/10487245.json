@@ -13,11 +13,68 @@
   "markedAt": "2017-10-08",
   "estimatedMarkedAtRange": null,
   "comment": "没太懂，不聊罪才是宽恕吧",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2014"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2014)"
+    },
+    {
+      "label": "Title",
+      "value": "神父有难 Calvary"
+    },
+    {
+      "label": "导演",
+      "value": "约翰·迈克尔·麦克唐纳"
+    },
+    {
+      "label": "编剧",
+      "value": "约翰·迈克尔·麦克唐纳"
+    },
+    {
+      "label": "主演",
+      "value": "布莱丹·格里森 / 凯利·蕾莉 / 克里斯·奥多德 / 艾丹·吉伦 / 迪兰·莫兰 / 伊萨赫·德·班克尔 / M·埃梅特·沃尔什 / 玛丽-乔西·克罗兹 / 多姆纳尔·格里森"
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "英国 / 爱尔兰"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2014-01-19(圣丹斯电影节) / 2014-04-11(英国/爱尔兰)"
+    },
+    {
+      "label": "片长",
+      "value": "102分钟"
+    },
+    {
+      "label": "又名",
+      "value": "神父受难记 / 杀死神父 / 加略山"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2234003"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/10487245/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2234003/"
     }
   ]
 }

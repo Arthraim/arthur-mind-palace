@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26926321",
   "title": "缝纫机乐队",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/26926321.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498558511.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2017-12-11",
   "estimatedMarkedAtRange": null,
   "comment": "全程没法从古力娜扎身上移开视线，这种演员太让人出戏了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "缝纫机乐队"
+    },
+    {
+      "label": "导演",
+      "value": "大鹏"
+    },
+    {
+      "label": "编剧",
+      "value": "大鹏 / 苏彪"
+    },
+    {
+      "label": "主演",
+      "value": "大鹏 / 乔杉 / 古力娜扎 / 李鸿其 / 韩童生 / 曲隽希 / 于谦 / 岳云鹏 / 王劲松 / 于洋 / 代乐乐 / 赵英俊 / 马大明 / 张一鸣 / 衣云鹤 / 曹然然 / 曹桐睿 / 宋小宝 / 刘小光 / 文松 / 宋晓峰 / 周冬雨 / 袁姗姗 / 宋茜 / 林志玲 / 赵露思"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 音乐"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-09-29(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟"
+    },
+    {
+      "label": "又名",
+      "value": "City of Rock"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7339584"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26926321/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7339584/"
     }
   ]
 }

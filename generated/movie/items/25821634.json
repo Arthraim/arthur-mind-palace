@@ -13,11 +13,68 @@
   "markedAt": "2017-11-07",
   "estimatedMarkedAtRange": null,
   "comment": "电影3星，+0.5 给 Doctor Strange，+0.5 给 Loki。",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "雷神3：诸神黄昏 Thor: Ragnarok"
+    },
+    {
+      "label": "导演",
+      "value": "塔伊加·维迪提"
+    },
+    {
+      "label": "编剧",
+      "value": "埃里克·皮尔森 / 克雷格·凯尔 / 克里斯托弗·约斯特 / 斯坦·李 / 拉里·利伯 / 杰克·科比"
+    },
+    {
+      "label": "主演",
+      "value": "克里斯·海姆斯沃斯 / 汤姆·希德勒斯顿 / 凯特·布兰切特 / 伊德瑞斯·艾尔巴 / 杰夫·高布伦 / 泰莎·汤普森 / 卡尔·厄本 / 马克·鲁法洛 / 安东尼·霍普金斯 / 本尼迪克特·康伯巴奇 / 塔伊加·维迪提 / 瑞切尔·豪斯 / 克兰西·布朗 / 浅野忠信 / 雷·史蒂文森 / 扎克瑞·莱维 / 卢克·海姆斯沃斯 / 马特·达蒙 / 山姆·尼尔 / 夏洛特·尼克道 / 斯坦·李"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-11-03(美国/中国大陆) / 2017-10-24(英国)"
+    },
+    {
+      "label": "片长",
+      "value": "130分钟"
+    },
+    {
+      "label": "又名",
+      "value": "雷神奇侠3：诸神黄昏(港) / 雷神索尔3：诸神黄昏(台) / 雷神3：诸神的黄昏 / Thor 3"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3501632"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25821634/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3501632/"
     }
   ]
 }

@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 7,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26984189",
+      "title": "坂本龙一：终曲 Ryuichi Sakamoto: CODA",
+      "originalTitle": "(2017)",
+      "year": "2017",
+      "coverPath": "covers/movie/26984189.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577393869.webp",
+      "detailUrl": "/movie/26984189",
+      "listSummary": "2017-09-03(威尼斯电影节) / 2017-11-01(日本) / 2019-12-16(中国大陆) / 坂本龙一 / 日本 / 美国 / ryuichisakamoto-coda.com / 史蒂芬·野村·斯奇博 / 100分钟 / 坂本龙一：终曲 / 纪录片 / 音乐 / 日语",
+      "rating": 5,
+      "markedAt": "2023-06-18",
+      "estimatedMarkedAtRange": null,
+      "comment": "siff"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "35048728",
+      "title": "曼达洛人 第三季 The Mandalorian Season 3",
+      "originalTitle": "(2023)",
+      "year": "2023",
+      "coverPath": "covers/movie/35048728.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2887343397.webp",
+      "detailUrl": "/movie/35048728",
+      "listSummary": "2023-03-01(美国) / 佩德罗·帕斯卡 / 凯缇·萨克霍夫 / 艾米莉·斯沃洛 / 卡尔·韦瑟斯 / 吉安卡罗·埃斯波西托 / 塔伊加·维迪提 / 艾米·塞德丽丝 / 凯蒂·M·奥布莱恩 / 奥米德·阿布塔西 / 特穆拉·莫里森 / 美国 / 瑞克·法穆易瓦 / 瑞秋·莫里森 / 李·以萨克·郑 / 卡尔·韦瑟斯 / 彼得·拉姆齐 / 布莱丝·达拉斯·霍华德 / 曼达洛人 / 40分钟 / 曼达洛人 / 动作 / 科幻 / 奇幻 / 冒险 / 乔恩·费儒 Jon Favreau / 诺亚·克鲁尔 Noah Kloor / 戴夫·菲洛尼 Dave Filoni / 英语",
+      "rating": 4,
+      "markedAt": "2023-05-21",
+      "estimatedMarkedAtRange": null,
+      "comment": "这季没有了之前的西部感，夺回曼达洛的动机也略显迂腐"
+    },
     {
       "kind": "movie",
       "sourceId": "35653205",
@@ -424,36 +454,6 @@
       "markedAt": "2022-10-19",
       "estimatedMarkedAtRange": null,
       "comment": "你不要影响我看严华跳舞"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26995893",
-      "title": "神探大战 神探大戰",
-      "originalTitle": "(2022)",
-      "year": "2022",
-      "coverPath": "covers/movie/26995893.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875702766.webp",
-      "detailUrl": "/movie/26995893",
-      "listSummary": "2022-07-08(中国大陆) / 2022-07-21(中国香港) / 刘青云 / 蔡卓妍 / 林峯 / 李若彤 / 谭凯 / 陈家乐 / 汤怡 / 何珮瑜 / 吴浩康 / 洪天明 / 中国香港 / 中国大陆 / 韦家辉 / 2022-07-02 14:00 / 101分钟(中国大陆) / 102分钟 / 神探大战 / 动作 / 犯罪 / 悬疑 / 韦家辉 Ka-Fai Wai / 汉语普通话 / 粤语",
-      "rating": 4,
-      "markedAt": "2022-10-07",
-      "estimatedMarkedAtRange": null,
-      "comment": "节奏飞快"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1300070",
-      "title": "赌侠1999 賭俠1999",
-      "originalTitle": "(1998)",
-      "year": "1998",
-      "coverPath": "covers/movie/1300070.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2358906814.webp",
-      "detailUrl": "/movie/1300070",
-      "listSummary": "1998-12-18 / 刘德华 / 朱茵 / 张家辉 / 高捷 / 张慧仪 / 张锦程 / 李子雄 / 吴毅将 / 吴志雄 / 黄子扬 / 中国香港 / 王晶 / 112分钟 / 赌侠1999 / 喜剧 / 王晶 Jing Wong / 粤语",
-      "rating": 3,
-      "markedAt": "2022-10-04",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

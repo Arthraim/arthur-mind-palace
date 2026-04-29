@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1308855",
+      "title": "大事件",
+      "originalTitle": "(2004)",
+      "year": "2004",
+      "coverPath": "covers/movie/1308855.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2003332263.webp",
+      "detailUrl": "/movie/1308855",
+      "listSummary": "2004-06-10(中国香港) / 陈慧琳 / 张家辉 / 任贤齐 / 林雪 / 任达华 / 许绍雄 / 邵美琪 / 张兆辉 / 尤勇智 / 丁海峰 / 中国香港 / 杜琪峰 / 90 分钟 / 动作 / 犯罪 / 剧情 / 陈庆嘉 / 叶天成 Tin-Shing Yip / 英语 / 汉语普通话 / 粤语",
+      "rating": 3,
+      "markedAt": "2025-06-13",
+      "estimatedMarkedAtRange": null,
+      "comment": "三四星之间吧，看完PTU看啥都不得劲儿了"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "1302434",
+      "title": "机动部队 PTU",
+      "originalTitle": "(2003)",
+      "year": "2003",
+      "coverPath": "covers/movie/1302434.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248645493.webp",
+      "detailUrl": "/movie/1302434",
+      "listSummary": "2003-04-17(中国香港) / 任达华 / 邵美琪 / 林雪 / 黄卓玲 / 黄浩然 / 高雄 / 卢海鹏 / 张满源 / 利沙华 / 张志平 / 中国香港 / 杜琪峰 / 88分钟 / 机动部队 / 犯罪 / 剧情 / 欧健儿 Kin-Yee Au / 游乃海 Nai-Hoi Yau / 粤语",
+      "rating": 5,
+      "markedAt": "2025-06-12",
+      "estimatedMarkedAtRange": null,
+      "comment": "居然错过如此神片"
+    },
     {
       "kind": "movie",
       "sourceId": "25754848",
@@ -424,36 +454,6 @@
       "markedAt": "2024-10-26",
       "estimatedMarkedAtRange": null,
       "comment": "人设真的太棒了，甚至第一次在高达磕到了cp。剧情后来有点崩，但没事，属于设定满分，执行糟糕。很喜欢救女儿的故事，看出了EVA的味道"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "35604677",
-      "title": "机动战士高达 水星的魔女 機動戦士ガンダム 水星の魔女",
-      "originalTitle": "(2022)",
-      "year": "2022",
-      "coverPath": "covers/movie/35604677.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2879515135.webp",
-      "detailUrl": "/movie/35604677",
-      "listSummary": "2022-10-02(日本) / 市之濑加那 / Lynn / 阿座上洋平 / 宫本侑芽 / 花江夏树 / 富田美忧 / 古川慎 / 能登麻美子 / 内田直哉 / 斧笃 / 日本 / 小林宽 / 24分钟 / 机动战士高达 水星的魔女 / 剧情 / 科幻 / 动画 / 大河内一楼 Ichiro Okouchi / 日语",
-      "rating": 4,
-      "markedAt": "2024-10-26",
-      "estimatedMarkedAtRange": null,
-      "comment": "好复杂，各方势力，人设机设都很棒"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1299131",
-      "title": "教父2 The Godfather: Part II",
-      "originalTitle": "(1974)",
-      "year": "1974",
-      "coverPath": "covers/movie/1299131.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.webp",
-      "detailUrl": "/movie/1299131",
-      "listSummary": "1974-12-12(纽约首映) / 1974-12-20(美国) / 阿尔·帕西诺 / 罗伯特·杜瓦尔 / 黛安·基顿 / 罗伯特·德尼罗 / 约翰·凯泽尔 / 塔莉娅·夏尔 / 李·斯特拉斯伯格 / 迈克尔·V·格佐 / G•D•斯普拉德林 / 理查德·布赖特 / 美国 / 弗朗西斯·福特·科波拉 / 202分钟 / 教父2 / 剧情 / 犯罪 / 弗朗西斯·福特·科波拉 Francis Ford Coppola / 马里奥·普佐 Mario Puzo / 英语 / 意大利语 / 西班牙语 / 拉丁语 / 西西里语",
-      "rating": 5,
-      "markedAt": "2024-10-15",
-      "estimatedMarkedAtRange": null,
-      "comment": "最后一场戏真是神了，这一集太压抑难受了"
     }
   ]
 }

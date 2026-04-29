@@ -13,11 +13,68 @@
   "markedAt": "2017-10-03",
   "estimatedMarkedAtRange": null,
   "comment": "我看了眼《蔡李佛》打了一颗星，于是放心的给这个片打了两颗星……… 王晶到底是王晶，烂的亚匹",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "追龙 追龍"
+    },
+    {
+      "label": "导演",
+      "value": "王晶 / 关智耀"
+    },
+    {
+      "label": "编剧",
+      "value": "王晶 / 吕冠南 / 叶铭浩"
+    },
+    {
+      "label": "主演",
+      "value": "甄子丹 / 刘德华 / 姜皓文 / 郑则仕 / 刘浩龙 / 汤镇业 / 喻亢 / 胡然 / 徐冬冬 / 黄日华 / 陈惠敏 / 周励淇 / 吴毅将"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国香港 / 中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "粤语 / 汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-09-30(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "128分钟"
+    },
+    {
+      "label": "又名",
+      "value": "卧虎2 / 跛豪 / Chasing the Dragon"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6015328"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26425068/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6015328/"
     }
   ]
 }

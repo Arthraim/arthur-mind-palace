@@ -13,11 +13,68 @@
   "markedAt": "2017-10-15",
   "estimatedMarkedAtRange": null,
   "comment": "科幻题材文艺片居然还能结局大逆转。666",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1982"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1982)"
+    },
+    {
+      "label": "Title",
+      "value": "银翼杀手 Blade Runner"
+    },
+    {
+      "label": "导演",
+      "value": "雷德利·斯科特"
+    },
+    {
+      "label": "编剧",
+      "value": "汉普顿·范彻 / 大卫·韦伯·皮普尔斯 / 菲利普·迪克"
+    },
+    {
+      "label": "主演",
+      "value": "哈里森·福特 / 鲁格·豪尔 / 肖恩·杨 / 爱德华·詹姆斯·奥莫斯 / M·埃梅特·沃尔什 / 达丽尔·汉纳 / 威廉·桑德森 / 布里翁·詹姆斯 / 乔·托克尔 / 乔安娜·卡西迪 / 吴汉章 / 摩根·保罗 / 凯文·汤普森"
+    },
+    {
+      "label": "类型",
+      "value": "科幻 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国 / 中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 德语 / 粤语 / 日语 / 匈牙利语 / 阿拉伯语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1982-06-25(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟(最终剪辑版) / 116分钟(导演剪辑版)"
+    },
+    {
+      "label": "又名",
+      "value": "公元2020 / 叛狱追杀令 / 刀刃警探"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0083658"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291839/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0083658/"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 155,
+  "totalEntries": 156,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "35339729",
+      "title": "微信背后的产品观",
+      "originalTitle": null,
+      "year": "2021",
+      "coverPath": "covers/book/35339729.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33957064.jpg",
+      "detailUrl": "/book/35339729",
+      "listSummary": "张小龙 / 电子工业出版社 / 2021-1 / 49",
+      "rating": 4,
+      "markedAt": "2021-01-30",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "book",
       "sourceId": "34672176",
@@ -439,21 +454,6 @@
       "markedAt": "2017-10-15",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "book",
-      "sourceId": "27118271",
-      "title": "今夜宜有彩虹",
-      "originalTitle": null,
-      "year": "2017",
-      "coverPath": "covers/book/27118271.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s29537050.jpg",
-      "detailUrl": "/book/27118271",
-      "listSummary": "陆烨华 / 新星出版社 / 2017-10 / 36.00元",
-      "rating": 5,
-      "markedAt": "2017-10-12",
-      "estimatedMarkedAtRange": null,
-      "comment": "「……不过最近有不少有才华长得也好看的作者冒出来，我对未来还是很有信心的。」 —— 赵知奇"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "kind": "movie",
+  "sourceId": "35235502",
+  "title": "驾驶我的车",
+  "originalTitle": "ドライブ・マイ・カー",
+  "year": "2021",
+  "coverPath": "covers/movie/35235502.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2670263616.jpg",
+  "doubanUrl": "https://movie.douban.com/subject/35235502/",
+  "detailUrl": "/movie/35235502",
+  "listSummary": "2021-07-11(戛纳电影节) / 2021-08-20(日本) / 西岛秀俊 / 三浦透子 / 雾岛丽香 / 冈田将生 / 朴有琳 / 陈大渊 / 袁子芸 / 安辉泰 / 佩里·迪桑 / 安部聪子 / 日本 / dmc.bitters.co.jp / 滨口龙介 / 179分钟 / 驾驶我的车 / 剧情 / 滨口龙介 Ryûsuke Hamaguchi / 大江崇允 Takamasa Oe / 村上春树 Haruki Murakami / 日语",
+  "rating": 4,
+  "markedAt": "2026-04-28",
+  "estimatedMarkedAtRange": null,
+  "comment": "车好抢戏啊",
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2021"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2021)"
+    },
+    {
+      "label": "Title",
+      "value": "驾驶我的车 ドライブ・マイ・カー"
+    },
+    {
+      "label": "导演",
+      "value": "滨口龙介"
+    },
+    {
+      "label": "编剧",
+      "value": "滨口龙介 / 大江崇允 / 村上春树"
+    },
+    {
+      "label": "主演",
+      "value": "西岛秀俊 / 三浦透子 / 雾岛丽香 / 冈田将生 / 朴有琳 / 陈大渊 / 袁子芸 / 安辉泰 / 佩里·迪桑 / 安部聪子 / 岩濑亮 / 谷川昭一朗 / 西庆子 / 铃木咲"
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2021-07-11(戛纳电影节) / 2021-08-20(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "179分钟"
+    },
+    {
+      "label": "又名",
+      "value": "在车上(台) / Drive My Car"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt14039582"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://movie.douban.com/subject/35235502/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt14039582/"
+    }
+  ]
+}

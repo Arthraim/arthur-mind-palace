@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "35604677",
+      "title": "机动战士高达 水星的魔女 機動戦士ガンダム 水星の魔女",
+      "originalTitle": "(2022)",
+      "year": "2022",
+      "coverPath": "covers/movie/35604677.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2879515135.webp",
+      "detailUrl": "/movie/35604677",
+      "listSummary": "2022-10-02(日本) / 市之濑加那 / Lynn / 阿座上洋平 / 宫本侑芽 / 花江夏树 / 富田美忧 / 古川慎 / 能登麻美子 / 内田直哉 / 斧笃 / 日本 / 小林宽 / 24分钟 / 机动战士高达 水星的魔女 / 剧情 / 科幻 / 动画 / 大河内一楼 Ichiro Okouchi / 日语",
+      "rating": 4,
+      "markedAt": "2024-10-26",
+      "estimatedMarkedAtRange": null,
+      "comment": "好复杂，各方势力，人设机设都很棒"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "1299131",
+      "title": "教父2 The Godfather: Part II",
+      "originalTitle": "(1974)",
+      "year": "1974",
+      "coverPath": "covers/movie/1299131.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.webp",
+      "detailUrl": "/movie/1299131",
+      "listSummary": "1974-12-12(纽约首映) / 1974-12-20(美国) / 阿尔·帕西诺 / 罗伯特·杜瓦尔 / 黛安·基顿 / 罗伯特·德尼罗 / 约翰·凯泽尔 / 塔莉娅·夏尔 / 李·斯特拉斯伯格 / 迈克尔·V·格佐 / G•D•斯普拉德林 / 理查德·布赖特 / 美国 / 弗朗西斯·福特·科波拉 / 202分钟 / 教父2 / 剧情 / 犯罪 / 弗朗西斯·福特·科波拉 Francis Ford Coppola / 马里奥·普佐 Mario Puzo / 英语 / 意大利语 / 西班牙语 / 拉丁语 / 西西里语",
+      "rating": 5,
+      "markedAt": "2024-10-15",
+      "estimatedMarkedAtRange": null,
+      "comment": "最后一场戏真是神了，这一集太压抑难受了"
+    },
     {
       "kind": "movie",
       "sourceId": "34971728",
@@ -424,36 +454,6 @@
       "markedAt": "2024-06-16",
       "estimatedMarkedAtRange": null,
       "comment": "把恋童放进少数群体的讨论里还是有点太超前了。视角还挺明显是站在一个所谓「正常人」角度去讨论的。值得庆幸的是，片中无论哪条线，恋水也好，厌男异性恋也好，不愿上学的小学生也好，最终的诉求都是得到同类的认可，而不是社会的认可。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1421823",
-      "title": "娜娜 Nana",
-      "originalTitle": "(2005)",
-      "year": "2005",
-      "coverPath": "covers/movie/1421823.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2256750022.webp",
-      "detailUrl": "/movie/1421823",
-      "listSummary": "2005-09-03(日本) / 中岛美嘉 / 宫崎葵 / 成宫宽贵 / 松山研一 / 纱荣子 / 松田龙平 / 平冈祐太 / 虎牙光挥 / 玉山铁二 / 柳原晴郎 / 日本 / 大谷健太郎 / 113 分钟 / 娜娜 / 剧情 / 音乐 / 矢泽爱 Ai Yazawa / 浅野妙子 Taeko Asano / 大谷健太郎 Kentarô Ôtani / 日语 / 英语",
-      "rating": 4,
-      "markedAt": "2024-06-12",
-      "estimatedMarkedAtRange": null,
-      "comment": "看完中岛美嘉演唱会特地找来看，上次看的时候17岁吧。。。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2190929",
-      "title": "刑事侦缉档案3 刑事偵緝檔案Ⅲ",
-      "originalTitle": "(1997)",
-      "year": "1997",
-      "coverPath": "covers/movie/2190929.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541265799.webp",
-      "detailUrl": "/movie/2190929",
-      "listSummary": "1997-09-01(中国香港) / 陶大宇 / 郭可盈 / 梁荣忠 / 钟丽淇 / 汤宝如 / 杨婉仪 / 陈法蓉 / 廖启智 / 罗冠兰 / 金兴贤 / 中国香港 / 潘嘉德 / 45分钟 / 刑事侦缉档案3 / 爱情 / 悬疑 / 犯罪 / 欧冠瑛 Koon Ying Au / 贾伟南 Wai-Nam Ku / 粤语",
-      "rating": 5,
-      "markedAt": "2024-06-07",
-      "estimatedMarkedAtRange": null,
-      "comment": "这一季有意思啊，北京掉包，风雪山庄（小岛），大勇杀人，好玩啊。好喜欢高婕"
     }
   ]
 }

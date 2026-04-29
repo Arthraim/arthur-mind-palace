@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 17,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26647117",
+      "title": "暴裂无声",
+      "originalTitle": "(2017)",
+      "year": "2017",
+      "coverPath": "covers/movie/26647117.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.webp",
+      "detailUrl": "/movie/26647117",
+      "listSummary": "2017-07-27(FIRST青年影展) / 2018-04-04(中国大陆) / 宋洋 / 姜武 / 袁文康 / 谭卓 / 王梓尘 / 安琥 / 伊天锴 / 陈进 / 李亚真 / 中国大陆 / 忻钰坤 / 120分钟 / 剧情 / 犯罪 / 悬疑 / 忻钰坤 Yukun Xin / 汉语普通话",
+      "rating": 5,
+      "markedAt": "2018-07-14",
+      "estimatedMarkedAtRange": null,
+      "comment": "这导演应该天生会拍电影吧"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "26752088",
+      "title": "我不是药神",
+      "originalTitle": "(2018)",
+      "year": "2018",
+      "coverPath": "covers/movie/26752088.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527119568.webp",
+      "detailUrl": "/movie/26752088",
+      "listSummary": "2018-06-30(大规模点映) / 2018-07-05(中国大陆) / 徐峥 / 王传君 / 周一围 / 谭卓 / 章宇 / 杨新鸣 / 王砚辉 / 王佳佳 / 贾弘逍 / 龚蓓苾 / 中国大陆 / 文牧野 / 2018-06-30 00:00 / 117分钟 / 剧情 / 喜剧 / 韩家女 Jianü Han / 钟伟 Wei Zhong / 文牧野 Muye Wen / 汉语普通话 / 英语 / 上海话 / 印地语",
+      "rating": 5,
+      "markedAt": "2018-07-12",
+      "estimatedMarkedAtRange": null,
+      "comment": "瑕不掩瑜，感动"
+    },
     {
       "kind": "movie",
       "sourceId": "1471507",
@@ -424,36 +454,6 @@
       "markedAt": "2018-03-04",
       "estimatedMarkedAtRange": null,
       "comment": "这不是鬼扯吗。。。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1308769",
-      "title": "异形大战铁血战士 AVP: Alien vs. Predator",
-      "originalTitle": "(2004)",
-      "year": "2004",
-      "coverPath": "covers/movie/1308769.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1529816649.jpg",
-      "detailUrl": "/movie/1308769",
-      "listSummary": "2004-08-13(美国) / 桑娜·莱瑟 / 雷欧·波瓦 / 兰斯·亨利克森 / 艾文·布莱纳 / 科林·萨尔蒙 / 汤米·弗拉纳根 / 约瑟夫·雷耶 / 阿加特·德拉·波拉耶 / 卡尔斯腾·诺尔加拉德 / 山姆·特劳顿 / 美国 / 德国 / 捷克 / 英国 / 保罗·安德森 / 101分钟 / 104分钟(加长版) / 109分钟(未分级版) / 异形大战铁血战士 / 动作 / 科幻 / 惊悚 / 丹·欧班农 Dan O'Bannon / 罗纳德·舒塞特 Ronald Shusett / 吉姆·托马斯 Jim Thomas / 约翰·托马斯 John Thomas / 保罗·安德森 Paul W.S. Anderson / 英语 / 意大利语",
-      "rating": 4,
-      "markedAt": "2018-03-04",
-      "estimatedMarkedAtRange": null,
-      "comment": "这样的脑洞请再来一打"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1302718",
-      "title": "铁血战士2 Predator 2",
-      "originalTitle": "(1990)",
-      "year": "1990",
-      "coverPath": "covers/movie/1302718.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1417780248.jpg",
-      "detailUrl": "/movie/1302718",
-      "listSummary": "1990-11-21 / 丹尼·格洛弗 / 加里·布塞 / 凯文·彼得·豪尔 / 卢宾·布雷兹 / 玛利亚·康柯塔·阿隆索 / 比尔·帕克斯顿 / 罗伯特·达维 / 亚当·鲍德温 / 户田惠子 / 特里·魏格尔 / 美国 / 斯蒂芬·霍普金斯 / 108 分钟 / Germany: 93 分钟(TV version) (FSK 18 version) (heavily cut) / 103 分钟(vcd) / 铁血战士2 / 动作 / 科幻 / 恐怖 / 吉姆·托马斯 Jim Thomas / 约翰·托马斯 John Thomas / 英语",
-      "rating": 3,
-      "markedAt": "2018-03-04",
-      "estimatedMarkedAtRange": null,
-      "comment": "比较垃圾… 双方都没脑子"
     }
   ]
 }

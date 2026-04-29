@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 8,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26995893",
+      "title": "神探大战 神探大戰",
+      "originalTitle": "(2022)",
+      "year": "2022",
+      "coverPath": "covers/movie/26995893.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875702766.webp",
+      "detailUrl": "/movie/26995893",
+      "listSummary": "2022-07-08(中国大陆) / 2022-07-21(中国香港) / 刘青云 / 蔡卓妍 / 林峯 / 李若彤 / 谭凯 / 陈家乐 / 汤怡 / 何珮瑜 / 吴浩康 / 洪天明 / 中国香港 / 中国大陆 / 韦家辉 / 2022-07-02 14:00 / 101分钟(中国大陆) / 102分钟 / 神探大战 / 动作 / 犯罪 / 悬疑 / 韦家辉 Ka-Fai Wai / 汉语普通话 / 粤语",
+      "rating": 4,
+      "markedAt": "2022-10-07",
+      "estimatedMarkedAtRange": null,
+      "comment": "节奏飞快"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "1300070",
+      "title": "赌侠1999 賭俠1999",
+      "originalTitle": "(1998)",
+      "year": "1998",
+      "coverPath": "covers/movie/1300070.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2358906814.webp",
+      "detailUrl": "/movie/1300070",
+      "listSummary": "1998-12-18 / 刘德华 / 朱茵 / 张家辉 / 高捷 / 张慧仪 / 张锦程 / 李子雄 / 吴毅将 / 吴志雄 / 黄子扬 / 中国香港 / 王晶 / 112分钟 / 赌侠1999 / 喜剧 / 王晶 Jing Wong / 粤语",
+      "rating": 3,
+      "markedAt": "2022-10-04",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1308129",
@@ -424,36 +454,6 @@
       "markedAt": "2022-05-17",
       "estimatedMarkedAtRange": null,
       "comment": "每一集都很好看！"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "34884712",
-      "title": "不要抬头 Don't Look Up",
-      "originalTitle": "(2021)",
-      "year": "2021",
-      "coverPath": "covers/movie/34884712.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2730833093.webp",
-      "detailUrl": "/movie/34884712",
-      "listSummary": "2021-12-10(美国) / 2021-12-24(美国网络) / 莱昂纳多·迪卡普里奥 / 詹妮弗·劳伦斯 / 梅丽尔·斯特里普 / 凯特·布兰切特 / 罗布·摩根 / 乔纳·希尔 / 马克·里朗斯 / 泰勒·派瑞 / 提莫西·查拉梅 / 朗·普尔曼 / 美国 / 亚当·麦凯 / 138分钟 / 不要抬头 / 喜剧 / 科幻 / 亚当·麦凯 Adam McKay / 戴维·西罗塔 David Sirota / 英语",
-      "rating": 4,
-      "markedAt": "2022-05-15",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26147418",
-      "title": "神奇动物：邓布利多之谜 Fantastic Beasts: The Secrets of Dumbledore",
-      "originalTitle": "(2022)",
-      "year": "2022",
-      "coverPath": "covers/movie/26147418.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2871106106.webp",
-      "detailUrl": "/movie/26147418",
-      "listSummary": "2022-04-08(英国) / 2022-04-08(中国大陆) / 2022-04-15(美国) / 埃迪·雷德梅恩 / 裘德·洛 / 麦斯·米科尔森 / 丹·福勒 / 艾莉森·萨多尔 / 凯瑟琳·沃特斯顿 / 埃兹拉·米勒 / 卡勒姆·特纳 / 杰西卡·威廉姆斯 / 理查德·柯伊尔 / 英国 / 美国 / www.fantasticbeasts.net / 大卫·叶茨 / 142分钟 / 神奇动物：邓布利多之谜 / 奇幻 / 冒险 / J·K·罗琳 J.K. Rowling / 史蒂夫·克洛夫斯 Steve Kloves / 英语 / 德语",
-      "rating": 4,
-      "markedAt": "2022-05-15",
-      "estimatedMarkedAtRange": null,
-      "comment": "支线任务？"
     }
   ]
 }

@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36491177",
+      "title": "坂本龙一：杰作",
+      "originalTitle": "Ryuichi Sakamoto | Opus",
+      "year": "2023",
+      "coverPath": "covers/movie/36491177.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907966076.jpg",
+      "detailUrl": "/movie/36491177",
+      "listSummary": "2023-09-04(威尼斯电影节) / 2024-05-10(日本) / 2024-05-31(中国大陆) / 坂本龙一 / 日本 / 空音央 / 103分钟 / 坂本龙一：杰作 / 纪录片 / 音乐 / 日语",
+      "rating": 5,
+      "markedAt": "2026-04-29",
+      "estimatedMarkedAtRange": null,
+      "comment": "谢谢教授留下这最后的演出。也使得疫情里那场温暖的直播不是最后的演出。"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "35235502",
+      "title": "驾驶我的车",
+      "originalTitle": "ドライブ・マイ・カー",
+      "year": "2021",
+      "coverPath": "covers/movie/35235502.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2670263616.jpg",
+      "detailUrl": "/movie/35235502",
+      "listSummary": "2021-07-11(戛纳电影节) / 2021-08-20(日本) / 西岛秀俊 / 三浦透子 / 雾岛丽香 / 冈田将生 / 朴有琳 / 陈大渊 / 袁子芸 / 安辉泰 / 佩里·迪桑 / 安部聪子 / 日本 / dmc.bitters.co.jp / 滨口龙介 / 179分钟 / 驾驶我的车 / 剧情 / 滨口龙介 Ryûsuke Hamaguchi / 大江崇允 Takamasa Oe / 村上春树 Haruki Murakami / 日语",
+      "rating": 4,
+      "markedAt": "2026-04-28",
+      "estimatedMarkedAtRange": null,
+      "comment": "车好抢戏啊"
+    },
     {
       "kind": "movie",
       "sourceId": "36352371",
@@ -424,36 +454,6 @@
       "markedAt": "2025-12-07",
       "estimatedMarkedAtRange": null,
       "comment": "看得出是大制作"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1300201",
-      "title": "金玉良缘红楼梦 金玉良緣紅樓夢",
-      "originalTitle": "(1977)",
-      "year": "1977",
-      "coverPath": "covers/movie/1300201.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2666248375.webp",
-      "detailUrl": "/movie/1300201",
-      "listSummary": "1977-10-26(中国香港) / 林青霞 / 张艾嘉 / 狄波拉 / 米雪 / 胡锦 / 谈瑛 / 王莱 / 吕红 / 钱似莺 / 林静 / 中国香港 / 中国台湾 / 李翰祥 / 108分钟 / 金玉良缘红楼梦 / 爱情 / 古装 / 歌舞 / 李翰祥 / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-12-02",
-      "estimatedMarkedAtRange": null,
-      "comment": "天上掉下个林青霞，眼球只能被宝玉吸引，别的什么都看不见"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1437752",
-      "title": "红楼梦",
-      "originalTitle": "(1944)",
-      "year": "1944",
-      "coverPath": "covers/movie/1437752.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2584246953.webp",
-      "detailUrl": "/movie/1437752",
-      "listSummary": "周璇 / 王丹凤 / 袁美云 / 白虹 / 舒丽娟 / 仓隐秋 / 欧阳莎菲 / 王蒂 / 刘琴 / 沈浩 / 中国大陆 / 卜万苍 / 125分钟 / 剧情 / 爱情 / 卜万苍 Wancang Bu / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-12-01",
-      "estimatedMarkedAtRange": null,
-      "comment": "缺点还是前面有点赶，电影篇幅关系也只能落脚在宝黛钗的爱情故事上"
     }
   ]
 }

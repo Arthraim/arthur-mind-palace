@@ -2,9 +2,39 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1384,
+  "totalEntries": 1386,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1300201",
+      "title": "金玉良缘红楼梦 金玉良緣紅樓夢",
+      "originalTitle": "(1977)",
+      "year": "1977",
+      "coverPath": "covers/movie/1300201.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2666248375.webp",
+      "detailUrl": "/movie/1300201",
+      "listSummary": "1977-10-26(中国香港) / 林青霞 / 张艾嘉 / 狄波拉 / 米雪 / 胡锦 / 谈瑛 / 王莱 / 吕红 / 钱似莺 / 林静 / 中国香港 / 中国台湾 / 李翰祥 / 108分钟 / 金玉良缘红楼梦 / 爱情 / 古装 / 歌舞 / 李翰祥 / 汉语普通话",
+      "rating": 4,
+      "markedAt": "2025-12-02",
+      "estimatedMarkedAtRange": null,
+      "comment": "天上掉下个林青霞，眼球只能被宝玉吸引，别的什么都看不见"
+    },
+    {
+      "kind": "movie",
+      "sourceId": "1437752",
+      "title": "红楼梦",
+      "originalTitle": "(1944)",
+      "year": "1944",
+      "coverPath": "covers/movie/1437752.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2584246953.webp",
+      "detailUrl": "/movie/1437752",
+      "listSummary": "周璇 / 王丹凤 / 袁美云 / 白虹 / 舒丽娟 / 仓隐秋 / 欧阳莎菲 / 王蒂 / 刘琴 / 沈浩 / 中国大陆 / 卜万苍 / 125分钟 / 剧情 / 爱情 / 卜万苍 Wancang Bu / 汉语普通话",
+      "rating": 4,
+      "markedAt": "2025-12-01",
+      "estimatedMarkedAtRange": null,
+      "comment": "缺点还是前面有点赶，电影篇幅关系也只能落脚在宝黛钗的爱情故事上"
+    },
     {
       "kind": "movie",
       "sourceId": "1329969",
@@ -424,36 +454,6 @@
       "markedAt": "2025-06-15",
       "estimatedMarkedAtRange": null,
       "comment": "当夏天vlog看吧，看完立刻驱车前往家附近的小酒吧外带了一份生僻。另外很喜欢导演细腻的捕捉了对话里的冷场的地方，都用这样那样夸张的方式给观众了。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1308855",
-      "title": "大事件",
-      "originalTitle": "(2004)",
-      "year": "2004",
-      "coverPath": "covers/movie/1308855.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2003332263.webp",
-      "detailUrl": "/movie/1308855",
-      "listSummary": "2004-06-10(中国香港) / 陈慧琳 / 张家辉 / 任贤齐 / 林雪 / 任达华 / 许绍雄 / 邵美琪 / 张兆辉 / 尤勇智 / 丁海峰 / 中国香港 / 杜琪峰 / 90 分钟 / 动作 / 犯罪 / 剧情 / 陈庆嘉 / 叶天成 Tin-Shing Yip / 英语 / 汉语普通话 / 粤语",
-      "rating": 3,
-      "markedAt": "2025-06-13",
-      "estimatedMarkedAtRange": null,
-      "comment": "三四星之间吧，看完PTU看啥都不得劲儿了"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1302434",
-      "title": "机动部队 PTU",
-      "originalTitle": "(2003)",
-      "year": "2003",
-      "coverPath": "covers/movie/1302434.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248645493.webp",
-      "detailUrl": "/movie/1302434",
-      "listSummary": "2003-04-17(中国香港) / 任达华 / 邵美琪 / 林雪 / 黄卓玲 / 黄浩然 / 高雄 / 卢海鹏 / 张满源 / 利沙华 / 张志平 / 中国香港 / 杜琪峰 / 88分钟 / 机动部队 / 犯罪 / 剧情 / 欧健儿 Kin-Yee Au / 游乃海 Nai-Hoi Yau / 粤语",
-      "rating": 5,
-      "markedAt": "2025-06-12",
-      "estimatedMarkedAtRange": null,
-      "comment": "居然错过如此神片"
     }
   ]
 }

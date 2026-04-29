@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27038183",
   "title": "羞羞的铁拳",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/27038183.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2018-01-01",
   "estimatedMarkedAtRange": null,
   "comment": "笑死",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "羞羞的铁拳"
+    },
+    {
+      "label": "导演",
+      "value": "宋阳 / 张吃鱼"
+    },
+    {
+      "label": "编剧",
+      "value": "张吃鱼 / 宋阳"
+    },
+    {
+      "label": "主演",
+      "value": "艾伦 / 马丽 / 沈腾 / 田雨 / 宋阳 / 薛皓文 / 常远 / 黄才伦 / 王智"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-09-30(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "100分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Never Say Die"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7431894"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27038183/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7431894/"
     }
   ]
 }
