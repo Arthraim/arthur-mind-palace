@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "24753810",
   "title": "战狼",
-  "originalTitle": null,
+  "originalTitle": "(2015)",
   "year": "2015",
   "coverPath": "covers/movie/24753810.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2225660666.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2017-08-06",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "战狼"
+    },
+    {
+      "label": "导演",
+      "value": "吴京"
+    },
+    {
+      "label": "编剧",
+      "value": "吴京 / 刘毅 / 董群 / 高岩"
+    },
+    {
+      "label": "主演",
+      "value": "吴京 / 余男 / 斯科特·阿金斯 / 李凯文 / 倪大红 / 凯尔·夏皮罗 / 石兆琪 / 周晓鸥 / 房子斌 / 郭广平 / 茹萍 / 洪卫 / 刘腾远 / 索纳·伊姆贝 / 塞缪尔·西维尔奇"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 战争"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-04-02(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "90分钟"
+    },
+    {
+      "label": "又名",
+      "value": "特种兵之战狼 / 兵锋 / Wolf Warriors / Wolf War / Warg"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3540136"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24753810/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3540136/"
     }
   ]
 }

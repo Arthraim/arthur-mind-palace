@@ -13,11 +13,68 @@
   "markedAt": "2017-09-09",
   "estimatedMarkedAtRange": null,
   "comment": "变异+装备？！耍赖皮了啊喂",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "蜘蛛侠：英雄归来 Spider-Man: Homecoming"
+    },
+    {
+      "label": "导演",
+      "value": "乔恩·沃茨"
+    },
+    {
+      "label": "编剧",
+      "value": "乔纳森·戈尔茨坦 / 约翰·弗朗西斯·戴利 / 乔恩·沃茨 / 克里斯托弗·福特 / 克里斯·麦克纳 / 埃里克·萨默斯 / 斯坦·李 / 史蒂夫·迪特寇 / 乔·西蒙 / 杰克·科比"
+    },
+    {
+      "label": "主演",
+      "value": "汤姆·霍兰德 / 小罗伯特·唐尼 / 玛丽莎·托梅 / 迈克尔·基顿 / 雅各布·贝塔隆 / 托尼·雷沃罗利 / 赞达亚 / 乔恩·费儒 / 亚伯拉罕·阿塔哈 / 劳拉·哈里尔 / 迈克尔·巴尔别里 / 罗根·马歇尔-格林 / 马丁·斯塔尔 / 唐纳德·格洛弗 / 汉尼拔·布勒斯 / 迈克尔·曼多 / 博基姆·伍德拜因 / 肯尼斯·崔 / 詹妮弗·康纳利 / 格温妮斯·帕特洛 / 克里斯·埃文斯"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-09-08(中国大陆) / 2017-06-28(洛杉矶首映) / 2017-07-07(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "133分钟"
+    },
+    {
+      "label": "又名",
+      "value": "蜘蛛侠：强势回归(港) / 蜘蛛人：返校日(台) / 新蜘蛛侠 / 蜘蛛侠：归来 / 蜘蛛侠：回家 / 蜘蛛侠：返校季 / 蜘蛛侠：返校节 / 蜘蛛侠：归乡 / 蜘蛛侠：新复仇者 / The Amazing Spider-Man 3 / Spider-Man： The New Avenger / Spiderman"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2250912"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24753477/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2250912/"
     }
   ]
 }

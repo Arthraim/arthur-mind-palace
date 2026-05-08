@@ -13,11 +13,68 @@
   "markedAt": "2017-09-15",
   "estimatedMarkedAtRange": null,
   "comment": "反正观众被你们忽悠了整个片儿",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "看不见的客人 Contratiempo"
+    },
+    {
+      "label": "导演",
+      "value": "奥里奥尔·保罗"
+    },
+    {
+      "label": "编剧",
+      "value": "奥里奥尔·保罗"
+    },
+    {
+      "label": "主演",
+      "value": "马里奥·卡萨斯 / 阿娜·瓦格纳 / 何塞·科罗纳多 / 巴巴拉·莱涅 / 弗兰塞斯克·奥雷利亚 / 帕科·图斯 / 大卫·塞尔瓦斯 / 伊尼戈·加斯特西 / 圣·耶拉莫斯 / 马内尔·杜维索 / 布兰卡·马丁内斯 / 佩雷·布拉索 / 霍尔迪·布鲁内特 / 鲍比·冈萨雷斯 / 玛蒂娜·乌尔塔多"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "西班牙"
+    },
+    {
+      "label": "语言",
+      "value": "西班牙语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-09-15(中国大陆) / 2016-09-23(奇幻电影节) / 2017-01-06(西班牙)"
+    },
+    {
+      "label": "片长",
+      "value": "106分钟"
+    },
+    {
+      "label": "又名",
+      "value": "死无对证(港) / 布局(台) / The Invisible Guest"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4857264"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26580232/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4857264/"
     }
   ]
 }

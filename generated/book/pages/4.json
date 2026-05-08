@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 156,
+  "totalEntries": 157,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "6710437",
+      "title": "撒哈拉的故事",
+      "originalTitle": null,
+      "year": "2011",
+      "coverPath": "covers/book/6710437.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s6780941.jpg",
+      "detailUrl": "/book/6710437",
+      "listSummary": "三毛 / 北京十月文艺出版社 / 2011-1-7 / 24.00元",
+      "rating": 5,
+      "markedAt": "2013-12-28",
+      "estimatedMarkedAtRange": null,
+      "comment": "你眼中的世界。买来放在书架很久，终于有计划这个周末看完，今天5点不到拿起来读没想到一口气读完了。"
+    },
     {
       "kind": "book",
       "sourceId": "20470934",
@@ -442,21 +457,6 @@
       "markedAt": "2012-12-18",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "book",
-      "sourceId": "5414391",
-      "title": "寻路中国",
-      "originalTitle": null,
-      "year": "2011",
-      "coverPath": "covers/book/5414391.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4575849.jpg",
-      "detailUrl": "/book/5414391",
-      "listSummary": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元",
-      "rating": 4,
-      "markedAt": "2012-12-11",
-      "estimatedMarkedAtRange": null,
-      "comment": "刚开始看的时候，朋友问我：“为什么要看一个外国人写的在中国的旅程”。其实这本书真正的魅力恰恰在于此，你司空见惯的东西在外国人眼里是完全不一样的。"
     }
   ]
 }

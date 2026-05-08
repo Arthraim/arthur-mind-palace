@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-04-29T02:13:49.201Z",
+  "generatedAt": "2026-05-08T04:23:56.069Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "36892468",
+        "title": "庇护之地",
+        "originalTitle": "Shelter",
+        "year": "2026",
+        "coverPath": "covers/movie/36892468.jpg",
+        "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929018970.jpg",
+        "detailUrl": "/movie/36892468",
+        "listSummary": "2026-01-30(美国/中国大陆) / 杰森·斯坦森 / 博德希·蕾·布里纳希 / 娜奥米·阿基 / 比尔·奈伊 / 迈克尔·谢弗 / 安娜·克里里 / 哈丽特·瓦尔特 / 尤吉尼亚·克鲁索 / 席琳·邦金斯 / 巴利·吉尔 / 英国 / 美国 / 加拿大 / 里克·罗曼·沃夫 / 108分钟 / 庇护之地 / 动作 / 惊悚 / 沃德·帕里 / 英语",
+        "rating": 3,
+        "markedAt": "2026-05-06",
+        "estimatedMarkedAtRange": null,
+        "comment": "看养蜂人后我就说，这样的类似故事你就一直拍，我爱看👀"
+      },
+      {
+        "kind": "movie",
+        "sourceId": "33415953",
+        "title": "制暴：无限杀机",
+        "originalTitle": "A Working Man",
+        "year": "2025",
+        "coverPath": "covers/movie/33415953.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919596073.jpg",
+        "detailUrl": "/movie/33415953",
+        "listSummary": "2025-03-28(美国/中国大陆) / 杰森·斯坦森 / 杰森·弗莱明 / 梅拉布·尼尼泽 / 马克西米利安·奥辛斯基 / 柯基·法尔考 / 迈克尔·佩纳 / 大卫·哈伯 / 诺埃米·冈萨雷斯 / 阿里安娜·里瓦斯 / 伊丝拉·吉 / 英国 / 美国 / 大卫·阿耶 / 116分钟 / 制暴：无限杀机 / 动作 / 惊悚 / 查克·狄克逊 Chuck Dixon / 西尔维斯特·史泰龙 Sylvester Stallone / 大卫·阿耶 David Ayer / 英语 / 俄语 / 西班牙语",
+        "rating": 2,
+        "markedAt": "2026-05-06",
+        "estimatedMarkedAtRange": null,
+        "comment": "摄影老喜欢弄点小光源搞个炫光，看多了觉得好蠢。编剧毫无逻辑，爽片都不会拍，闹了半天把三个势力杀了个精光结果核心矛盾是第一个势力的一个支线外快项目，完全不搭边。以及会突然陷入文艺搞点神经兮兮的小煽情是何意味。太烂了，此片最有用是用来平衡我的评价体系。"
+      },
+      {
+        "kind": "movie",
+        "sourceId": "37143373",
+        "title": "机动战士高达：跨时之战",
+        "originalTitle": "機動戦士Gundam GQuuuuuuX -Beginning-",
+        "year": "2025",
+        "coverPath": "covers/movie/37143373.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919535626.jpg",
+        "detailUrl": "/movie/37143373",
+        "listSummary": "2025-01-17(日本) / 2025-04-04(中国大陆) / 黑泽朋世 / 石川由依 / 土屋神叶 / 名冢佳织 / 新祐树 / 杉田智和 / 川田绅司 / 山下诚一郎 / 伊濑茉莉也 / 钉宫理惠 / 日本 / 鹤卷和哉 / 82分钟 / 机动战士高达：跨时之战 / 科幻 / 动画 / 冒险 / 榎户洋司 Yoji Enokido / 庵野秀明 Hideaki Anno / 日语",
+        "rating": 4,
+        "markedAt": "2026-05-01",
+        "estimatedMarkedAtRange": null,
+        "comment": "喜欢这种创新，新高达站起来的时候真的浓浓初号机味。"
+      },
       {
         "kind": "movie",
         "sourceId": "36491177",
@@ -16,6 +61,21 @@
         "markedAt": "2026-04-29",
         "estimatedMarkedAtRange": null,
         "comment": "谢谢教授留下这最后的演出。也使得疫情里那场温暖的直播不是最后的演出。"
+      },
+      {
+        "kind": "movie",
+        "sourceId": "34874432",
+        "title": "花束般的恋爱",
+        "originalTitle": "花束みたいな恋をした",
+        "year": "2021",
+        "coverPath": "covers/movie/34874432.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868462052.jpg",
+        "detailUrl": "/movie/34874432",
+        "listSummary": "2021-01-29(日本) / 2022-02-22(中国大陆) / 菅田将晖 / 有村架纯 / 细田佳央太 / 清原果耶 / 小田切让 / 押井守 / 户田惠子 / 岩松了 / 小林薰 / 韩英惠 / 日本 / hana-koi.jp / 土井裕泰 / 124分钟 / 花束般的恋爱 / 剧情 / 爱情 / 坂元裕二 Yûji Sakamoto / 日语",
+        "rating": 4,
+        "markedAt": "2026-04-29",
+        "estimatedMarkedAtRange": null,
+        "comment": "过不下去了，所以结婚吧，结婚了你就能不用工作了。哥你怎么从文艺小青年变成这样的，这么多书算是白看了。"
       },
       {
         "kind": "movie",
@@ -8331,7 +8391,7 @@
         "kind": "movie",
         "sourceId": "24753810",
         "title": "战狼",
-        "originalTitle": null,
+        "originalTitle": "(2015)",
         "year": "2015",
         "coverPath": "covers/movie/24753810.webp",
         "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2225660666.webp",
@@ -8436,7 +8496,7 @@
         "kind": "movie",
         "sourceId": "26811587",
         "title": "大护法",
-        "originalTitle": null,
+        "originalTitle": "(2017)",
         "year": "2017",
         "coverPath": "covers/movie/26811587.webp",
         "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490948849.webp",
@@ -20802,6 +20862,21 @@
     "book": [
       {
         "kind": "book",
+        "sourceId": "36161297",
+        "title": "好骨头",
+        "originalTitle": "Good Bones",
+        "year": "2023",
+        "coverPath": "covers/book/36161297.jpg",
+        "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s34392531.jpg",
+        "detailUrl": "/book/36161297",
+        "listSummary": "[加] 玛格丽特·阿特伍德 / 包慧怡 / 河南文艺出版社 / 2023-2-15 / 39.9",
+        "rating": 4,
+        "markedAt": "2026-05-01",
+        "estimatedMarkedAtRange": null,
+        "comment": "这什么奇书，张大嘴巴看完的《外星领土》，这《历险记》写的就是受精吧！整本书的体验都是🤯🤯🤯"
+      },
+      {
+        "kind": "book",
         "sourceId": "35694442",
         "title": "空间的敦煌 : 走近莫高窟",
         "originalTitle": "Spatial Dunhuang： Approaching the Mogao Caves",
@@ -23158,7 +23233,7 @@
         "rating": 4,
         "markedAt": "2026-04-23",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "有点进步，最喜欢《坐过站》和《地图》"
       },
       {
         "kind": "music",
@@ -23188,7 +23263,7 @@
         "rating": 4,
         "markedAt": "2026-04-15",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "最喜欢别人最不喜欢的一首怎么办"
       },
       {
         "kind": "music",
@@ -23203,7 +23278,7 @@
         "rating": 4,
         "markedAt": "2026-04-04",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "期待巡演"
       },
       {
         "kind": "music",
@@ -23233,7 +23308,7 @@
         "rating": 4,
         "markedAt": "2026-03-27",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "以为会更「出格」一点"
       },
       {
         "kind": "music",
@@ -23248,7 +23323,7 @@
         "rating": 4,
         "markedAt": "2026-03-10",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "distracting"
       },
       {
         "kind": "music",
@@ -23278,7 +23353,7 @@
         "rating": 5,
         "markedAt": "2026-03-08",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "第一次完整听这张专辑，不能用任何genre来定义它"
       },
       {
         "kind": "music",
@@ -23293,13 +23368,13 @@
         "rating": 4,
         "markedAt": "2026-03-01",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "SPEYSIDE可以在任何情绪里拉出我的注意力"
       },
       {
         "kind": "music",
         "sourceId": "2296457",
         "title": "For Emma, Forever Ago",
-        "originalTitle": null,
+        "originalTitle": "献给艾玛",
         "year": "2008",
         "coverPath": "covers/music/2296457.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s2884787.jpg",
@@ -23308,13 +23383,13 @@
         "rating": 5,
         "markedAt": "2026-03-01",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "总想到lalaland里Seb和她姐说的那句 I am a phoenix rising from the ashes."
       },
       {
         "kind": "music",
         "sourceId": "5258148",
         "title": "极限",
-        "originalTitle": null,
+        "originalTitle": "lala第2张创作专辑",
         "year": "2010",
         "coverPath": "covers/music/5258148.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4467256.jpg",
@@ -23338,7 +23413,7 @@
         "rating": 4,
         "markedAt": "2023-08-09",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "听感非常过瘾，据说是最好的中文rap专辑"
       },
       {
         "kind": "music",
@@ -23353,7 +23428,7 @@
         "rating": 3,
         "markedAt": "2023-08-08",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "没有接受新变化"
       },
       {
         "kind": "music",
@@ -23368,7 +23443,7 @@
         "rating": 5,
         "markedAt": "2023-08-08",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "细腻的展现了一个九龙城寨一样的世界，以及摆脱它的成长故事，一个短线条故事串联了一个长线条的故事，交织在一个结局，甚至有点诺兰。唯独就是音乐性欠佳"
       },
       {
         "kind": "music",
@@ -23383,13 +23458,13 @@
         "rating": 5,
         "markedAt": "2021-04-16",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "真的真的太棒了，真的相见恨晚，一边觉得nb一边觉得遗憾"
       },
       {
         "kind": "music",
         "sourceId": "35293430",
         "title": "鸟鸟鸟",
-        "originalTitle": null,
+        "originalTitle": "Birds and Reflections",
         "year": "2020",
         "coverPath": "covers/music/35293430.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33782013.jpg",
@@ -23404,7 +23479,7 @@
         "kind": "music",
         "sourceId": "35292992",
         "title": "冀西南林路行",
-        "originalTitle": null,
+        "originalTitle": "Inside The Cable Temple",
         "year": "2020",
         "coverPath": "covers/music/35292992.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33802807.jpg",
@@ -23413,13 +23488,13 @@
         "rating": 4,
         "markedAt": "2020-12-27",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "很多音乐元素，爵士部分亮瞎了"
       },
       {
         "kind": "music",
         "sourceId": "35272426",
         "title": "法利勝神經",
-        "originalTitle": null,
+        "originalTitle": "法利胜神经",
         "year": "2020",
         "coverPath": "covers/music/35272426.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s33769140.jpg",
@@ -23428,13 +23503,13 @@
         "rating": 4,
         "markedAt": "2020-12-27",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "一如既往，喜欢但费神"
       },
       {
         "kind": "music",
         "sourceId": "34845165",
         "title": "浴室 (2019 Reprise)",
-        "originalTitle": null,
+        "originalTitle": "bathroom (2019 Reprise)",
         "year": "2019",
         "coverPath": "covers/music/34845165.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s33491851.jpg",
@@ -23449,7 +23524,7 @@
         "kind": "music",
         "sourceId": "26808557",
         "title": "時代在召喚",
-        "originalTitle": null,
+        "originalTitle": "The Rite Of Spring",
         "year": "2016",
         "coverPath": "covers/music/26808557.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28777454.jpg",
@@ -23458,7 +23533,7 @@
         "rating": 5,
         "markedAt": "2019-09-26",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "虽然不喜欢太重的摇滚，但这张专辑真的太屌了，下个月去听个现场"
       },
       {
         "kind": "music",
@@ -23479,7 +23554,7 @@
         "kind": "music",
         "sourceId": "27067035",
         "title": "浴室",
-        "originalTitle": null,
+        "originalTitle": "Bathroom",
         "year": "2017",
         "coverPath": "covers/music/27067035.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29473026.jpg",
@@ -23494,7 +23569,7 @@
         "kind": "music",
         "sourceId": "26753594",
         "title": "醜奴兒",
-        "originalTitle": null,
+        "originalTitle": "丑奴儿",
         "year": "2016",
         "coverPath": "covers/music/26753594.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s28541447.jpg",
@@ -23533,13 +23608,13 @@
         "rating": 5,
         "markedAt": "2012-01-01",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "perfect"
       },
       {
         "kind": "music",
         "sourceId": "2210561",
         "title": "依然范特西",
-        "originalTitle": null,
+        "originalTitle": "Still Fantasy",
         "year": "2006",
         "coverPath": "covers/music/2210561.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1943885.jpg",
@@ -23548,13 +23623,13 @@
         "rating": 5,
         "markedAt": "2010-10-29",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "这张不错，可惜不够范特西。。。"
       },
       {
         "kind": "music",
         "sourceId": "1436975",
         "title": "十一月的萧邦",
-        "originalTitle": null,
+        "originalTitle": "11月的蕭邦 / 11月的萧邦",
         "year": "2005",
         "coverPath": "covers/music/1436975.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1456874.jpg",
@@ -23563,13 +23638,13 @@
         "rating": 4,
         "markedAt": "2010-10-26",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "这是我最后一张入正版的Jay的专辑。。。"
       },
       {
         "kind": "music",
         "sourceId": "1401853",
         "title": "七里香",
-        "originalTitle": null,
+        "originalTitle": "Common Jasmin Orange",
         "year": "2004",
         "coverPath": "covers/music/1401853.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3737076.jpg",
@@ -23578,7 +23653,7 @@
         "rating": 4,
         "markedAt": "2010-10-26",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "好吧，某个不是很快乐的暑假里听的。。。"
       },
       {
         "kind": "music",
@@ -23599,7 +23674,7 @@
         "kind": "music",
         "sourceId": "1406522",
         "title": "叶惠美",
-        "originalTitle": null,
+        "originalTitle": "葉惠美",
         "year": "2003",
         "coverPath": "covers/music/1406522.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29265961.jpg",
@@ -23608,13 +23683,13 @@
         "rating": 5,
         "markedAt": "2010-10-20",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "感觉好熟悉，不过已经是03年的碟了。。"
       },
       {
         "kind": "music",
         "sourceId": "1403832",
         "title": "八度空间",
-        "originalTitle": null,
+        "originalTitle": "The Eight Dimensions",
         "year": "2002",
         "coverPath": "covers/music/1403832.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4598636.jpg",
@@ -23623,13 +23698,13 @@
         "rating": 4,
         "markedAt": "2010-10-20",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "留下了初中一个运动会所有记忆的专辑"
       },
       {
         "kind": "music",
         "sourceId": "1403307",
         "title": "范特西",
-        "originalTitle": null,
+        "originalTitle": "Fantasy",
         "year": "2001",
         "coverPath": "covers/music/1403307.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35019288.jpg",
@@ -23638,13 +23713,13 @@
         "rating": 5,
         "markedAt": "2010-10-20",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "他最好的一张专辑"
       },
       {
         "kind": "music",
         "sourceId": "4744841",
         "title": "燕姿HIGH翻垦丁",
-        "originalTitle": null,
+        "originalTitle": "2010垦丁半岛音乐嘉年华-孙燕姿",
         "year": "2010",
         "coverPath": "covers/music/4744841.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4265576.jpg",
@@ -23653,13 +23728,13 @@
         "rating": 5,
         "markedAt": "2010-08-18",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "welcome back!"
       },
       {
         "kind": "music",
         "sourceId": "3718803",
         "title": "ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック SPECIAL EDITION",
-        "originalTitle": null,
+        "originalTitle": "EVANGELION:2.0 YOU CAN (NOT) ADVANCE. original sound track",
         "year": "2009",
         "coverPath": "covers/music/3718803.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s4610517.jpg",
@@ -23668,7 +23743,7 @@
         "rating": 5,
         "markedAt": "2010-08-18",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "tsubasa wo kudasai"
       },
       {
         "kind": "music",
@@ -23683,7 +23758,7 @@
         "rating": 5,
         "markedAt": "2010-07-18",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "真的只是在唱，没说几句话。。。"
       },
       {
         "kind": "music",
@@ -23698,13 +23773,13 @@
         "rating": 5,
         "markedAt": "2010-04-07",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "充满记忆的一张专辑啊 hoho"
       },
       {
         "kind": "music",
         "sourceId": "1827710",
         "title": "ガーネット",
-        "originalTitle": null,
+        "originalTitle": "ガーネット",
         "year": "2006",
         "coverPath": "covers/music/1827710.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s2892237.jpg",
@@ -23713,13 +23788,13 @@
         "rating": 5,
         "markedAt": "2010-03-09",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "神啊…… 豆瓣电台推给我《変わらないもの》听…… 真是要了我的命了啊…… 要泪奔了 T T"
       },
       {
         "kind": "music",
         "sourceId": "1964309",
         "title": "時をかける少女 オリジナル・サウンドトラック",
-        "originalTitle": null,
+        "originalTitle": "穿越时空的少女",
         "year": "2006",
         "coverPath": "covers/music/1964309.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s2593974.jpg",
@@ -23728,13 +23803,13 @@
         "rating": 5,
         "markedAt": "2010-02-10",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "听着曲子也觉得感人。。。"
       },
       {
         "kind": "music",
         "sourceId": "4191495",
         "title": "讓我們一起微笑吧",
-        "originalTitle": null,
+        "originalTitle": "让我们一起微笑吧",
         "year": "2009",
         "coverPath": "covers/music/4191495.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s4111761.jpg",
@@ -23743,13 +23818,13 @@
         "rating": 3,
         "markedAt": "2009-12-23",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "FIR，我还是看好你的 T T"
       },
       {
         "kind": "music",
         "sourceId": "1758317",
         "title": "格格Blue",
-        "originalTitle": null,
+        "originalTitle": "Naughty Gentleman",
         "year": "2006",
         "coverPath": "covers/music/1758317.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s2761140.jpg",
@@ -23758,13 +23833,13 @@
         "rating": 4,
         "markedAt": "2009-12-22",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "曹格成名的时候我在干什么 - - 歌都很好听啊"
       },
       {
         "kind": "music",
         "sourceId": "4311667",
         "title": "超级4场",
-        "originalTitle": null,
+        "originalTitle": "supermarket",
         "year": "2009",
         "coverPath": "covers/music/4311667.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s3840701.jpg",
@@ -23773,13 +23848,13 @@
         "rating": 4,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "貌似稍微水了点，不过不乏精品"
       },
       {
         "kind": "music",
         "sourceId": "4168141",
         "title": "方大同 Timeless演唱会",
-        "originalTitle": null,
+        "originalTitle": "Live in Hong Kong 2009",
         "year": "2009",
         "coverPath": "covers/music/4168141.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4077328.jpg",
@@ -23788,13 +23863,13 @@
         "rating": 3,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "感觉一般……"
       },
       {
         "kind": "music",
         "sourceId": "4066979",
         "title": "寂寞好了",
-        "originalTitle": null,
+        "originalTitle": "Loneliness",
         "year": "2009",
         "coverPath": "covers/music/4066979.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s4006907.jpg",
@@ -23803,13 +23878,13 @@
         "rating": 3,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "有几个歌还是不错的"
       },
       {
         "kind": "music",
         "sourceId": "3803120",
         "title": "王妃",
-        "originalTitle": null,
+        "originalTitle": "王妃",
         "year": "2009",
         "coverPath": "covers/music/3803120.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3885797.jpg",
@@ -23818,13 +23893,13 @@
         "rating": 5,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "超越以往的好"
       },
       {
         "kind": "music",
         "sourceId": "3391270",
         "title": "D新引力",
-        "originalTitle": null,
+        "originalTitle": "D調柔情版",
         "year": "2009",
         "coverPath": "covers/music/3391270.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3518592.jpg",
@@ -23833,7 +23908,7 @@
         "rating": 3,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "果然也就那么几首好听的"
       },
       {
         "kind": "music",
@@ -23848,7 +23923,7 @@
         "rating": 5,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "触动心灵"
       },
       {
         "kind": "music",
@@ -23863,13 +23938,13 @@
         "rating": 4,
         "markedAt": "2009-12-14",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "前面几首不错，后面的听的有些疲倦"
       },
       {
         "kind": "music",
         "sourceId": "3746394",
         "title": "徐佳瑩La La首张创作专辑",
-        "originalTitle": null,
+        "originalTitle": "La La首張創作專輯",
         "year": "2009",
         "coverPath": "covers/music/3746394.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s3819180.jpg",
@@ -23878,13 +23953,13 @@
         "rating": 4,
         "markedAt": "2009-11-25",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "I like it~"
       },
       {
         "kind": "music",
         "sourceId": "4095919",
         "title": "LOVE Moments 愛的時刻",
-        "originalTitle": null,
+        "originalTitle": "LOVE Moments 爱的时刻",
         "year": "2009",
         "coverPath": "covers/music/4095919.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4032066.jpg",
@@ -23893,13 +23968,13 @@
         "rating": 4,
         "markedAt": "2009-11-16",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "不错的翻唱专辑"
       },
       {
         "kind": "music",
         "sourceId": "3821598",
         "title": "Timeless 可啦思刻",
-        "originalTitle": null,
+        "originalTitle": "方大同 2009全新大碟 自選輯 / 可啦思刻",
         "year": "2009",
         "coverPath": "covers/music/3821598.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s27078161.jpg",
@@ -23908,13 +23983,13 @@
         "rating": 5,
         "markedAt": "2009-11-16",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "哟西，很有感觉！"
       },
       {
         "kind": "music",
         "sourceId": "4738592",
         "title": "感官/世界",
-        "originalTitle": null,
+        "originalTitle": "Senses Around",
         "year": "2009",
         "coverPath": "covers/music/4738592.jpg",
         "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s4039591.jpg",
@@ -23923,7 +23998,7 @@
         "rating": 4,
         "markedAt": "2009-11-04",
         "estimatedMarkedAtRange": null,
-        "comment": null
+        "comment": "爱哭鬼的新专辑～ 说谎、心酸，都满有感觉的"
       }
     ],
     "game": [

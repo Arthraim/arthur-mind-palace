@@ -13,11 +13,68 @@
   "markedAt": "2017-07-28",
   "estimatedMarkedAtRange": null,
   "comment": "之前还得有个他失败了，剧情才说得通",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2006"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2006)"
+    },
+    {
+      "label": "Title",
+      "value": "时空线索 Deja Vu"
+    },
+    {
+      "label": "导演",
+      "value": "托尼·斯科特"
+    },
+    {
+      "label": "编剧",
+      "value": "Bill Marsilii / 特里·鲁西奥"
+    },
+    {
+      "label": "主演",
+      "value": "丹泽尔·华盛顿 / 宝拉·巴顿 / 方·基默 / 吉姆·卡维泽 / 亚当·戈德堡 / 布鲁斯·格林伍德 / 艾丽·范宁"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 惊悚"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2007-03-20(中国大陆) / 2006-11-22(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "126 分钟"
+    },
+    {
+      "label": "又名",
+      "value": "时凶感应(港) / 超时空效应 / 似曾相识"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0453467"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1789283/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0453467/"
     }
   ]
 }

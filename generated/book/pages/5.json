@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 156,
+  "totalEntries": 157,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "5414391",
+      "title": "寻路中国",
+      "originalTitle": null,
+      "year": "2011",
+      "coverPath": "covers/book/5414391.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s4575849.jpg",
+      "detailUrl": "/book/5414391",
+      "listSummary": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元",
+      "rating": 4,
+      "markedAt": "2012-12-11",
+      "estimatedMarkedAtRange": null,
+      "comment": "刚开始看的时候，朋友问我：“为什么要看一个外国人写的在中国的旅程”。其实这本书真正的魅力恰恰在于此，你司空见惯的东西在外国人眼里是完全不一样的。"
+    },
     {
       "kind": "book",
       "sourceId": "2056749",
@@ -439,21 +454,6 @@
       "markedAt": "2009-12-31",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "book",
-      "sourceId": "4002701",
-      "title": "朱镕基答记者问",
-      "originalTitle": null,
-      "year": "2009",
-      "coverPath": "covers/book/4002701.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3958517.jpg",
-      "detailUrl": "/book/4002701",
-      "listSummary": "《朱镕基答记者问》编辑组 编 / 人民出版社 / 2009-8 / 59.00元",
-      "rating": null,
-      "markedAt": "2009-12-14",
-      "estimatedMarkedAtRange": null,
-      "comment": "读了一点点送给老爸了……"
     }
   ]
 }

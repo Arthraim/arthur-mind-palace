@@ -13,11 +13,72 @@
   "markedAt": "2017-08-20",
   "estimatedMarkedAtRange": null,
   "comment": "看动画补历史",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "信长的忍者 信長の忍び"
+    },
+    {
+      "label": "导演",
+      "value": "大地丙太郎"
+    },
+    {
+      "label": "编剧",
+      "value": "重野直树"
+    },
+    {
+      "label": "主演",
+      "value": "水濑祈 / 羽多野涉 / 村濑步 / 高桥智秋 / 山口胜平 / 钉宫理惠 / 三森铃子 / 大川透 / 关智一 / 落合福嗣 / 上田祐司 / 平川大辅 / 松井菜樱子 / 高木涉 / 立花慎之介 / 置鲇龙太郎 / 桧山修之 / 梁田清之 / 松山鹰志 / 内匠靖明 / 岸尾大辅 / 竹本英史"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动画"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "首播",
+      "value": "2016-10-04(日本)"
+    },
+    {
+      "label": "集数",
+      "value": "26"
+    },
+    {
+      "label": "单集片长",
+      "value": "4分钟"
+    },
+    {
+      "label": "又名",
+      "value": "忍者少女千鸟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6114698"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26757958/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6114698/"
     }
   ]
 }

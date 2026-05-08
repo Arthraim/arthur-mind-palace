@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26811587",
   "title": "大护法",
-  "originalTitle": null,
+  "originalTitle": "(2017)",
   "year": "2017",
   "coverPath": "covers/movie/26811587.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490948849.webp",
@@ -13,11 +13,68 @@
   "markedAt": "2017-07-25",
   "estimatedMarkedAtRange": null,
   "comment": "比起小姜，其他那些「猪」，你们也别以为你敢说话了就有多清醒……",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "大护法"
+    },
+    {
+      "label": "导演",
+      "value": "不思凡"
+    },
+    {
+      "label": "编剧",
+      "value": "不思凡"
+    },
+    {
+      "label": "主演",
+      "value": "小连杀 / 图特哈蒙 / 金士杰 / 幽舞越山 / 李佳怡 / 李兰陵 / 郭盛 / 叶知秋 / 佟心竹 / 邢子皓 / 藤新 / 郝祥海"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动画 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-07-13(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "95分钟"
+    },
+    {
+      "label": "又名",
+      "value": "大护法之黑花生 / Dahufa"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt7146054"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26811587/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt7146054/"
     }
   ]
 }

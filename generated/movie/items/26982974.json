@@ -13,11 +13,72 @@
   "markedAt": "2017-08-05",
   "estimatedMarkedAtRange": null,
   "comment": "我靠第二集我都睡着了…… 但是 Alucard 太TM甩了吧！",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "恶魔城 第一季 Castlevania Season 1"
+    },
+    {
+      "label": "导演",
+      "value": "山姆·迪茨"
+    },
+    {
+      "label": "编剧",
+      "value": "沃伦·埃利斯"
+    },
+    {
+      "label": "主演",
+      "value": "理查德·阿米蒂奇 / 詹姆斯·卡利斯 / 格拉汉姆·麦克塔维什 / 托尼·阿门多拉 / 马特·弗里沃 / 艾米莉·斯沃洛 / 亚历杭德拉·雷诺索 / 乔纳森·利波 / 马特·洛 / 莫伊拉·奇克 / 安德烈·索格利扎索 / 法比欧·塔索恩 / 弗雷德·塔特西奥"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 动画 / 恐怖 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2017-07-07(美国)"
+    },
+    {
+      "label": "季数",
+      "value": "1"
+    },
+    {
+      "label": "集数",
+      "value": "4"
+    },
+    {
+      "label": "单集片长",
+      "value": "23分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6517102"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26982974/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6517102/"
     }
   ]
 }

@@ -1,6 +1,889 @@
 {
-  "generatedAt": "2026-04-29T02:13:49.201Z",
+  "generatedAt": "2026-05-08T04:23:56.069Z",
   "entries": [
+    {
+      "id": "2026-05-08T04:23:56.069Z",
+      "generatedAt": "2026-05-08T04:23:56.069Z",
+      "lastDoubanSyncAt": "2026-05-08T04:23:45.024Z",
+      "totals": {
+        "added": 0,
+        "updated": 31,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 31,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "music",
+          "sourceId": "38391228",
+          "title": "在這裡停一下",
+          "markedAt": "2026-04-23",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "2296457",
+          "title": "For Emma, Forever Ago",
+          "markedAt": "2026-03-01",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "5258148",
+          "title": "极限",
+          "markedAt": "2023-08-11",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35293430",
+          "title": "鸟鸟鸟",
+          "markedAt": "2020-12-29",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35272426",
+          "title": "法利勝神經",
+          "markedAt": "2020-12-27",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35292992",
+          "title": "冀西南林路行",
+          "markedAt": "2020-12-27",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "34845165",
+          "title": "浴室 (2019 Reprise)",
+          "markedAt": "2019-10-23",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "26808557",
+          "title": "時代在召喚",
+          "markedAt": "2019-09-26",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "26753594",
+          "title": "醜奴兒",
+          "markedAt": "2019-09-09",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "27067035",
+          "title": "浴室",
+          "markedAt": "2019-09-09",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "2210561",
+          "title": "依然范特西",
+          "markedAt": "2010-10-29",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1401853",
+          "title": "七里香",
+          "markedAt": "2010-10-26",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1436975",
+          "title": "十一月的萧邦",
+          "markedAt": "2010-10-26",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1403307",
+          "title": "范特西",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1403832",
+          "title": "八度空间",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1406522",
+          "title": "叶惠美",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3718803",
+          "title": "ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック SPECIAL EDITION",
+          "markedAt": "2010-08-18",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4744841",
+          "title": "燕姿HIGH翻垦丁",
+          "markedAt": "2010-08-18",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1827710",
+          "title": "ガーネット",
+          "markedAt": "2010-03-09",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1964309",
+          "title": "時をかける少女 オリジナル・サウンドトラック",
+          "markedAt": "2010-02-10",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4191495",
+          "title": "讓我們一起微笑吧",
+          "markedAt": "2009-12-23",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1758317",
+          "title": "格格Blue",
+          "markedAt": "2009-12-22",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3391270",
+          "title": "D新引力",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3803120",
+          "title": "王妃",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4066979",
+          "title": "寂寞好了",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4168141",
+          "title": "方大同 Timeless演唱会",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4311667",
+          "title": "超级4场",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3746394",
+          "title": "徐佳瑩La La首张创作专辑",
+          "markedAt": "2009-11-25",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3821598",
+          "title": "Timeless 可啦思刻",
+          "markedAt": "2009-11-16",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4095919",
+          "title": "LOVE Moments 愛的時刻",
+          "markedAt": "2009-11-16",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4738592",
+          "title": "感官/世界",
+          "markedAt": "2009-11-04",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-05-08T04:22:00.167Z",
+      "generatedAt": "2026-05-08T04:22:00.167Z",
+      "lastDoubanSyncAt": "2026-05-08T04:21:53.701Z",
+      "totals": {
+        "added": 0,
+        "updated": 41,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 41,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "music",
+          "sourceId": "38391228",
+          "title": "在這裡停一下",
+          "markedAt": "2026-04-23",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle",
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "38391221",
+          "title": "THE PROTÉGÉ",
+          "markedAt": "2026-04-15",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "38389481",
+          "title": "东方分子",
+          "markedAt": "2026-04-04",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35051952",
+          "title": "HELP EVER HURT NEVER＜通常盤＞",
+          "markedAt": "2026-03-27",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "34463658",
+          "title": "i,i",
+          "markedAt": "2026-03-10",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "26854795",
+          "title": "22, A Million",
+          "markedAt": "2026-03-08",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "2296457",
+          "title": "For Emma, Forever Ago",
+          "markedAt": "2026-03-01",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "37307052",
+          "title": "SABLE, fABLE",
+          "markedAt": "2026-03-01",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "27042261",
+          "title": "五亿探长",
+          "markedAt": "2023-08-09",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "36400683",
+          "title": "Young Fresh Chin II",
+          "markedAt": "2023-08-08",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "36495787",
+          "title": "郊游",
+          "markedAt": "2023-08-08",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "25867632",
+          "title": "The Long Goodbye (Lcd Soundsystem Live At Madison Square Garden)",
+          "markedAt": "2021-04-16",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35272426",
+          "title": "法利勝神經",
+          "markedAt": "2020-12-27",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "35292992",
+          "title": "冀西南林路行",
+          "markedAt": "2020-12-27",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "26808557",
+          "title": "時代在召喚",
+          "markedAt": "2019-09-26",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "7000209",
+          "title": "Adele Live At The Royal Albert Hall",
+          "markedAt": "2012-01-01",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "2210561",
+          "title": "依然范特西",
+          "markedAt": "2010-10-29",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1401853",
+          "title": "七里香",
+          "markedAt": "2010-10-26",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1436975",
+          "title": "十一月的萧邦",
+          "markedAt": "2010-10-26",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1403307",
+          "title": "范特西",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1403832",
+          "title": "八度空间",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1406522",
+          "title": "叶惠美",
+          "markedAt": "2010-10-20",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3718803",
+          "title": "ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック SPECIAL EDITION",
+          "markedAt": "2010-08-18",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4744841",
+          "title": "燕姿HIGH翻垦丁",
+          "markedAt": "2010-08-18",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4884157",
+          "title": "洛克先生Mr.Rock演唱會Live紀實",
+          "markedAt": "2010-07-18",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1449452",
+          "title": "遇见我",
+          "markedAt": "2010-04-07",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1827710",
+          "title": "ガーネット",
+          "markedAt": "2010-03-09",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1964309",
+          "title": "時をかける少女 オリジナル・サウンドトラック",
+          "markedAt": "2010-02-10",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4191495",
+          "title": "讓我們一起微笑吧",
+          "markedAt": "2009-12-23",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1758317",
+          "title": "格格Blue",
+          "markedAt": "2009-12-22",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1948515",
+          "title": "Superman",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3092491",
+          "title": "萧敬腾同名专辑",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3391270",
+          "title": "D新引力",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3803120",
+          "title": "王妃",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4066979",
+          "title": "寂寞好了",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4168141",
+          "title": "方大同 Timeless演唱会",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4311667",
+          "title": "超级4场",
+          "markedAt": "2009-12-14",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3746394",
+          "title": "徐佳瑩La La首张创作专辑",
+          "markedAt": "2009-11-25",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "3821598",
+          "title": "Timeless 可啦思刻",
+          "markedAt": "2009-11-16",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4095919",
+          "title": "LOVE Moments 愛的時刻",
+          "markedAt": "2009-11-16",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "4738592",
+          "title": "感官/世界",
+          "markedAt": "2009-11-04",
+          "changeType": "updated",
+          "changedFields": [
+            "comment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-05-08T03:18:57.054Z",
+      "generatedAt": "2026-05-08T03:18:57.054Z",
+      "lastDoubanSyncAt": "2026-05-08T03:18:53.794Z",
+      "totals": {
+        "added": 5,
+        "updated": 2,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 4,
+          "updated": 2,
+          "removed": 0
+        },
+        "book": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "33415953",
+          "title": "制暴：无限杀机",
+          "markedAt": "2026-05-06",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "36892468",
+          "title": "庇护之地",
+          "markedAt": "2026-05-06",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "37143373",
+          "title": "机动战士高达：跨时之战",
+          "markedAt": "2026-05-01",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "36161297",
+          "title": "好骨头",
+          "markedAt": "2026-05-01",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "34874432",
+          "title": "花束般的恋爱",
+          "markedAt": "2026-04-29",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "24753810",
+          "title": "战狼",
+          "markedAt": "2017-08-06",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "movie",
+          "sourceId": "26811587",
+          "title": "大护法",
+          "markedAt": "2017-07-25",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-04-29T02:13:49.201Z",
       "generatedAt": "2026-04-29T02:13:49.201Z",

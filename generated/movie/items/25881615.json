@@ -13,11 +13,68 @@
   "markedAt": "2017-08-04",
   "estimatedMarkedAtRange": null,
   "comment": "这故事……… 还真的很恐龙战队………",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "超凡战队 Power Rangers"
+    },
+    {
+      "label": "导演",
+      "value": "迪恩·以色列特"
+    },
+    {
+      "label": "编剧",
+      "value": "扎克·施坦茨 / 罗伯托·奥奇 / 伯克·沙普利斯 / 马特·萨兹马 / 阿什利·E.米勒 / 约翰·盖汀斯 / 马克斯·兰迪斯 / 哈伊姆·萨班 / 舒基·莱维"
+    },
+    {
+      "label": "主演",
+      "value": "戴克·蒙哥马利 / 娜奥米·斯科特 / RJ·赛勒 / 林路迪 / 贝姬·戈麦斯 / 伊丽莎白·班克斯 / 布莱恩·克兰斯顿 / 比尔·哈德尔 / 马特·夏夫利 / 科迪·基尔斯利 / 大卫·丹曼 / 罗伯特·莫隆尼 / 安贾莉·杰 / 莎拉·格雷 / 摩根·泰勒·坎贝尔"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 中国香港 / 加拿大"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-05-12(中国大陆) / 2017-03-24(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "124分钟"
+    },
+    {
+      "label": "又名",
+      "value": "战龙觉醒(港) / 金刚战士(台) / 恐龙战队 / 恐龙战队 真人版 / 超级战队 / 超能战队 / Mighty Morphin Power Rangers"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3717490"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25881615/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3717490/"
     }
   ]
 }

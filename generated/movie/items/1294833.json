@@ -13,11 +13,68 @@
   "markedAt": "2017-08-04",
   "estimatedMarkedAtRange": null,
   "comment": "现在看看 剧情也太简单了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "1998"
+    },
+    {
+      "label": "Original Title",
+      "value": "(1998)"
+    },
+    {
+      "label": "Title",
+      "value": "花木兰 Mulan"
+    },
+    {
+      "label": "导演",
+      "value": "巴里·库克 / 托尼·班克罗夫特"
+    },
+    {
+      "label": "编剧",
+      "value": "萧丽塔 / 克里斯·桑德斯"
+    },
+    {
+      "label": "主演",
+      "value": "温明娜 / 艾迪·墨菲 / 黄荣亮 / 哈维·费斯特恩 / 米盖尔·弗尔 / 吴汉章"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动画 / 家庭 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "1998-06-19(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "88分钟"
+    },
+    {
+      "label": "又名",
+      "value": "木兰 / China Doll / The Legend of Mulan"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0120762"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1294833/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0120762/"
     }
   ]
 }

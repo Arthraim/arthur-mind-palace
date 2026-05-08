@@ -13,11 +13,68 @@
   "markedAt": "2017-08-11",
   "estimatedMarkedAtRange": null,
   "comment": "不惜把梦想强行施加在下一代的玛丽苏电影……",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "摔跤吧！爸爸 Dangal"
+    },
+    {
+      "label": "导演",
+      "value": "涅提·蒂瓦里"
+    },
+    {
+      "label": "编剧",
+      "value": "比于什·古普塔 / 施热亚·简 / 尼基尔·麦罗特拉 / 涅提·蒂瓦里"
+    },
+    {
+      "label": "主演",
+      "value": "阿米尔·汗 / 法缇玛·萨那·纱卡 / 桑亚·玛荷塔 / 阿帕尔夏克提·库拉那 / 沙克希·坦沃 / 塞伊拉·沃西 / 苏哈妮·巴特纳格尔 / 里特维克·萨霍里 / 吉里什·库卡尼"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 家庭 / 传记 / 运动"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "印度"
+    },
+    {
+      "label": "语言",
+      "value": "印地语 / 英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-05-05(中国大陆) / 2016-12-23(印度)"
+    },
+    {
+      "label": "片长",
+      "value": "161分钟(印度) / 140分钟(中国大陆)"
+    },
+    {
+      "label": "又名",
+      "value": "我和我的冠军女儿(台) / 打死不离3父女(港) / 摔跤吧！老爸 / 摔跤家族 / दंगल / Wrestling Competition"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5074352"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26387939/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5074352/"
     }
   ]
 }

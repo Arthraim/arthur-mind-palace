@@ -2,7 +2,7 @@
   "kind": "music",
   "sourceId": "1403307",
   "title": "范特西",
-  "originalTitle": null,
+  "originalTitle": "Fantasy",
   "year": "2001",
   "coverPath": "covers/music/1403307.jpg",
   "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35019288.jpg",
@@ -12,7 +12,7 @@
   "rating": 5,
   "markedAt": "2010-10-20",
   "estimatedMarkedAtRange": null,
-  "comment": null,
+  "comment": "他最好的一张专辑",
   "metadata": [
     {
       "label": "Title",

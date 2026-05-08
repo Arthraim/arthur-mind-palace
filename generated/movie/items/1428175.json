@@ -13,11 +13,68 @@
   "markedAt": "2017-08-08",
   "estimatedMarkedAtRange": null,
   "comment": "妈的买钻前怎么没看",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2006"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2006)"
+    },
+    {
+      "label": "Title",
+      "value": "血钻 Blood Diamond"
+    },
+    {
+      "label": "导演",
+      "value": "爱德华·兹威克"
+    },
+    {
+      "label": "编剧",
+      "value": "查尔斯·里维特"
+    },
+    {
+      "label": "主演",
+      "value": "莱昂纳多·迪卡普里奥 / 杰曼·翰苏 / 詹妮弗·康纳利 / 阿诺德·沃斯洛 / 大卫·哈雷伍德 / 吉米·米斯特雷 / 麦克·辛 / 史蒂芬·柯林斯"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 惊悚 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国 / 德国 / 英国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 门德语 / 南非语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2006-12-08(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "143分钟"
+    },
+    {
+      "label": "又名",
+      "value": "血钻石(台) / 血腥钻石 / 滴血钻石"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0450259"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1428175/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0450259/"
     }
   ]
 }

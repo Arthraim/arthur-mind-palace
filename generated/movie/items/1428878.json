@@ -13,11 +13,68 @@
   "markedAt": "2017-07-24",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2006"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2006)"
+    },
+    {
+      "label": "Title",
+      "value": "赛车总动员 Cars"
+    },
+    {
+      "label": "导演",
+      "value": "约翰·拉塞特 / 乔·兰福特"
+    },
+    {
+      "label": "编剧",
+      "value": "约翰·拉塞特 / 乔·兰福特 / 乔根·克卢宾 / 丹·福格尔曼 / 基尔·默里 / 菲尔·洛林 / 史蒂夫·波赛尔"
+    },
+    {
+      "label": "主演",
+      "value": "欧文·威尔逊 / 保罗·纽曼 / 邦妮·亨特 / 王牌接线员拉里 / 切奇·马林 / 托尼·夏尔赫布 / 盖多·克隆尼 / 詹妮弗·路易斯 / 保罗·杜利 / 迈克尔·沃利斯 / 乔治·卡林 / 凯瑟琳·海蒙德 / 约翰·拉森贝格 / 乔·兰福特 / 迈克尔·基顿 / 伊迪·麦克勒格 / 安德鲁·斯坦顿 / 小戴尔·恩哈特 / 迈克尔·舒马赫 / 杰·雷诺 / 乔纳斯·里维拉 / 卢·罗曼诺 / 艾丽莎·奈特 / 林赛·柯林斯"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动画 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 意大利语 / 日语 / 依地语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2006-08-22(中国大陆) / 2006-06-09(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟"
+    },
+    {
+      "label": "又名",
+      "value": "反斗车王(港) / 汽车总动员 / 飞车正传 / 小汽车的故事"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt0317219"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1428878/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt0317219/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "music",
   "sourceId": "3803120",
   "title": "王妃",
-  "originalTitle": null,
+  "originalTitle": "王妃",
   "year": "2009",
   "coverPath": "covers/music/3803120.jpg",
   "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s3885797.jpg",
@@ -12,7 +12,7 @@
   "rating": 5,
   "markedAt": "2009-12-14",
   "estimatedMarkedAtRange": null,
-  "comment": null,
+  "comment": "超越以往的好",
   "metadata": [
     {
       "label": "Title",
