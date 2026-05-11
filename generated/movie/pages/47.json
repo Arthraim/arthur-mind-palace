@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 47,
   "pageSize": 30,
-  "totalEntries": 1390,
+  "totalEntries": 1391,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3006772",
+      "title": "第九区",
+      "originalTitle": "District 9 / D-9异形禁区(港) / 第九禁区(台)",
+      "year": "2009",
+      "coverPath": "covers/movie/3006772.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1086352249.jpg",
+      "detailUrl": "/movie/3006772",
+      "listSummary": "2009-08-14(美国) / 2009-11-27(中国大陆) / 沙尔托·科普雷 / 詹森·库伯 / 娜塔莉·博尔特 / 茜尔雯·斯特赖克 / 约翰·萨莫尔 / 威廉·艾伦·扬 / 尼克·布雷克 / 杰德·布罗菲 / 路易斯·米纳尔 / 瓦妮莎·海伍德 / 美国 / 新西兰 / 加拿大 / 南非 / 尼尔·布洛姆坎普 / 112分钟 / 第九区 / 动作 / 剧情 / 科幻 / 惊悚 / 尼尔·布洛姆坎普 Neill Blomkamp / 特丽·塔歇尔 Terri Tatchell / 英语 / 尼扬贾语 / 南非荷兰语 / 祖鲁语 / 科萨语 / 塞索托语",
+      "rating": 5,
+      "markedAt": "2009-09-19",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1937946",

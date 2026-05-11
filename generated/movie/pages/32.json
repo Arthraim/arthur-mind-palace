@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 32,
   "pageSize": 30,
-  "totalEntries": 1390,
+  "totalEntries": 1391,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2373195",
+      "title": "绝命毒师 第一季",
+      "originalTitle": "Breaking Bad Season 1 / 制毒师 第一季 / 致命毒师 第一季",
+      "year": "2008",
+      "coverPath": "covers/movie/2373195.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886443948.jpg",
+      "detailUrl": "/movie/2373195",
+      "listSummary": "2008-01-20(美国) / 布莱恩·克兰斯顿 / 亚伦·保尔 / 安娜·冈 / 迪恩·诺里斯 / 贝琪·勃兰特 / RJ·米特 / 史蒂芬·迈克尔·克扎达 / 罗伯塔·马克斯·塞雷特 / 马里乌斯·斯坦 / 克里斯托弗·登普西 / 美国 / www.amctv.com/originals/breakingbad / 亚当·伯恩斯坦 / 文斯·吉利根 / 翠西亚·布洛克 / 蒂姆·亨特 / 吉姆·麦凯 / 布朗温·休斯 / 绝命毒师 / 50分钟 / 绝命毒师 / 犯罪 / 剧情 / 文斯·吉里根 Vince Gilligan / Patty Lin / 乔治·马斯塔斯 George Mastras / 皮特·古尔德 Peter Gould / 英语 / 西班牙语",
+      "rating": 5,
+      "markedAt": "2013-08-30 10:52:36",
+      "estimatedMarkedAtRange": null,
+      "comment": "绝赞。犯罪紧张刺激，癌症悲情怜悯。好喜欢男主，好想得绝症。"
+    },
     {
       "kind": "movie",
       "sourceId": "5323968",
@@ -442,21 +457,6 @@
       "markedAt": "2013-05-02 23:42:37",
       "estimatedMarkedAtRange": null,
       "comment": "还是老师帅"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1295038",
-      "title": "哈利·波特与魔法石",
-      "originalTitle": "Harry Potter and the Sorcerer's Stone / 哈利波特1：神秘的魔法石(港/台) / 哈1",
-      "year": "2001",
-      "coverPath": "covers/movie/1295038.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg",
-      "detailUrl": "/movie/1295038",
-      "listSummary": "2001-11-04(英国首映) / 2001-11-16(美国) / 2002-01-26(中国大陆) / 2020-08-14(中国大陆重映) / 2024-10-11(中国大陆重映) / 丹尼尔·雷德克里夫 / 艾玛·沃森 / 鲁伯特·格林特 / 艾伦·瑞克曼 / 玛吉·史密斯 / 汤姆·费尔顿 / 伊恩·哈特 / 理查德·哈里斯 / 约翰·赫特 / 罗彼·考特拉尼 / 美国 / 英国 / www.harrypotter.co.uk / 克里斯·哥伦布 / 152分钟 / 159分钟(加长版) / 哈利·波特与魔法石 / 奇幻 / 冒险 / Steve Kloves / J.K. Rowling / 英语",
-      "rating": 5,
-      "markedAt": "2013-05-02 23:41:02",
-      "estimatedMarkedAtRange": null,
-      "comment": "梦一样的魔幻世界"
     }
   ]
 }

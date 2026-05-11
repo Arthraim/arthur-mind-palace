@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 10,
   "pageSize": 30,
-  "totalEntries": 1390,
+  "totalEntries": 1391,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "35225519",
+      "title": "嗜血法医：杀魔新生",
+      "originalTitle": "Dexter: New Blood / 嗜血法医：新血债 / 嗜血法医：新鲜血液",
+      "year": "2021",
+      "coverPath": "covers/movie/35225519.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2689506331.webp",
+      "detailUrl": "/movie/35225519",
+      "listSummary": "2021-11-07(美国) / 迈克尔·C·豪尔 / 杰克·阿尔科特 / 茱莉亚·琼斯 / 约翰尼·斯奎娅 / 阿拉诺·米勒 / 詹妮弗·卡朋特 / 大卫·马吉道夫 / 克兰西·布朗 / 奥斯卡·沃尔伯格 / 安德鲁·迈克尔·法玛 / 美国 / 马科斯·西恩加 / 桑福德·布克斯塔弗 / 45分钟 / 嗜血法医：杀魔新生 / 剧情 / 犯罪 / 悬疑 / 惊悚 / Alexandra Franklin / Jeff Lindsay / Marc Muszynski / 克莱德·菲利普斯 Clyde Phillips / 柯萨·雷恩 Kirsa Rein / Alexandra Salerno / 斯科特·雷诺兹 Scott Reynolds / 沃伦·徐·雷纳德 Warren Hsu Leonard / David McMillan / 托尼·萨尔兹曼 Tony Saltzman / 维罗妮卡·韦斯特 Veronica West / 亚当·拉普 Adam Rapp / 英语",
+      "rating": 5,
+      "markedAt": "2022-01-10 00:51:58",
+      "estimatedMarkedAtRange": null,
+      "comment": "前9集四星，当初最后几季逐渐让人厌倦的元素全都被完美的改造了。第十集，更是配得上五星。"
+    },
     {
       "kind": "movie",
       "sourceId": "35376457",
@@ -439,21 +454,6 @@
       "markedAt": "2021-06-18 14:22:22",
       "estimatedMarkedAtRange": null,
       "comment": "第二次看，第一次在电影院看，氛围太好了。UC这么完结简直完美。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1464352",
-      "title": "宫本武藏",
-      "originalTitle": "宮本武蔵 / Zen and Sword / 宫本武藏",
-      "year": "1961",
-      "coverPath": "covers/movie/1464352.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2634583662.webp",
-      "detailUrl": "/movie/1464352",
-      "listSummary": "1961-05-27 / 中村锦之助 / 木村功 / 入江若叶 / 浪花千荣子 / 木暮实千代 / 加贺邦男 / 三国连太郎 / 丘里美 / 宫口精二 / 赤木春惠 / 日本 / 内田吐梦 / 110分钟 / 宫本武藏 / 剧情 / 传记 / 动作 / 铃木尚之 Naoyuki Suzuki / 成沢昌茂 / 日语",
-      "rating": 5,
-      "markedAt": "2021-06-17 12:24:00",
-      "estimatedMarkedAtRange": null,
-      "comment": "禅意到底"
     }
   ]
 }

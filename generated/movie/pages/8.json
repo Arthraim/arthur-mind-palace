@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 8,
   "pageSize": 30,
-  "totalEntries": 1390,
+  "totalEntries": 1391,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "30482587",
+      "title": "新·奥特曼",
+      "originalTitle": "シン・ウルトラマン / 真·奥特曼 / 正宗超人力霸王",
+      "year": "2022",
+      "coverPath": "covers/movie/30482587.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871162289.webp",
+      "detailUrl": "/movie/30482587",
+      "listSummary": "2022-05-13(日本) / 斋藤工 / 长泽雅美 / 西岛秀俊 / 有冈大贵 / 早见明里 / 田中哲司 / 山本耕史 / 岩松了 / 岛田久作 / 益冈彻 / 日本 / shin-ultraman.jp / 樋口真嗣 / 112分钟 / 新·奥特曼 / 科幻 / 庵野秀明 Hideaki Anno / 日语",
+      "rating": 5,
+      "markedAt": "2022-12-22 22:15:57",
+      "estimatedMarkedAtRange": null,
+      "comment": "你就这么喜欢人类吗"
+    },
     {
       "kind": "movie",
       "sourceId": "35617460",
@@ -439,21 +454,6 @@
       "markedAt": "2022-06-03 16:57:04",
       "estimatedMarkedAtRange": null,
       "comment": "好喜欢男主的演出啊（剧情有点太中二了"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "30394797",
-      "title": "尚气与十环传奇",
-      "originalTitle": "Shang-Chi and the Legend of the Ten Rings / 尚气与十戒传奇 / 尚气与十环帮传奇(港)",
-      "year": "2021",
-      "coverPath": "covers/movie/30394797.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2674321872.webp",
-      "detailUrl": "/movie/30394797",
-      "listSummary": "2021-09-03(美国) / 2021-11-12(美国网络) / 刘思慕 / 梁朝伟 / 奥卡菲娜 / 张梦儿 / 陈法拉 / 杨紫琼 / 元华 / 王汉斌 / 弗罗里安·穆特鲁 / 黎明 / 美国 / 澳大利亚 / 德斯汀·克里顿 / 132分钟 / 尚气与十环传奇 / 动作 / 科幻 / 奇幻 / 冒险 / 戴夫·卡拉汉姆 Dave Callaham / 德斯汀·克里顿 Destin Cretton / 安德鲁·兰纳姆 Andrew Lanham / 史蒂夫·恩格尔哈特 Steve Englehart / 吉姆·斯特林 Jim Starlin / 英语 / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2022-05-30 10:13:23",
-      "estimatedMarkedAtRange": null,
-      "comment": "虽然不是神作，但不能在国内看还是有点可惜"
     }
   ]
 }

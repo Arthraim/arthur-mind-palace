@@ -2,6 +2,16 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-05-11T03:01:52.857Z
+- Summary: +1 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-05-11T02:56:08.882Z
+- movie: +1 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 无人知晓 誰も知らない (1292337) marked 2026-05-11 10:47:19
+
 ## 2026-05-08T07:15:21.185Z
 - Summary: +0 added, ~1570 updated, -0 removed
 - Last Douban sync: 2026-05-08T06:51:18.520Z

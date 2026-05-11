@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 42,
   "pageSize": 30,
-  "totalEntries": 1390,
+  "totalEntries": 1391,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1294791",
+      "title": "机器战警",
+      "originalTitle": "RoboCop / 铁甲威龙(港) / 机器战警(台)",
+      "year": "1987",
+      "coverPath": "covers/movie/1294791.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p785356141.jpg",
+      "detailUrl": "/movie/1294791",
+      "listSummary": "1987-07-17(美国) / 彼得·威勒 / 南茜·艾伦 / 丹·奥赫里奇 / 罗尼·考克斯 / 米盖尔·弗尔 / 柯特伍德·史密斯 / 雷·怀斯 / 保罗·麦克兰尼 / 杰西·D·戈因斯 / 罗伯特·多奎 / 美国 / www.robocop.com / 保罗·范霍文 / 102分钟 / 78分钟(德国版) / 91分钟(芬兰版) / 98分钟(挪威版) / 机器战警 / 动作 / 犯罪 / 剧情 / 科幻 / 惊悚 / 爱德华·诺麦尔 Edward Neumeier / 迈克尔·迈纳 Michael Miner / 英语",
+      "rating": 4,
+      "markedAt": "2010-10-27",
+      "estimatedMarkedAtRange": null,
+      "comment": "和我童年的电影，小时候老爸租录像带来看的~ 永远的经典啊~"
+    },
     {
       "kind": "movie",
       "sourceId": "5196451",
@@ -439,21 +454,6 @@
       "markedAt": "2010-09-10",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3074503",
-      "title": "功夫梦",
-      "originalTitle": "The Karate Kid / 新龙威小子 / 功夫小子",
-      "year": "2010",
-      "coverPath": "covers/movie/3074503.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p512634618.jpg",
-      "detailUrl": "/movie/3074503",
-      "listSummary": "2010-06-10(韩国) / 2010-06-11(美国) / 2010-06-22(中国大陆) / 贾登·史密斯 / 成龙 / 塔拉吉·P·汉森 / 韩雯雯 / 于荣光 / 赵毅 / 王姬 / 李磊 / 晓庆 / 苏晓朋 / 美国 / 中国大陆 / 哈罗德·兹瓦特 / 140分钟 / 功夫梦 / 动作 / 剧情 / 家庭 / 运动 / 克里斯托弗·墨菲 Christopher Murphey / 罗伯特·马克·卡门 Robert Mark Kamen / 英语 / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2010-09-07",
-      "estimatedMarkedAtRange": null,
-      "comment": "不错不错，厉害厉害，成龙式的电影，我是来看小smith的~"
     }
   ]
 }
