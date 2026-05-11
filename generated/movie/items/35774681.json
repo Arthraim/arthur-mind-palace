@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35774681",
-  "title": "怪奇物语 第五季 Stranger Things Season 5",
-  "originalTitle": "(2025)",
+  "title": "怪奇物语 第五季",
+  "originalTitle": "Stranger Things Season 5 / 怪奇物语最终季",
   "year": "2025",
   "coverPath": "covers/movie/35774681.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927467335.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35774681",
   "listSummary": "2025-11-26(美国) / 米莉·波比·布朗 / 薇诺娜·瑞德 / 大卫·哈伯 / 菲恩·伍法德 / 伽塔·马塔拉佐 / 凯莱布·麦克劳克林 / 诺亚·施纳普 / 萨迪·辛克 / 娜塔莉·戴尔 / 查理·希顿 / 美国 / 肖恩·利维 / 马特·达菲 / 罗斯·达菲 / 弗兰克·德拉邦特 / 怪奇物语 / 78分钟 / 怪奇物语 / 剧情 / 科幻 / 悬疑 / 奇幻 / 惊悚 / 恐怖 / 马特·达菲 Matt Duffer / 罗斯·达菲 Ross Duffer / 凯特琳·施奈德汉 Caitlin Schneiderhan / 保罗·迪赫特 Paul Dichter / 柯蒂斯·格温 Curtis Gwinn / 凯特·特雷弗里 Kate Trefry / 英语",
   "rating": 4,
-  "markedAt": "2026-01-08",
+  "markedAt": "2026-01-08 09:30:39",
   "estimatedMarkedAtRange": null,
   "comment": "这个系列吸引我的悬念、多线叙事，这一季都不太行。很工业化，搞了些逻辑上说不太通的高概念，说实话看得挺失望。10年了，给结局一个4星吧。",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35774681/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt18268644/"
     }
   ]
 }

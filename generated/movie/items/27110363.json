@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27110363",
-  "title": "名侦探柯南：零的执行人 名探偵コナン ゼロの執行人",
-  "originalTitle": "(2018)",
+  "title": "名侦探柯南：零的执行人",
+  "originalTitle": "名探偵コナン ゼロの執行人 / 名侦探柯南：零之执行人 / 名侦探柯南2018",
   "year": "2018",
   "coverPath": "covers/movie/27110363.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537694239.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27110363",
   "listSummary": "2018-04-13(日本) / 2018-11-09(中国大陆) / 高山南 / 山崎和佳奈 / 小山力也 / 山口胜平 / 林原惠美 / 绪方贤一 / 岩居由希子 / 高木涉 / 大谷育江 / 松井菜樱子 / 日本 / www.conan-movie.jp / 立川让 / 110分钟 / 名侦探柯南：零的执行人 / 动画 / 悬疑 / 樱井武晴 Takahiro Sakurai / 青山刚昌 Gôshô Aoyama / 日语",
   "rating": 3,
-  "markedAt": "2018-12-22",
+  "markedAt": "2018-12-22 08:12:14",
   "estimatedMarkedAtRange": null,
   "comment": "柯南的形象总是太完美了没劲，黑公安有点意思以外剧情一般般，阿笠的quiz这种剧场版套路太多了……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27110363/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7880466/"
     }
   ]
 }

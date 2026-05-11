@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "37046033",
-  "title": "最爱今日天空，我却无法言明 今日の空が一番好き、とまだ言えない僕は",
-  "originalTitle": "(2024)",
+  "title": "最爱今日天空，我却无法言明",
+  "originalTitle": "今日の空が一番好き、とまだ言えない僕は / 最喜欢今天的天空，而我还无法说出这句话 / She Taught Me Serendipity",
   "year": "2024",
   "coverPath": "covers/movie/37046033.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913192384.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/37046033",
   "listSummary": "2024-10-29(东京电影节) / 2025-04-25(日本) / 萩原利久 / 河合优实 / 伊东苍 / 黑崎煌代 / 日本 / 大九明子 / 127分钟 / 最爱今日天空，我却无法言明 / 剧情 / 爱情 / 福徳秀介 Shûsuke Fukutoku / 大九明子 Akiko Ohku / 日语 / 英语",
   "rating": 4,
-  "markedAt": "2025-06-22",
+  "markedAt": "2025-06-22 18:03:10",
   "estimatedMarkedAtRange": null,
   "comment": "好喜欢",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/37046033/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt34278653/"
     }
   ]
 }

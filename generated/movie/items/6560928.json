@@ -2,15 +2,15 @@
   "kind": "movie",
   "sourceId": "6560928",
   "title": "乐队",
-  "originalTitle": "(2012)",
-  "year": "2012",
+  "originalTitle": "Follow Follow",
+  "year": null,
   "coverPath": "covers/movie/6560928.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1494950336.webp",
   "doubanUrl": "https://movie.douban.com/subject/6560928/",
   "detailUrl": "/movie/6560928",
   "listSummary": "赵怡文 / 江雨晨 / 健崔 / 庞宽 / 朱筱毅 / 丁太升 / 中国大陆 / 彭磊 / 90分钟 / 剧情 / 音乐 / 彭磊 Lei Peng / 汉语普通话",
   "rating": 3,
-  "markedAt": "2019-08-04",
+  "markedAt": "2019-08-04 12:51:57",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/6560928/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2471946/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25980443",
-  "title": "海边的曼彻斯特 Manchester by the Sea",
-  "originalTitle": "(2016)",
+  "title": "海边的曼彻斯特",
+  "originalTitle": "Manchester by the Sea / 情系海边之城(港)",
   "year": "2016",
   "coverPath": "covers/movie/25980443.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25980443",
   "listSummary": "2016-01-23(圣丹斯电影节) / 2016-11-18(美国) / 2017-08-25(中国大陆) / 卡西·阿弗莱克 / 卢卡斯·赫奇斯 / 米歇尔·威廉姆斯 / C·J·威尔逊 / 凯尔·钱德勒 / 卡拉·海沃德 / 格瑞辰·摩尔 / 泰特·多诺万 / 埃里卡·麦克德莫特 / 希瑟·伯恩斯 / 美国 / 肯尼思·洛纳根 / 137分钟 / 海边的曼彻斯特 / 剧情 / 家庭 / 肯尼斯·罗纳根 Kenneth Lonergan / 英语",
   "rating": 5,
-  "markedAt": "2024-12-19",
+  "markedAt": "2024-12-19 21:09:55",
   "estimatedMarkedAtRange": null,
   "comment": "「前已无通路 后不见归途」",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25980443/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4034228/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "37311135",
   "title": "飞驰人生3",
-  "originalTitle": "(2026)",
+  "originalTitle": "Pegasus 3",
   "year": "2026",
   "coverPath": "covers/movie/37311135.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929427346.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/37311135",
   "listSummary": "2026-02-17(中国大陆) / 沈腾 / 尹正 / 黄景瑜 / 张本煜 / 魏翔 / 沙溢 / 范丞丞 / 孙艺洲 / 段奕宏 / 张新成 / 中国大陆 / 韩寒 / 126分钟 / 剧情 / 喜剧 / 运动 / 韩寒 Han Han / 周运海 Yunhai Zhou / 蒙问雨 Wenyu Meng / 汉语普通话",
   "rating": 5,
-  "markedAt": "2026-02-18",
+  "markedAt": "2026-02-18 02:05:58",
   "estimatedMarkedAtRange": null,
   "comment": "看1的时候又哭又笑超多感触。看到3觉得韩寒还是不纠结那些情啊爱啊危机啊梦想啊比较好。简简单单的成熟商业片，看得很开心。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/37311135/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt38035835/"
     }
   ]
 }

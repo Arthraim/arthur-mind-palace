@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "30357990",
   "title": "乐队的夏天 第一季",
-  "originalTitle": "(2019)",
+  "originalTitle": "The Big Band",
   "year": "2019",
   "coverPath": "covers/movie/30357990.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556110785.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30357990",
   "listSummary": "2019-05-25(中国大陆) / 马东 / 吴青峰 / 张亚东 / 高晓松 / 乔杉 / 欧阳娜娜 / 大张伟 / 老狼 / 白岩松 / 李宇春 / 中国大陆 / 李楠楠 / 陈雨璇 / 王雪 / 124分钟 / 音乐 / 真人秀 / 汉语普通话",
   "rating": 5,
-  "markedAt": "2019-08-04",
+  "markedAt": "2019-08-04 12:54:13",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30357990/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt35107030/"
     }
   ]
 }

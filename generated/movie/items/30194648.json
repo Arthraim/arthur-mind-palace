@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30194648",
-  "title": "硅谷 第六季 Silicon Valley Season 6",
-  "originalTitle": "(2019)",
+  "title": "硅谷 第六季",
+  "originalTitle": "Silicon Valley Season 6",
   "year": "2019",
   "coverPath": "covers/movie/30194648.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571694925.webp",
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30194648/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8270792/"
     }
   ]
 }

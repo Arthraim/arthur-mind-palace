@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "3013580",
   "title": "意外",
-  "originalTitle": "(2009)",
+  "originalTitle": "暗杀 / Assassins",
   "year": "2009",
   "coverPath": "covers/movie/3013580.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2196915554.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3013580",
   "listSummary": "2009-09-05(威尼斯电影节) / 2009-09-24(中国香港) / 古天乐 / 任贤齐 / 冯淬帆 / 叶璇 / 林雪 / 陈望华 / 韩雨芹 / 刘宗基 / 吕少坤 / 明德丰 / 中国香港 / www.mediaasia.com/accident / 郑保瑞 / 87分钟 / 意外 / 悬疑 / 惊悚 / 司徒锦源 Kam-Yuen Szeto / 邓力奇 Nicholl Tang / 粤语",
   "rating": 4,
-  "markedAt": "2023-04-05",
+  "markedAt": "2023-04-05 00:27:27",
   "estimatedMarkedAtRange": null,
   "comment": "男主又造出了另一个男主",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3013580/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1202514/"
     }
   ]
 }

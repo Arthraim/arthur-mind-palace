@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36035676",
   "title": "长安三万里",
-  "originalTitle": "(2023)",
+  "originalTitle": "Chang An",
   "year": "2023",
   "coverPath": "covers/movie/36035676.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36035676",
   "listSummary": "2023-07-08(中国大陆) / 杨天翔 / 凌振赫 / 吴俊全 / 宣晓鸣 / 卢力峰 / 孙路路 / 刘校妤 / 路熙然 / 李诗萌 / 胡亚捷 / 中国大陆 / 谢君伟 / 邹靖 / 2023-07-02 18:00 / 168分钟 / 历史 / 动画 / 红泥小火炉 / 汉语普通话",
   "rating": 4,
-  "markedAt": "2023-07-18",
+  "markedAt": "2023-07-18 09:27:05",
   "estimatedMarkedAtRange": null,
   "comment": "喜欢，缺点是过于中二了，念诗都像放大招",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36035676/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt27922374/"
     }
   ]
 }

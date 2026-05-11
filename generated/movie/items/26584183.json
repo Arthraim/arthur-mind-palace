@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26584183",
-  "title": "权力的游戏 第八季 Game of Thrones Season 8",
-  "originalTitle": "(2019)",
+  "title": "权力的游戏 第八季",
+  "originalTitle": "Game of Thrones Season 8 / 冰与火之歌 第八季 / 权游8",
   "year": "2019",
   "coverPath": "covers/movie/26584183.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553679104.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26584183/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5924366/"
     }
   ]
 }

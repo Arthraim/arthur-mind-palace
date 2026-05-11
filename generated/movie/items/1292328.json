@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292328",
-  "title": "东邪西毒 東邪西毒",
-  "originalTitle": "(1994)",
+  "title": "东邪西毒",
+  "originalTitle": "東邪西毒 / Ashes of Time",
   "year": "1994",
   "coverPath": "covers/movie/1292328.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292328/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0109688/"
     }
   ]
 }

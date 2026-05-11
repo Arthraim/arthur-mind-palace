@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "34869362",
   "title": "温暖的抱抱",
-  "originalTitle": "(2020)",
+  "originalTitle": "Warm Hug",
   "year": "2020",
   "coverPath": "covers/movie/34869362.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2618446242.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34869362",
   "listSummary": "2020-12-31(中国大陆) / 常远 / 李沁 / 沈腾 / 乔杉 / 马丽 / 艾伦 / 田雨 / 王智 / 魏翔 / 王宁 / 中国大陆 / 常远 / 112分钟 / 喜剧 / 常远 Yuan Chang / 冷旭阳 Xuyang Leng / 王志君 Zhijun Wang / 汉语普通话",
   "rating": 2,
-  "markedAt": "2021-02-16",
+  "markedAt": "2021-02-16 10:28:25",
   "estimatedMarkedAtRange": null,
   "comment": "喜剧部分不好笑，悲剧部分好笑",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34869362/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13529418/"
     }
   ]
 }

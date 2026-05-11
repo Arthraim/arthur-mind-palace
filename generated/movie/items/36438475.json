@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36438475",
   "title": "浪浪山小妖怪",
-  "originalTitle": "(2025)",
+  "originalTitle": "小妖怪的夏天：从前有座浪浪山 / 小妖怪的夏天",
   "year": "2025",
   "coverPath": "covers/movie/36438475.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36438475",
   "listSummary": "2025-07-26(FIRST青年电影展) / 2025-08-02(中国大陆) / 陈子平 / 路扬 / 董汶亮 / 刘琮 / 林强 / 张闻天 / 李盟 / 陈喆 / 付博文 / 王上斌 / 中国大陆 / 於水 / 2025-07-22 20:50 / 118分钟 / 剧情 / 喜剧 / 动画 / 奇幻 / 於水 Shui Yu / 刘佳 Jia Liu / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-12-17",
+  "markedAt": "2025-12-17 14:53:05",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36438475/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt36733027/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1301345",
-  "title": "偷天换日 The Italian Job",
-  "originalTitle": "(2003)",
+  "title": "偷天换日",
+  "originalTitle": "The Italian Job / 天罗盗网(港) / 意大利任务",
   "year": "2003",
   "coverPath": "covers/movie/1301345.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1693861981.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1301345",
   "listSummary": "2003-05-30(美国) / 马克·沃尔伯格 / 查理兹·塞隆 / 唐纳德·萨瑟兰 / 杰森·斯坦森 / 赛斯·格林 / 茅斯·达夫 / 爱德华·诺顿 / 福斯托·卡莱加里尼 / 吉米·舒伯特 / 塔米·卡比莱特 / 美国 / 英国 / 意大利 / 德国 / www.italianjobmovie.com / F·加里·格雷 / 111分钟 / 偷天换日 / 动作 / 犯罪 / 惊悚 / 特洛伊·肯尼迪-马丁 Troy Kennedy-Martin / 唐娜·鲍尔斯 / 韦恩·鲍尔斯 / 英语 / 英语 / 意大利语",
   "rating": 4,
-  "markedAt": "2021-08-26",
+  "markedAt": "2021-08-26 00:59:06",
   "estimatedMarkedAtRange": null,
   "comment": "看了估摸有十遍了。居然第一次标记",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1301345/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0317740/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "34941536",
   "title": "宇宙探索编辑部",
-  "originalTitle": "(2021)",
+  "originalTitle": "宇宙编辑部的故事 / Journey to the West",
   "year": "2021",
   "coverPath": "covers/movie/34941536.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889865405.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34941536",
   "listSummary": "2021-10-17(平遥国际影展) / 2023-04-01(中国大陆) / 杨皓宇 / 艾丽娅 / 王一通 / 蒋奇明 / 盛晨晨 / 郭帆 / 龚格尔 / 洛翼云 / 罗娟 / 关云桐 / 中国大陆 / 孔大山 / 118分钟 / 喜剧 / 科幻 / 孔大山 Dashan Kong / 王一通 Yitong Wang / 汉语普通话",
   "rating": 5,
-  "markedAt": "2023-04-06",
+  "markedAt": "2023-04-06 23:28:33",
   "estimatedMarkedAtRange": null,
   "comment": "只愿意和相信结局的人做朋友",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34941536/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt15072612/"
     }
   ]
 }

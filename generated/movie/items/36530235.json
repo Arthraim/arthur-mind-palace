@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36530235",
-  "title": "还是觉得你最好2 飯戲攻心2",
-  "originalTitle": "(2024)",
+  "title": "还是觉得你最好2",
+  "originalTitle": "飯戲攻心2 / 饭戏攻心2 / Table for Six 2",
   "year": "2024",
   "coverPath": "covers/movie/36530235.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2904625829.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36530235",
   "listSummary": "2024-02-09(中国香港) / 2024-02-24(中国大陆) / 邓丽欣 / 张继聪 / 王菀之 / 林明祯 / 陈湛文 / 谢君豪 / 魏浚笙 / 何启华 / 胡枫 / 罗兰 / 中国香港 / 中国大陆 / 陈咏燊 / 133分钟 / 还是觉得你最好2 / 喜剧 / 爱情 / 陈咏燊 Sunny Chan / 粤语 / 汉语普通话",
   "rating": 1,
-  "markedAt": "2025-01-30",
+  "markedAt": "2025-01-30 01:38:29",
   "estimatedMarkedAtRange": null,
   "comment": "？",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36530235/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt30478127/"
     }
   ]
 }

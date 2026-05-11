@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1291936",
-  "title": "攻壳机动队 攻殻機動隊",
-  "originalTitle": "(1995)",
+  "title": "攻壳机动队",
+  "originalTitle": "攻殻機動隊 / Ghost in the Shell",
   "year": "1995",
   "coverPath": "covers/movie/1291936.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921045013.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1291936",
   "listSummary": "1995-11-18(日本) / 2025-05-10(中国大陆) / 田中敦子 / 大塚明夫 / 山寺宏一 / 大木民夫 / 家弓家正 / 玄田哲章 / 山内雅人 / 小川真司 / 布莱恩·克兰斯顿 / 山路和弘 / 日本 / 押井守 / 83分钟 / 攻壳机动队 / 动作 / 科幻 / 动画 / 伊藤和典 Kazunori Itô / 士郎正宗 Masamune Shirow / 日语",
   "rating": 4,
-  "markedAt": "2025-05-27",
+  "markedAt": "2025-05-27 12:43:13",
   "estimatedMarkedAtRange": null,
   "comment": "小时候就看不懂",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291936/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0113568/"
     }
   ]
 }

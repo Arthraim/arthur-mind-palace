@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26647117",
   "title": "暴裂无声",
-  "originalTitle": "(2017)",
+  "originalTitle": "恶人 / 寻山",
   "year": "2017",
   "coverPath": "covers/movie/26647117.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26647117",
   "listSummary": "2017-07-27(FIRST青年影展) / 2018-04-04(中国大陆) / 宋洋 / 姜武 / 袁文康 / 谭卓 / 王梓尘 / 安琥 / 伊天锴 / 陈进 / 李亚真 / 中国大陆 / 忻钰坤 / 120分钟 / 剧情 / 犯罪 / 悬疑 / 忻钰坤 Yukun Xin / 汉语普通话",
   "rating": 5,
-  "markedAt": "2018-07-14",
+  "markedAt": "2018-07-14 14:32:14",
   "estimatedMarkedAtRange": null,
   "comment": "这导演应该天生会拍电影吧",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26647117/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6389316/"
     }
   ]
 }

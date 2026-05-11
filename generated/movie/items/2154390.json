@@ -2,15 +2,15 @@
   "kind": "movie",
   "sourceId": "2154390",
   "title": "编辑部的故事",
-  "originalTitle": "(1992)",
-  "year": "1992",
+  "originalTitle": "Stories of an Editorial Board",
+  "year": null,
   "coverPath": "covers/movie/2154390.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2255590045.webp",
   "doubanUrl": "https://movie.douban.com/subject/2154390/",
   "detailUrl": "/movie/2154390",
   "listSummary": "葛优 / 张瞳 / 侯耀华 / 吕齐 / 童正维 / 冯小刚 / 张国立 / 刘蓓 / 濮存昕 / 于谦 / 中国大陆 / 赵宝刚 / 金炎 / 49分钟 / 喜剧 / 王朔 Shuo Wang / 马未都 Weidu Ma / 冯小刚 Xiaogang Feng / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-07-28",
+  "markedAt": "2025-07-28 00:16:18",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2154390/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1367515/"
     }
   ]
 }

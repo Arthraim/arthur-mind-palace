@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25890017",
-  "title": "哥斯拉2：怪兽之王 Godzilla: King of the Monsters",
-  "originalTitle": "(2019)",
+  "title": "哥斯拉2：怪兽之王",
+  "originalTitle": "Godzilla: King of the Monsters / 哥斯拉：怪兽之王 / 哥斯拉II: 王者巨兽(港)",
   "year": "2019",
   "coverPath": "covers/movie/25890017.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25890017",
   "listSummary": "2019-05-25(大规模点映) / 2019-05-31(中国大陆) / 2019-05-31(美国) / 凯尔·钱德勒 / 维拉·法米加 / 米莉·波比·布朗 / 章子怡 / 渡边谦 / 布莱德利·惠特福德 / 托马斯·米德蒂奇 / 艾莎·辛德斯 / 莎莉·霍金斯 / 查尔斯·丹斯 / 美国 / 日本 / 中国大陆 / www.godzilla-movie.net / 迈克尔·道赫蒂 / 132分钟 / 哥斯拉2：怪兽之王 / 动作 / 科幻 / 冒险 / 灾难 / 迈克尔·道赫蒂 Michael Dougherty / 扎克·希尔兹 Zach Shields / 麦克思·鲍伦斯坦 Max Borenstein / 英语",
   "rating": 4,
-  "markedAt": "2019-06-02",
+  "markedAt": "2019-06-02 18:44:12",
   "estimatedMarkedAtRange": null,
   "comment": "本片人类的一条线：约翰雷伯恩和Pied Piper CEO以为泰温绑架了红袍女和小7，没想到其实红袍女是自愿的，事情不可控制之后小7挺身而出。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25890017/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3741700/"
     }
   ]
 }

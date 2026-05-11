@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26654269",
-  "title": "瞒天过海：美人计 Ocean's Eight",
-  "originalTitle": "(2018)",
+  "title": "瞒天过海：美人计",
+  "originalTitle": "Ocean's Eight / 女版十一罗汉 / 瞒天过海：八面玲珑(台)",
   "year": "2018",
   "coverPath": "covers/movie/26654269.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508259902.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26654269",
   "listSummary": "2018-06-08(美国) / 桑德拉·布洛克 / 凯特·布兰切特 / 安妮·海瑟薇 / 海伦娜·伯翰·卡特 / 蕾哈娜 / 莎拉·保罗森 / 敏迪·卡灵 / 奥卡菲娜 / 詹姆斯·柯登 / 理查德·阿米蒂奇 / 美国 / www.oceans8movie.com / 盖瑞·罗斯 / 110分钟 / 瞒天过海：美人计 / 喜剧 / 犯罪 / 盖瑞·罗斯 Gary Ross / 奥利维亚·米尔奇 Olivia Milch / 乔治·克莱顿·约翰逊 George Clayton Johnson / 杰克·戈登·拉塞尔 Jack Golden Russell / 英语 / 印地语 / 法语 / 德语 / 汉语普通话",
   "rating": 3,
-  "markedAt": "2018-11-17",
+  "markedAt": "2018-11-17 07:34:16",
   "estimatedMarkedAtRange": null,
   "comment": "总觉得少了点「罗汉味」",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26654269/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5164214/"
     }
   ]
 }

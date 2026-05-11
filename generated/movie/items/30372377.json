@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30372377",
-  "title": "续命之徒：绝命毒师电影 El Camino: A Breaking Bad Movie",
-  "originalTitle": "(2019)",
+  "title": "续命之徒：绝命毒师电影",
+  "originalTitle": "El Camino: A Breaking Bad Movie / 绝命毒师电影：续命之徒 / 格林布莱尔",
   "year": "2019",
   "coverPath": "covers/movie/30372377.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569548689.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30372377",
   "listSummary": "2019-10-11(美国) / 亚伦·保尔 / 乔纳森·班克斯 / 马特·琼斯 / 查尔斯·贝克 / 托德·特里 / 朱莉·珀尔 / 格雷戈里·史蒂文·索里兹 / 拉里·哈金 / 杰西·普莱蒙 / 汤姆·鲍尔 / 美国 / 文斯·吉利根 / 122分钟 / 续命之徒：绝命毒师电影 / 剧情 / 犯罪 / 惊悚 / 文斯·吉里根 Vince Gilligan / 英语",
   "rating": 5,
-  "markedAt": "2019-10-14",
+  "markedAt": "2019-10-14 11:48:15",
   "estimatedMarkedAtRange": null,
   "comment": "即使剥掉了所有情怀的部分，依然是一个完美的故事，似有若无的暗线交代了前前后后。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30372377/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9243946/"
     }
   ]
 }

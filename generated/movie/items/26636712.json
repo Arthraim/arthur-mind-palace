@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26636712",
-  "title": "蚁人2：黄蜂女现身 Ant-Man and the Wasp",
-  "originalTitle": "(2018)",
+  "title": "蚁人2：黄蜂女现身",
+  "originalTitle": "Ant-Man and the Wasp / 蚁侠2：黄蜂女现身(港) / 蚁人2",
   "year": "2018",
   "coverPath": "covers/movie/26636712.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529389608.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26636712",
   "listSummary": "2018-07-06(美国) / 2018-08-24(中国大陆) / 保罗·路德 / 伊万杰琳·莉莉 / 迈克尔·佩纳 / 汉娜·乔恩-卡门 / 沃尔顿·戈金斯 / 鲍比·坎纳瓦尔 / 朱迪·格雷尔 / T.I. / 大卫·达斯马齐连 / 艾比·莱德·弗特森 / 美国 / www.marvel.com/antman / 佩顿·里德 / 118分钟 / 119分钟(中国大陆) / 蚁人2：黄蜂女现身 / 动作 / 科幻 / 冒险 / 克里斯·麦克纳 Chris McKenna / 埃里克·萨默斯 Erik Sommers / 保罗·路德 Paul Rudd / 安德鲁·贝伦 Andrew Barrer / 加百利·法拉利 Gabriel Ferrari / 英语",
   "rating": 4,
-  "markedAt": "2018-09-02",
+  "markedAt": "2018-09-02 19:20:48",
   "estimatedMarkedAtRange": null,
   "comment": "旧金山观光电影了解一下",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26636712/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5095030/"
     }
   ]
 }

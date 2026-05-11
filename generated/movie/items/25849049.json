@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25849049",
-  "title": "超人总动员2 Incredibles 2",
-  "originalTitle": "(2018)",
+  "title": "超人总动员2",
+  "originalTitle": "Incredibles 2 / 超人特攻队2(台) / 超人特工队2(港)",
   "year": "2018",
   "coverPath": "covers/movie/25849049.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2538297752.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25849049",
   "listSummary": "2018-06-15(美国) / 2018-06-22(中国大陆) / 格雷格·T·尼尔森 / 霍利·亨特 / 莎拉·沃威尔 / 赫克·米尔纳 / 伊莱·富西尔 / 凯瑟琳·基纳 / 塞缪尔·杰克逊 / 伊莎贝拉·罗西里尼 / 鲍勃·奥登科克 / 布拉德·伯德 / 美国 / 布拉德·伯德 / 118分钟 / 126分钟(中国大陆) / 超人总动员2 / 喜剧 / 动作 / 动画 / 冒险 / 布拉德·伯德 Brad Bird / 英语",
   "rating": 4,
-  "markedAt": "2018-11-17",
+  "markedAt": "2018-11-17 07:32:21",
   "estimatedMarkedAtRange": null,
   "comment": "也太好看了！我得是这家的脑残粉",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25849049/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3606756/"
     }
   ]
 }

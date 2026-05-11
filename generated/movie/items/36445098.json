@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36445098",
-  "title": "还有明天 C'è ancora domani",
-  "originalTitle": "(2023)",
+  "title": "还有明天",
+  "originalTitle": "C'è ancora domani / 明天还有梦(港) / 我们还有明天(台)",
   "year": "2023",
   "coverPath": "covers/movie/36445098.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918279456.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36445098",
   "listSummary": "2023-10-18(罗马电影节) / 2023-10-26(意大利) / 2025-03-08(中国大陆) / 宝拉·柯特莱西 / 瓦莱里奥·马斯坦德雷亚 / 罗马纳·马乔拉·韦尔加诺 / 埃马努艾拉·法内利 / 乔治·科兰杰利 / 维尼乔·马尔基奥尼 / 弗朗切斯科·琴托拉梅 / 雷法莱·维诺利 / 保拉·蒂齐亚娜·克鲁恰尼 / 尤夫·约瑟夫 / 意大利 / 宝拉·柯特莱西 / 118分钟 / 还有明天 / 剧情 / 喜剧 / 历史 / 宝拉·柯特莱西 Paola Cortellesi / 吉利亚·卡伦达 Giulia Calenda / 法里奥·安德烈奥蒂 Furio Andreotti / 意大利语 / 英语",
   "rating": 5,
-  "markedAt": "2025-03-29",
+  "markedAt": "2025-03-29 14:34:12",
   "estimatedMarkedAtRange": null,
   "comment": "觉得投票和个人命运抗争还是让我觉得有点远，我的理解是她也没咋为自己抗争过，诉诸体制也是一种帮女儿乃至其他女性的抗争吧。但女同事说她没有逃跑的出路，电影也表达了「去哪里」的问题，感觉作为男人确实理解不到这一层。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36445098/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt21800162/"
     }
   ]
 }

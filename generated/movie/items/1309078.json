@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1309078",
-  "title": "星球大战前传3：西斯的反击 Star Wars: Episode III - Revenge of the Sith",
-  "originalTitle": "(2005)",
+  "title": "星球大战前传3：西斯的反击",
+  "originalTitle": "Star Wars: Episode III - Revenge of the Sith / 星球大战前传III：黑帝君临(港) / 星际大战三部曲：西斯大帝的复仇(台)",
   "year": "2005",
   "coverPath": "covers/movie/1309078.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p533908031.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1309078/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0121766/"
     }
   ]
 }

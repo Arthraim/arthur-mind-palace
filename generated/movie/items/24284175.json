@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "24284175",
-  "title": "九龙城寨之围城 九龍城寨·圍城",
-  "originalTitle": "(2024)",
+  "title": "九龙城寨之围城",
+  "originalTitle": "九龍城寨·圍城 / 九龙城寨 / Twilight of the Warriors: Walled In",
   "year": "2024",
   "coverPath": "covers/movie/24284175.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2920653336.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/24284175",
   "listSummary": "2024-05-01(中国大陆/中国香港) / 2025-05-02(中国大陆重映) / 古天乐 / 洪金宝 / 任贤齐 / 林峯 / 刘俊谦 / 黄德斌 / 伍允龙 / 胡子彤 / 张文杰 / 廖子妤 / 中国香港 / 中国大陆 / 郑保瑞 / 2024-04-23 20:40 / 126分钟 / 九龙城寨之围城 / 动作 / 犯罪 / 欧健儿 Kin-Yee Au / 岑君茜 Kwan-Sin Shum / 陈大利 Tai-lee Chan / 黎俊 / 粤语 / 汉语普通话",
   "rating": 4,
-  "markedAt": "2024-05-21",
+  "markedAt": "2024-05-21 00:07:18",
   "estimatedMarkedAtRange": null,
   "comment": "直来直去好爽啊，说是他儿子就是他儿子，我还以为是离间计呢",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24284175/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt20316748/"
     }
   ]
 }

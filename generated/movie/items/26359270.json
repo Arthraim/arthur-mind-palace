@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26359270",
   "title": "怪奇物语 第一季",
-  "originalTitle": "Stranger Things Season 1",
+  "originalTitle": "Stranger Things Season 1 / Montauk",
   "year": "2016",
   "coverPath": "covers/movie/26359270.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364206200.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26359270",
   "listSummary": "2016-07-15(美国) / 薇诺娜·瑞德 / 大卫·哈伯 / 米莉·波比·布朗 / 菲恩·伍法德 / 伽塔·马塔拉佐 / 凯莱布·麦克劳克林 / 诺亚·施纳普 / 娜塔莉·戴尔 / 查理·希顿 / 乔·基瑞 / 美国 / 肖恩·利维 / 马特·达菲 / 罗斯·达菲 / 怪奇物语 / 50分钟 / 怪奇物语 / 剧情 / 奇幻 / 恐怖 / 马特·达菲 Matt Duffer / 罗斯·达菲 Ross Duffer / 英语",
   "rating": 5,
-  "markedAt": "2018-01-20",
+  "markedAt": "2018-01-20 19:23:20",
   "estimatedMarkedAtRange": null,
   "comment": "不错呀 9.5 分，对第六集开始的发展比较失望",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26359270/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4574334/"
     }
   ]
 }

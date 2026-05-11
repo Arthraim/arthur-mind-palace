@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "24753477",
   "title": "蜘蛛侠：英雄归来",
-  "originalTitle": "Spider-Man: Homecoming",
+  "originalTitle": "Spider-Man: Homecoming / 蜘蛛侠：强势回归(港) / 蜘蛛人：返校日(台)",
   "year": "2017",
   "coverPath": "covers/movie/24753477.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497756471.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/24753477",
   "listSummary": "2017-06-28(洛杉矶首映) / 2017-07-07(美国) / 2017-09-08(中国大陆) / 汤姆·霍兰德 / 小罗伯特·唐尼 / 玛丽莎·托梅 / 迈克尔·基顿 / 雅各布·贝塔隆 / 托尼·雷沃罗利 / 赞达亚 / 乔恩·费儒 / 亚伯拉罕·阿塔哈 / 劳拉·哈里尔 / 美国 / 乔恩·沃茨 / 133分钟 / 蜘蛛侠：英雄归来 / 动作 / 科幻 / 冒险 / 乔纳森·M·戈尔茨坦 Jonathan M. Goldstein / 约翰·弗朗西斯·戴利 John Francis Daley / 乔·沃茨 Jon Watts / 克里斯托弗·D·福特 Christopher D. Ford / 克里斯·麦克纳 Chris McKenna / 埃里克·萨默斯 Erik Sommers / 斯坦·李 Stan Lee / 史蒂夫·迪特寇 Steve Ditko / 乔·西蒙 Joe Simon / 杰克·科比 Jack Kirby / 英语",
   "rating": 4,
-  "markedAt": "2017-09-09",
+  "markedAt": "2017-09-09 11:58:18",
   "estimatedMarkedAtRange": null,
   "comment": "变异+装备？！耍赖皮了啊喂",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24753477/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2250912/"
     }
   ]
 }

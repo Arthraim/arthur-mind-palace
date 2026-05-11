@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "33456512",
   "title": "涉过愤怒的海",
-  "originalTitle": "(2023)",
+  "originalTitle": "怒海 / Across the Furious Sea",
   "year": "2023",
   "coverPath": "covers/movie/33456512.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2900852349.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/33456512",
   "listSummary": "2023-11-25(中国大陆) / 黄渤 / 周迅 / 祖峰 / 张宥浩 / 周依然 / 颜北 / 孙安可 / 闫妮 / 王迅 / 阿部力 / 中国大陆 / 曹保平 / 2023-11-23 20:55 / 144分钟 / 剧情 / 犯罪 / 悬疑 / 曹保平 Baoping Cao / 武皮皮 Pipi Wu / 焦华静 Huajing Jiao / 汉语普通话 / 日语 / 德语 / 胶辽官话",
   "rating": 3,
-  "markedAt": "2023-12-09",
+  "markedAt": "2023-12-09 09:09:22",
   "estimatedMarkedAtRange": null,
   "comment": "好多设计都太drama了，增加了距离，减少了共情",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/33456512/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12151818/"
     }
   ]
 }

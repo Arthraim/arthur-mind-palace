@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1306939",
   "title": "推手",
-  "originalTitle": "(1991)",
+  "originalTitle": "Pushing Hands",
   "year": "1991",
   "coverPath": "covers/movie/1306939.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p753043026.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1306939",
   "listSummary": "1991-12-07(金马影展) / 郎雄 / 王莱 / 王伯昭 / 戴布·斯内德 / 李涵 / 陈捷文 / 黎拨佳 / 李巨源 / 刘怡明 / 王洪彰 / 中国台湾 / 美国 / 李安 / 105 分钟 / 推手 / 剧情 / 家庭 / 李安 Ang Lee / 詹姆斯·夏慕斯 James Schamus / 汉语普通话 / 英语 / 粤语",
   "rating": 4,
-  "markedAt": "2026-03-09",
+  "markedAt": "2026-03-09 09:32:52",
   "estimatedMarkedAtRange": null,
   "comment": "推手就是中国人的生活哲学，卸掉正面冲突的力，各自保持自身平衡，但始终连接不断。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1306939/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0105652/"
     }
   ]
 }

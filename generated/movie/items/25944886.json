@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25944886",
-  "title": "灾难艺术家 The Disaster Artist",
-  "originalTitle": "(2017)",
+  "title": "灾难艺术家",
+  "originalTitle": "The Disaster Artist / 大灾难家(台) / 荷里活烂片王(港)",
   "year": "2017",
   "coverPath": "covers/movie/25944886.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498866082.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25944886",
   "listSummary": "2017-09-11(多伦多电影节) / 2017-12-08(美国) / 詹姆斯·弗兰科 / 戴夫·弗兰科 / 塞斯·罗根 / 艾莉·葛瑞那 / 爱丽森·布里 / 杰基·韦佛 / 保罗·谢尔 / 扎克·埃夫隆 / 乔什·哈切森 / 琼·黛安·拉斐尔 / 美国 / www.disasterartist.movie/ / 詹姆斯·弗兰科 / 103分钟 / 灾难艺术家 / 剧情 / 喜剧 / 传记 / 斯科特·纽斯塔德 Scott Neustadter / 迈克尔·H·韦伯 Michael H. Weber / 格雷戈·赛斯特罗 Greg Sestero / 汤姆·比塞尔 Tom Bissell / 英语",
   "rating": 5,
-  "markedAt": "2018-06-10",
+  "markedAt": "2018-06-10 22:54:19",
   "estimatedMarkedAtRange": null,
   "comment": "里里外外的照应和猎奇，nb",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25944886/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3521126/"
     }
   ]
 }

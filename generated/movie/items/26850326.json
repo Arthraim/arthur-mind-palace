@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26850326",
   "title": "欢乐喜剧人",
-  "originalTitle": "(2017)",
+  "originalTitle": "欢乐喜剧人大电影 / Top Funny Comedian: The Movie",
   "year": "2017",
   "coverPath": "covers/movie/26850326.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449680079.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26850326",
   "listSummary": "2017-03-24(中国大陆) / 郭德纲 / 岳云鹏 / 罗温·艾金森 / 艾伦 / 张小斐 / 潘斌龙 / 孙越 / 张泰维 / 伊万德·霍利菲尔德 / 陈国坤 / 中国大陆 / 黎继强 / 张子栋 / 87分钟 / 喜剧 / 黎继强 Kai Keung Lai / 严东旭 Dongxu Yan / 张子栋 Zi-Dong Zhang / 汉语普通话",
   "rating": 1,
-  "markedAt": "2018-01-01",
+  "markedAt": "2018-01-01 17:42:52",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26850326/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6421362/"
     }
   ]
 }

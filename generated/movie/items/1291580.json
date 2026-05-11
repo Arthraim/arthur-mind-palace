@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1291580",
-  "title": "杀死比尔 Kill Bill: Vol. 1",
-  "originalTitle": "(2003)",
+  "title": "杀死比尔",
+  "originalTitle": "Kill Bill: Vol. 1 / 标杀令(港) / 追杀比尔(台)",
   "year": "2003",
   "coverPath": "covers/movie/1291580.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493495946.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1291580",
   "listSummary": "2003-09-29(好莱坞首映) / 2003-10-10(美国) / 乌玛·瑟曼 / 刘玉玲 / 薇薇卡·福克斯 / 达丽尔·汉纳 / 大卫·卡拉丁 / 迈克尔·马德森 / 朱莉·德赖弗斯 / 栗山千明 / 千叶真一 / 刘家辉 / 美国 / 昆汀·塔伦蒂诺 / 111分钟 / 杀死比尔 / 动作 / 犯罪 / 惊悚 / 昆汀·塔伦蒂诺 Quentin Tarantino / 乌玛·瑟曼 Uma Thurman / 英语 / 日语 / 法语",
   "rating": 5,
-  "markedAt": "2022-09-14",
+  "markedAt": "2022-09-14 01:07:27",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291580/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0266697/"
     }
   ]
 }

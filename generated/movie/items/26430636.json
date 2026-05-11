@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26430636",
-  "title": "狂暴巨兽 Rampage",
-  "originalTitle": "(2018)",
+  "title": "狂暴巨兽",
+  "originalTitle": "Rampage / 末日困兽战(港) / 毁灭大作战(台)",
   "year": "2018",
   "coverPath": "covers/movie/26430636.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516079193.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26430636",
   "listSummary": "2018-04-13(美国) / 2018-04-13(中国大陆) / 道恩·强森 / 娜奥米·哈里斯 / 杰弗里·迪恩·摩根 / 玛琳·阿克曼 / 杰克·莱西 / 乔·曼根尼罗 / 玛丽·谢尔顿 / P·J·伯恩 / 德米特里斯·格罗斯 / 杰克·奎德 / 美国 / 布拉德·佩顿 / 107分钟 / 狂暴巨兽 / 动作 / 科幻 / 冒险 / 瑞安·恩格尔 Ryan Engle / 卡尔顿·库斯 Carlton Cuse / 莱恩·康道尔 Ryan Condal / 亚当·希泰凯尔 Adam Sztykiel / 英语",
   "rating": 2,
-  "markedAt": "2018-07-21",
+  "markedAt": "2018-07-21 18:38:36",
   "estimatedMarkedAtRange": null,
   "comment": "美国人真的，别拍怪兽电影了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26430636/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2231461/"
     }
   ]
 }

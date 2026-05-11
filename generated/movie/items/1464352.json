@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1464352",
-  "title": "宫本武藏 宮本武蔵",
-  "originalTitle": "(1961)",
+  "title": "宫本武藏",
+  "originalTitle": "宮本武蔵 / Zen and Sword / 宫本武藏",
   "year": "1961",
   "coverPath": "covers/movie/1464352.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2634583662.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1464352",
   "listSummary": "1961-05-27 / 中村锦之助 / 木村功 / 入江若叶 / 浪花千荣子 / 木暮实千代 / 加贺邦男 / 三国连太郎 / 丘里美 / 宫口精二 / 赤木春惠 / 日本 / 内田吐梦 / 110分钟 / 宫本武藏 / 剧情 / 传记 / 动作 / 铃木尚之 Naoyuki Suzuki / 成沢昌茂 / 日语",
   "rating": 5,
-  "markedAt": "2021-06-17",
+  "markedAt": "2021-06-17 12:24:00",
   "estimatedMarkedAtRange": null,
   "comment": "禅意到底",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1464352/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0055188/"
     }
   ]
 }

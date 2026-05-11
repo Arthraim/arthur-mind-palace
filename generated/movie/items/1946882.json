@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1946882",
-  "title": "007：大破量子危机 Quantum of Solace",
-  "originalTitle": "(2008)",
+  "title": "007：大破量子危机",
+  "originalTitle": "Quantum of Solace / 007系列22：大破量子危机 / 007：量子危机(台)",
   "year": "2008",
   "coverPath": "covers/movie/1946882.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1765998673.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1946882",
   "listSummary": "2008-10-31(英国) / 2008-11-05(中国大陆) / 2008-11-14(美国) / 丹尼尔·克雷格 / 欧嘉·柯瑞兰寇 / 马修·阿马立克 / 朱迪·丹奇 / 吉安卡罗·吉安尼尼 / 杰玛·阿特登 / 杰弗里·怀特 / 大卫·哈伯 / 加斯帕·克里斯滕森 / 安纳托·陶布曼 / 英国 / 美国 / 马克·福斯特 / 106分钟 / 007：大破量子危机 / 动作 / 悬疑 / 惊悚 / 冒险 / 保罗·哈吉斯 Paul Haggis / 尼尔·珀维斯 Neal Purvis / 罗伯特·韦德 Robert Wade / 英语 / 西班牙语 / 意大利语 / 法语 / 瑞士德语 / 德语",
   "rating": 3,
-  "markedAt": "2021-10-22",
+  "markedAt": "2021-10-22 01:59:47",
   "estimatedMarkedAtRange": null,
   "comment": "算是个重启后不错的续集，可惜个人觉得好看的点都是围绕第一部展开的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1946882/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0830515/"
     }
   ]
 }

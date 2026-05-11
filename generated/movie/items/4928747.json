@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4928747",
-  "title": "灌篮高手 剧场版1 スラムダンク",
-  "originalTitle": "(1994)",
+  "title": "灌篮高手 剧场版1",
+  "originalTitle": "スラムダンク / SLAM DUNK / 剧场版1：樱木花道VS小田",
   "year": "1994",
   "coverPath": "covers/movie/4928747.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2171385213.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4928747",
   "listSummary": "1994-03-12(日本) / 日本 / 西泽信孝 / 30分钟 / 灌篮高手 剧场版1 / 剧情 / 动画 / 运动 / 井上雄彦 Inoue Takehiko / 日语",
   "rating": 5,
-  "markedAt": "2023-03-13",
+  "markedAt": "2023-03-13 09:36:25",
   "estimatedMarkedAtRange": null,
   "comment": "喜欢这个切面，樱木对篮球的热爱得到了尊重的故事",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4928747/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4086026/"
     }
   ]
 }

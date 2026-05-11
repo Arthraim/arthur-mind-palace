@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26792305",
   "title": "超级少女 第二季",
-  "originalTitle": "Supergirl Season 2",
+  "originalTitle": "Supergirl Season 2 / 超级女孩 / 女超人",
   "year": "2016",
   "coverPath": "covers/movie/26792305.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377084620.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26792305",
   "listSummary": "2016-10-10(美国) / 梅莉莎·班诺伊 / 泰勒·霍奇林 / 凯乐·利 / 大卫·哈雷伍德 / 麦卡德·布鲁克斯 / 杰瑞米·乔丹 / 克里斯·伍德 / 卡莉斯塔·弗洛克哈特 / 凯蒂·麦克格雷斯 / 布兰达·斯特朗 / 美国 / 格伦·温特 / 拉里·邓 / 米利塞特·谢尔顿 / 超级少女 / 44分钟 / 超级少女 / 动作 / 科幻 / 冒险 / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster / 英语",
   "rating": 4,
-  "markedAt": "2017-09-22",
+  "markedAt": "2017-09-22 02:11:54",
   "estimatedMarkedAtRange": null,
   "comment": "心疼以前的 Clark 和 Loise 的演员",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26792305/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5716756/"
     }
   ]
 }

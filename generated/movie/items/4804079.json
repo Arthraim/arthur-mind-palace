@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4804079",
-  "title": "生活大爆炸 第四季 The Big Bang Theory Season 4",
-  "originalTitle": "(2010)",
+  "title": "生活大爆炸 第四季",
+  "originalTitle": "The Big Bang Theory Season 4 / 天才也性感 第四季 / 天才理论传 第四季",
   "year": "2010",
   "coverPath": "covers/movie/4804079.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p607743654.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4804079/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1632224/"
     }
   ]
 }

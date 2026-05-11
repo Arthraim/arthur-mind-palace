@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4305436",
-  "title": "志明与春娇 志明與春嬌",
-  "originalTitle": "(2010)",
+  "title": "志明与春娇",
+  "originalTitle": "志明與春嬌 / 谈恋爱 / Love in a Puff",
   "year": "2010",
   "coverPath": "covers/movie/4305436.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1456854668.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4305436",
   "listSummary": "2010-03-25(中国香港) / 2010-06-18(中国大陆) / 杨千嬅 / 余文乐 / 黄德斌 / 陈逸宁 / 谷祖琳 / 司徒慧焯 / 谷德昭 / 张达明 / 方皓玟 / 林兆霞 / 中国香港 / www.mediaasia.com/loveinapuff / 彭浩翔 / 102分钟 / 志明与春娇 / 喜剧 / 剧情 / 爱情 / 麦曦茵 Heiward Mak / 彭浩翔 Ho-Cheung Pang / 粤语",
   "rating": 4,
-  "markedAt": "2020-04-12",
+  "markedAt": "2020-04-12 08:04:56",
   "estimatedMarkedAtRange": null,
   "comment": "想试一支绿色Lucky Strike😬",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4305436/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1602479/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1296693",
   "title": "醉拳",
-  "originalTitle": "(1978)",
+  "originalTitle": "Drunken Monkey in the Tiger's Eyes / Drunken Master",
   "year": "1978",
   "coverPath": "covers/movie/1296693.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1387691770.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1296693",
   "listSummary": "1978-10-05 / 成龙 / 黄正利 / 石天 / 罗强 / 何天诚 / 唐晶 / 谭宝 / 王憾尘 / 李春华 / 蔡晖 / 中国香港 / 袁和平 / 111 分钟 / 喜剧 / 动作 / 袁和平 Woo-ping Yuen / 萧龙 / 粤语",
   "rating": 4,
-  "markedAt": "2018-08-10",
+  "markedAt": "2018-08-10 09:41:08",
   "estimatedMarkedAtRange": null,
   "comment": "经典 简单粗暴",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1296693/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0080179/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26213252",
-  "title": "惊奇队长 Captain Marvel",
-  "originalTitle": "(2019)",
+  "title": "惊奇队长",
+  "originalTitle": "Captain Marvel / Marvel队长(港) / 漫威队长",
   "year": "2019",
   "coverPath": "covers/movie/26213252.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546360443.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26213252",
   "listSummary": "2019-03-08(美国) / 2019-03-08(中国大陆) / 布丽·拉尔森 / 裘德·洛 / 塞缪尔·杰克逊 / 本·门德尔森 / 安妮特·贝宁 / 麦肯娜·格瑞丝 / 克拉克·格雷格 / 嘉玛·陈 / 李·佩斯 / 杰曼·翰苏 / 美国 / 澳大利亚 / www.marvel.com/captainmarvel/ / 安娜·波顿 / 瑞安·弗雷克 / 124分钟 / 惊奇队长 / 动作 / 科幻 / 冒险 / 安娜·波顿 Anna Boden / 瑞安·弗雷克 Ryan Fleck / 吉内瓦·德沃莱特-罗宾森 Geneva Dworet-Robertson / 尼科尔·帕尔曼 Nicole Perlman / 梅格·勒福夫 Meg LeFauve / 英语",
   "rating": 3,
-  "markedAt": "2019-07-10",
+  "markedAt": "2019-07-10 14:17:08",
   "estimatedMarkedAtRange": null,
   "comment": "还挺克制，没什么特别的惊喜，一个正常（略显乏味）的英雄起源故事",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26213252/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4154664/"
     }
   ]
 }

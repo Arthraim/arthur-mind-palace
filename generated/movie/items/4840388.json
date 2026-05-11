@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "4840388",
   "title": "新喜剧之王",
-  "originalTitle": "(2019)",
+  "originalTitle": "喜剧之王2 / D计划",
   "year": "2019",
   "coverPath": "covers/movie/4840388.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555440969.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4840388",
   "listSummary": "2019-02-05(中国大陆) / 王宝强 / 鄂靖文 / 张全蛋 / 景如洋 / 张琪 / 袁兴哲 / 田启文 / 黄骁鹏 / 蔡哲睿 / 苗溢伦 / 中国大陆 / 中国香港 / 周星驰 / 邱礼涛 / 肖鹤 / 黄骁鹏 / 91分钟 / 剧情 / 喜剧 / 周星驰 Stephen Chow / 江玉仪 Ivy Kong / 李思臻 Kelvin Lee / 赵博君 Bojun Zhao / 汉语普通话 / 粤语",
   "rating": 2,
-  "markedAt": "2022-09-14",
+  "markedAt": "2022-09-14 00:44:22",
   "estimatedMarkedAtRange": null,
   "comment": "你对得起尹天仇吗",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4840388/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9368628/"
     }
   ]
 }

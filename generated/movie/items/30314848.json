@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30314848",
-  "title": "瞬息全宇宙 Everything Everywhere All at Once",
-  "originalTitle": "(2022)",
+  "title": "瞬息全宇宙",
+  "originalTitle": "Everything Everywhere All at Once / 妈的多重宇宙(台) / 奇异女侠玩救宇宙(港)",
   "year": "2022",
   "coverPath": "covers/movie/30314848.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869765076.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30314848",
   "listSummary": "2022-03-11(西南偏南电影节) / 2022-03-25(美国) / 杨紫琼 / 许玮伦 / 关继威 / 吴汉章 / 杰米·李·柯蒂斯 / 塔丽·梅德尔 / 珍妮·斯蕾特 / 岑勇康 / 比夫·威夫 / 黎唯 / 美国 / 关家永 / 丹尼尔·施纳特 / 139分钟 / 瞬息全宇宙 / 喜剧 / 奇幻 / 冒险 / 丹·关 Dan Kwan / 丹尼尔·施纳特 Daniel Scheinert / 英语 / 汉语普通话 / 粤语",
   "rating": 4,
-  "markedAt": "2022-05-24",
+  "markedAt": "2022-05-24 19:40:20",
   "estimatedMarkedAtRange": null,
   "comment": "生命的意义",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30314848/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6710474/"
     }
   ]
 }

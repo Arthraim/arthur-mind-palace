@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26990609",
-  "title": "华盛顿邮报 The Post",
-  "originalTitle": "(2017)",
+  "title": "华盛顿邮报",
+  "originalTitle": "The Post / 战云密报(港) / 邮报：密战(台)",
   "year": "2017",
   "coverPath": "covers/movie/26990609.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505577378.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26990609",
   "listSummary": "2017-12-22(美国点映) / 2018-01-12(美国) / 梅丽尔·斯特里普 / 汤姆·汉克斯 / 莎拉·保罗森 / 鲍勃·奥登科克 / 崔西·莱茨 / 布莱德利·惠特福德 / 布鲁斯·格林伍德 / 马修·瑞斯 / 爱丽森·布里 / 凯莉·库恩 / 美国 / 英国 / www.foxmovies.com/movies/the-post / 史蒂文·斯皮尔伯格 / 116分钟 / 华盛顿邮报 / 剧情 / 传记 / 历史 / 丽兹·汉娜 Liz Hannah / 乔希·辛格 Josh Singer / 英语",
   "rating": 5,
-  "markedAt": "2018-06-03",
+  "markedAt": "2018-06-03 14:59:43",
   "estimatedMarkedAtRange": null,
   "comment": "敬畏",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26990609/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6294822/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1301578",
-  "title": "十一罗汉 Ocean's Eleven",
-  "originalTitle": "(2001)",
+  "title": "十一罗汉",
+  "originalTitle": "Ocean's Eleven / 瞒天过海(台) / 盗海豪情(港)",
   "year": "2001",
   "coverPath": "covers/movie/1301578.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1973370351.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1301578",
   "listSummary": "2001-12-07(美国) / 乔治·克鲁尼 / 布拉德·皮特 / 马特·达蒙 / 朱莉娅·罗伯茨 / 安迪·加西亚 / 卡西·阿弗莱克 / 伯尼·麦克 / 秦少波 / 唐·钱德尔 / 斯科特·凯恩 / 美国 / 史蒂文·索德伯格 / 116 分钟 / 十一罗汉 / 犯罪 / 惊悚 / Ted Griffin / Harry Brown / Charles Lederer / 英语 / 意大利语 / 粤语",
   "rating": 4,
-  "markedAt": "2018-07-01",
+  "markedAt": "2018-07-01 10:32:30",
   "estimatedMarkedAtRange": null,
   "comment": "读书时候看过，重温一下，好看",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1301578/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0240772/"
     }
   ]
 }

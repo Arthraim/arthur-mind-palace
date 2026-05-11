@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "11584411",
-  "title": "广告狂人 第六季 Mad Men Season 6",
-  "originalTitle": "(2013)",
+  "title": "广告狂人 第六季",
+  "originalTitle": "Mad Men Season 6 / 麦迪逊狂人 第六季",
   "year": "2013",
   "coverPath": "covers/movie/11584411.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1895426415.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/11584411",
   "listSummary": "2013-04-07(美国) / 乔恩·哈姆 / 伊丽莎白·莫斯 / 文森特·卡塞瑟 / 詹纽瑞·琼斯 / 克里斯蒂娜·亨德里克斯 / 亚伦·斯塔顿 / 里奇·索莫 / 约翰·斯拉特里 / 琪兰·席普卡 / 杰西卡·帕尔 / 美国 / 广告狂人 / 45分钟 / 广告狂人 / 剧情 / 马修·维纳 Matthew Weiner / 英语",
   "rating": 5,
-  "markedAt": "2020-06-14",
+  "markedAt": "2020-06-14 03:03:26",
   "estimatedMarkedAtRange": null,
   "comment": "这一季的外遇和医生打针那段太强了……",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/11584411/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2470504/"
     }
   ]
 }

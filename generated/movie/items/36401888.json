@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36401888",
   "title": "谈判专家",
-  "originalTitle": "(2024)",
+  "originalTitle": "谈判 / 王牌对王牌",
   "year": "2024",
   "coverPath": "covers/movie/36401888.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2908537625.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36401888",
   "listSummary": "2024-05-31(大规模点映) / 2024-06-08(中国大陆) / 刘青云 / 吴镇宇 / 刘德华 / 苗侨伟 / 姜皓文 / 彭秀慧 / 周文健 / 颜卓灵 / 杨伟伦 / 郑则仕 / 中国大陆 / 中国香港 / 邱礼涛 / 2024-05-24 20:30 / 120分钟 / 剧情 / 犯罪 / 邱礼涛 Herman Yau / 汉语普通话 / 粤语",
   "rating": 3,
-  "markedAt": "2024-07-22",
+  "markedAt": "2024-07-22 19:37:25",
   "estimatedMarkedAtRange": null,
   "comment": "照着拍有点没意思",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36401888/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32338725/"
     }
   ]
 }

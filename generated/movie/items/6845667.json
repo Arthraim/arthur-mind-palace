@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "6845667",
-  "title": "秘密特工 The Man from U.N.C.L.E.",
-  "originalTitle": "(2015)",
+  "title": "秘密特工",
+  "originalTitle": "The Man from U.N.C.L.E. / 特务型战(港) / 绅士密令(台)",
   "year": "2015",
   "coverPath": "covers/movie/6845667.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2251290212.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/6845667",
   "listSummary": "2015-08-14(美国) / 2015-08-14(英国) / 亨利·卡维尔 / 艾米·汉莫 / 艾丽西亚·维坎德 / 西尔维斯特·格罗特 / 休·格兰特 / 杰瑞德·哈里斯 / 伊丽莎白·德比齐 / 克里斯蒂安·贝克尔 / 豪尔赫·莱昂·马丁内斯 / 卢卡·卡尔瓦尼 / 美国 / 英国 / 盖·里奇 / 116分钟 / 秘密特工 / 喜剧 / 动作 / 冒险 / 盖·里奇 Guy Ritchie / 莱昂内尔·威格拉姆 Lionel Wigram / 杰夫·克利曼 Jeff Kleeman / 大卫·威尔森 David Wilson / 萨姆·罗尔夫 Sam Rolfe / 英语 / 俄语 / 德语 / 意大利语",
   "rating": 4,
-  "markedAt": "2022-06-19",
+  "markedAt": "2022-06-19 09:55:24",
   "estimatedMarkedAtRange": null,
   "comment": "这小俩口太逗了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/6845667/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1638355/"
     }
   ]
 }

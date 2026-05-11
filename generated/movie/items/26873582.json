@@ -1,16 +1,16 @@
 {
   "kind": "movie",
   "sourceId": "26873582",
-  "title": "侏罗纪世界3 Jurassic World: Dominion",
-  "originalTitle": "(2022)",
+  "title": "侏罗纪世界3",
+  "originalTitle": "Jurassic World: Dominion / 侏罗纪世界3：统治 / 侏罗纪世界：统治霸权(港)",
   "year": "2022",
   "coverPath": "covers/movie/26873582.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2873135278.webp",
   "doubanUrl": "https://movie.douban.com/subject/26873582/",
   "detailUrl": "/movie/26873582",
-  "listSummary": "2022-06-01(韩国) / 2022-06-10(美国/中国大陆) / 克里斯·帕拉特 / 布莱丝·达拉斯·霍华德 / 劳拉·邓恩 / 山姆·尼尔 / 杰夫·高布伦 / 德汪达·怀斯 / 马莫多·阿西 / 伊莎贝拉·瑟蒙 / 坎贝尔·斯科特 / 黄荣亮 / 美国 / 马耳他 / 科林·特莱沃若 / 146分钟 / 147分钟(中国大陆) / 161分钟(加长版) / 侏罗纪世界3 / 动作 / 科幻 / 冒险 / 艾米丽·卡迈克尔 Emily Carmichael / 科林·特莱沃若 Colin Trevorrow / 德里克·康纳利 Derek Connolly / 迈克尔·克莱顿 Michael Crichton / 英语",
+  "listSummary": "2022-06-01(韩国) / 2022-06-10(美国/中国大陆) / 克里斯·帕拉特 / 布莱丝·达拉斯·霍华德 / 劳拉·邓恩 / 山姆·尼尔 / 杰夫·高布伦 / 德汪达·怀斯 / 马莫多·阿西 / 伊莎贝拉·瑟蒙 / 坎贝尔·斯科特 / 黄荣亮 / 美国 / 马耳他 / 科林·特莱沃若 / 147分钟 / 161分钟(加长版) / 侏罗纪世界3 / 动作 / 科幻 / 冒险 / 艾米丽·卡迈克尔 Emily Carmichael / 科林·特莱沃若 Colin Trevorrow / 德里克·康纳利 Derek Connolly / 迈克尔·克莱顿 Michael Crichton / 英语",
   "rating": 2,
-  "markedAt": "2022-06-15",
+  "markedAt": "2022-06-15 23:43:30",
   "estimatedMarkedAtRange": null,
   "comment": "概括所有侏罗纪电影就是，本来计划的好好的，结果又崩坏了。说起来那个飞行员，删掉对剧情有啥本质影响吗……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26873582/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8041270/"
     }
   ]
 }

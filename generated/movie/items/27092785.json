@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27092785",
   "title": "李茶的姑妈",
-  "originalTitle": "(2018)",
+  "originalTitle": "Hello, Mrs. Money",
   "year": "2018",
   "coverPath": "covers/movie/27092785.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533384240.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27092785",
   "listSummary": "2018-09-30(中国大陆) / 黄才伦 / 艾伦 / 宋阳 / 卢靖姗 / 沈腾 / 韩彦博 / 陈冰 / 张镨冉 / 王宇 / 赵雪 / 中国大陆 / 吴昱翰 / 113分钟 / 喜剧 / 钱晨光 Chenguang Qian / 吴瑾蓉 Jinrong Wu / 汉语普通话",
   "rating": 2,
-  "markedAt": "2019-04-25",
+  "markedAt": "2019-04-25 16:52:12",
   "estimatedMarkedAtRange": null,
   "comment": "大概就比网大好一点点吧",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27092785/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8299800/"
     }
   ]
 }

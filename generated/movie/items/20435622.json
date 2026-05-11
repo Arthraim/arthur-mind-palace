@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "20435622",
-  "title": "环太平洋：雷霆再起 Pacific Rim: Uprising",
-  "originalTitle": "(2018)",
+  "title": "环太平洋：雷霆再起",
+  "originalTitle": "Pacific Rim: Uprising / 环太平洋2 / 环太平洋2：雷霆再起",
   "year": "2018",
   "coverPath": "covers/movie/20435622.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/20435622",
   "listSummary": "2018-03-23(美国) / 2018-03-23(中国大陆) / 约翰·博耶加 / 卡莉·史派妮 / 斯科特·伊斯特伍德 / 景甜 / 伯恩·戈曼 / 查理·戴 / 阿德里娅·阿霍纳 / 张晋 / 菊地凛子 / 卡兰·布拉尔 / 英国 / 中国大陆 / 日本 / 美国 / 墨西哥 / www.pacificrimmovie.com / 斯蒂文·S·迪奈特 / 111分钟 / 环太平洋：雷霆再起 / 动作 / 科幻 / 冒险 / 斯蒂文·S·迪奈特 Steven S. DeKnight / 艾米丽·卡迈克尔 Emily Carmichael / 吉拉·斯奈德 Kira Snyder / T·S·诺林 T.S. Nowlin / 特拉维斯·比彻姆 Travis Beacham / 英语 / 汉语普通话 / 俄语",
   "rating": 2,
-  "markedAt": "2018-03-26",
+  "markedAt": "2018-03-26 00:43:53",
   "estimatedMarkedAtRange": null,
   "comment": "根本不懂怪兽片的精髓。。。瞎搞",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/20435622/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2557478/"
     }
   ]
 }

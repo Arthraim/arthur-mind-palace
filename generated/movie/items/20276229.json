@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "20276229",
-  "title": "007：无暇赴死 No Time to Die",
-  "originalTitle": "(2021)",
+  "title": "007：无暇赴死",
+  "originalTitle": "No Time to Die / 007：生死有时(港) / 007：生死交战(台)",
   "year": "2021",
   "coverPath": "covers/movie/20276229.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2707553644.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/20276229/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2382320/"
     }
   ]
 }

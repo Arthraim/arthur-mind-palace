@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27008551",
-  "title": "心灵猎人 第二季 Mindhunter Season 2",
-  "originalTitle": "(2019)",
+  "title": "心灵猎人 第二季",
+  "originalTitle": "Mindhunter Season 2 / 破案神探(港/台) / 心理神探",
   "year": "2019",
   "coverPath": "covers/movie/27008551.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565381508.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27008551",
   "listSummary": "2019-08-16(美国) / 乔纳森·格罗夫 / 霍特·麦克卡兰尼 / 安娜·托芙 / 桑尼·瓦利森蒂 / 斯泰西·罗卡 / 乔·塔特尔 / 劳伦·格莱齐尔 / 迈克尔·瑟沃瑞斯 / 当·诺伍德 / 朱恩·卡里尔 / 美国 / 大卫·芬奇 / 安德鲁·多米尼克 / 卡尔·弗兰克林 / 心灵猎人 / 60分钟 / 心灵猎人 / 剧情 / 犯罪 / 惊悚 / 马克·奥尔沙克 Mark Olshaker / 乔·彭豪尔 Joe Penhall / 乔舒亚·多嫩 Joshua Donen / 柯特奈·迈尔斯 Courtenay Miles / 道格·郑 Doug Jung / 菲利普·豪泽 Phillip Howze / 杰森·约翰逊 Jason Johnson / 科林·J·卢罗 Colin J. Louro / 帕梅拉·塞德奎斯特 Pamela Cederquist / 丽兹·汉娜 Liz Hannah / 亚历克斯·梅特卡夫 Alex Metcalf / 肖恩·格兰特 Shaun Grant / 约翰·道格拉斯 John Douglas / 英语",
   "rating": 4,
-  "markedAt": "2019-09-06",
+  "markedAt": "2019-09-06 19:40:52",
   "estimatedMarkedAtRange": null,
   "comment": "后半部像是换了一部剧，也不是不好看，只不过不太一样了",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27008551/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6885982/"
     }
   ]
 }

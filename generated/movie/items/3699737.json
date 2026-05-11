@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "3699737",
   "title": "新铁血战士",
-  "originalTitle": "Predators",
+  "originalTitle": "Predators / 铁血战士S(港) / 终极战士团(台)",
   "year": "2010",
   "coverPath": "covers/movie/3699737.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2172621483.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3699737",
   "listSummary": "2010-07-09 / 阿德里安·布罗迪 / 托弗·格雷斯 / 艾莉丝·布拉加 / 沃尔顿·戈金斯 / 欧勒格·塔克塔罗夫 / 劳伦斯·菲什伯恩 / 丹尼·特雷霍 / 路易斯·小泽·张简 / 马赫沙拉·阿里 / 欧文·凯里·琼斯 / 美国 / 尼姆罗德·安陶尔 / 107分钟 / 新铁血战士 / 动作 / 冒险 / 科幻 / 惊悚 / 亚历克斯·利特瓦克 Alex Litvak / 迈克尔·芬奇 Michael Finch / 英语",
   "rating": 2,
-  "markedAt": "2018-03-04",
+  "markedAt": "2018-03-04 16:23:40",
   "estimatedMarkedAtRange": null,
   "comment": "一看标题是复数形式就觉得不妙",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3699737/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1424381/"
     }
   ]
 }

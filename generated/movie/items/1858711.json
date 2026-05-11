@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1858711",
-  "title": "玩具总动员3 Toy Story 3",
-  "originalTitle": "(2010)",
+  "title": "玩具总动员3",
+  "originalTitle": "Toy Story 3 / 反斗奇兵3(港) / 玩具的故事3",
   "year": "2010",
   "coverPath": "covers/movie/1858711.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1858711/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0435761/"
     }
   ]
 }

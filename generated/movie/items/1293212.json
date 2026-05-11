@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293212",
-  "title": "长大 Big",
-  "originalTitle": "(1988)",
+  "title": "长大",
+  "originalTitle": "Big / 飞越未来 / 飞进未来",
   "year": "1988",
   "coverPath": "covers/movie/1293212.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554096254.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293212/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0094737/"
     }
   ]
 }

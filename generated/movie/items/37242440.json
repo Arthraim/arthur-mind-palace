@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "37242440",
   "title": "惊蛰无声",
-  "originalTitle": "(2026)",
+  "originalTitle": "惊蛰 / Scare Out",
   "year": "2026",
   "coverPath": "covers/movie/37242440.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929759786.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/37242440",
   "listSummary": "2026-02-17(中国大陆) / 易烊千玺 / 朱一龙 / 宋佳 / 雷佳音 / 杨幂 / 张译 / 刘诗诗 / 刘耀文 / 林博洋 / 潘斌龙 / 中国大陆 / 张艺谋 / 104分钟 / 剧情 / 犯罪 / 陈亮 Liang Chen / 汉语普通话",
   "rating": 3,
-  "markedAt": "2026-02-19",
+  "markedAt": "2026-02-19 23:46:12",
   "estimatedMarkedAtRange": null,
   "comment": "糊涂啊，龙葵天天在家等你，怎么还想着雪见啊",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/37242440/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt36535318/"
     }
   ]
 }

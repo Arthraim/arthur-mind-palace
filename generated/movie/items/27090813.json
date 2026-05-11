@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27090813",
-  "title": "蝙蝠侠：煤气灯下的哥谭 Batman: Gotham by Gaslight",
-  "originalTitle": "(2018)",
+  "title": "蝙蝠侠：煤气灯下的哥谭",
+  "originalTitle": "Batman: Gotham by Gaslight",
   "year": "2018",
   "coverPath": "covers/movie/27090813.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508472121.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27090813",
   "listSummary": "2018-01-12(华盛顿首映) / 2018-02-06(美国) / 布鲁斯·格林伍德 / 詹妮弗·卡朋特 / 克里斯·考克斯 / 约翰·迪·马吉欧 / 大卫·福塞思 / 格蕾·德丽斯勒 / 安东尼·海德 / 鲍勃·乔尔斯 / 尤里·洛文塔尔 / 林肯·梅尔彻 / 美国 / 山姆·刘 / 78分钟 / 蝙蝠侠：煤气灯下的哥谭 / 动作 / 科幻 / 犯罪 / 动画 / 悬疑 / 詹姆斯·克里格 James Krieg / 布赖恩·奥古斯塔廷 Brian Augustyn / 迈克·米格诺拉 Mike Mignola / 鲍勃·凯恩 Bob Kane / 比尔·芬格 Bill Finger / 丹尼·奥尼尔 Denny O'Neil / 迪克·乔达诺 Dick Giordano / 英语",
   "rating": 4,
-  "markedAt": "2018-12-13",
+  "markedAt": "2018-12-13 18:14:28",
   "estimatedMarkedAtRange": null,
   "comment": "再喷一次忍者蝙蝠侠，明明带到一个冷兵器为主的时代还搞什么大机器人乱战。这一部就好多了，把蝙蝠侠放到19世纪末的美国简直不能再完美，唯一不足就是剧情把悬念藏在老爷迷最放心的人那里。",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27090813/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7167630/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292677",
-  "title": "007之黄金眼 GoldenEye",
-  "originalTitle": "(1995)",
+  "title": "007之黄金眼",
+  "originalTitle": "GoldenEye / 新铁金刚之金眼睛 / 黄金眼",
   "year": "1995",
   "coverPath": "covers/movie/1292677.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1720407604.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292677",
   "listSummary": "1995-11-21(英国) / 皮尔斯·布鲁斯南 / 肖恩·宾 / 伊莎贝拉·斯科鲁普科 / 法米克·詹森 / 乔·唐·巴克 / 朱迪·丹奇 / 罗彼·考特拉尼 / 切基·卡尤 / 高夫莱德·约翰 / 艾伦·卡明 / 英国 / 美国 / 马丁·坎贝尔 / 1995-11-13 / 130分钟 / 007之黄金眼 / 动作 / 冒险 / 惊悚 / 伊恩·弗莱明 Ian Fleming / 迈克尔·弗朗斯 Michael France / 杰弗里·凯恩 Jeffrey Caine / 布鲁斯·费尔斯坦 Bruce Feirstein / 英语 / 俄语 / 西班牙语",
   "rating": 4,
-  "markedAt": "2021-11-15",
+  "markedAt": "2021-11-15 15:08:23",
   "estimatedMarkedAtRange": null,
   "comment": "本人的007入坑作，印象里是很现代的，现在重新看还真是复古，果然充满了冷战气息",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292677/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0113189/"
     }
   ]
 }

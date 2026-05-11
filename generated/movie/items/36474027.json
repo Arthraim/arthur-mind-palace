@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36474027",
   "title": "镖人：风起大漠",
-  "originalTitle": "(2026)",
+  "originalTitle": "镖人(电影版) / 镖人",
   "year": "2026",
   "coverPath": "covers/movie/36474027.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929760596.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36474027",
   "listSummary": "2026-02-17(中国大陆) / 吴京 / 谢霆锋 / 于适 / 陈丽君 / 孙艺洲 / 此沙 / 李云霄 / 梁家辉 / 张晋 / 惠英红 / 中国大陆 / 袁和平 / 126分钟 / 动作 / 武侠 / 古装 / 俞白眉 Baimei Yu / 苏照彬 Chao-Bin Su / 陈大利 Tai-lee Chan / 杨子 Larry Yang / 汉语普通话",
   "rating": 2,
-  "markedAt": "2026-02-20",
+  "markedAt": "2026-02-20 22:35:03",
   "estimatedMarkedAtRange": null,
   "comment": "该把天下归还给天下人了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36474027/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32649961/"
     }
   ]
 }

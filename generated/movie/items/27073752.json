@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27073752",
-  "title": "神奇女侠1984 Wonder Woman 1984",
-  "originalTitle": "(2020)",
+  "title": "神奇女侠1984",
+  "originalTitle": "Wonder Woman 1984 / 神力女超人1984(台) / 神奇女侠2",
   "year": "2020",
   "coverPath": "covers/movie/27073752.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2626959989.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27073752",
   "listSummary": "2020-12-18(中国大陆) / 2020-12-25(美国) / 盖尔·加朵 / 克里斯·派恩 / 克里斯汀·韦格 / 佩德罗·帕斯卡 / 康妮·尼尔森 / 罗宾·怀特 / 莉莉·阿斯佩尔 / 加布瑞拉·王尔德 / 杜晨·科洛斯 / 琳达·卡特 / 美国 / 英国 / 西班牙 / www.wonderwoman1984.net / 派蒂·杰金斯 / 151分钟 / 神奇女侠1984 / 动作 / 奇幻 / 冒险 / 派蒂·杰金斯 Patty Jenkins / 乔夫·琼斯 Geoff Johns / 戴夫·卡拉汉姆 Dave Callaham / 英语",
   "rating": 4,
-  "markedAt": "2020-12-19",
+  "markedAt": "2020-12-19 23:39:46",
   "estimatedMarkedAtRange": null,
   "comment": "故事讲挺好，感情线也很不错（看完回来看反派变身曼达洛人，正好",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27073752/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7126948/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35076714",
-  "title": "扎克·施奈德版正义联盟 Zack Snyder's Justice League",
-  "originalTitle": "(2021)",
+  "title": "扎克·施奈德版正义联盟",
+  "originalTitle": "Zack Snyder's Justice League / 正义联盟：扎克·施耐德版 / 萨克·薛达之正义联盟(港)",
   "year": "2021",
   "coverPath": "covers/movie/35076714.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2634360592.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35076714",
   "listSummary": "2021-03-18(美国) / 2021-05-03(中国大陆网络) / 本·阿弗莱克 / 亨利·卡维尔 / 盖尔·加朵 / 杰森·莫玛 / 埃兹拉·米勒 / 雷·费舍尔 / 艾米·亚当斯 / 威廉·达福 / 杰西·艾森伯格 / 杰瑞米·艾恩斯 / 美国 / 扎克·施奈德 / 242分钟 / 扎克·施奈德版正义联盟 / 动作 / 科幻 / 奇幻 / 冒险 / 扎克·施奈德 Zack Snyder / 克里斯·特里奥 Chris Terrio / 威尔·比尔 Will Beall / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster / 英语",
   "rating": 5,
-  "markedAt": "2021-03-19",
+  "markedAt": "2021-03-19 19:28:30",
   "estimatedMarkedAtRange": null,
   "comment": "教做人",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35076714/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12361974/"
     }
   ]
 }

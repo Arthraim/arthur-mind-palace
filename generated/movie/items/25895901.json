@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "25895901",
   "title": "海街日记",
-  "originalTitle": "海街diary",
+  "originalTitle": "海街diary / 海街女孩日记(港) / Kamakura Diary",
   "year": "2015",
   "coverPath": "covers/movie/25895901.jpg",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25895901",
   "listSummary": "2015-05-14(戛纳电影节) / 2015-06-13(日本) / 绫濑遥 / 长泽雅美 / 夏帆 / 广濑铃 / 大竹忍 / 堤真一 / 加濑亮 / 风吹淳 / 中川雅也 / 前田旺志郎 / 日本 / umimachi.gaga.ne.jp / 是枝裕和 / 127分钟 / 海街日记 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 吉田秋生 Akimi Yoshida / 日语",
   "rating": 5,
-  "markedAt": "2026-04-07",
+  "markedAt": "2026-04-07 11:14:34",
   "estimatedMarkedAtRange": null,
   "comment": "超级温暖的童话，不管是什么样的价值冲突，最终都被美美地包裹住了。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25895901/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3756788/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36208094",
   "title": "第二十条",
-  "originalTitle": "(2024)",
+  "originalTitle": "正当防卫 / Article 20",
   "year": "2024",
   "coverPath": "covers/movie/36208094.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903145026.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36208094",
   "listSummary": "2024-02-10(中国大陆) / 雷佳音 / 马丽 / 赵丽颖 / 高叶 / 刘耀文 / 王骁 / 陈明昊 / 潘斌龙 / 张译 / 范伟 / 中国大陆 / 张艺谋 / 141分钟 / 剧情 / 喜剧 / 家庭 / 李萌 Meng Li / 张艺谋 Yimou Zhang / 汉语普通话 / 中国手语",
   "rating": 3,
-  "markedAt": "2024-06-16",
+  "markedAt": "2024-06-16 03:28:35",
   "estimatedMarkedAtRange": null,
   "comment": "喜剧部分满分，爽片和颂歌部分0分",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36208094/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt28258332/"
     }
   ]
 }

@@ -16,7 +16,7 @@
       "detailUrl": "/game/26721832",
       "listSummary": "DS / 角色扮演 / 冒险 / 策略 / 2010-09-18 2026-01-17",
       "rating": 5,
-      "markedAt": "2026-01-17",
+      "markedAt": "2026-01-17 21:46:12",
       "estimatedMarkedAtRange": null,
       "comment": "我愿称之为最好的宝可梦游戏，有限的3D机能带来的是最好的美术效果。游戏剧情的核心冲突来自于对宝可梦和人类之间关系的不同理解，没有简单的正邪对决。3D的场景惊喜非常多，季节的更迭让整个合众地区被探索的价值大大提高。宝可梦的设计非常克制，有突破但不离谱。前玩过红绿、宝石、钻石，后玩过、XY、太阳，简单判决，都不如黑白。（这次在RGCubeXX上通关的）"
     },
@@ -31,7 +31,7 @@
       "detailUrl": "/game/25931998",
       "listSummary": "PC / MAC / PS5 / XSX / NS 2 / SD / PS4 / XONE / 第一人称射击 / 角色扮演 / 冒险 / 动作 / 2020-12-10 / 2020-12-10 2025-11-03",
       "rating": 4,
-      "markedAt": "2025-11-03",
+      "markedAt": "2025-11-03 00:13:47",
       "estimatedMarkedAtRange": null,
       "comment": "完全最终我内心的选择，最后是太阳结局，感觉也几乎会选星星结局，很犹豫。DLC也通关了，DLC的演出太惊人了，完全上了一个档次。整个游戏画面和文本，有点美学有点哲学，也有点做作。"
     },
@@ -46,7 +46,7 @@
       "detailUrl": "/game/26362172",
       "listSummary": "PC / PS5 / XSX / NS / PS4 / XONE / 模拟 / 冒险 / 2019-05-29 / 2019-05-29 2025-08-11",
       "rating": 5,
-      "markedAt": "2025-08-11",
+      "markedAt": "2025-08-11 00:12:27",
       "estimatedMarkedAtRange": null,
       "comment": "不能放过任何一条线索，最后点连成线"
     },
@@ -61,7 +61,7 @@
       "detailUrl": "/game/35493857",
       "listSummary": "PC / MAC / IPHN / IPAD / PS5 / XSX / 射击 / 冒险 / 动作 / 2021-09-24 / 2021-09-24 2025-07-09",
       "rating": 5,
-      "markedAt": "2025-07-09",
+      "markedAt": "2025-07-09 02:00:43",
       "estimatedMarkedAtRange": null,
       "comment": "历史第一游戏，真正的第九艺术，绝美作品"
     },
@@ -76,7 +76,7 @@
       "detailUrl": "/game/10764663",
       "listSummary": "PC / XSX / XONE / PS3 / X360 / 射击 / 冒险 / 动作 / 2010-08-24 2025-06-16",
       "rating": 3,
-      "markedAt": "2025-06-16",
+      "markedAt": "2025-06-16 04:17:44",
       "estimatedMarkedAtRange": null,
       "comment": "剧情设计、叙事结构和游戏体验都远不如1代（终极版），最大惊喜是和1代的剧情连线，但那个安排其实也有点太容易了。"
     },
@@ -91,7 +91,7 @@
       "detailUrl": "/game/35098252",
       "listSummary": "PC / XSX / PS4 / XONE / 射击 / 冒险 / 动作 / 2020-09-25 / 2020-09-25 2025-06-10",
       "rating": 4,
-      "markedAt": "2025-06-10",
+      "markedAt": "2025-06-10 00:42:25",
       "estimatedMarkedAtRange": null,
       "comment": "好久没有通关一个游戏了，感谢steamdeck。剧情绝对是一个（老套）但上乘的电影剧本"
     },
@@ -106,9 +106,24 @@
       "detailUrl": "/game/35483415",
       "listSummary": "PC / MAC / IPHN / IPAD / ANDR / NS / 益智 / 2022-11-02 / 2022-11-02 2023-08-15",
       "rating": 4,
-      "markedAt": "2023-08-15",
+      "markedAt": "2023-08-15 09:01:00",
       "estimatedMarkedAtRange": null,
       "comment": "在朋友百般安利下终于和她一起玩了这一作，第一次玩Rusty lake，对沟通的要求非常高，要沟通清楚状况需要不少默契"
+    },
+    {
+      "kind": "game",
+      "sourceId": "10752342",
+      "title": "最终幻想：纷争 Dissidia: Final Fantasy",
+      "originalTitle": null,
+      "year": null,
+      "coverPath": "covers/game/10752342.jpg",
+      "coverUrl": "https://img9.doubanio.com/lpic/s28268906.jpg",
+      "detailUrl": "/game/10752342",
+      "listSummary": "PSP / 格斗 / 角色扮演 / 动作 / 2009-08-25 2021-03-18 标签: 日本 PSP ACT",
+      "rating": 3,
+      "markedAt": "2021-03-18 14:59:29",
+      "estimatedMarkedAtRange": null,
+      "comment": null
     },
     {
       "kind": "game",
@@ -217,21 +232,6 @@
     },
     {
       "kind": "game",
-      "sourceId": "10752342",
-      "title": "最终幻想：纷争 Dissidia: Final Fantasy",
-      "originalTitle": null,
-      "year": null,
-      "coverPath": "covers/game/10752342.jpg",
-      "coverUrl": "https://img9.doubanio.com/lpic/s28268906.jpg",
-      "detailUrl": "/game/10752342",
-      "listSummary": "PSP / 格斗 / 角色扮演 / 动作 / 2009-08-25 2021-03-18 标签: 日本 PSP ACT",
-      "rating": 3,
-      "markedAt": "2021-03-18",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "game",
       "sourceId": "10734094",
       "title": "最终幻想7 核心危机 CRISIS CORE: FINAL FANTASY VII",
       "originalTitle": null,
@@ -256,7 +256,7 @@
       "detailUrl": "/game/30355289",
       "listSummary": "PC / MAC / LIN / IPHN / IPAD / ANDR / 冒险 / 2019-05-28 2019-08-15 标签: indie 魔性 奇葩",
       "rating": 5,
-      "markedAt": "2019-08-15",
+      "markedAt": "2019-08-15 20:02:58",
       "estimatedMarkedAtRange": null,
       "comment": "画面和交互更加震撼……"
     },
@@ -271,7 +271,7 @@
       "detailUrl": "/game/26368558",
       "listSummary": "PC / MAC / IPHN / IPAD / ANDR / 益智 / 策略 / 2015-02-06 2019-08-15 标签: 奇葩 魔性 indie",
       "rating": 5,
-      "markedAt": "2019-08-15",
+      "markedAt": "2019-08-15 20:02:21",
       "estimatedMarkedAtRange": null,
       "comment": "这也太诡异了"
     }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35580154",
-  "title": "家有鲨鱼狗 Sharkdog",
-  "originalTitle": "(2021)",
+  "title": "家有鲨鱼狗",
+  "originalTitle": "Sharkdog",
   "year": "2021",
   "coverPath": "covers/movie/35580154.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2680652776.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35580154",
   "listSummary": "2021-09-03(美国) / 迪·布莱德利·贝克 / 诺亚 / 朱迪·爱丽丝·李 / 美国 / 家有鲨鱼狗 / 25分钟 / 家有鲨鱼狗 / 动画 / 冒险 / 短片 / Andy Potter / Jacinth Tan / Ed Valentine / 英语",
   "rating": 5,
-  "markedAt": "2023-05-02",
+  "markedAt": "2023-05-02 00:46:15",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35580154/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12211696/"
     }
   ]
 }

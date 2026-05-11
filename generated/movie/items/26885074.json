@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26885074",
-  "title": "叶问4：完结篇 葉問4：完結篇",
-  "originalTitle": "(2019)",
+  "title": "叶问4：完结篇",
+  "originalTitle": "葉問4：完結篇 / 叶问4 / Ip M4n",
   "year": "2019",
   "coverPath": "covers/movie/26885074.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577578115.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26885074",
   "listSummary": "2019-12-20(中国大陆) / 甄子丹 / 吴樾 / 吴建豪 / 斯科特·阿金斯 / 李宛妲 / 郑则仕 / 陈国坤 / 敖嘉年 / 高战 / 叶禾 / 中国大陆 / 中国香港 / 叶伟信 / 107分钟 / 叶问4：完结篇 / 剧情 / 动作 / 黄子桓 Edmond Wong / 深泽寛 / 陈大利 Tai-lee Chan / 梁礼彦 Jill Leung Lai-yin / 粤语 / 英语 / 汉语普通话",
   "rating": 2,
-  "markedAt": "2020-10-03",
+  "markedAt": "2020-10-03 00:23:39",
   "estimatedMarkedAtRange": null,
   "comment": "打的是好看的，别的我不骂了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26885074/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2076298/"
     }
   ]
 }

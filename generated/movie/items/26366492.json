@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26366492",
-  "title": "硅谷 第三季 Silicon Valley Season 3",
-  "originalTitle": "(2016)",
+  "title": "硅谷 第三季",
+  "originalTitle": "Silicon Valley Season 3",
   "year": "2016",
   "coverPath": "covers/movie/26366492.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2326045385.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26366492",
   "listSummary": "2016-04-24(美国) / 托马斯·米德蒂奇 / T·J·米勒 / 马丁·斯塔尔 / 库梅尔·南贾尼 / 扎克·伍兹 / 乔什·布雷纳 / 阿曼达·克鲁 / 马特·罗斯 / 欧阳万成 / 苏珊·克莱尔 / 美国 / www.hbo.com/silicon-valley / 迈克·乔吉 / 查理·麦克道威尔 / 埃里克·阿佩尔 / 詹米·巴比特 / 亚力克·博格 / 硅谷 / 30分钟 / 硅谷 / 喜剧 / 迈克·乔吉 Mike Judge / 约翰·奥茨舒勒 John Altschuler / 戴夫·卡林斯基 Dave Krinsky / 英语",
   "rating": 5,
-  "markedAt": "2018-12-11",
+  "markedAt": "2018-12-11 21:24:41",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26366492/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4633480/"
     }
   ]
 }

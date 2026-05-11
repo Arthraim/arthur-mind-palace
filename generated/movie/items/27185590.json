@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27185590",
-  "title": "纸牌屋 第六季 House of Cards Season 6",
-  "originalTitle": "(2018)",
+  "title": "纸牌屋 第六季",
+  "originalTitle": "House of Cards Season 6 / 纸牌屋最终季 / 众议院要人",
   "year": "2018",
   "coverPath": "covers/movie/27185590.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530356844.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27185590",
   "listSummary": "2018-11-02(美国) / 罗宾·怀特 / 迈克尔·凯利 / 德里克·塞西尔 / 杰妮·阿特金森 / 波利斯·麦戈法 / 保罗·斯帕克斯 / 杰里米·S·霍尔姆 / 妮妮·勒惠恩 / 坎贝尔·斯科特 / 沙基纳·贾弗里 / 美国 / 阿利克·萨哈罗夫 / 艾米·坎安·曼 / 史黛西·帕松 / 厄内斯特·R·迪克森 / 托马斯·施拉梅 / 路易丝·弗里德贝格 / 罗宾·怀特 / 纸牌屋 / 55分钟 / 纸牌屋 / 剧情 / 鲍尔·威利蒙 Beau Willimon / 安德鲁·戴维斯 Andrew Davies / 迈克尔·多布斯 Michael Dobbs / 英语",
   "rating": 3,
-  "markedAt": "2018-12-08",
+  "markedAt": "2018-12-08 00:12:46",
   "estimatedMarkedAtRange": null,
   "comment": "我给之前每一季都打了满分，但这一季真的不行，有点伤感……",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27185590/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7538918/"
     }
   ]
 }

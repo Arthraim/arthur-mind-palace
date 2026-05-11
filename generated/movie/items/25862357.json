@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25862357",
-  "title": "权力的游戏 第六季 Game of Thrones Season 6",
-  "originalTitle": "(2016)",
+  "title": "权力的游戏 第六季",
+  "originalTitle": "Game of Thrones Season 6 / 冰与火之歌：权力的游戏 第六季 / 王座游戏 第六季",
   "year": "2016",
   "coverPath": "covers/movie/25862357.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321971908.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25862357/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3658014/"
     }
   ]
 }

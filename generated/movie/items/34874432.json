@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "34874432",
   "title": "花束般的恋爱",
-  "originalTitle": "花束みたいな恋をした",
+  "originalTitle": "花束みたいな恋をした / 她和他的恋爱花期(港) / 爱如花束 恋恋不忘",
   "year": "2021",
   "coverPath": "covers/movie/34874432.jpg",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868462052.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34874432",
   "listSummary": "2021-01-29(日本) / 2022-02-22(中国大陆) / 菅田将晖 / 有村架纯 / 细田佳央太 / 清原果耶 / 小田切让 / 押井守 / 户田惠子 / 岩松了 / 小林薰 / 韩英惠 / 日本 / hana-koi.jp / 土井裕泰 / 124分钟 / 花束般的恋爱 / 剧情 / 爱情 / 坂元裕二 Yûji Sakamoto / 日语",
   "rating": 4,
-  "markedAt": "2026-04-29",
+  "markedAt": "2026-04-29 15:01:05",
   "estimatedMarkedAtRange": null,
   "comment": "过不下去了，所以结婚吧，结婚了你就能不用工作了。哥你怎么从文艺小青年变成这样的，这么多书算是白看了。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34874432/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11219254/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26147418",
-  "title": "神奇动物：邓布利多之谜 Fantastic Beasts: The Secrets of Dumbledore",
-  "originalTitle": "(2022)",
+  "title": "神奇动物：邓布利多之谜",
+  "originalTitle": "Fantastic Beasts: The Secrets of Dumbledore / 神奇动物在哪里3：邓布利多之谜 / 神奇生物在哪里3",
   "year": "2022",
   "coverPath": "covers/movie/26147418.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2871106106.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26147418",
   "listSummary": "2022-04-08(英国) / 2022-04-08(中国大陆) / 2022-04-15(美国) / 埃迪·雷德梅恩 / 裘德·洛 / 麦斯·米科尔森 / 丹·福勒 / 艾莉森·萨多尔 / 凯瑟琳·沃特斯顿 / 埃兹拉·米勒 / 卡勒姆·特纳 / 杰西卡·威廉姆斯 / 理查德·柯伊尔 / 英国 / 美国 / www.fantasticbeasts.net / 大卫·叶茨 / 142分钟 / 神奇动物：邓布利多之谜 / 奇幻 / 冒险 / J·K·罗琳 J.K. Rowling / 史蒂夫·克洛夫斯 Steve Kloves / 英语 / 德语",
   "rating": 4,
-  "markedAt": "2022-05-15",
+  "markedAt": "2022-05-15 02:06:15",
   "estimatedMarkedAtRange": null,
   "comment": "支线任务？",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26147418/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4123432/"
     }
   ]
 }

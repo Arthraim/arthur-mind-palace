@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "34882957",
-  "title": "早间新闻 第二季 The Morning Show Season 2",
-  "originalTitle": "(2021)",
+  "title": "早间新闻 第二季",
+  "originalTitle": "The Morning Show Season 2 / 晨早直播室(港) / 晨间直播秀(台)",
   "year": "2021",
   "coverPath": "covers/movie/34882957.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2678019489.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34882957",
   "listSummary": "2021-09-17(美国) / 詹妮弗·安妮斯顿 / 瑞茜·威瑟斯彭 / 比利·克鲁德普 / 马克·杜普拉斯 / 朱丽安娜·玛格丽丝 / 史蒂夫·卡瑞尔 / 格蕾塔·李 / 内斯特·卡博内尔 / 马西娅·盖伊·哈登 / 瓦莱丽亚·戈利诺 / 美国 / 米密·莱德 / 莱丝莉·琳卡·格拉特 / 虞琳敏 / 塔克·盖茨 / 瑞秋·莫里森 / 维多利亚·马奥尼 / 米盖尔·阿尔特塔 / 早间新闻 / 62分钟 / 早间新闻 / 剧情 / Erica Lipez / Adam Milch / 凯瑞·依云 Kerry Ehrin / 杰伊·卡森 Jay Carson / 托里·斯皮尔 Torrey Speer / 克里斯汀·莱登 Kristen Layden / 布莱恩·张伯伦 / 杰夫·奥古斯丁 Jeff Augustin / 艾莉森·G·文佳诺 Alison G. Vingiano / 斯科特·特洛伊 / 斯泰西·奥西-库福尔 Stacy Osei-Kuffour / 贾斯汀·马修斯 / 英语",
   "rating": 5,
-  "markedAt": "2021-12-22",
+  "markedAt": "2021-12-22 14:20:17",
   "estimatedMarkedAtRange": null,
   "comment": "每个人物都好立体，尤其喜欢Cory",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34882957/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11191264/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1295872",
-  "title": "西北偏北 North by Northwest",
-  "originalTitle": "(1959)",
+  "title": "西北偏北",
+  "originalTitle": "North by Northwest / 夺魄惊魂(港) / 北西北(台)",
   "year": "1959",
   "coverPath": "covers/movie/1295872.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1769720671.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1295872/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0053125/"
     }
   ]
 }

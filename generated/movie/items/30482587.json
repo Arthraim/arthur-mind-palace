@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30482587",
-  "title": "新·奥特曼 シン・ウルトラマン",
-  "originalTitle": "(2022)",
+  "title": "新·奥特曼",
+  "originalTitle": "シン・ウルトラマン / 真·奥特曼 / 正宗超人力霸王",
   "year": "2022",
   "coverPath": "covers/movie/30482587.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871162289.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30482587",
   "listSummary": "2022-05-13(日本) / 斋藤工 / 长泽雅美 / 西岛秀俊 / 有冈大贵 / 早见明里 / 田中哲司 / 山本耕史 / 岩松了 / 岛田久作 / 益冈彻 / 日本 / shin-ultraman.jp / 樋口真嗣 / 112分钟 / 新·奥特曼 / 科幻 / 庵野秀明 Hideaki Anno / 日语",
   "rating": 5,
-  "markedAt": "2022-12-22",
+  "markedAt": "2022-12-22 22:15:57",
   "estimatedMarkedAtRange": null,
   "comment": "你就这么喜欢人类吗",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30482587/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10737918/"
     }
   ]
 }

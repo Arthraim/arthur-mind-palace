@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26698897",
   "title": "唐人街探案2",
-  "originalTitle": "(2018)",
+  "originalTitle": "唐探2 / Detective Chinatown Vol 2",
   "year": "2018",
   "coverPath": "covers/movie/26698897.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717519.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26698897",
   "listSummary": "2018-02-16(中国大陆) / 王宝强 / 刘昊然 / 肖央 / 刘承羽 / 尚语贤 / 王迅 / 妻夫木聪 / 迈克尔·皮特 / 白灵 / 元华 / 中国大陆 / 陈思诚 / 121分钟 / 喜剧 / 动作 / 悬疑 / 陈思诚 Sicheng Chen / 严以宁 Yining Yan / 莲舟 Lianzhou / 张淳 Chun Zhang / 程佳客 Jiake Cheng / 高丽锋 / 汉语普通话 / 英语 / 日语 / 粤语",
   "rating": 4,
-  "markedAt": "2018-10-23",
+  "markedAt": "2018-10-23 13:21:41",
   "estimatedMarkedAtRange": null,
   "comment": "案子还挺硬核的呢",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26698897/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7752454/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293527",
-  "title": "美国X档案 American History X",
-  "originalTitle": "(1998)",
+  "title": "美国X档案",
+  "originalTitle": "American History X / 野兽良民(港) / 美国历史档案",
   "year": "1998",
   "coverPath": "covers/movie/1293527.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792437057.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1293527",
   "listSummary": "1998-10-30 / 爱德华·诺顿 / 爱德华·福隆 / 比佛莉·德安姬罗 / 艾弗利·布鲁克斯 / 埃利奥特·古尔德 / 斯泰西·基齐 / 威廉姆·拉斯 / 盖·托利 / 费尔鲁扎·鲍克 / 詹妮弗·林 / 美国 / www.historyx.com/ / 托尼·凯耶 / 119 分钟 / 美国X档案 / 犯罪 / 剧情 / 戴维 麦克纳 David McKenna / 英语",
   "rating": 4,
-  "markedAt": "2023-12-23",
+  "markedAt": "2023-12-23 04:30:10",
   "estimatedMarkedAtRange": null,
   "comment": "对一个人思想的改造有点太快了，缺点说服力；不过结局劲儿太大",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293527/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0120586/"
     }
   ]
 }

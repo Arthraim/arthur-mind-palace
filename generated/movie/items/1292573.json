@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292573",
-  "title": "007之黎明生机 The Living Daylights",
-  "originalTitle": "(1987)",
+  "title": "007之黎明生机",
+  "originalTitle": "The Living Daylights / 铁金刚大战特务飞龙 / 黎明生机",
   "year": "1987",
   "coverPath": "covers/movie/1292573.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1727485080.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292573",
   "listSummary": "1987-06-30 / 提摩西·道尔顿 / 玛瑞亚·达波 / 杰罗恩·克拉比 / 乔·唐·巴克 / 约翰·瑞斯-戴维斯 / 阿特·马里克 / 安德雷斯·魏斯涅夫斯基 / 托马斯 惠特利 / 戴斯蒙德·莱维林 / 罗伯特·布朗 / 英国 / 美国 / 约翰·格兰 / 130 分钟 / 007之黎明生机 / 动作 / 冒险 / 惊悚 / 理查德·麦鲍姆 Richard Maibaum / 迈克尔·G·威尔森 Michael G. Wilson / 伊恩·弗莱明 Ian Fleming / 英语 / 阿拉伯语 / 法语 / 德语 / 俄语",
   "rating": 4,
-  "markedAt": "2021-12-06",
+  "markedAt": "2021-12-06 02:05:20",
   "estimatedMarkedAtRange": null,
   "comment": "老实人邦德",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292573/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0093428/"
     }
   ]
 }

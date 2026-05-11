@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "33415953",
   "title": "制暴：无限杀机",
-  "originalTitle": "A Working Man",
+  "originalTitle": "A Working Man / 重裝制裁(台) / 建筑师",
   "year": "2025",
   "coverPath": "covers/movie/33415953.jpg",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919596073.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/33415953",
   "listSummary": "2025-03-28(美国/中国大陆) / 杰森·斯坦森 / 杰森·弗莱明 / 梅拉布·尼尼泽 / 马克西米利安·奥辛斯基 / 柯基·法尔考 / 迈克尔·佩纳 / 大卫·哈伯 / 诺埃米·冈萨雷斯 / 阿里安娜·里瓦斯 / 伊丝拉·吉 / 英国 / 美国 / 大卫·阿耶 / 116分钟 / 制暴：无限杀机 / 动作 / 惊悚 / 查克·狄克逊 Chuck Dixon / 西尔维斯特·史泰龙 Sylvester Stallone / 大卫·阿耶 David Ayer / 英语 / 俄语 / 西班牙语",
   "rating": 2,
-  "markedAt": "2026-05-06",
+  "markedAt": "2026-05-06 22:05:46",
   "estimatedMarkedAtRange": null,
   "comment": "摄影老喜欢弄点小光源搞个炫光，看多了觉得好蠢。编剧毫无逻辑，爽片都不会拍，闹了半天把三个势力杀了个精光结果核心矛盾是第一个势力的一个支线外快项目，完全不搭边。以及会突然陷入文艺搞点神经兮兮的小煽情是何意味。太烂了，此片最有用是用来平衡我的评价体系。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/33415953/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9150192/"
     }
   ]
 }

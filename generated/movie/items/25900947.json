@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25900947",
-  "title": "游侠索罗：星球大战外传 Solo: A Star Wars Story",
-  "originalTitle": "(2018)",
+  "title": "游侠索罗：星球大战外传",
+  "originalTitle": "Solo: A Star Wars Story / 韩索罗：星球大战外传(港) / 星球大战外传：游侠索罗",
   "year": "2018",
   "coverPath": "covers/movie/25900947.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521436880.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25900947",
   "listSummary": "2018-05-10(洛杉矶首映) / 2018-05-25(美国) / 2018-05-25(中国大陆) / 阿尔登·埃伦瑞奇 / 艾米莉亚·克拉克 / 伍迪·哈里森 / 唐纳德·格洛弗 / 保罗·贝坦尼 / 乔纳斯·索塔莫 / 菲比·沃勒-布里奇 / 沃里克·戴维斯 / 坦迪·牛顿 / 克林特·霍华德 / 美国 / www.starwars.com/solo / 朗·霍华德 / 135分钟 / 游侠索罗：星球大战外传 / 动作 / 科幻 / 冒险 / 乔恩·卡斯丹 Jon Kasden / 劳伦斯·卡斯丹 Lawrence Kasdan / 乔治·卢卡斯 George Lucas / 英语",
   "rating": 5,
-  "markedAt": "2018-05-28",
+  "markedAt": "2018-05-28 13:09:23",
   "estimatedMarkedAtRange": null,
   "comment": "喜欢，Solo 就是那个 Solo",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25900947/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3778644/"
     }
   ]
 }

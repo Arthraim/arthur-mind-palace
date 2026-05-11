@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1418834",
-  "title": "断背山 Brokeback Mountain",
-  "originalTitle": "(2005)",
+  "title": "断背山",
+  "originalTitle": "Brokeback Mountain / 断臂山 / BBM",
   "year": "2005",
   "coverPath": "covers/movie/1418834.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169104127.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1418834",
   "listSummary": "2005-09-02(威尼斯电影节) / 2006-01-06(加拿大) / 2006-01-13(美国) / 希斯·莱杰 / 杰克·吉伦哈尔 / 米歇尔·威廉姆斯 / 安妮·海瑟薇 / 凯特·玛拉 / 兰迪·奎德 / 琳达·卡德里尼 / 安娜·法瑞丝 / 格拉汉姆·贝克尔 / 斯科特·迈克尔·坎贝尔 / 美国 / 加拿大 / www.brokebackmountain.com / 李安 / 134分钟 / 断背山 / 剧情 / 爱情 / 同性 / 家庭 / 拉里·麦克穆特瑞 Larry McMurtry / 黛安娜·奥撒纳 Diana Ossana / 安妮·普鲁 Annie Proulx / 英语",
   "rating": 5,
-  "markedAt": "2026-03-02",
+  "markedAt": "2026-03-02 05:41:37",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1418834/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0388795/"
     }
   ]
 }

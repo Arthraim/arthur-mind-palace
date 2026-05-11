@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26634250",
-  "title": "变形金刚：超能勇士崛起 Transformers: Rise of the Beasts",
-  "originalTitle": "(2023)",
+  "title": "变形金刚：超能勇士崛起",
+  "originalTitle": "Transformers: Rise of the Beasts / 变形金刚7：超能勇士崛起 / 变形金刚7：群兽崛起",
   "year": "2023",
   "coverPath": "covers/movie/26634250.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26634250/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5090568/"
     }
   ]
 }

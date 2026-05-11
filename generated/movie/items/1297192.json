@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1297192",
-  "title": "致命ID Identity",
-  "originalTitle": "(2003)",
+  "title": "致命ID",
+  "originalTitle": "Identity / 杀人游戏 / 致命身份",
   "year": "2003",
   "coverPath": "covers/movie/1297192.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1297192",
   "listSummary": "2003-04-25(美国) / 约翰·库萨克 / 雷·利奥塔 / 阿曼达·皮特 / 约翰·浩克斯 / 阿尔弗雷德·莫里纳 / 克里·杜瓦尔 / 约翰·C·麦金雷 / 威廉姆·李·斯科特 / 杰克·布塞 / 普路特·泰勒·文斯 / 美国 / 詹姆斯·曼高德 / 90分钟 / 致命ID / 剧情 / 悬疑 / 惊悚 / 迈克尔·库尼 Michael Cooney / 英语",
   "rating": 4,
-  "markedAt": "2021-04-02",
+  "markedAt": "2021-04-02 04:29:22",
   "estimatedMarkedAtRange": null,
   "comment": "以前家里就有DVD，高中时候看过好几次，这次看不知道是以前没看懂还是我已经忘了剧情了，感觉第一次看明白，所以是场脑内全明星大乱斗呗",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1297192/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0309698/"
     }
   ]
 }

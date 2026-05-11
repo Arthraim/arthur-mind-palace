@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2354729",
-  "title": "神秘代码 Knowing",
-  "originalTitle": "(2009)",
+  "title": "神秘代码",
+  "originalTitle": "Knowing / 末日预言(台) / 地球毁灭密码(港)",
   "year": "2009",
   "coverPath": "covers/movie/2354729.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2207854660.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2354729",
   "listSummary": "2009-03-09(纽约首映) / 2009-03-20(美国) / 2009-10-30(中国大陆) / 尼古拉斯·凯奇 / 钱德勒·坎特布瑞 / 萝丝·拜恩 / D.G. Maloney / 拉腊·罗宾逊 / John DeVito / 纳迪亚·汤森德 / 玛莎·瓦西列芙斯卡娅 / 利亚姆·海姆斯沃斯 / 本·门德尔森 / 美国 / 英国 / 澳大利亚 / www.knowing-themovie.com / 亚历克斯·普罗亚斯 / 121 分钟 / 神秘代码 / 剧情 / 科幻 / 悬疑 / 惊悚 / 灾难 / Ryne Douglas Pearson / Juliet Snowden / Stiles White / 英语",
   "rating": 3,
-  "markedAt": "2025-12-08",
+  "markedAt": "2025-12-08 03:28:37",
   "estimatedMarkedAtRange": null,
   "comment": "感觉我看过，神棍电影",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2354729/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0448011/"
     }
   ]
 }

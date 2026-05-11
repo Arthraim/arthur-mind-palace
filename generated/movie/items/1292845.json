@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292845",
-  "title": "007之雷霆杀机 A View to a Kill",
-  "originalTitle": "(1985)",
+  "title": "007之雷霆杀机",
+  "originalTitle": "A View to a Kill / 铁金刚勇战大狂魔 / 雷霆杀机",
   "year": "1985",
   "coverPath": "covers/movie/1292845.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1729394637.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292845",
   "listSummary": "1985-05-24 / 罗杰·摩尔 / 克里斯托弗·沃肯 / 坦娅·罗伯茨 / 葛蕾丝·琼斯 / 帕特里克·麦克尼 / 帕特里克·波查 / 叶西园 / 费欧娜·弗勒顿 / 曼宁·瑞德沃德 / 艾莉森·杜迪 / 英国 / 美国 / 约翰·格兰 / 131 分钟 / 007之雷霆杀机 / 动作 / 犯罪 / 冒险 / 理查德·麦鲍姆 Richard Maibaum / 迈克尔·G·威尔森 Michael G. Wilson / 伊恩·弗莱明 Ian Fleming / 英语",
   "rating": 3,
-  "markedAt": "2025-09-29",
+  "markedAt": "2025-09-29 09:45:07",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292845/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0090264/"
     }
   ]
 }

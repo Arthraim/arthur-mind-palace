@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1456198",
-  "title": "魔神坛斗士 辉煌帝传说 鎧伝サムライトルーパー 輝煌帝伝説",
-  "originalTitle": "(1989)",
+  "title": "魔神坛斗士 辉煌帝传说",
+  "originalTitle": "鎧伝サムライトルーパー 輝煌帝伝説 / Yoroiden Samurai Trooper: Kikôtei densetsu",
   "year": "1989",
   "coverPath": "covers/movie/1456198.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517421832.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1456198",
   "listSummary": "1989-10-08 / 草尾毅 / 竹村拓 / 中村大树 / 佐佐木望 / 西村朋纮 / 渡边久美子 / 鹰森淑乃 / 卷岛直树 / 桥本博 / 日本 / 滨津守 / 杉岛邦久 / 赤根和树 / 27分钟 / 魔神坛斗士 辉煌帝传说 / 动画 / 铃木良武 Suzuki Yoshitake / 池田成 Masashi Ikeda / 矢立肇 Hajime Yatate / 日语",
   "rating": 3,
-  "markedAt": "2020-07-20",
+  "markedAt": "2020-07-20 13:58:00",
   "estimatedMarkedAtRange": null,
   "comment": "这个OVA2制作精良，真的佩服那个时代的动画制作。但剧情就有点鬼扯了，我大概明白你想反战，反战主题你写成主角不愿战斗也太直接了吧，一个弯都不拐。",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1456198/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0203227/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26266893",
   "title": "流浪地球",
-  "originalTitle": "(2019)",
+  "originalTitle": "流浪地球：飞跃2020特别版 / The Wandering Earth",
   "year": "2019",
   "coverPath": "covers/movie/26266893.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545472803.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26266893",
   "listSummary": "2019-02-05(中国大陆) / 2020-11-26(中国大陆重映) / 吴京 / 屈楚萧 / 李光洁 / 吴孟达 / 赵今麦 / 隋凯 / 屈菁菁 / 张亦驰 / 杨皓宇 / 阿尔卡基·沙罗格拉茨基 / 中国大陆 / 郭帆 / 125分钟 / 137分钟(重映版) / 科幻 / 冒险 / 灾难 / 龚格尔 Geer Gong / 严东旭 Dongxu Yan / 郭帆 Frant Gwo / 叶俊策 Junce Ye / 杨治学 Zhixue Yang / 吴荑 Ti Wu / 叶濡畅 Ruchang Ye / 沈晶晶 Jingjing Shen / 刘慈欣 Cixin Liu / 汉语普通话 / 英语 / 俄语 / 法语 / 日语 / 韩语 / 印尼语",
   "rating": 4,
-  "markedAt": "2019-05-27",
+  "markedAt": "2019-05-27 14:38:23",
   "estimatedMarkedAtRange": null,
   "comment": "看到好友们都善意的为中国制造给了高分，那我也鼓励性的多给一颗星吧 =。=",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26266893/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7605074/"
     }
   ]
 }

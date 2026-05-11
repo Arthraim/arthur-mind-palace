@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26752852",
-  "title": "水形物语 The Shape of Water",
-  "originalTitle": "(2017)",
+  "title": "水形物语",
+  "originalTitle": "The Shape of Water / 忘形水(港) / 水底情深(台)",
   "year": "2017",
   "coverPath": "covers/movie/26752852.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506388632.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26752852",
   "listSummary": "2017-08-31(威尼斯电影节) / 2017-12-01(美国) / 2018-03-16(中国大陆) / 莎莉·霍金斯 / 道格·琼斯 / 迈克尔·珊农 / 理查德·詹金斯 / 奥克塔维亚·斯宾瑟 / 迈克尔·斯图巴 / 大卫·休莱特 / 尼克·瑟西 / 斯图尔特·阿诺特 / 尼格尔·本内特 / 美国 / 墨西哥 / 吉尔莫·德尔·托罗 / 123分钟 / 水形物语 / 剧情 / 爱情 / 奇幻 / 吉尔莫·德尔·托罗 Guillermo del Toro / 瓦内莎·泰勒 Vanessa Taylor / 英语 / 美国手语 / 俄语 / 法语",
   "rating": 3,
-  "markedAt": "2018-06-03",
+  "markedAt": "2018-06-03 15:00:37",
   "estimatedMarkedAtRange": null,
   "comment": "脸谱化的角色，没意思",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26752852/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5580390/"
     }
   ]
 }

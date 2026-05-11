@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26235354",
-  "title": "权力的游戏 第七季 Game of Thrones Season 7",
-  "originalTitle": "(2017)",
+  "title": "权力的游戏 第七季",
+  "originalTitle": "Game of Thrones Season 7 / 冰与火之歌：权力的游戏 / 王座游戏",
   "year": "2017",
   "coverPath": "covers/movie/26235354.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462245619.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26235354/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5654088/"
     }
   ]
 }

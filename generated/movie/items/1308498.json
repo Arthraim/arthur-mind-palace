@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1308498",
   "title": "暖",
-  "originalTitle": "(2003)",
+  "originalTitle": "故郷の香り",
   "year": "2003",
   "coverPath": "covers/movie/1308498.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405091384.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1308498",
   "listSummary": "2003-11-04(东京国际电影节) / 2004-02-27(中国大陆) / 郭晓东 / 李佳 / 香川照之 / 黄齐峰 / 关晓彤 / 中国大陆 / 霍建起 / 109分钟 / 爱情 / 剧情 / 思芜 Wu Si / 汉语普通话",
   "rating": 4,
-  "markedAt": "2024-08-19",
+  "markedAt": "2024-08-19 12:17:52",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1308498/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0390311/"
     }
   ]
 }

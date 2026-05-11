@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35914830",
-  "title": "星球大战：骨干小队 Star Wars: Skeleton Crew",
-  "originalTitle": "(2024)",
+  "title": "星球大战：骨干小队",
+  "originalTitle": "Star Wars: Skeleton Crew / 星球大战：骷髅兵团(港) / 星际大战：骨干小队(台)",
   "year": "2024",
   "coverPath": "covers/movie/35914830.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915335568.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35914830",
   "listSummary": "2024-12-02(美国) / 裘德·洛 / 基里亚娜·克拉特 / 拉维·卡伯特-科尼尔斯 / 凯瑞·康顿 / 滕德·艾德比佩 / 瑞安·基拉·阿姆斯特朗 / 罗伯特·蒂莫西·史密斯 / Michael C. Bradford / 戴尔·索尔斯 / Mickey Cassidy / 美国 / 关家永 / 丹尼尔·施纳特 / 乔恩·沃茨 / 大卫·洛维 / 杰克·施莱尔 / 布莱丝·达拉斯·霍华德 / 李·以萨克·郑 / 星球大战：骨干船员 / 星球大战：骨干小队 / 动作 / 科幻 / 冒险 / 克里斯托弗·福特 Christopher D. Ford / 英语",
   "rating": 4,
-  "markedAt": "2025-09-08",
+  "markedAt": "2025-09-08 02:19:40",
   "estimatedMarkedAtRange": null,
   "comment": "铺的好收的差的典型，但看得很开心，真正的好人如果是个好jedi就好了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35914830/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt20600980/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36653918",
   "title": "抓娃娃",
-  "originalTitle": "(2024)",
+  "originalTitle": "Successor",
   "year": "2024",
   "coverPath": "covers/movie/36653918.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910105262.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36653918",
   "listSummary": "2024-07-13(大规模点映) / 2024-07-16(中国大陆) / 沈腾 / 马丽 / 史彭元 / 萨日娜 / 肖帛辰 / 张子栋 / 李嘉琦 / 魏翔 / 贾冰 / 于洋 / 中国大陆 / 闫非 / 彭大魔 / 133分钟 / 喜剧 / 彭大魔 Damo Peng / 闫非 Fei Yan / 林炳宝 Bingbao Lin / 汉语普通话 / 英语",
   "rating": 5,
-  "markedAt": "2024-07-29",
+  "markedAt": "2024-07-29 15:23:36",
   "estimatedMarkedAtRange": null,
   "comment": "发现自己作为父母多多少少都扮演了一点两位主角的角色",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36653918/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32613601/"
     }
   ]
 }

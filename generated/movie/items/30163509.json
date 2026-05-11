@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "30163509",
   "title": "飞驰人生",
-  "originalTitle": "(2019)",
+  "originalTitle": "Pegasus",
   "year": "2019",
   "coverPath": "covers/movie/30163509.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542973862.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30163509",
   "listSummary": "2019-02-05(中国大陆) / 沈腾 / 黄景瑜 / 尹正 / 张本煜 / 尹昉 / 田雨 / 魏翔 / 赵文瑄 / 腾格尔 / 易小星 / 中国大陆 / 韩寒 / 98分钟 / 剧情 / 喜剧 / 运动 / 韩寒 Han Han / 汉语普通话 / 英语",
   "rating": 5,
-  "markedAt": "2019-04-13",
+  "markedAt": "2019-04-13 23:07:52",
   "estimatedMarkedAtRange": null,
   "comment": "去年年底即将做爸爸的时候生了一场大病，还留下了别的慢性病，之后不能剧烈运动，也强烈的感受到了工作状态的下降。2019年却突然迷上了车，买车的时候没有为空间和舒适妥协，对GT也产生了从来没有过的热情。在这个人生节点看到这部电影才突然明白原因。这个中年大危机的时候，原来只有赛车作为身体的延展，才能让我重新回到和年轻人，和过去的自己一较高下的公平的起跑线上。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30163509/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9597190/"
     }
   ]
 }

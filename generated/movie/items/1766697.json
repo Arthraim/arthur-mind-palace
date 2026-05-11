@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1766697",
-  "title": "机动战士高达 機動戦士ガンダム",
-  "originalTitle": "(1979)",
+  "title": "机动战士高达",
+  "originalTitle": "機動戦士ガンダム / Mobile Suit Gundam / Mobile Suit Gundam 0079",
   "year": "1979",
   "coverPath": "covers/movie/1766697.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517410810.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1766697",
   "listSummary": "1979-04-07(日本) / 古谷彻 / 池田秀一 / 铃置洋孝 / 鹈饲留美子 / 白石冬美 / 井上瑶 / 古川登志夫 / 铃木清信 / 户田惠子 / 潘惠子 / 日本 / 富野由悠季 / 神田武幸 / 贞光绅也 / 关田修 / 又野弘道 / 25分钟 / 机动战士高达 / 剧情 / 动作 / 科幻 / 动画 / 战争 / 星山博之 Hiroyuki Hoshiyama / 松崎健一 / 荒木芳久 Araki Yoshihisa / 山本优 Yû Yamamoto / 富野由悠季 Yoshiyuki Tomino / 日语",
   "rating": 5,
-  "markedAt": "2021-08-15",
+  "markedAt": "2021-08-15 02:53:59",
   "estimatedMarkedAtRange": null,
   "comment": "有意思，从头到尾一台高达，人和普通兵器的戏份非常重，完全不是后来通胀的感觉",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1766697/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0159172/"
     }
   ]
 }

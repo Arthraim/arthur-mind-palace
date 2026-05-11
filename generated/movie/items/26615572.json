@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26615572",
   "title": "极限挑战 第二季",
-  "originalTitle": "(2016)",
+  "originalTitle": "Go Fighting",
   "year": "2016",
   "coverPath": "covers/movie/26615572.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2329745796.webp",
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26615572/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10623720/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26298935",
   "title": "鬼吹灯之精绝古城",
-  "originalTitle": "(2016)",
+  "originalTitle": "鬼吹灯网剧版 / Candle in the Tomb",
   "year": "2016",
   "coverPath": "covers/movie/26298935.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404604903.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26298935",
   "listSummary": "2016-12-19(中国大陆) / 靳东 / 陈乔恩 / 赵达 / 岳旸 / 王永泉 / 杨新鸣 / 冯晖 / 金泽灏 / 付美 / 匡牧野 / 中国大陆 / 孔笙 / 孙墨龙 / 周游 / 35分钟 / 剧情 / 悬疑 / 惊悚 / 白一骢 Yicong Bai / 天下霸唱 Muye Zhang / 汉语普通话",
   "rating": 4,
-  "markedAt": "2018-02-17",
+  "markedAt": "2018-02-17 12:34:08",
   "estimatedMarkedAtRange": null,
   "comment": "相当不错啊",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26298935/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6413278/"
     }
   ]
 }

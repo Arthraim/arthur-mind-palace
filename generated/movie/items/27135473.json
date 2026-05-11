@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27135473",
   "title": "阳台上",
-  "originalTitle": "(2019)",
+  "originalTitle": "On the Balcony",
   "year": "2019",
   "coverPath": "covers/movie/27135473.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546828235.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27135473",
   "listSummary": "2019-03-15(中国大陆) / 周冬雨 / 王锵 / 曹瑞 / 王雅琴 / 姚培德 / 沈杰 / 郑纪雪 / 国永振 / 廖敏行 / 黄雅洁 / 中国大陆 / 张猛 / 100分钟 / 剧情 / 刘雅 Keyra Liu / 任晓雯 Xiaowen Ren / 汉语普通话",
   "rating": 3,
-  "markedAt": "2019-04-27",
+  "markedAt": "2019-04-27 20:49:28",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27135473/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9690762/"
     }
   ]
 }

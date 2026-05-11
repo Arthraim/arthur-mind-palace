@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "10604086",
   "title": "封神第一部：朝歌风云",
-  "originalTitle": "(2023)",
+  "originalTitle": "封神第一部 / 封神三部曲1",
   "year": "2023",
   "coverPath": "covers/movie/10604086.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/10604086",
   "listSummary": "2023-07-15(大规模点映) / 2023-07-20(中国大陆) / 费翔 / 李雪健 / 黄渤 / 于适 / 陈牧驰 / 娜然 / 此沙 / 武亚凡 / 夏雨 / 袁泉 / 中国大陆 / 乌尔善 / 2023-07-15 21:30 / 148分钟 / 动作 / 战争 / 奇幻 / 古装 / 冉平 Ping Ran / 冉甲男 Jia-nan Ran / 乌尔善 Wuershan / 曹升 Sheng Cao / 汉语普通话",
   "rating": 4,
-  "markedAt": "2023-08-05",
+  "markedAt": "2023-08-05 13:37:50",
   "estimatedMarkedAtRange": null,
   "comment": "妲己不用背锅了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/10604086/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6979756/"
     }
   ]
 }

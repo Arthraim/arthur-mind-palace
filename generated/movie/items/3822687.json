@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3822687",
-  "title": "神秘海域 Uncharted",
-  "originalTitle": "(2022)",
+  "title": "神秘海域",
+  "originalTitle": "Uncharted / 秘境探险(港/台) / 神秘海域：德雷克船长的宝藏",
   "year": "2022",
   "coverPath": "covers/movie/3822687.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869751944.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3822687",
   "listSummary": "2022-02-18(美国) / 2022-03-14(中国大陆) / 汤姆·霍兰德 / 马克·沃尔伯格 / 索菲娅·阿里 / 塔蒂·加布里埃 / 安东尼奥·班德拉斯 / 史蒂芬·威丁顿 / 乔治娅·古德曼 / 迪尔梅德·默塔 / 约瑟夫·巴德拉玛 / 阿拉娜·博登 / 美国 / 鲁本·弗雷斯彻 / 116分钟 / 神秘海域 / 动作 / 冒险 / 雷夫·贾金斯 Rafe Judkins / 阿特·马库姆 Art Marcum / 马特·霍洛维 Matt Holloway / 英语 / 西班牙语",
   "rating": 4,
-  "markedAt": "2024-09-28",
+  "markedAt": "2024-09-28 22:38:55",
   "estimatedMarkedAtRange": null,
   "comment": "游戏是满分的，电影有点青春版印第安纳琼斯",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3822687/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1464335/"
     }
   ]
 }

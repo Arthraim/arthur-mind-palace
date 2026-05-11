@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36151692",
-  "title": "周处除三害 周處除三害",
-  "originalTitle": "(2023)",
+  "title": "周处除三害",
+  "originalTitle": "周處除三害 / The Pig, the Snake, and the Pigeon",
   "year": "2023",
   "coverPath": "covers/movie/36151692.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905021483.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36151692",
   "listSummary": "2023-10-06(中国台湾) / 2024-03-01(中国大陆) / 阮经天 / 袁富华 / 陈以文 / 王净 / 谢琼煖 / 李李仁 / 刘子铨 / 曾珮瑜 / 陈秉佑 / 游安顺 / 中国台湾 / 黄精甫 / 134分钟 / 周处除三害 / 动作 / 犯罪 / 黄精甫 Ching-Po Wong / 汉语普通话 / 闽南语 / 粤语",
   "rating": 4,
-  "markedAt": "2024-02-29",
+  "markedAt": "2024-02-29 23:49:39",
   "estimatedMarkedAtRange": null,
   "comment": "还是为能看到这样的片儿喝彩",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36151692/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt29319990/"
     }
   ]
 }

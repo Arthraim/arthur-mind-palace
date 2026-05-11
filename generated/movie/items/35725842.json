@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35725842",
   "title": "繁城之下",
-  "originalTitle": "(2023)",
+  "originalTitle": "青蝇宴",
   "year": "2023",
   "coverPath": "covers/movie/35725842.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899317221.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35725842",
   "listSummary": "2023-10-13(中国大陆) / 白宇帆 / 宁理 / 向涵之 / 刘怡潼 / 张昊唯 / 曾黎 / 宗俊涛 / 于垚 / 王策 / 孙斌 / 中国大陆 / 王铮 / 60分钟 / 犯罪 / 悬疑 / 古装 / 王铮 / 汉语普通话",
   "rating": 5,
-  "markedAt": "2023-11-10",
+  "markedAt": "2023-11-10 10:05:24",
   "estimatedMarkedAtRange": null,
   "comment": "喜欢",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35725842/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt28114772/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26654146",
   "title": "解忧杂货店",
-  "originalTitle": "(2017)",
+  "originalTitle": "Miracles of the Namiya General Store",
   "year": "2017",
   "coverPath": "covers/movie/26654146.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503544593.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26654146",
   "listSummary": "2017-12-29(中国大陆) / 王俊凯 / 迪丽热巴 / 董子健 / 李鸿其 / 董李无忧 / 成龙 / 秦昊 / 陈都灵 / 郝蕾 / 李梦 / 中国大陆 / 韩杰 / 109分钟 / 剧情 / 奇幻 / 宋啸 Xiao Song / 东野圭吾 Keigo Higashino / 孙思雨 Siyu Sun / 朱思溢 Siyi Zhu / 汉语普通话",
   "rating": 2,
-  "markedAt": "2017-12-31",
+  "markedAt": "2017-12-31 19:49:57",
   "estimatedMarkedAtRange": null,
   "comment": "神经病吧…… 我还是去看看原著",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26654146/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7645502/"
     }
   ]
 }

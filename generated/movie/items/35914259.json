@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35914259",
-  "title": "毒舌律师 毒舌大狀",
-  "originalTitle": "(2023)",
+  "title": "毒舌律师",
+  "originalTitle": "毒舌大狀 / 毒舌大状 / A Guilty Conscience",
   "year": "2023",
   "coverPath": "covers/movie/35914259.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2886619074.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35914259",
   "listSummary": "2023-01-21(中国香港) / 2023-02-24(中国大陆) / 黄子华 / 谢君豪 / 王丹妮 / 廖子妤 / 王敏德 / 何启华 / 杨偲泳 / 栢天男 / 林保怡 / 谷德昭 / 中国香港 / 中国大陆 / 吴炜伦 / 133分钟(中国大陆) / 134分钟 / 毒舌律师 / 剧情 / 吴炜伦 Wai Lun Ng / 张云青 Jay Cheung / 林伟文 Terry Lam / 粤语 / 汉语普通话",
   "rating": 4,
-  "markedAt": "2023-03-06",
+  "markedAt": "2023-03-06 21:19:10",
   "estimatedMarkedAtRange": null,
   "comment": "「剧透」节奏很好，最后正义得到伸张，就是最后一场庭审有点难受，证人犯错，辩方反水，我也真的为辩方的程序正义feel shame。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35914259/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt25377462/"
     }
   ]
 }

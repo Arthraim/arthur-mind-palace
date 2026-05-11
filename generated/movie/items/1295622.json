@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1295622",
-  "title": "捉贼记 To Catch a Thief",
-  "originalTitle": "(1955)",
+  "title": "捉贼记",
+  "originalTitle": "To Catch a Thief / 捉贼记",
   "year": "1955",
   "coverPath": "covers/movie/1295622.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1543980657.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1295622",
   "listSummary": "1955-08-03(美国) / 加里·格兰特 / 格蕾丝·凯利 / 洁茜·罗伊丝·兰迪斯 / 约翰·威廉姆斯 / 夏尔·瓦内尔 / 布丽吉特·奥贝尔 / 让·马丁内利 / 若尔热特·阿尼斯 / 约翰·安德逊 / 勒内·布朗卡尔 / 美国 / 阿尔弗雷德·希区柯克 / 106分钟 / 捉贼记 / 犯罪 / 悬疑 / 爱情 / 惊悚 / 约翰·迈克尔·海耶斯 John Michael Hayes / 亚历克·科佩尔 Alec Coppel / David Dodge / 英语 / 法语",
   "rating": 4,
-  "markedAt": "2024-01-21",
+  "markedAt": "2024-01-21 07:48:07",
   "estimatedMarkedAtRange": null,
   "comment": "尼斯尊好看",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1295622/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0048728/"
     }
   ]
 }

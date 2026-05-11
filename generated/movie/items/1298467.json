@@ -2,15 +2,15 @@
   "kind": "movie",
   "sourceId": "1298467",
   "title": "红灯停，绿灯行",
-  "originalTitle": "(1996)",
-  "year": "1996",
+  "originalTitle": "打左灯，向右转 / Signal Left, Turn Right",
+  "year": null,
   "coverPath": "covers/movie/1298467.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869987205.webp",
   "doubanUrl": "https://movie.douban.com/subject/1298467/",
   "detailUrl": "/movie/1298467",
   "listSummary": "牛振华 / 丁嘉丽 / 句号 / 康爱石 / 王劲松 / 许还山 / 贾妮 / 刘欣 / 中国大陆 / 黄建新 / 105分钟 / 喜剧 / 叶广芩 Guangqin Ye / 黄欣 Xin Huang / 汉语普通话",
   "rating": 4,
-  "markedAt": "2022-03-25",
+  "markedAt": "2022-03-25 01:18:26",
   "estimatedMarkedAtRange": null,
   "comment": "多有意思的时代呀",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1298467/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0182030/"
     }
   ]
 }

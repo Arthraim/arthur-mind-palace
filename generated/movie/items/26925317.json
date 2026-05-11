@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26925317",
   "title": "动物世界",
-  "originalTitle": "(2018)",
+  "originalTitle": "赌博默示录中国版 / Animal World",
   "year": "2018",
   "coverPath": "covers/movie/26925317.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525528688.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26925317",
   "listSummary": "2018-06-29(中国大陆) / 李易峰 / 迈克尔·道格拉斯 / 周冬雨 / 曹炳琨 / 王戈 / 苏可 / 吴彦姝 / 姚安濂 / 雷汉 / 李宜娟 / 中国大陆 / 韩延 / 132分钟 / 剧情 / 动作 / 冒险 / 韩延 Yan Han / 汉语普通话 / 英语",
   "rating": 4,
-  "markedAt": "2018-10-02",
+  "markedAt": "2018-10-02 22:31:15",
   "estimatedMarkedAtRange": null,
   "comment": "改的还真不错，特效也很强大",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26925317/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7946836/"
     }
   ]
 }

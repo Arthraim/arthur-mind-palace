@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "2157131",
   "title": "少年包青天",
-  "originalTitle": "(2000)",
+  "originalTitle": "少年包青天 第一部",
   "year": "2000",
   "coverPath": "covers/movie/2157131.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572370108.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2157131",
   "listSummary": "2000-09-04(中国香港) / 周杰 / 释小龙 / 任泉 / 李冰冰 / 陈道明 / 刘怡君 / 刘晓虎 / 郑佩佩 / 王绘春 / 何中华 / 中国大陆 / 胡明凯 / 45分钟 / 剧情 / 悬疑 / 古装 / 黄浩华 Ho-Wa Wong / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-11-04",
+  "markedAt": "2025-11-04 10:19:49",
   "estimatedMarkedAtRange": null,
   "comment": "感觉全部心思都放在把案情讲清楚，别的啥也顾不上了",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2157131/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6788684/"
     }
   ]
 }

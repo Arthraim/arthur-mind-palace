@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30411657",
-  "title": "阿加莎与谋杀的真谛 Agatha and the Truth of Murder",
-  "originalTitle": "(2018)",
+  "title": "阿加莎与谋杀的真谛",
+  "originalTitle": "Agatha and the Truth of Murder / 火车谋杀迷案",
   "year": "2018",
   "coverPath": "covers/movie/30411657.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545388394.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30411657",
   "listSummary": "2018-12-23(英国) / 迪恩·安德鲁斯 / 露丝·布莱德利 / 碧碧·凯芙 / 阿米莉亚·戴尔 / 理查德·道布尔迪 / 德雷克·哈利根 / 布莱克·哈里森 / 皮帕·海伍德 / 斯塔奇·希克斯 / 拉尔夫·伊内森 / 英国 / 特里·隆 / 92分钟 / 阿加莎与谋杀的真谛 / 犯罪 / 悬疑 / 汤姆·多尔顿 Tom Dalton / 英语",
   "rating": 2,
-  "markedAt": "2020-01-12",
+  "markedAt": "2020-01-12 22:37:14",
   "estimatedMarkedAtRange": null,
   "comment": "若不是女主足够可爱………",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30411657/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9381998/"
     }
   ]
 }

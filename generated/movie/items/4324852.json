@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4324852",
-  "title": "魔术快斗 まじっく快斗",
-  "originalTitle": "(2010)",
+  "title": "魔术快斗",
+  "originalTitle": "まじっく快斗 / 怪盗基德 / 神偷怪盗(台)",
   "year": "2010",
   "coverPath": "covers/movie/4324852.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2871061143.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4324852",
   "listSummary": "2010-04-17(日本) / 山口胜平 / 藤村步 / 石冢运升 / 泽城美雪 / 石田彰 / 长嶝高士 / 田中信夫 / 麦人 / 浪川大辅 / 进藤尚美 / 日本 / 平野俊贵 / 福田纪之 / 三瓶圣 / 岩永彰 / 古谷田顺久 / 佐土原武之 / 25分钟 / 魔术快斗 / 动画 / 宫下隼一 Junichi Miyashita / 吉永亚矢 Yoshinaga Aya / 青山刚昌 Gôshô Aoyama / 日语 / 山口胜平 / 藤村步 / 池田秀一 / 石冢运升",
   "rating": 5,
-  "markedAt": "2020-12-25",
+  "markedAt": "2020-12-25 12:59:24",
   "estimatedMarkedAtRange": null,
   "comment": "所谓的老版，当年还是新番的时候还看过一集来着，岁月不饶人",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4324852/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3459088/"
     }
   ]
 }

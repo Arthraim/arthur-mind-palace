@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26611804",
   "title": "三块广告牌",
-  "originalTitle": "Three Billboards Outside Ebbing, Missouri",
+  "originalTitle": "Three Billboards Outside Ebbing, Missouri / 广告牌杀人事件(港) / 意外(台)",
   "year": "2017",
   "coverPath": "covers/movie/26611804.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502943384.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26611804",
   "listSummary": "2017-09-04(威尼斯电影节) / 2017-12-01(美国) / 2018-03-02(中国大陆) / 弗兰西斯·麦克多蒙德 / 伍迪·哈里森 / 山姆·洛克威尔 / 艾比·考尼什 / 卢卡斯·赫奇斯 / 彼特·丁拉基 / 约翰·浩克斯 / 卡莱伯·兰德里·琼斯 / 凯瑟琳·纽顿 / 凯瑞·康顿 / 英国 / 美国 / 马丁·麦克唐纳 / 115分钟 / 三块广告牌 / 剧情 / 犯罪 / 马丁·麦克唐纳 Martin McDonagh / 英语",
   "rating": 5,
-  "markedAt": "2018-02-18",
+  "markedAt": "2018-02-18 03:48:40",
   "estimatedMarkedAtRange": null,
   "comment": "真的喜欢这两兄弟导的片子",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26611804/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5027774/"
     }
   ]
 }

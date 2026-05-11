@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1296519",
-  "title": "喋血双雄 喋血雙雄",
-  "originalTitle": "(1989)",
+  "title": "喋血双雄",
+  "originalTitle": "喋血雙雄 / The Killer / Bloodshed of Two Heroes",
   "year": "1989",
   "coverPath": "covers/movie/1296519.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554438688.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1296519",
   "listSummary": "1989-07-06 / 周润发 / 李修贤 / 叶倩文 / 曾江 / 朱江 / 成奎安 / 黄光亮 / 林聪 / 黄炳耀 / 黄柏文 / 中国香港 / 吴宇森 / 111分钟 / 124分钟(加长版) / 喋血双雄 / 动作 / 犯罪 / 剧情 / 惊悚 / 吴宇森 John Woo / 粤语",
   "rating": 4,
-  "markedAt": "2023-12-25",
+  "markedAt": "2023-12-25 03:16:11",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1296519/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0097202/"
     }
   ]
 }

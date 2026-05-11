@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1428175",
   "title": "血钻",
-  "originalTitle": "Blood Diamond",
+  "originalTitle": "Blood Diamond / 血钻石(台) / 血腥钻石",
   "year": "2006",
   "coverPath": "covers/movie/1428175.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1428175",
   "listSummary": "2006-12-08(美国) / 莱昂纳多·迪卡普里奥 / 杰曼·翰苏 / 詹妮弗·康纳利 / 阿诺德·沃斯洛 / 大卫·哈雷伍德 / 吉米·米斯特雷 / 麦克·辛 / 史蒂芬·柯林斯 / 马瑞斯·威尔斯 / 阿德托库姆布斯·麦克马克 / 美国 / 德国 / 英国 / 爱德华·兹威克 / 143分钟 / 血钻 / 剧情 / 惊悚 / 冒险 / 查尔斯·里维特 Charles Leavitt / 英语 / 门德语 / 南非语",
   "rating": 4,
-  "markedAt": "2017-08-08",
+  "markedAt": "2017-08-08 01:55:18",
   "estimatedMarkedAtRange": null,
   "comment": "妈的买钻前怎么没看",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1428175/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0450259/"
     }
   ]
 }

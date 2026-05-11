@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1291574",
-  "title": "玩具总动员2 Toy Story 2",
-  "originalTitle": "(1999)",
+  "title": "玩具总动员2",
+  "originalTitle": "Toy Story 2 / 反斗奇兵2(港) / 反斗奇兵续集",
   "year": "1999",
   "coverPath": "covers/movie/1291574.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1283688673.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1291574",
   "listSummary": "1999-11-24(美国) / 汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 凯尔塞·格拉玛 / 唐·里克斯 / 吉姆·法尼 / 华莱士·肖恩 / 约翰·拉森贝格 / 安妮·波茨 / 韦恩·奈特 / 美国 / 约翰·拉塞特 / 艾什·布兰农 / 李·昂克里奇 / 92分钟 / 玩具总动员2 / 喜剧 / 动画 / 奇幻 / 冒险 / 约翰·拉塞特 John Lasseter / 彼特·道格特 Pete Docter / 艾什·布兰农 Ash Brannon / 安德鲁·斯坦顿 Andrew Stanton / 萧丽塔 Rita Hsiao / 道格·钱伯林 Doug Chamberlin / 克里斯·韦伯 Chris Webb / 英语",
   "rating": 5,
-  "markedAt": "2021-06-05",
+  "markedAt": "2021-06-05 00:08:28",
   "estimatedMarkedAtRange": null,
   "comment": "2的技术力明显变强了，《成为乔布斯》里提到他老人家特别喜欢把半成品拿回家给孩子们看，不知道2的进步他咋想的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291574/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0120363/"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "kind": "movie",
   "sourceId": "1295409",
-  "title": "纵横四海 縱橫四海",
-  "originalTitle": "(1991)",
+  "title": "纵横四海",
+  "originalTitle": "縱橫四海 / Once a Thief",
   "year": "1991",
   "coverPath": "covers/movie/1295409.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.webp",
   "doubanUrl": "https://movie.douban.com/subject/1295409/",
   "detailUrl": "/movie/1295409",
-  "listSummary": "1991-02-02(中国香港) / 周润发 / 张国荣 / 钟楚红 / 朱江 / 曾江 / 胡枫 / 唐宁 / 邓一君 / 蔡国强 / 何锦满 / 中国香港 / 吴宇森 / 108分钟 / 纵横四海 / 剧情 / 喜剧 / 动作 / 犯罪 / 吴宇森 John Woo / 高志森 Clifton Ko / 秦小珍 Janet Chun / 粤语 / 汉语普通话 / 客家话 / 英语 / 法语",
+  "listSummary": "1991-02-02(中国香港) / 2026-05-03(中国大陆) / 周润发 / 张国荣 / 钟楚红 / 朱江 / 曾江 / 胡枫 / 唐宁 / 邓一君 / 胡大为 / 冯雪瑞 / 中国香港 / 吴宇森 / 109分钟 / 纵横四海 / 剧情 / 喜剧 / 动作 / 犯罪 / 吴宇森 John Woo / 高志森 Clifton Ko / 秦小珍 Janet Chun / 粤语 / 汉语普通话 / 客家话 / 英语 / 法语",
   "rating": 4,
-  "markedAt": "2022-03-20",
+  "markedAt": "2022-03-20 20:32:57",
   "estimatedMarkedAtRange": null,
   "comment": "第一次看粤语版",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1295409/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0101020/"
     }
   ]
 }

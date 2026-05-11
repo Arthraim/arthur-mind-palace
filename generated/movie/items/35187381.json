@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35187381",
   "title": "世间有她",
-  "originalTitle": "(2022)",
+  "originalTitle": "Hero / HerStory",
   "year": "2022",
   "coverPath": "covers/movie/35187381.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2878770125.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35187381",
   "listSummary": "2022-09-09(中国大陆) / 周迅 / 郑秀文 / 易烊千玺 / 许娣 / 冯德伦 / 白客 / 黄米依 / 鲍起静 / 朱雅芬 / 苏小明 / 中国大陆 / 李少红 / 陈冲 / 张艾嘉 / 116分钟 / 剧情 / 张艾嘉 Sylvia Chang / 陈冲 Joan Chen / 汉语普通话",
   "rating": 3,
-  "markedAt": "2022-09-11",
+  "markedAt": "2022-09-11 02:00:03",
   "estimatedMarkedAtRange": null,
   "comment": "第一个及格",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35187381/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13611620/"
     }
   ]
 }

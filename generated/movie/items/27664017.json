@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27664017",
-  "title": "黑钱 第一季 Dirty Money Season 1",
-  "originalTitle": "(2018)",
+  "title": "黑钱 第一季",
+  "originalTitle": "Dirty Money Season 1 / 不义之财",
   "year": "2018",
   "coverPath": "covers/movie/27664017.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545555113.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27664017",
   "listSummary": "2018-01-26(美国) / A.J.班扎 / 希拉里·罗德姆·克林顿 / 亚历克斯·吉布尼 / 贝瑟尼·麦克莱恩 / Ferdinand Piëch / Bill Pruitt / 拉赛尔·西蒙斯 / 唐纳德·特朗普 / 伊丽莎白·沃伦 / 美国 / 艾琳·李·卡尔 / 亚历克斯·吉布尼 / 布莱恩·麦金恩 / 费舍·史蒂芬斯 / 杰西·莫斯 / 克里斯蒂·雅各布森 / 黑钱 / 60分钟 / 黑钱 / 纪录片 / 英语",
   "rating": 3,
-  "markedAt": "2019-09-30",
+  "markedAt": "2019-09-30 17:39:48",
   "estimatedMarkedAtRange": null,
   "comment": "前面几集一般，睡前想看看Trump提精神，发现都是些低端黑阴谋论。",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27664017/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7889220/"
     }
   ]
 }

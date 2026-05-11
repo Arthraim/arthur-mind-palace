@@ -3,14 +3,14 @@
   "sourceId": "2248747",
   "title": "聚宝盆",
   "originalTitle": "(2003)",
-  "year": "2003",
+  "year": null,
   "coverPath": "covers/movie/2248747.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2266666146.webp",
   "doubanUrl": "https://movie.douban.com/subject/2248747/",
   "detailUrl": "/movie/2248747",
   "listSummary": "张卫健 / 张庭 / 范冰冰 / 梁冠华 / 朱泳腾 / 许还山 / 寇振海 / 徐松子 / 薛佳凝 / 郑毓芝 / 中国大陆 / 45分钟 / 剧情 / 喜剧 / 古装 / 杜文和 Wenhe Du / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-09-29",
+  "markedAt": "2025-09-29 09:25:36",
   "estimatedMarkedAtRange": null,
   "comment": "剧情跌宕起伏怪有意思的。人物经常跳脱，忘了之前已经是好朋友了之类的。感情伦理部分传统的不像话，有点TVB的豪门的价值观。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2248747/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6966472/"
     }
   ]
 }

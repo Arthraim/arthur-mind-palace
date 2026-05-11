@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26631790",
-  "title": "速度与激情10 Fast X",
-  "originalTitle": "(2023)",
+  "title": "速度与激情10",
+  "originalTitle": "Fast X / 狂野时速10(港) / 玩命关头X(台)",
   "year": "2023",
   "coverPath": "covers/movie/26631790.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2890967727.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26631790",
   "listSummary": "2023-05-17(中国大陆) / 2023-05-19(美国) / 范·迪塞尔 / 米歇尔·罗德里格兹 / 杰森·莫玛 / 布丽·拉尔森 / 查理兹·塞隆 / 杰森·斯坦森 / 姜成镐 / 泰瑞斯·吉布森 / 卢达克里斯 / 娜塔莉·伊曼纽尔 / 美国 / 路易斯·莱特里尔 / 140分钟 / 速度与激情10 / 动作 / 犯罪 / 悬疑 / 惊悚 / 冒险 / 丹·马泽 Dan Mazeau / 林诣彬 Justin Lin / 盖瑞·斯科特·汤普森 Gary Scott Thompson / 英语",
   "rating": 2,
-  "markedAt": "2024-03-22",
+  "markedAt": "2024-03-22 01:31:27",
   "estimatedMarkedAtRange": null,
   "comment": "惊呆了，刚开始看到拉金库，撞火球，觉得动作场面是猫和老鼠那儿学的。看到最后扔儿子那一幕发现是跟泰国片学的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26631790/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5433140/"
     }
   ]
 }

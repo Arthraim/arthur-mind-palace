@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "10590706",
-  "title": "权力的游戏 第三季 Game of Thrones Season 3",
-  "originalTitle": "(2013)",
+  "title": "权力的游戏 第三季",
+  "originalTitle": "Game of Thrones Season 3 / 冰与火之歌：权力的游戏 第三季 / 王座游戏 第三季",
   "year": "2013",
   "coverPath": "covers/movie/10590706.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1884199062.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/10590706/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2178782/"
     }
   ]
 }

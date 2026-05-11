@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1298128",
-  "title": "西雅图未眠夜 Sleepless in Seattle",
-  "originalTitle": "(1993)",
+  "title": "西雅图未眠夜",
+  "originalTitle": "Sleepless in Seattle / 缘份的天空(港) / 西雅图夜未眠(台)",
   "year": "1993",
   "coverPath": "covers/movie/1298128.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480953026.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1298128",
   "listSummary": "1993-06-25(美国) / 汤姆·汉克斯 / 梅格·瑞恩 / 罗斯·马林格 / 丽塔·威尔逊 / 维克多·加博 / 汤姆·里斯·法雷尔 / 凯莉·洛维 / 比尔·普尔曼 / 勒克朗谢·迪兰德 / 凯文·欧莫里森 / 美国 / 诺拉·艾芙隆 / 105分钟 / 西雅图未眠夜 / 喜剧 / 爱情 / 剧情 / 诺拉·艾芙隆 Nora Ephron / 杰夫·阿奇 Jeff Arch / 大卫·S·瓦德 David S. Ward / 英语",
   "rating": 4,
-  "markedAt": "2021-06-05",
+  "markedAt": "2021-06-05 06:52:35",
   "estimatedMarkedAtRange": null,
   "comment": "magic",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1298128/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0108160/"
     }
   ]
 }

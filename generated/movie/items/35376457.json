@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35376457",
   "title": "爱情神话",
-  "originalTitle": "(2021)",
+  "originalTitle": "B for Busy / Myth of Love",
   "year": "2021",
   "coverPath": "covers/movie/35376457.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914207920.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35376457",
   "listSummary": "2021-12-24(中国大陆) / 2024-11-02(中国大陆重映) / 徐峥 / 马伊琍 / 吴越 / 倪虹洁 / 周野芒 / 黄明昊 / 王影璐 / 宁理 / 张芝华 / 吴冕 / 中国大陆 / 邵艺辉 / 112分钟 / 剧情 / 喜剧 / 爱情 / 邵艺辉 Yihui Shao / 汉语普通话 / 沪语",
   "rating": 4,
-  "markedAt": "2022-01-08",
+  "markedAt": "2022-01-08 01:01:08",
   "estimatedMarkedAtRange": null,
   "comment": "选角真不错",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35376457/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt16606348/"
     }
   ]
 }

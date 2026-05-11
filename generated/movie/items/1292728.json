@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292728",
-  "title": "勇闯夺命岛 The Rock",
-  "originalTitle": "(1996)",
+  "title": "勇闯夺命岛",
+  "originalTitle": "The Rock / 石破天惊(港) / 绝地任务(台)",
   "year": "1996",
   "coverPath": "covers/movie/1292728.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p636048104.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292728",
   "listSummary": "1996-06-07(美国) / 肖恩·康纳利 / 尼古拉斯·凯奇 / 艾德·哈里斯 / 约翰·斯宾塞 / 大卫·摩斯 / 威廉·弗西斯 / 迈克尔·比恩 / 瓦内萨·马赛尔 / 约翰·C·麦金雷 / 托尼·托德 / 美国 / 迈克尔·贝 / 136分钟 / 勇闯夺命岛 / 动作 / 冒险 / 大卫·韦斯伯格 David Weisberg / 道格拉斯·库克 Douglas Cook / Mark Rosner / 英语",
   "rating": 4,
-  "markedAt": "2018-10-27",
+  "markedAt": "2018-10-27 22:01:23",
   "estimatedMarkedAtRange": null,
   "comment": "我爹的最爱之一，我也看过录像带 vcd 好几遍了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292728/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0117500/"
     }
   ]
 }

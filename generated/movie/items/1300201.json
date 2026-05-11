@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1300201",
-  "title": "金玉良缘红楼梦 金玉良緣紅樓夢",
-  "originalTitle": "(1977)",
+  "title": "金玉良缘红楼梦",
+  "originalTitle": "金玉良緣紅樓夢 / 红楼梦 / The Dream of the Red Chamber",
   "year": "1977",
   "coverPath": "covers/movie/1300201.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2666248375.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1300201",
   "listSummary": "1977-10-26(中国香港) / 林青霞 / 张艾嘉 / 狄波拉 / 米雪 / 胡锦 / 谈瑛 / 王莱 / 吕红 / 钱似莺 / 林静 / 中国香港 / 中国台湾 / 李翰祥 / 108分钟 / 金玉良缘红楼梦 / 爱情 / 古装 / 歌舞 / 李翰祥 / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-12-02",
+  "markedAt": "2025-12-02 10:50:38",
   "estimatedMarkedAtRange": null,
   "comment": "天上掉下个林青霞，眼球只能被宝玉吸引，别的什么都看不见",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1300201/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0075959/"
     }
   ]
 }

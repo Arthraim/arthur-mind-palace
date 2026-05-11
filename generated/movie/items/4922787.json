@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "4922787",
   "title": "后宫·甄嬛传",
-  "originalTitle": "(2011)",
+  "originalTitle": "甄嬛传 / Empresses in the Palace",
   "year": "2011",
   "coverPath": "covers/movie/4922787.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1480046723.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4922787",
   "listSummary": "2011-11-17(中国大陆) / 孙俪 / 陈建斌 / 蔡少芬 / 李东学 / 蒋欣 / 陶昕然 / 斓曦 / 孙茜 / 张晓龙 / 刘雪华 / 中国大陆 / 郑晓龙 / 45分钟 / 剧情 / 古装 / 吴雪岚 Xuelan Wu / 王小平 Xiaoping Wang / 汉语普通话",
   "rating": 5,
-  "markedAt": "2025-05-25",
+  "markedAt": "2025-05-25 19:39:59",
   "estimatedMarkedAtRange": null,
   "comment": "最唏嘘的还是一起进宫的三个人的命运起伏。总体感觉是个复仇爽剧。",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4922787/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2374683/"
     }
   ]
 }

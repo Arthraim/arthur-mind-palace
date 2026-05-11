@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1305363",
   "title": "站直啰，别趴下",
-  "originalTitle": "(1993)",
+  "originalTitle": "站直鹋肯 / Stand Straight, Don't Bend Over",
   "year": "1993",
   "coverPath": "covers/movie/1305363.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915551987.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1305363",
   "listSummary": "1993-11-06(中国大陆) / 冯巩 / 牛振华 / 达式常 / 张鹭 / 傅丽莉 / 刘小蕙 / 瞿颖 / 杨亚洲 / 罗京民 / 杨博 / 中国大陆 / 黄建新 / 112分钟 / 站直啰，别趴下 / 喜剧 / 黄建新 Jianxin Huang / 汉语普通话",
   "rating": 5,
-  "markedAt": "2022-03-21",
+  "markedAt": "2022-03-21 11:39:44",
   "estimatedMarkedAtRange": null,
   "comment": "神了嘿",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1305363/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0108651/"
     }
   ]
 }

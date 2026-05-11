@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1303139",
-  "title": "玩命快递 The Transporter",
-  "originalTitle": "(2002)",
+  "title": "玩命快递",
+  "originalTitle": "The Transporter / 非常人贩 / 绝命速递",
   "year": "2002",
   "coverPath": "covers/movie/1303139.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1439374533.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1303139",
   "listSummary": "2002-10-02(美国) / 杰森·斯坦森 / 舒淇 / 弗朗索瓦·贝莱昂 / 马特·斯查尔兹 / 容荣华 / 道格·兰德 / 迪迪埃·圣·梅林 / 托尼奥·迪斯坎维尔 / 洛朗·德蓬 / 马修·阿尔贝蒂尼 / 法国 / 美国 / www.TransporterMovie.com / 路易斯·莱特里尔 / 元奎 / 92分钟 / 玩命快递 / 动作 / 犯罪 / 吕克·贝松 Luc Besson / 罗伯特·马克·卡门 Robert Mark Kamen / 英语 / 法语 / 中文",
   "rating": 4,
-  "markedAt": "2025-02-19",
+  "markedAt": "2025-02-19 00:17:14",
   "estimatedMarkedAtRange": null,
   "comment": "当年就是这个电影让我认识了这个男子",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1303139/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0293662/"
     }
   ]
 }

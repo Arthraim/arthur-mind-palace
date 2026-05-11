@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35058564",
-  "title": "星球大战：侍者 The Acolyte",
-  "originalTitle": "(2024)",
+  "title": "星球大战：侍者",
+  "originalTitle": "The Acolyte / 侍者(港/台) / 星球大战：追随者",
   "year": "2024",
   "coverPath": "covers/movie/35058564.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907778056.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35058564",
   "listSummary": "2024-06-04(美国) / 阿曼德拉·斯坦伯格 / 李政宰 / 查理·巴奈特 / 达芙妮·基恩 / 瑞贝卡·亨德森 / 朱迪·特纳-史密斯 / 凯瑞-安·莫斯 / 利娅·布雷迪 / 乔纳斯·索塔莫 / 曾爱媚 / 美国 / 莱丝利·海德兰德 / 亚历克斯·加西亚·洛佩斯 / 星球大战：侍者 / 35分钟 / 星球大战：侍者 / 剧情 / 动作 / 科幻 / 悬疑 / 奇幻 / 惊悚 / 冒险 / 莱丝利·海德兰德 Leslye Headland / 英语",
   "rating": 4,
-  "markedAt": "2024-07-27",
+  "markedAt": "2024-07-27 00:48:14",
   "estimatedMarkedAtRange": null,
   "comment": "绝地们个个说谎，西斯们各个真诚呀。真的极其讨厌男主，面具男太好了",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35058564/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12262202/"
     }
   ]
 }

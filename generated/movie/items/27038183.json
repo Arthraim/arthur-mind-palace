@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27038183",
   "title": "羞羞的铁拳",
-  "originalTitle": "(2017)",
+  "originalTitle": "Never Say Die",
   "year": "2017",
   "coverPath": "covers/movie/27038183.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27038183",
   "listSummary": "2017-09-30(中国大陆) / 艾伦 / 马丽 / 沈腾 / 田雨 / 宋阳 / 薛皓文 / 常远 / 黄才伦 / 王智 / 尹正 / 中国大陆 / 宋阳 / 张吃鱼 / 100分钟 / 喜剧 / 奇幻 / 张吃鱼 / 宋阳 Yang Song / 汉语普通话",
   "rating": 4,
-  "markedAt": "2018-01-01",
+  "markedAt": "2018-01-01 12:49:33",
   "estimatedMarkedAtRange": null,
   "comment": "笑死",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27038183/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7431894/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1864810",
   "title": "红楼梦",
-  "originalTitle": "(1987)",
+  "originalTitle": "87版红楼梦 / 央视版红楼梦",
   "year": "1987",
   "coverPath": "covers/movie/1864810.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554030915.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1864810",
   "listSummary": "1987-05-02(中国大陆) / 欧阳奋强 / 陈晓旭 / 邓婕 / 张莉 / 李婷 / 袁玫 / 张蕾 / 郭霄珍 / 周贤珍 / 郑铮 / 中国大陆 / 王扶林 / 45分钟 / 剧情 / 爱情 / 古装 / 曹雪芹 Xueqin Cao / 周雷 Lei Zhou / 刘耕路 Geng-lu Liu / 周岭 Ling Zhou / 汉语普通话",
   "rating": 5,
-  "markedAt": "2025-11-14",
+  "markedAt": "2025-11-14 22:03:29",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1864810/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1162595/"
     }
   ]
 }

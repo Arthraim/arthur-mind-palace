@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26931786",
-  "title": "蜘蛛侠：英雄远征 Spider-Man: Far from Home",
-  "originalTitle": "(2019)",
+  "title": "蜘蛛侠：英雄远征",
+  "originalTitle": "Spider-Man: Far from Home / 蜘蛛侠：决战千里(港) / 蜘蛛人：离家日(台)",
   "year": "2019",
   "coverPath": "covers/movie/26931786.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558293106.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26931786",
   "listSummary": "2019-06-28(中国大陆) / 2019-07-02(美国) / 汤姆·霍兰德 / 赞达亚 / 杰克·吉伦哈尔 / 塞缪尔·杰克逊 / 寇碧·史莫德斯 / 乔恩·费儒 / 玛丽莎·托梅 / 雅各布·贝塔隆 / 安格瑞·赖斯 / 马丁·斯塔尔 / 美国 / www.spidermanfarfromhome.movie/ / 乔恩·沃茨 / 129分钟 / 蜘蛛侠：英雄远征 / 动作 / 科幻 / 冒险 / 克里斯·麦克纳 Chris McKenna / 埃里克·萨默斯 Erik Sommers / 史蒂夫·迪特寇 Steve Ditko / 斯坦·李 Stan Lee / 英语",
   "rating": 4,
-  "markedAt": "2019-07-08",
+  "markedAt": "2019-07-08 23:23:42",
   "estimatedMarkedAtRange": null,
   "comment": "讲道理给这个角色找毛病也是一种喜欢吧………… 怎么说呢…… 漫威牛逼",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26931786/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6320628/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30391109",
-  "title": "蓝甲虫 Blue Beetle",
-  "originalTitle": "(2023)",
+  "title": "蓝甲虫",
+  "originalTitle": "Blue Beetle",
   "year": "2023",
   "coverPath": "covers/movie/30391109.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895433340.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30391109",
   "listSummary": "2023-08-18(美国) / 索洛·马里多纳 / 布鲁娜·马尔科辛 / 贝姬·戈麦斯 / 达米安·阿尔卡扎 / 乔治·洛佩兹 / 阿德里安娜·巴拉萨 / 贝莉莎·埃斯科贝多 / 艾尔皮迪娅·卡里洛 / 苏珊·萨兰登 / 哈维·吉兰 / 美国 / 墨西哥 / 安杰尔·曼纽尔·索托 / 127分钟 / 蓝甲虫 / 动作 / 科幻 / 惊悚 / 冒险 / 加雷斯·邓内特-阿尔科塞 Gareth Dunnet-Alcocer / 英语",
   "rating": 2,
-  "markedAt": "2024-09-25",
+  "markedAt": "2024-09-25 01:28:34",
   "estimatedMarkedAtRange": null,
   "comment": "😮‍💨一无是处啊可以说是",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30391109/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9362930/"
     }
   ]
 }

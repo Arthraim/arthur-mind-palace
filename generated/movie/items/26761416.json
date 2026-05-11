@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26761416",
-  "title": "至暗时刻 Darkest Hour",
-  "originalTitle": "(2017)",
+  "title": "至暗时刻",
+  "originalTitle": "Darkest Hour / 黑暗对峙(港) / 最黑暗的时刻(台)",
   "year": "2017",
   "coverPath": "covers/movie/26761416.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504277551.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26761416",
   "listSummary": "2017-09-01(特柳赖德电影节) / 2017-12-01(中国大陆) / 2018-01-12(英国) / 加里·奥德曼 / 克里斯汀·斯科特·托马斯 / 莉莉·詹姆斯 / 本·门德尔森 / 斯蒂芬·迪兰 / 萨缪尔·韦斯特 / 汉娜·斯蒂尔 / 罗纳德·皮卡普 / 乔丹·沃勒 / 理查德·拉姆斯登 / 英国 / 美国 / www.uphe.com/movies/darkest-hour / 乔·赖特 / 125分钟 / 至暗时刻 / 剧情 / 传记 / 历史 / 战争 / 安东尼·麦卡滕 Anthony McCarten / 英语",
   "rating": 4,
-  "markedAt": "2018-06-10",
+  "markedAt": "2018-06-10 22:47:10",
   "estimatedMarkedAtRange": null,
   "comment": "天狼星的演技真是没得说，感觉可以连着 Dunkirk 看",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26761416/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4555426/"
     }
   ]
 }

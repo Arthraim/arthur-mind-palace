@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27181010",
   "title": "藏海传",
-  "originalTitle": "(2025)",
+  "originalTitle": "藏海戏麟 / Legend of Zang Hai",
   "year": "2025",
   "coverPath": "covers/movie/27181010.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27181010",
   "listSummary": "2025-05-18(中国大陆) / 肖战 / 张婧仪 / 周奇 / 黄觉 / 余男 / 陈妍希 / 张国强 / 乔振宇 / 田小洁 / 沙宝亮 / 中国大陆 / 郑晓龙 / 曹译文 / 45分钟 / 剧情 / 古装 / 赵柳逸 Liuyi Zhao / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-06-30",
+  "markedAt": "2025-06-30 03:06:02",
   "estimatedMarkedAtRange": null,
   "comment": "整体素质还是很不错的。如果主题是冬夏女王说的，消磨了复仇的心，我倒是觉得挺好的。女主被关之后性格全无突然成了道具，甚至关了十来集没用。藏海后面躺赢的嫌疑也很大。",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27181010/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32514856/"
     }
   ]
 }

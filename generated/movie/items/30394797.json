@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30394797",
-  "title": "尚气与十环传奇 Shang-Chi and the Legend of the Ten Rings",
-  "originalTitle": "(2021)",
+  "title": "尚气与十环传奇",
+  "originalTitle": "Shang-Chi and the Legend of the Ten Rings / 尚气与十戒传奇 / 尚气与十环帮传奇(港)",
   "year": "2021",
   "coverPath": "covers/movie/30394797.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2674321872.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30394797",
   "listSummary": "2021-09-03(美国) / 2021-11-12(美国网络) / 刘思慕 / 梁朝伟 / 奥卡菲娜 / 张梦儿 / 陈法拉 / 杨紫琼 / 元华 / 王汉斌 / 弗罗里安·穆特鲁 / 黎明 / 美国 / 澳大利亚 / 德斯汀·克里顿 / 132分钟 / 尚气与十环传奇 / 动作 / 科幻 / 奇幻 / 冒险 / 戴夫·卡拉汉姆 Dave Callaham / 德斯汀·克里顿 Destin Cretton / 安德鲁·兰纳姆 Andrew Lanham / 史蒂夫·恩格尔哈特 Steve Englehart / 吉姆·斯特林 Jim Starlin / 英语 / 汉语普通话",
   "rating": 3,
-  "markedAt": "2022-05-30",
+  "markedAt": "2022-05-30 10:13:23",
   "estimatedMarkedAtRange": null,
   "comment": "虽然不是神作，但不能在国内看还是有点可惜",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30394797/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9376612/"
     }
   ]
 }

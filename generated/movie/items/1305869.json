@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1305869",
-  "title": "意大利任务 The Italian Job",
-  "originalTitle": "(1969)",
+  "title": "意大利任务",
+  "originalTitle": "The Italian Job / 奇谋妙计劫金砖(港) / 大淘金(台)",
   "year": "1969",
   "coverPath": "covers/movie/1305869.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1648539524.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1305869",
   "listSummary": "1969-06-05(英国) / 迈克尔·凯恩 / 诺埃尔·考沃德 / 班尼·希尔 / 雷夫·瓦朗 / 托尼·贝克利 / 罗萨诺·布拉齐 / 玛格丽特·布赖 / 艾琳·汉铎 / 约翰·勒·梅苏里尔 / Fred Emney / 英国 / 彼得·克林逊 / 99 分钟 / 意大利任务 / 喜剧 / 动作 / 犯罪 / 特洛伊·肯尼迪-马丁 Troy Kennedy-Martin / 英语 / 意大利语",
   "rating": 4,
-  "markedAt": "2021-09-02",
+  "markedAt": "2021-09-02 09:49:06",
   "estimatedMarkedAtRange": null,
   "comment": "老板从三辆mini出发开始看就可以了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1305869/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0064505/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26970964",
-  "title": "惊涛迷局 Serenity",
-  "originalTitle": "(2019)",
+  "title": "惊涛迷局",
+  "originalTitle": "Serenity / 惊涛布局(台) / 宁静",
   "year": "2019",
   "coverPath": "covers/movie/26970964.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577342316.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26970964",
   "listSummary": "2019-01-25(美国) / 2019-12-20(中国大陆) / 马修·麦康纳 / 安妮·海瑟薇 / 戴安·琳恩 / 杰森·克拉克 / 杰曼·翰苏 / 杰瑞米·斯特朗 / 加里恩·多德 / 肯尼思·霍 / 罗伯特·霍布斯 / 拉斐尔·赛耶 / 美国 / 斯蒂文·奈特 / 106分钟 / 102分钟(中国大陆) / 惊涛迷局 / 科幻 / 悬疑 / 惊悚 / 斯蒂文·奈特 Steven Knight / 英语",
   "rating": 3,
-  "markedAt": "2023-12-11",
+  "markedAt": "2023-12-11 13:55:06",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26970964/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6476140/"
     }
   ]
 }

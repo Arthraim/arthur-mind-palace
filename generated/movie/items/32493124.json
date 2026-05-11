@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "32493124",
   "title": "悬崖之上",
-  "originalTitle": "(2021)",
+  "originalTitle": "Impasse / Cliff Walkers",
   "year": "2021",
   "coverPath": "covers/movie/32493124.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2638045698.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/32493124",
   "listSummary": "2021-04-30(中国大陆) / 张译 / 于和伟 / 秦海璐 / 朱亚文 / 刘浩存 / 倪大红 / 李乃文 / 余皑磊 / 飞凡 / 雷佳音 / 中国大陆 / 中国香港 / 张艺谋 / 120分钟 / 剧情 / 动作 / 悬疑 / 全勇先 Yongxian Quan / 张艺谋 Yimou Zhang / 潘依然 Yiran Pan / 汉语普通话 / 英语 / 俄语",
   "rating": 4,
-  "markedAt": "2022-04-25",
+  "markedAt": "2022-04-25 10:33:15",
   "estimatedMarkedAtRange": null,
   "comment": "视角从两个小队转向卧底的时候就开始减分了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/32493124/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11448076/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293090",
-  "title": "赌王之王 Rounders",
-  "originalTitle": "(1998)",
+  "title": "赌王之王",
+  "originalTitle": "Rounders / 天才游戏",
   "year": "1998",
   "coverPath": "covers/movie/1293090.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p769894916.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1293090",
   "listSummary": "1998-09-11(美国) / 马特·达蒙 / 爱德华·诺顿 / 约翰·马尔科维奇 / 格瑞辰·摩尔 / 法米克·詹森 / 约翰·特托罗 / 美国 / 约翰·达尔 / 121分钟 / 赌王之王 / 犯罪 / 剧情 / 大卫·莱维恩 David Levien / 布赖恩·科佩尔曼 Brian Koppelman / 英语 / 希伯来语 / 俄语",
   "rating": 2,
-  "markedAt": "2021-09-14",
+  "markedAt": "2021-09-14 08:41:52",
   "estimatedMarkedAtRange": null,
   "comment": "不喜欢这个价值观，豆瓣居然还推荐了个励志标签。永远不要相信一个赌徒。另外也不满意诺顿出来闹一顿然后被编剧抛弃了。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293090/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0128442/"
     }
   ]
 }

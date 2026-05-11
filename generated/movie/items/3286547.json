@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3286547",
-  "title": "老友记 第七季 Friends Season 7",
-  "originalTitle": "(2000)",
+  "title": "老友记 第七季",
+  "originalTitle": "Friends Season 7 / 六人行 第七季 / 都市六人行 第七季",
   "year": "2000",
   "coverPath": "covers/movie/3286547.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2607463440.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3286547",
   "listSummary": "2000-10-12(美国) / 詹妮弗·安妮斯顿 / 柯特妮·考克斯 / 丽莎·库卓 / 马特·勒布朗 / 马修·派瑞 / 大卫·休默 / 吉娜·贝拉方特 / 文斯·维鲁夫 / 凯尔·霍华德 / 安德莉娅·本德瓦尔德 / 美国 / www.friendstv.com / 加里·哈勒沃尔森 / 大卫·休默 / 迈克尔·莱拜克 / 凯文·布莱特 / 老友记 / 22分钟 / 老友记 / 喜剧 / 爱情 / 大卫·克拉尼 David Crane / 玛尔塔·考夫曼 Marta Kauffman / 英语",
   "rating": 5,
-  "markedAt": "2020-01-31",
+  "markedAt": "2020-01-31 23:55:34",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3286547/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0756483/"
     }
   ]
 }

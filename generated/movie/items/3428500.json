@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3428500",
-  "title": "潜伏者 The Infiltrator",
-  "originalTitle": "(2016)",
+  "title": "潜伏者",
+  "originalTitle": "The Infiltrator / 潜入者 / 慕色拉行动(台)",
   "year": "2016",
   "coverPath": "covers/movie/3428500.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2337024492.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3428500",
   "listSummary": "2016-07-15(美国) / 布莱恩·克兰斯顿 / 黛安·克鲁格 / 本杰明·布拉特 / 埃伦娜·安纳亚 / 鲁本·奥查迪亚诺 / 马克·霍尔登 / 米切尔·马伦 / 宾利·卡鲁 / 理查德·卡茨 / 叶卡捷琳娜·扎利特科 / 英国 / www.theinfiltrator.com / 布拉德·福尔曼 / 127分钟 / 潜伏者 / 剧情 / 传记 / 犯罪 / 罗伯特·马泽 Robert Mazur / 艾伦·布朗·弗曼 Ellen Brown Furman / 英语",
   "rating": 3,
-  "markedAt": "2024-07-13",
+  "markedAt": "2024-07-13 02:43:38",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3428500/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1355631/"
     }
   ]
 }

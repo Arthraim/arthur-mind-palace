@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26859982",
   "title": "鬼吹灯之黄皮子坟",
-  "originalTitle": "(2017)",
+  "originalTitle": "Candle in the Tomb: The Weasel Grave / The tomb of Ghost Blows Out the Light",
   "year": "2017",
   "coverPath": "covers/movie/26859982.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514905827.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26859982",
   "listSummary": "2017-07-21(中国大陆) / 阮经天 / 徐璐 / 郝好 / 刘潮 / 尚铁龙 / 胡晓光 / 李沐宸 / 梁静 / 于黛琴 / 宋家腾 / 中国大陆 / 管虎 / 费振翔 / 35分钟 / 剧情 / 悬疑 / 冯骥 Ji Feng / 徐速 Su Xu / 天下霸唱 Muye Zhang / 汉语普通话",
   "rating": 5,
-  "markedAt": "2018-03-02",
+  "markedAt": "2018-03-02 21:51:36",
   "estimatedMarkedAtRange": null,
   "comment": "摄影、特效都质量上乘，剧情也很不错",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26859982/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7162124/"
     }
   ]
 }

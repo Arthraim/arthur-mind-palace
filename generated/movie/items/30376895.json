@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30376895",
-  "title": "安多 第一季 Andor Season 1",
-  "originalTitle": "(2022)",
+  "title": "安多 第一季",
+  "originalTitle": "Andor Season 1 / 星球大战外传：侠盗一号角色前传剧 / 安道尔(台)",
   "year": "2022",
   "coverPath": "covers/movie/30376895.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877106534.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30376895",
   "listSummary": "2022-09-21(美国) / 迭戈·卢纳 / 斯特兰·斯卡斯加德 / 吉娜薇·欧瑞丽 / 丹妮斯·高夫 / 凯尔·索列尔 / 阿德里娅·阿霍纳 / 费奥纳·肖 / 安迪·瑟金斯 / 福里斯特·惠特克 / 乔普林·西伯顿 / 美国 / 托比·海恩斯 / 苏珊娜·怀特 / 本·卡隆 / 安多 / 40-55分钟 / 安多 / 剧情 / 动作 / 科幻 / 惊悚 / 冒险 / 托尼·吉尔罗伊 Tony Gilroy / 丹·吉尔罗伊 Dan Gilroy / 史蒂芬·希夫 Stephen Schiff / 鲍尔·威利蒙 Beau Willimon / 乔治·卢卡斯 George Lucas / 英语",
   "rating": 5,
-  "markedAt": "2023-04-14",
+  "markedAt": "2023-04-14 10:16:21",
   "estimatedMarkedAtRange": null,
   "comment": "rogue one把电影开头轻描淡写的事情写了一个史诗的前奏，安多把整个乐章给完整起来，每一个为了反抗军付出努力和生命的人都显得尤其悲壮。",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30376895/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9253284/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "34971728",
-  "title": "盟军敢死队 The Ministry of Ungentlemanly Warfare",
-  "originalTitle": "(2024)",
+  "title": "盟军敢死队",
+  "originalTitle": "The Ministry of Ungentlemanly Warfare / 绝密型战 / 无限制军团(港)",
   "year": "2024",
   "coverPath": "covers/movie/34971728.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2908456064.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34971728",
   "listSummary": "2024-04-18(中国香港) / 2024-04-19(美国) / 2024-05-24(中国大陆) / 亨利·卡维尔 / 艾莎·冈萨雷斯 / 阿兰·里奇森 / 亚历克斯·帕蒂弗 / 赫洛·费因斯-提芬 / 巴布斯·奥卢桑莫昆 / 亨利·扎格 / 蒂尔·施威格 / 亨利·戈尔丁 / 加利·艾尔维斯 / 美国 / 英国 / 盖·里奇 / 120分钟 / 盟军敢死队 / 剧情 / 喜剧 / 动作 / 战争 / 保罗·塔马西 Paul Tamasy / 埃瑞克·约翰逊 Eric Johnson / 阿拉什·阿梅尔 Arash Amel / 盖·里奇 Guy Ritchie / 英语",
   "rating": 4,
-  "markedAt": "2024-10-14",
+  "markedAt": "2024-10-14 01:30:29",
   "estimatedMarkedAtRange": null,
   "comment": "我发现盖里奇真的向来很对我胃口",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34971728/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5177120/"
     }
   ]
 }

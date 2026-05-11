@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "30181250",
   "title": "封神第二部：战火西岐",
-  "originalTitle": "(2025)",
+  "originalTitle": "封神第二部 / 封神三部曲之魔道争锋",
   "year": "2025",
   "coverPath": "covers/movie/30181250.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917559392.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30181250",
   "listSummary": "2025-01-29(中国大陆) / 黄渤 / 于适 / 那尔那茜 / 陈牧驰 / 费翔 / 娜然 / 吴兴国 / 韩鹏翼 / 此沙 / 武亚凡 / 中国大陆 / 乌尔善 / 144分钟 / 动作 / 战争 / 奇幻 / 古装 / 冉平 Ping Ran / 冉甲男 Jia-nan Ran / 乌尔善 Wuershan / 曹升 Sheng Cao / 汉语普通话",
   "rating": 3,
-  "markedAt": "2025-02-02",
+  "markedAt": "2025-02-02 00:53:32",
   "estimatedMarkedAtRange": null,
   "comment": "蛮好看的，我是不是射雕看太多遍的关系",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30181250/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32843325/"
     }
   ]
 }

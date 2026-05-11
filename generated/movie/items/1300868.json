@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1300868",
   "title": "异形",
-  "originalTitle": "Alien",
+  "originalTitle": "Alien / 异形杀手 / Star Beast",
   "year": "1979",
   "coverPath": "covers/movie/1300868.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1756402567.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1300868",
   "listSummary": "1979-05-25(美国) / 西格妮·韦弗 / 汤姆·斯凯里特 / 维罗尼卡·卡维特 / 哈利·迪恩·斯坦顿 / 约翰·赫特 / 伊安·霍姆 / 亚非特·科托 / 博拉吉·巴迪乔 / 海伦·霍顿 / 詹姆斯·霍纳 / 英国 / 美国 / 雷德利·斯科特 / 117分钟 / 116分钟(2004年导演剪辑版) / 异形 / 科幻 / 惊悚 / 恐怖 / 丹·欧班农 Dan O'Bannon / 罗纳德·舒塞特 Ronald Shusett / 英语",
   "rating": 4,
-  "markedAt": "2018-02-18",
+  "markedAt": "2018-02-18 03:59:29",
   "estimatedMarkedAtRange": null,
   "comment": "现在看还是不错的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1300868/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0078748/"
     }
   ]
 }

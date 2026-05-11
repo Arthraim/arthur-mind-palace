@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2222996",
-  "title": "步履不停 歩いても 歩いても",
-  "originalTitle": "(2008)",
+  "title": "步履不停",
+  "originalTitle": "歩いても 歩いても / 横山家之味(港/台) / 步伐不停",
   "year": "2008",
   "coverPath": "covers/movie/2222996.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2222996",
   "listSummary": "2008-06-28(日本) / 阿部宽 / 夏川结衣 / 江原由希子 / 高桥和也 / 田中祥平 / 野本萤 / 林凌雅 / 寺岛进 / 加藤治子 / 树木希林 / 日本 / 是枝裕和 / 115分钟 / 步履不停 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 日语",
   "rating": 5,
-  "markedAt": "2025-09-18",
+  "markedAt": "2025-09-18 06:22:38",
   "estimatedMarkedAtRange": null,
   "comment": "刚开始在琢磨导演怎么把挺浪漫的桥段拍得这么日常的，后来开始觉得日常就是挺浪漫的吧",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2222996/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1087578/"
     }
   ]
 }

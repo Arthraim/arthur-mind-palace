@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35284557",
-  "title": "星球大战：幻境 第一季 Star Wars: Visions Season 1",
-  "originalTitle": "(2021)",
+  "title": "星球大战：幻境 第一季",
+  "originalTitle": "Star Wars: Visions Season 1 / 星球大战：视界(台) / 星球大战：幻象",
   "year": "2021",
   "coverPath": "covers/movie/35284557.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914388180.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35284557",
   "listSummary": "2021-09-22(美国) / 约瑟夫·高登-莱维特 / 刘玉玲 / 刘思慕 / 尼尔·帕特里克·哈里斯 / 亨利·戈尔丁 / 大卫·哈伯 / 郑智麟 / 特穆拉·莫里森 / 凯伦·福原 / 乔丹·费舍 / 美国 / 日本 / 神山健治 / 今石洋之 / 崔恩映 / 水野贵信 / 五十岚祐贵 / 大冢雅彦 / 垪和等 / 阿贝尔·贡戈拉 / 星球大战：幻境 / 星球大战：幻境 / 动作 / 科幻 / 动画 / 奇幻 / 冒险 / Yasumi Atarashi / 垪和等 Haga Hitoshi / 英语",
   "rating": 5,
-  "markedAt": "2022-05-17",
+  "markedAt": "2022-05-17 09:27:24",
   "estimatedMarkedAtRange": null,
   "comment": "每一集都很好看！",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35284557/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13622982/"
     }
   ]
 }

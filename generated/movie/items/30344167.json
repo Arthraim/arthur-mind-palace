@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30344167",
-  "title": "曼达洛人 第一季 The Mandalorian Season 1",
-  "originalTitle": "(2019)",
+  "title": "曼达洛人 第一季",
+  "originalTitle": "The Mandalorian Season 1 / 星球大战：曼达洛人 / Star Wars: The Mandalorian",
   "year": "2019",
   "coverPath": "covers/movie/30344167.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566627804.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30344167",
   "listSummary": "2019-11-12(美国) / 佩德罗·帕斯卡 / 卡尔·韦瑟斯 / 吉娜·卡拉诺 / 塔伊加·维迪提 / 吉安卡罗·埃斯波西托 / 艾米莉·斯沃洛 / 温明娜 / 杰克·坎纳瓦尔 / 奥米德·阿布塔西 / 茱莉亚·琼斯 / 美国 / disneyplusoriginals.disney.com/show/the-mandalorian / 黛博拉·周 / 瑞克·法穆易瓦 / 戴夫·菲洛尼 / 布莱丝·达拉斯·霍华德 / 塔伊加·维迪提 / 乔恩·费儒 / 曼达洛人 / 40分钟 / 曼达洛人 / 科幻 / 奇幻 / 乔恩·费儒 Jon Favreau / 乔治·卢卡斯 George Lucas / 瑞克·法穆易瓦 Rick Famuyiwa / 克里斯托弗·约斯特 Christopher Yost / 英语",
   "rating": 5,
-  "markedAt": "2020-01-08",
+  "markedAt": "2020-01-08 06:00:34",
   "estimatedMarkedAtRange": null,
   "comment": "好看到爆炸！简直完美，第八集真的炸裂……",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30344167/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8111088/"
     }
   ]
 }

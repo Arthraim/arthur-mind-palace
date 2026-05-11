@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "34852976",
   "title": "乌海",
-  "originalTitle": "(2020)",
+  "originalTitle": "Wu Hai",
   "year": "2020",
   "coverPath": "covers/movie/34852976.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2708387245.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34852976",
   "listSummary": "2020-09-24(圣塞巴斯蒂安国际电影节) / 2021-10-29(中国大陆) / 黄轩 / 杨子姗 / 王韶华 / 王煜 / 黄雯 / 涂们 / 王超北 / 邹旭峰 / 中国大陆 / 周子阳 / 102分钟 / 剧情 / 爱情 / 悬疑 / 周子阳 Ziyang Zhou / 汉语普通话",
   "rating": 2,
-  "markedAt": "2026-01-15",
+  "markedAt": "2026-01-15 09:17:36",
   "estimatedMarkedAtRange": null,
   "comment": "每个角色都让人讨厌",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34852976/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10986342/"
     }
   ]
 }

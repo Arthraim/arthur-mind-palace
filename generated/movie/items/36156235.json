@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36156235",
-  "title": "重启人生 ブラッシュアップライフ",
-  "originalTitle": "(2023)",
+  "title": "重启人生",
+  "originalTitle": "ブラッシュアップライフ / 刷新生活 / Brush Up Life",
   "year": "2023",
   "coverPath": "covers/movie/36156235.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2886331572.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36156235",
   "listSummary": "2023-01-08(日本) / 安藤樱 / 夏帆 / 木南晴夏 / 松坂桃李 / 水川麻美 / 染谷将太 / 黑木华 / 笨蛋节奏 / 永尾柚乃 / 和田爱海 / 日本 / 水野格 / 狩山俊辅 / 45分钟 / 重启人生 / 剧情 / 喜剧 / 奇幻 / 笨蛋节奏 Bakarhythm / 日语",
   "rating": 5,
-  "markedAt": "2023-11-27",
+  "markedAt": "2023-11-27 13:54:29",
   "estimatedMarkedAtRange": null,
   "comment": "所以重生即便会失去朋友也要为了朋友重新奋斗呢",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36156235/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt26134148/"
     }
   ]
 }

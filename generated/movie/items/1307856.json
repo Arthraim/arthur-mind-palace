@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1307856",
   "title": "背靠背，脸对脸",
-  "originalTitle": "(1994)",
+  "originalTitle": "背对背，脸对脸 / Back to Back, Face to Face",
   "year": "1994",
   "coverPath": "covers/movie/1307856.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505048077.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1307856",
   "listSummary": "1994-09-10(多伦多电影节) / 牛振华 / 雷恪生 / 李强 / 句号 / 王劲松 / 戈治均 / 佘南南 / 张嘉益 / 刘国祥 / 徐学政 / 中国大陆 / 中国香港 / 黄建新 / 杨亚洲 / 148分钟 / 205分钟(电视剧加长版) / 剧情 / 黄欣 Xin Huang / 孙毅安 Yi-an Sun / 刘醒龙 Xinglong Liu / 汉语普通话",
   "rating": 5,
-  "markedAt": "2022-03-20",
+  "markedAt": "2022-03-20 14:22:16",
   "estimatedMarkedAtRange": null,
   "comment": "那时候这么松的吗",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1307856/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0109235/"
     }
   ]
 }

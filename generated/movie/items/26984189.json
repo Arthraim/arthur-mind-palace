@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26984189",
-  "title": "坂本龙一：终曲 Ryuichi Sakamoto: CODA",
-  "originalTitle": "(2017)",
+  "title": "坂本龙一：终曲",
+  "originalTitle": "Ryuichi Sakamoto: CODA / Ryuichi Sakamoto: Coda",
   "year": "2017",
   "coverPath": "covers/movie/26984189.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577393869.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26984189",
   "listSummary": "2017-09-03(威尼斯电影节) / 2017-11-01(日本) / 2019-12-16(中国大陆) / 坂本龙一 / 日本 / 美国 / ryuichisakamoto-coda.com / 史蒂芬·野村·斯奇博 / 100分钟 / 坂本龙一：终曲 / 纪录片 / 音乐 / 日语",
   "rating": 5,
-  "markedAt": "2023-06-18",
+  "markedAt": "2023-06-18 22:28:51",
   "estimatedMarkedAtRange": null,
   "comment": "siff",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26984189/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6578572/"
     }
   ]
 }

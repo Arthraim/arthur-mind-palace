@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30465634",
-  "title": "一级方程式：疾速争胜 第一季 Formula 1: Drive to Survive Season 1",
-  "originalTitle": "(2019)",
+  "title": "一级方程式：疾速争胜 第一季",
+  "originalTitle": "Formula 1: Drive to Survive Season 1 / 一级方程式：极速求生(港) / 一级方程式：飆速求生(台)",
   "year": "2019",
   "coverPath": "covers/movie/30465634.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550825615.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30465634",
   "listSummary": "2019-03-08(美国) / 费尔南多·阿隆索 / 基米·莱科宁 / 罗曼·格罗斯让 / 夏尔·勒克莱尔 / 刘易斯·汉密尔顿 / 塞巴斯蒂安·维特尔 / 马克斯·维斯塔潘 / 丹尼尔·里卡多 / 塞尔吉奥·佩雷兹 / 小卡洛斯·赛恩斯 / 英国 / 一级方程式：疾速争胜 / 40分钟 / 一级方程式：疾速争胜 / 纪录片 / 运动 / 英语",
   "rating": 5,
-  "markedAt": "2019-05-08",
+  "markedAt": "2019-05-08 00:17:20",
   "estimatedMarkedAtRange": null,
   "comment": "这么看一个赛季太棒了，甚至希望每年都有",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30465634/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8289930/"
     }
   ]
 }

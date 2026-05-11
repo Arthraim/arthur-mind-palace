@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "21350556",
   "title": "三少爷的剑",
-  "originalTitle": "(2016)",
+  "originalTitle": "三少爷的剑3D / Sword Master",
   "year": "2016",
   "coverPath": "covers/movie/21350556.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399366116.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/21350556",
   "listSummary": "2016-10-21(罗马国际电影节) / 2016-12-02(中国大陆) / 林更新 / 何润东 / 江一燕 / 蒋梦婕 / 鲍起静 / 顾曹斌 / 马京京 / 徐少强 / 顾冠忠 / 吴元俊 / 中国大陆 / 尔冬升 / 黄昊 / 107分钟 / 剧情 / 动作 / 武侠 / 古装 / 古龙 Lung Ku / 徐克 Hark Tsui / 尔冬升 Tung-Shing Yee / 秦天南 Tin Nam Chun / 汉语普通话",
   "rating": 2,
-  "markedAt": "2018-10-27",
+  "markedAt": "2018-10-27 13:37:45",
   "estimatedMarkedAtRange": null,
   "comment": "切",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/21350556/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5269396/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "24523680",
-  "title": "麦克白 Macbeth",
-  "originalTitle": "(2015)",
+  "title": "麦克白",
+  "originalTitle": "Macbeth / 麦克白2015 / 马克白(港/台)",
   "year": "2015",
   "coverPath": "covers/movie/24523680.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266410852.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/24523680",
   "listSummary": "2015-05-23(戛纳电影节) / 2015-10-02(英国) / 2015-11-18(法国) / 2015-12-04(美国) / 迈克尔·法斯宾德 / 玛丽昂·歌迪亚 / 帕迪·康斯戴恩 / 西恩·哈里斯 / 杰克·莱诺 / 伊丽莎白·德比齐 / 大卫·休里斯 / 大卫·海曼 / 罗斯·安德森 / 詹姆斯·迈克尔·兰金 / 英国 / 法国 / 美国 / www.macbeth-movie.com / 贾斯汀·库泽尔 / 113分钟 / 麦克白 / 剧情 / 历史 / 托德·路易斯 Todd Louiso / 雅各布·科斯考夫 Jacob Koskoff / 迈克尔·莱斯利 Michael Lesslie / 威廉·莎士比亚 William Shakespeare / 英语",
   "rating": 4,
-  "markedAt": "2020-06-28",
+  "markedAt": "2020-06-28 18:34:06",
   "estimatedMarkedAtRange": null,
   "comment": "拍的还真是好",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24523680/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2884018/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26830087",
   "title": "极限挑战 第三季",
-  "originalTitle": "(2017)",
+  "originalTitle": "Go Fighting Season 3",
   "year": "2017",
   "coverPath": "covers/movie/26830087.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2481248710.webp",
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26830087/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10623806/"
     }
   ]
 }

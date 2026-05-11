@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "34892527",
-  "title": "曼达洛人 第二季 The Mandalorian Season 2",
-  "originalTitle": "(2020)",
+  "title": "曼达洛人 第二季",
+  "originalTitle": "The Mandalorian Season 2 / 星球大战：曼达洛人 / Star Wars: The Mandalorian",
   "year": "2020",
   "coverPath": "covers/movie/34892527.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2620309098.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34892527",
   "listSummary": "2020-10-30(美国) / 佩德罗·帕斯卡 / 卡尔·韦瑟斯 / 吉娜·卡拉诺 / 吉安卡罗·埃斯波西托 / 蒂莫西·奥利芬特 / 特穆拉·莫里森 / 温明娜 / 罗莎里奥·道森 / 凯缇·萨克霍夫 / 西蒙·卡斯安德斯 / 美国 / 乔恩·费儒 / 布莱丝·达拉斯·霍华德 / 戴夫·菲洛尼 / 瑞克·法穆易瓦 / 卡尔·韦瑟斯 / 佩顿·里德 / 罗伯特·罗德里格兹 / 塔伊加·维迪提 / 曼达洛人 / 30分钟 / 曼达洛人 / 动作 / 科幻 / 冒险 / 乔恩·费儒 Jon Favreau / 戴夫·菲洛尼 Dave Filoni / 克里斯托弗·约斯特 Christopher Yost / 瑞克·法穆易瓦 Rick Famuyiwa / 英语",
   "rating": 5,
-  "markedAt": "2020-12-20",
+  "markedAt": "2020-12-20 16:09:01",
   "estimatedMarkedAtRange": null,
   "comment": "太厉害了，Jedi在这部剧集里终于不通货膨胀了，终于成了那个传说中的强大力量。",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34892527/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11150494/"
     }
   ]
 }

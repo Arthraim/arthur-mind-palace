@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1291572",
-  "title": "指环王2：双塔奇兵 The Lord of the Rings: The Two Towers",
-  "originalTitle": "(2002)",
+  "title": "指环王2：双塔奇兵",
+  "originalTitle": "The Lord of the Rings: The Two Towers / 魔戒二部曲：双城奇谋 / 指环王II：双塔",
   "year": "2002",
   "coverPath": "covers/movie/1291572.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291572/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0167261/"
     }
   ]
 }

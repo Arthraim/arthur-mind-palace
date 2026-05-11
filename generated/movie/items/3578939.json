@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3578939",
-  "title": "缩小人生 Downsizing",
-  "originalTitle": "(2017)",
+  "title": "缩小人生",
+  "originalTitle": "Downsizing / 缩身 / 缩水人间(港)",
   "year": "2017",
   "coverPath": "covers/movie/3578939.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505684182.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3578939",
   "listSummary": "2017-08-30(威尼斯电影节) / 2017-12-22(美国) / 马特·达蒙 / 克里斯托弗·瓦尔兹 / 周洪 / 克里斯汀·韦格 / 罗夫·拉斯加德 / 英洁德·埃格伯格 / 乌多·基尔 / 索伦·比尔马克 / 杰妮·霍蒂谢尔 / 杰森·苏戴奇斯 / 美国 / 亚历山大·佩恩 / 135分钟 / 缩小人生 / 剧情 / 喜剧 / 科幻 / 亚历山大·佩恩 Alexander Payne / 吉姆·泰勒 Jim Taylor / 英语",
   "rating": 2,
-  "markedAt": "2018-06-10",
+  "markedAt": "2018-06-10 22:49:49",
   "estimatedMarkedAtRange": null,
   "comment": "四不像",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3578939/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1389072/"
     }
   ]
 }

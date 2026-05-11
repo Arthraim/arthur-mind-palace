@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1901329",
-  "title": "星球大战：克隆人战争 第一季 Star Wars: The Clone Wars Season 1",
-  "originalTitle": "(2008)",
+  "title": "星球大战：克隆人战争 第一季",
+  "originalTitle": "Star Wars: The Clone Wars Season 1 / 星球大戰: 克隆人戰爭 第一季",
   "year": "2008",
   "coverPath": "covers/movie/1901329.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511005903.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1901329/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0458290/"
     }
   ]
 }

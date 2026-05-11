@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36851291",
-  "title": "名侦探柯南：独眼的残像 名探偵コナン 隻眼の残像",
-  "originalTitle": "(2025)",
+  "title": "名侦探柯南：独眼的残像",
+  "originalTitle": "名探偵コナン 隻眼の残像 / 名侦探柯南剧场版28 / Detective Conan: One-eyed Flashback",
   "year": "2025",
   "coverPath": "covers/movie/36851291.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922540490.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36851291",
   "listSummary": "2025-04-18(日本) / 2025-04-19(北京国际电影节) / 2025-06-27(中国大陆) / 高山南 / 山崎和佳奈 / 小山力也 / 速水奖 / 高田裕司 / 小清水亚美 / 草尾毅 / 飞田展男 / 高木涉 / 汤屋敦子 / 日本 / 重原克也 / 110分钟 / 名侦探柯南：独眼的残像 / 剧情 / 犯罪 / 动画 / 悬疑 / 樱井武晴 Takahiro Sakurai / 青山刚昌 Gôshô Aoyama / 日语",
   "rating": 3,
-  "markedAt": "2025-07-14",
+  "markedAt": "2025-07-14 01:06:14",
   "estimatedMarkedAtRange": null,
   "comment": "又被诸葛亮装到了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36851291/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt35444710/"
     }
   ]
 }

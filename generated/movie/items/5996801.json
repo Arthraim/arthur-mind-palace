@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "5996801",
   "title": "狄仁杰之神都龙王",
-  "originalTitle": "(2013)",
+  "originalTitle": "狄仁杰前传 / Young Detective Dee: Rise of the Sea Dragon",
   "year": "2013",
   "coverPath": "covers/movie/5996801.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2099623528.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/5996801",
   "listSummary": "2013-09-28(中国大陆) / 赵又廷 / 冯绍峰 / 林更新 / 金汎 / 杨颖 / 刘嘉玲 / 胡东 / 马京京 / 盛鉴 / 林朝绪 / 中国大陆 / 中国香港 / 徐克 / 133分钟 / 动作 / 悬疑 / 古装 / 张家鲁 Jialu Zhang / 徐克 Hark Tsui / 陈国富 Kuo-fu Chen / 汉语普通话",
   "rating": 2,
-  "markedAt": "2018-08-05",
+  "markedAt": "2018-08-05 19:30:09",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/5996801/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2992146/"
     }
   ]
 }

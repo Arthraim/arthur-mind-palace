@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26995893",
-  "title": "神探大战 神探大戰",
-  "originalTitle": "(2022)",
+  "title": "神探大战",
+  "originalTitle": "神探大戰 / Detective VS. Sleuths / Cold Detective",
   "year": "2022",
   "coverPath": "covers/movie/26995893.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875702766.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26995893",
   "listSummary": "2022-07-08(中国大陆) / 2022-07-21(中国香港) / 刘青云 / 蔡卓妍 / 林峯 / 李若彤 / 谭凯 / 陈家乐 / 汤怡 / 何珮瑜 / 吴浩康 / 洪天明 / 中国香港 / 中国大陆 / 韦家辉 / 2022-07-02 14:00 / 101分钟(中国大陆) / 102分钟 / 神探大战 / 动作 / 犯罪 / 悬疑 / 韦家辉 Ka-Fai Wai / 汉语普通话 / 粤语",
   "rating": 4,
-  "markedAt": "2022-10-07",
+  "markedAt": "2022-10-07 13:49:40",
   "estimatedMarkedAtRange": null,
   "comment": "节奏飞快",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26995893/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10283270/"
     }
   ]
 }

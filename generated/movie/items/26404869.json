@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26404869",
-  "title": "惊天魔盗团3 Now You See Me: Now You Don't",
-  "originalTitle": "(2025)",
+  "title": "惊天魔盗团3",
+  "originalTitle": "Now You See Me: Now You Don't / 非常盗3(港) / 出神入化3(台)",
   "year": "2025",
   "coverPath": "covers/movie/26404869.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926399098.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26404869",
   "listSummary": "2025-11-14(美国) / 2025-11-14(中国大陆) / 杰西·艾森伯格 / 伍迪·哈里森 / 戴夫·弗兰科 / 艾拉·菲舍尔 / 裴淳华 / 贾斯蒂斯·史密斯 / 多米尼克·塞萨 / 阿丽亚娜·格林布拉特 / 丽兹·卡潘 / 摩根·弗里曼 / 美国 / 鲁本·弗雷斯彻 / 2025-11-11 / 113分钟 / 惊天魔盗团3 / 剧情 / 动作 / 犯罪 / 迈克尔·莱斯利 Michael Lesslie / 保罗·韦尼克 Paul Wernick / 雷特·瑞斯 Rhett Reese / 赛斯·格雷厄姆-史密斯 Seth Grahame-Smith / 埃里克·辛格尔 Eric Singer / 英语",
   "rating": 3,
-  "markedAt": "2025-11-22",
+  "markedAt": "2025-11-22 01:31:35",
   "estimatedMarkedAtRange": null,
   "comment": "怪尴尬的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26404869/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4712810/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292528",
-  "title": "猜火车 Trainspotting",
-  "originalTitle": "(1996)",
+  "title": "猜火车",
+  "originalTitle": "Trainspotting / 迷幻列车(港) / 定位的火车",
   "year": "1996",
   "coverPath": "covers/movie/1292528.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292528",
   "listSummary": "1996-02-23(英国) / 伊万·麦克格雷格 / 艾文·布莱纳 / 约翰尼·李·米勒 / 凯文·麦克基德 / 罗伯特·卡莱尔 / 凯莉·麦克唐纳 / 彼得·穆兰 / 詹姆斯·科兹莫 / 艾琳·尼古拉斯 / 苏珊·维德勒 / 英国 / 丹尼·博伊尔 / 94分钟 / 猜火车 / 剧情 / 犯罪 / 埃文·威尔什 Irvine Welsh / 约翰·霍奇 John Hodge / 英语",
   "rating": 5,
-  "markedAt": "2018-09-09",
+  "markedAt": "2018-09-09 13:23:31",
   "estimatedMarkedAtRange": null,
   "comment": "重温经典",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292528/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0117951/"
     }
   ]
 }

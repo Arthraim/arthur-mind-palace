@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1303173",
   "title": "甲方乙方",
-  "originalTitle": "(1997)",
+  "originalTitle": "比火还热的心 / 你不是一个俗人",
   "year": "1997",
   "coverPath": "covers/movie/1303173.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2901505312.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1303173",
   "listSummary": "1997-12-24(中国大陆) / 葛优 / 刘蓓 / 何冰 / 冯小刚 / 英达 / 徐帆 / 杨立新 / 李琦 / 傅彪 / 李滨 / 中国大陆 / 冯小刚 / 87分钟 / 喜剧 / 冯小刚 Xiaogang Feng / 王刚 Gang Wang / 汉语普通话",
   "rating": 4,
-  "markedAt": "2021-11-04",
+  "markedAt": "2021-11-04 18:44:06",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1303173/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0260987/"
     }
   ]
 }

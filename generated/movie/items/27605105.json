@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27605105",
-  "title": "玉面情魔 Nightmare Alley",
-  "originalTitle": "(2021)",
+  "title": "玉面情魔",
+  "originalTitle": "Nightmare Alley / 噩梦巷 / 夜路(台)",
   "year": "2021",
   "coverPath": "covers/movie/27605105.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2757579107.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27605105",
   "listSummary": "2021-12-17(美国) / 2022-02-01(美国网络) / 布莱德利·库珀 / 凯特·布兰切特 / 鲁妮·玛拉 / 托妮·科莱特 / 威廉·达福 / 理查德·詹金斯 / 朗·普尔曼 / 玛丽·斯汀伯根 / 大卫·斯特雷泽恩 / 保罗·安德森 / 美国 / 吉尔莫·德尔·托罗 / 150分钟 / 玉面情魔 / 剧情 / 犯罪 / 悬疑 / 吉尔莫·德尔·托罗 Guillermo del Toro / 金·摩根 Kim Morgan / 威廉·林赛·葛雷逊 William Lindsay Gresham / 英语",
   "rating": 3,
-  "markedAt": "2024-01-31",
+  "markedAt": "2024-01-31 15:14:29",
   "estimatedMarkedAtRange": null,
   "comment": "男主演技撑不起来。嘉年华那段虽然长但是看不腻，拍成连续剧可好？",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27605105/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7740496/"
     }
   ]
 }

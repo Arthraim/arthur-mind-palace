@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1307914",
-  "title": "无间道 無間道",
-  "originalTitle": "(2002)",
+  "title": "无间道",
+  "originalTitle": "無間道 / Infernal Affairs / Mou gaan dou",
   "year": "2002",
   "coverPath": "covers/movie/1307914.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597979873.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1307914",
   "listSummary": "2002-12-12(中国香港) / 2003-09-05(中国大陆) / 刘德华 / 梁朝伟 / 黄秋生 / 曾志伟 / 陈慧琳 / 郑秀文 / 陈冠希 / 余文乐 / 萧亚轩 / 林家栋 / 中国香港 / 刘伟强 / 麦兆辉 / 101分钟 / 97分钟(导演剪辑版) / 无间道 / 剧情 / 犯罪 / 惊悚 / 麦兆辉 / 庄文强 / 粤语",
   "rating": 5,
-  "markedAt": "2022-01-23",
+  "markedAt": "2022-01-23 04:54:24",
   "estimatedMarkedAtRange": null,
   "comment": "没想到还能看到这么多新细节",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1307914/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0338564/"
     }
   ]
 }

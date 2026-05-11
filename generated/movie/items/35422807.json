@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35422807",
   "title": "扬名立万",
-  "originalTitle": "(2021)",
+  "originalTitle": "一部电影的诞生 / Be Somebody",
   "year": "2021",
   "coverPath": "covers/movie/35422807.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881817779.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35422807",
   "listSummary": "2021-11-11(中国大陆) / 尹正 / 邓家佳 / 喻恩泰 / 杨皓宇 / 陈明昊 / 秦霄贤 / 张本煜 / 柯达 / 邓恩熙 / 余皑磊 / 中国大陆 / 刘循子墨 / 123分钟 / 剧情 / 喜剧 / 悬疑 / 里八神 Bashen Li / 刘循子墨 Xunzimo Liu / 张本煜 Benyu Zhang / 柯达 Da Ke / 汉语普通话",
   "rating": 4,
-  "markedAt": "2022-04-24",
+  "markedAt": "2022-04-24 03:31:11",
   "estimatedMarkedAtRange": null,
   "comment": "尹正演戏确实尴尬……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35422807/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt16043930/"
     }
   ]
 }

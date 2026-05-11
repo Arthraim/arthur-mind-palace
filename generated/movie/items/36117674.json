@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "36117674",
-  "title": "机动战士高达 水星的魔女 第二季 機動戦士ガンダム 水星の魔女 第2クール",
-  "originalTitle": "(2023)",
+  "title": "机动战士高达 水星的魔女 第二季",
+  "originalTitle": "機動戦士ガンダム 水星の魔女 第2クール / Mobile Suit Gundam: The Witch from Mercury Season 2",
   "year": "2023",
   "coverPath": "covers/movie/36117674.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889718839.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36117674",
   "listSummary": "2023-04-09(日本) / 市之濑加那 / Lynn / 阿座上洋平 / 花江夏树 / 古川慎 / 宫本侑芽 / 富田美忧 / 内田直哉 / 斧笃 / 花轮英司 / 日本 / 小林宽 / 安藤良 / 辻桥绫佳 / 寺泽和晃 / 24分钟 / 机动战士高达 水星的魔女 第二季 / 科幻 / 动画 / 大河内一楼 Ichiro Okouchi / 中西泰博 Yasuhiro Nakanishi / 日语",
   "rating": 5,
-  "markedAt": "2024-10-26",
+  "markedAt": "2024-10-26 02:54:58",
   "estimatedMarkedAtRange": null,
   "comment": "人设真的太棒了，甚至第一次在高达磕到了cp。剧情后来有点崩，但没事，属于设定满分，执行糟糕。很喜欢救女儿的故事，看出了EVA的味道",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36117674/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt27023430/"
     }
   ]
 }

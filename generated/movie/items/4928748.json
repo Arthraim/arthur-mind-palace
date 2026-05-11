@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4928748",
-  "title": "灌篮高手 剧场版2 スラムダンク 全国制覇だ! 桜木花道",
-  "originalTitle": "(1994)",
+  "title": "灌篮高手 剧场版2",
+  "originalTitle": "スラムダンク 全国制覇だ! 桜木花道 / SLAM DUNK 全国制覇だ! 桜木花道",
   "year": "1994",
   "coverPath": "covers/movie/4928748.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2221506010.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4928748",
   "listSummary": "1994-07-09(日本) / 草尾毅 / 绿川光 / 里内信夫 / 日本 / 45分钟 / 灌篮高手 剧场版2 / 剧情 / 动画 / 运动 / 井上雄彦 Inoue Takehiko / 日语",
   "rating": 5,
-  "markedAt": "2023-03-14",
+  "markedAt": "2023-03-14 10:55:43",
   "estimatedMarkedAtRange": null,
   "comment": "补全之前简略的部分的同时，更完整了樱木的成长，满足。（动画制作好细腻啊，各种细节，什么把衣服塞进裤子里，什么防守的时候的推搡，还有一个俯瞰镜头完整展现一次进攻过程在TV版里也一次都没看到过。",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4928748/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4086028/"
     }
   ]
 }

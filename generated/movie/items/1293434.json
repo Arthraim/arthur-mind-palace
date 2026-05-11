@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293434",
-  "title": "王牌对王牌 The Negotiator",
-  "originalTitle": "(1998)",
+  "title": "王牌对王牌",
+  "originalTitle": "The Negotiator / 冇数讲(港) / 谈判专家",
   "year": "1998",
   "coverPath": "covers/movie/1293434.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1971419890.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1293434",
   "listSummary": "1998-07-29 / 塞缪尔·杰克逊 / 凯文·史派西 / 大卫·摩斯 / 朗·瑞弗金 / 约翰·斯宾塞 / J·T·沃尔什 / 希芳·法隆 / 保罗·吉亚玛提 / 雷吉娜·泰勒 / 迈克尔·库立兹 / 美国 / 德国 / F·加里·格雷 / 140分钟 / 王牌对王牌 / 动作 / 犯罪 / 剧情 / 悬疑 / 惊悚 / 詹姆斯·德莫纳克 James DeMonaco / 凯文·福克斯 Kevin Fox / 英语",
   "rating": 4,
-  "markedAt": "2023-12-12",
+  "markedAt": "2023-12-12 13:54:25",
   "estimatedMarkedAtRange": null,
   "comment": "有点不太适合发烧的时候看，狼人杀",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293434/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0120768/"
     }
   ]
 }

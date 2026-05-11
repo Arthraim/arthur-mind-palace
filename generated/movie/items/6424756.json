@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "6424756",
-  "title": "新蝙蝠侠 The Batman",
-  "originalTitle": "(2022)",
+  "title": "新蝙蝠侠",
+  "originalTitle": "The Batman / 蝙蝠侠(港/台) / 重启版蝙蝠侠",
   "year": "2022",
   "coverPath": "covers/movie/6424756.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868425292.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/6424756",
   "listSummary": "2022-03-01(韩国) / 2022-03-04(美国) / 2022-03-18(中国大陆) / 2022-04-19(美国网络) / 罗伯特·帕丁森 / 佐伊·克罗维兹 / 保罗·达诺 / 科林·法瑞尔 / 杰弗里·怀特 / 安迪·瑟金斯 / 约翰·特托罗 / 彼得·萨斯加德 / 巴里·基奥恩 / 杰米·劳森 / 美国 / 马特·里夫斯 / 176分钟 / 新蝙蝠侠 / 剧情 / 动作 / 犯罪 / 悬疑 / 马特·里夫斯 Matt Reeves / 彼得·克莱格 Peter Craig / 比尔·芬格 Bill Finger / 鲍勃·凯恩 Bob Kane / 英语",
   "rating": 5,
-  "markedAt": "2022-05-12",
+  "markedAt": "2022-05-12 19:09:40",
   "estimatedMarkedAtRange": null,
   "comment": "主体应该是A Long Halloween，所以台词提到Falcone是Thomas Wayne救的，所以Thomas会去找他帮忙，也所以会被拿住把柄，才有了Bruce知道后对自己成为蝙蝠侠的理由以及目标的怀疑。这个设计确实精彩。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/6424756/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1877830/"
     }
   ]
 }

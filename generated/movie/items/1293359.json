@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293359",
-  "title": "菊次郎的夏天 菊次郎の夏",
-  "originalTitle": "(1999)",
+  "title": "菊次郎的夏天",
+  "originalTitle": "菊次郎の夏 / 菊次郎之夏 / Kikujirô no natsu",
   "year": "1999",
   "coverPath": "covers/movie/1293359.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1293359",
   "listSummary": "1999-05-20(戛纳电影节) / 1999-06-05(日本) / 2020-09-25(中国大陆) / 北野武 / 关口雄介 / 岸本加世子 / 吉行和子 / 细川典江 / 大家由祐子 / 磨赤儿 / 铃木忠幸 / 井手博士 / 今村鼠 / 日本 / 北野武 / 121分钟 / 菊次郎的夏天 / 剧情 / 喜剧 / 北野武 Takeshi Kitano / 日语",
   "rating": 5,
-  "markedAt": "2020-09-30",
+  "markedAt": "2020-09-30 01:51:44",
   "estimatedMarkedAtRange": null,
   "comment": "感谢好电影，感谢四格漫画",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293359/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0199683/"
     }
   ]
 }

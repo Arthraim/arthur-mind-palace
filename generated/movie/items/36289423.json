@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36289423",
   "title": "射雕英雄传：侠之大者",
-  "originalTitle": "(2025)",
+  "originalTitle": "射雕三部曲1 / The Legend of the Condor Heroes: The Great Hero",
   "year": "2025",
   "coverPath": "covers/movie/36289423.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917502509.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36289423",
   "listSummary": "2025-01-29(中国大陆) / 肖战 / 庄达菲 / 梁家辉 / 张文昕 / 巴雅尔图 / 阿如那 / 蔡少芬 / 胡军 / 吴兴国 / 纳仁巴特尔 / 中国大陆 / 徐克 / 146分钟 / 武侠 / 徐克 Hark Tsui / 宋譞 Xuan Song / 汉语普通话 / 蒙语",
   "rating": 3,
-  "markedAt": "2025-01-30",
+  "markedAt": "2025-01-30 01:37:03",
   "estimatedMarkedAtRange": null,
   "comment": "第三次拉黑徐克，分数全给桃花岛的庄达菲",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36289423/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt28131433/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26356631",
-  "title": "伸冤人2 The Equalizer 2",
-  "originalTitle": "(2018)",
+  "title": "伸冤人2",
+  "originalTitle": "The Equalizer 2 / 制裁特攻 / 私刑教育2(台)",
   "year": "2018",
   "coverPath": "covers/movie/26356631.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529742142.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26356631",
   "listSummary": "2018-07-20(美国) / 丹泽尔·华盛顿 / 佩德罗·帕斯卡 / 艾什顿·桑德斯 / 奥森·比恩 / 比尔·普尔曼 / 梅丽莎·里奥 / 乔纳森·斯卡弗 / 沙基纳·贾弗里 / 卡罗琳·戴 / 特德·阿尔奇迪 / 美国 / 安东尼·福奎阿 / 121分钟 / 伸冤人2 / 动作 / 犯罪 / 惊悚 / 理查德·温克 Richard Wenk / 迈克尔·斯隆 Michael Sloan / 理查德·林德海姆 Richard Lindheim / 英语 / 法语 / 土耳其语 / 希伯来语",
   "rating": 4,
-  "markedAt": "2020-01-08",
+  "markedAt": "2020-01-08 04:58:48",
   "estimatedMarkedAtRange": null,
   "comment": "没看过1，不妨碍我好喜欢这一部…… （对手太菜扣一星",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26356631/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3766354/"
     }
   ]
 }

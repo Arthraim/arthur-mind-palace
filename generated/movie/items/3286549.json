@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3286549",
-  "title": "老友记 第九季 Friends Season 9",
-  "originalTitle": "(2002)",
+  "title": "老友记 第九季",
+  "originalTitle": "Friends Season 9 / 六人行 第九季 / 都市六人行 第九季",
   "year": "2002",
   "coverPath": "covers/movie/3286549.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2341525352.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3286549",
   "listSummary": "2002-09-26(美国) / 詹妮弗·安妮斯顿 / 柯特妮·考克斯 / 丽莎·库卓 / 马特·勒布朗 / 马修·派瑞 / 大卫·休默 / 伊森·埃里克森 / 爱莎·泰勒 / 约翰尼·斯尼德 / 肖恩·安德森 / 美国 / www.friendstv.com / 特里·休斯 / 大卫·休默 / 凯文·布莱特 / 老友记 / 22分钟 / 老友记 / 喜剧 / 爱情 / David Crane / Marta Kauffman / 英语",
   "rating": 5,
-  "markedAt": "2020-02-16",
+  "markedAt": "2020-02-16 12:20:44",
   "estimatedMarkedAtRange": null,
   "comment": "感叹包袱好笑的同时我开始对剧情发展不满意了",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3286549/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0583463/"
     }
   ]
 }

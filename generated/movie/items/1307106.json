@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1307106",
-  "title": "无间道2 無間道II",
-  "originalTitle": "(2003)",
+  "title": "无间道2",
+  "originalTitle": "無間道II / 无间道前传 / Infernal Affairs II",
   "year": "2003",
   "coverPath": "covers/movie/1307106.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p958008320.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1307106",
   "listSummary": "2003-10-01(中国香港) / 2003-10-17(中国大陆) / 陈冠希 / 余文乐 / 曾志伟 / 黄秋生 / 吴镇宇 / 刘嘉玲 / 胡军 / 张耀扬 / 连凯 / 惠英红 / 中国香港 / 刘伟强 / 麦兆辉 / 119分钟 / 110 分钟(德国电视版) / 无间道2 / 剧情 / 犯罪 / 惊悚 / 麦兆辉 Alan Mak / 庄文强 Felix Chong / 粤语 / 英语 / 汉语普通话 / 泰语",
   "rating": 5,
-  "markedAt": "2022-02-04",
+  "markedAt": "2022-02-04 01:28:56",
   "estimatedMarkedAtRange": null,
   "comment": "真的史诗，半天没缓过来",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1307106/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0369060/"
     }
   ]
 }

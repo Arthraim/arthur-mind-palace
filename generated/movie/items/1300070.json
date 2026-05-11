@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1300070",
-  "title": "赌侠1999 賭俠1999",
-  "originalTitle": "(1998)",
+  "title": "赌侠1999",
+  "originalTitle": "賭俠1999 / The Conman",
   "year": "1998",
   "coverPath": "covers/movie/1300070.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2358906814.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1300070",
   "listSummary": "1998-12-18 / 刘德华 / 朱茵 / 张家辉 / 高捷 / 张慧仪 / 张锦程 / 李子雄 / 吴毅将 / 吴志雄 / 黄子扬 / 中国香港 / 王晶 / 112分钟 / 赌侠1999 / 喜剧 / 王晶 Jing Wong / 粤语",
   "rating": 3,
-  "markedAt": "2022-10-04",
+  "markedAt": "2022-10-04 00:20:19",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1300070/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0184354/"
     }
   ]
 }

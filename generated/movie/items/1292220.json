@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292220",
-  "title": "情书 Love Letter",
-  "originalTitle": "(1995)",
+  "title": "情书",
+  "originalTitle": "Love Letter / When I Close My Eyes / Letters of Love",
   "year": "1995",
   "coverPath": "covers/movie/1292220.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292220",
   "listSummary": "1995-03-25(日本) / 1999-03(中国大陆) / 2021-05-20(中国大陆重映) / 2025-05-20(中国大陆重映) / 中山美穗 / 丰川悦司 / 酒井美纪 / 柏原崇 / 范文雀 / 篠原胜之 / 铃木庆一 / 田口智朗 / 加贺麻理子 / 光石研 / 日本 / 岩井俊二 / 117分钟 / 情书 / 剧情 / 爱情 / 岩井俊二 Shunji Iwai / 日语",
   "rating": 5,
-  "markedAt": "2022-03-25",
+  "markedAt": "2022-03-25 07:40:51",
   "estimatedMarkedAtRange": null,
   "comment": "心疼这四个人",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292220/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0113703/"
     }
   ]
 }

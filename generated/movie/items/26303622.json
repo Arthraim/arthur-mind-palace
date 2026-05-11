@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26303622",
-  "title": "大空头 The Big Short",
-  "originalTitle": "(2015)",
+  "title": "大空头",
+  "originalTitle": "The Big Short / 大卖空(台) / 沽注一掷(港)",
   "year": "2015",
   "coverPath": "covers/movie/26303622.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2283531871.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26303622",
   "listSummary": "2015-11-12(AFI影展) / 2015-12-11(美国点映) / 2015-12-23(美国) / 克里斯蒂安·贝尔 / 史蒂夫·卡瑞尔 / 瑞恩·高斯林 / 布拉德·皮特 / 梅丽莎·里奥 / 约翰·马加罗 / 拉菲·斯波 / 杰瑞米·斯特朗 / 芬·维特洛克 / 玛丽莎·托梅 / 美国 / 亚当·麦凯 / 130分钟 / 大空头 / 剧情 / 传记 / 查尔斯·伦道夫 Charles Randolph / 亚当·麦凯 Adam McKay / 迈克尔·刘易斯 Michael Lewis / 英语",
   "rating": 4,
-  "markedAt": "2020-04-06",
+  "markedAt": "2020-04-06 16:36:03",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26303622/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1596363/"
     }
   ]
 }

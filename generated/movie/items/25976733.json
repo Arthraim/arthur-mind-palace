@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25976733",
-  "title": "风骚律师 第二季 Better Call Saul Season 2",
-  "originalTitle": "(2016)",
+  "title": "风骚律师 第二季",
+  "originalTitle": "Better Call Saul Season 2 / 绝命律师 / 索尔最高",
   "year": "2016",
   "coverPath": "covers/movie/25976733.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560535645.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25976733",
   "listSummary": "2016-02-15(美国) / 鲍勃·奥登科克 / 乔纳森·班克斯 / 蕾亚·塞洪 / 帕特里克·法比安 / 迈克尔·曼多 / 迈克尔·麦基恩 / 小艾德·博格里 / 凯尔·博恩海默 / 艾利克斯·迪塞尔 / 埃索迪·盖格 / 美国 / 托马斯·施纳泽 / 泰瑞·麦克多诺 / 斯科特·怀南特 / 亚当·伯恩斯坦 / 约翰·施班 / 迈克尔·斯洛维斯 / 科林·巴克西 / 拉尔沙·康达基 / 皮特·古尔德 / 文斯·吉利根 / 风骚律师 / 48分钟 / 风骚律师 / 剧情 / 犯罪 / 文斯·吉里根 Vince Gilligan / 皮特·古尔德 Peter Gould / 托马斯·施纳泽 Thomas Schnauz / Gennifer Hutchison / Jonathan Glatzer / 戈登·史密斯 Gordon Smith / Ann Cherkis / Heather Marion / 英语 / 西班牙语",
   "rating": 5,
-  "markedAt": "2019-08-20",
+  "markedAt": "2019-08-20 09:46:53",
   "estimatedMarkedAtRange": null,
   "comment": "这要是说breaking bad是靠有趣的角色经历来编故事，那拿着律师和退休警察来编故事，这编的可就太厉害了。。。",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25976733/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3824148/"
     }
   ]
 }

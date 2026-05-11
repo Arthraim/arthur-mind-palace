@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26782656",
   "title": "栋笃特工",
-  "originalTitle": "(2018)",
+  "originalTitle": "特工陈先生 / Agent Mr. Chan",
   "year": "2018",
   "coverPath": "covers/movie/26782656.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509642867.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26782656",
   "listSummary": "2018-02-15(中国香港) / 黄子华 / 佘诗曼 / 狼森 / 郑丹瑞 / 谭咏麟 / 郑中基 / 郑秀文 / 苏丽珊 / 张建声 / 蔡少芬 / 中国香港 / 中国大陆 / 张家杰 / 99分钟 / 喜剧 / 李思臻 Kelvin Lee / 吴礼贤 / 刘彦如 / 梁诗然 / 粤语",
   "rating": 3,
-  "markedAt": "2025-07-04",
+  "markedAt": "2025-07-04 01:22:32",
   "estimatedMarkedAtRange": null,
   "comment": "怎么办我觉得我是喜欢这种无厘头的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26782656/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7759626/"
     }
   ]
 }

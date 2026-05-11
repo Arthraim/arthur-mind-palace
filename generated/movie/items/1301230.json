@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1301230",
-  "title": "夺魂索 Rope",
-  "originalTitle": "(1948)",
+  "title": "夺魂索",
+  "originalTitle": "Rope / 夺魄索(港) / 绳索",
   "year": "1948",
   "coverPath": "covers/movie/1301230.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154845412.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1301230/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0040746/"
     }
   ]
 }

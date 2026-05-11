@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3286538",
-  "title": "老友记 第五季 Friends Season 5",
-  "originalTitle": "(1998)",
+  "title": "老友记 第五季",
+  "originalTitle": "Friends Season 5 / 六人行 第五季 / 都市六人行 第五季",
   "year": "1998",
   "coverPath": "covers/movie/3286538.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2330977709.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3286538",
   "listSummary": "1998-09-24(美国) / 詹妮弗·安妮斯顿 / 柯特妮·考克斯 / 丽莎·库卓 / 马特·勒布朗 / 马修·派瑞 / 大卫·休默 / 妮可·罗宾逊 / 拉尔夫·曼扎 / 萨曼莎·史密斯 / 斯蒂芬·富勒 / 美国 / www.friendstv.com / 加里·哈勒沃尔森 / 盖尔·曼库索 / Dana De Vally Piazza / 乔·雷加尔布托 / 迈克尔·莱拜克 / 托德·霍兰德 / 凯文·布莱特 / 老友记 / 22 分钟 / 22 分钟(approx.) / Argentina: 30 分钟 / 老友记 / 喜剧 / 爱情 / David Crane / Marta Kauffman / 英语",
   "rating": 5,
-  "markedAt": "2020-01-31",
+  "markedAt": "2020-01-31 23:54:00",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3286538/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0583437/"
     }
   ]
 }

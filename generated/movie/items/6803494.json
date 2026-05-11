@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "6803494",
-  "title": "极速风流 Rush",
-  "originalTitle": "(2013)",
+  "title": "极速风流",
+  "originalTitle": "Rush / 一级双雄(港) / 决战终点线(台)",
   "year": "2013",
   "coverPath": "covers/movie/6803494.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532780924.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/6803494",
   "listSummary": "2013-09-13(英国) / 2015-12-11(中国大陆) / 克里斯·海姆斯沃斯 / 丹尼尔·布鲁赫 / 奥利维亚·王尔德 / 亚历山德拉·玛丽亚·拉娜 / 皮耶尔弗兰切斯科·法维诺 / 大卫·卡尔德 / 娜塔莉·多默尔 / 史蒂芬·曼甘 / 克里斯蒂安·麦凯 / 阿利斯泰尔·皮特里 / 英国 / 德国 / 美国 / 朗·霍华德 / 123分钟 / 121分钟(中国大陆) / 极速风流 / 剧情 / 传记 / 运动 / 皮特·摩根 Peter Morgan / 英语 / 德语 / 意大利语 / 法语 / 西班牙语",
   "rating": 5,
-  "markedAt": "2019-05-01",
+  "markedAt": "2019-05-01 00:41:30",
   "estimatedMarkedAtRange": null,
   "comment": "4.5吧，那个时候的赛车真是半只脚在棺材里",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/6803494/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1979320/"
     }
   ]
 }

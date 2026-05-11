@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30171425",
-  "title": "扫毒2：天地对决 掃毒2：天地對決",
-  "originalTitle": "(2019)",
+  "title": "扫毒2：天地对决",
+  "originalTitle": "掃毒2：天地對決 / 扫毒2天地对决 / The White Storm 2: Drug Lords",
   "year": "2019",
   "coverPath": "covers/movie/30171425.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561172733.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30171425",
   "listSummary": "2019-07-05(中国大陆) / 2019-07-16(中国香港) / 刘德华 / 古天乐 / 苗侨伟 / 林嘉欣 / 周秀娜 / 应采儿 / 陈家乐 / 卫诗雅 / 郑则仕 / 张国强 / 中国大陆 / 中国香港 / 邱礼涛 / 99分钟 / 扫毒2：天地对决 / 剧情 / 动作 / 犯罪 / 悬疑 / 李敏 Erica Lee / 李昇 Eric Lee / 邱礼涛 Herman Yau / 汉语普通话 / 粤语",
   "rating": 3,
-  "markedAt": "2019-09-26",
+  "markedAt": "2019-09-26 14:22:47",
   "estimatedMarkedAtRange": null,
   "comment": "初中生剧本… 给中环地铁站飙车加一颗星……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30171425/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8239806/"
     }
   ]
 }

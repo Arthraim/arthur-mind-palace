@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "2070367",
   "title": "每当变幻时",
-  "originalTitle": "(2007)",
+  "originalTitle": "每當變幻時 / Hooked On You",
   "year": "2007",
   "coverPath": "covers/movie/2070367.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p481717329.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2070367",
   "listSummary": "2007-06-28(中国香港) / 2007-06-29(中国大陆) / 杨千嬅 / 陈奕迅 / 黄渤 / 冯淬帆 / 张睿羚 / 黄又南 / 林家栋 / 谷祖琳 / 黄浩然 / 许绍雄 / 中国大陆 / 中国香港 / 罗永昌 / 97分钟 / 喜剧 / 剧情 / 爱情 / 冯志强 Chi Keung Fung / 粤语",
   "rating": 3,
-  "markedAt": "2024-08-20",
+  "markedAt": "2024-08-20 01:53:27",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2070367/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1020976/"
     }
   ]
 }

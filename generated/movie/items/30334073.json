@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "30334073",
-  "title": "调音师 Andhadhun",
-  "originalTitle": "(2018)",
+  "title": "调音师",
+  "originalTitle": "Andhadhun / 看不见的旋律 / 调琴师",
   "year": "2018",
   "coverPath": "covers/movie/30334073.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551995207.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30334073",
   "listSummary": "2018-10-05(印度) / 2019-04-03(中国大陆) / 阿尤斯曼·库拉纳 / 塔布 / 拉迪卡·艾普特 / 安尔·德霍万 / 马纳夫·维吉 / 阿什维尼·卡尔塞卡 / 查亚·卡达姆 / 萨基尔·侯赛因 / 拉什米·阿格德卡 / 莫希尼·凯瓦拉曼 / 印度 / 斯里兰姆·拉格万 / 139分钟 / 调音师 / 喜剧 / 犯罪 / 悬疑 / 惊悚 / 阿里吉特·比斯沃斯 Arijit Biswas / 约戈什·查德卡尔 Yogesh Chandekar / 斯里兰姆·拉格万 Sriram Raghavan / 赫曼斯·饶 Hemanth M. Rao / 普哈·拉达·瑟蒂 Pooja Ladha Surti / 奥利维耶·特雷内 Olivier Treiner / 印地语 / 英语",
   "rating": 4,
-  "markedAt": "2019-06-09",
+  "markedAt": "2019-06-09 11:51:59",
   "estimatedMarkedAtRange": null,
   "comment": "若不是兔子和最后一个镜头，后半部不能忍",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30334073/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8108198/"
     }
   ]
 }

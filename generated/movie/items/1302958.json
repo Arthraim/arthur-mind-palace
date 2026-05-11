@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1302958",
-  "title": "憨豆先生 Mr. Bean",
-  "originalTitle": "(1990)",
+  "title": "憨豆先生",
+  "originalTitle": "Mr. Bean / 憨豆先生",
   "year": "1990",
   "coverPath": "covers/movie/1302958.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521404713.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1302958",
   "listSummary": "1990-01-01(英国) / 罗温·艾金森 / 艾伦·卡明 / 罗格·洛伊德-派克 / 马蒂尔达·齐格勒 / 理查德·威尔逊 / 菲利丝·卡沃特 / 理查德·布赖尔斯 / 霍华德·古道尔 / 卡罗琳·昆汀 / 鲁珀特·范西塔特 / 英国 / 约翰·伯金 / 约翰·霍华德·戴维斯 / 保罗·韦兰德 / 憨豆先生 / 24分钟 / 憨豆先生 / 喜剧 / 家庭 / 罗温·艾金森 Rowan Atkinson / 理查德·柯蒂斯 Richard Curtis / 罗宾·德里斯科尔 Robin Driscoll / 英语",
   "rating": 5,
-  "markedAt": "2024-01-26",
+  "markedAt": "2024-01-26 09:34:30",
   "estimatedMarkedAtRange": null,
   "comment": "又看全了一次所谓只有14集的憨豆先生",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1302958/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0096657/"
     }
   ]
 }

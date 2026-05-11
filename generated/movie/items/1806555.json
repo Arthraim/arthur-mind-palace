@@ -2,15 +2,15 @@
   "kind": "movie",
   "sourceId": "1806555",
   "title": "热血警探",
-  "originalTitle": "Hot Fuzz",
+  "originalTitle": "Hot Fuzz / 爆辣刑警(港) / 终棘警探(台)",
   "year": "2007",
   "coverPath": "covers/movie/1806555.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1774982769.webp",
   "doubanUrl": "https://movie.douban.com/subject/1806555/",
   "detailUrl": "/movie/1806555",
-  "listSummary": "2007-02-14(英国) / 西蒙·佩吉 / 尼克·弗罗斯特 / 马丁·弗瑞曼 / 比尔·奈伊 / 提摩西·道尔顿 / 吉姆·布劳德本特 / 罗伯特·波珀 / 乔·考尼什 / 克里斯·维特 / 比莉·怀特劳 / 英国 / 法国 / 美国 / 埃德加·赖特 / 121分钟 / 热血警探 / 喜剧 / 犯罪 / 悬疑 / 埃德加·赖特 Edgar Wright / 西蒙·佩吉 Simon Pegg / 英语",
+  "listSummary": "2007-02-16(英国) / 西蒙·佩吉 / 尼克·弗罗斯特 / 马丁·弗瑞曼 / 比尔·奈伊 / 提摩西·道尔顿 / 吉姆·布劳德本特 / 罗伯特·波珀 / 乔·考尼什 / 克里斯·维特 / 比莉·怀特劳 / 英国 / 法国 / 美国 / 埃德加·赖特 / 2007-02-13 / 121分钟 / 热血警探 / 喜剧 / 犯罪 / 悬疑 / 埃德加·赖特 Edgar Wright / 西蒙·佩吉 Simon Pegg / 英语",
   "rating": 5,
-  "markedAt": "2017-10-07",
+  "markedAt": "2017-10-07 14:01:59",
   "estimatedMarkedAtRange": null,
   "comment": "恶狠狠的反套路！过瘾！满分！",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1806555/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0425112/"
     }
   ]
 }

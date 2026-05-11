@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26776807",
-  "title": "硅谷 第四季 Silicon Valley Season 4",
-  "originalTitle": "(2017)",
+  "title": "硅谷 第四季",
+  "originalTitle": "Silicon Valley Season 4",
   "year": "2017",
   "coverPath": "covers/movie/26776807.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453170279.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26776807",
   "listSummary": "2017-04-23(美国) / 托马斯·米德蒂奇 / T·J·米勒 / 马丁·斯塔尔 / 库梅尔·南贾尼 / 扎克·伍兹 / 阿曼达·克鲁 / 乔什·布雷纳 / 马特·罗斯 / 苏珊·克莱尔 / 欧阳万成 / 美国 / www.hbo.com/silicon-valley / 迈克·乔吉 / 詹米·巴比特 / 克雷·塔沃 / 硅谷 / 30分钟 / 硅谷 / 喜剧 / 亚力克·博格 Alec Berg / 约翰·奥茨舒勒 John Altschuler / 迈克·乔吉 Mike Judge / 戴夫·卡林斯基 Dave Krinsky / 英语",
   "rating": 5,
-  "markedAt": "2018-12-11",
+  "markedAt": "2018-12-11 21:25:33",
   "estimatedMarkedAtRange": null,
   "comment": "这一季nb，打不死的小强",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26776807/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5654084/"
     }
   ]
 }

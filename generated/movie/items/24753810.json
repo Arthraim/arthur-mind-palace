@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "24753810",
   "title": "战狼",
-  "originalTitle": "(2015)",
+  "originalTitle": "特种兵之战狼 / 兵锋",
   "year": "2015",
   "coverPath": "covers/movie/24753810.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2225660666.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/24753810",
   "listSummary": "2015-04-02(中国大陆) / 吴京 / 余男 / 斯科特·阿金斯 / 李凯文 / 倪大红 / 凯尔·夏皮罗 / 石兆琪 / 周晓鸥 / 房子斌 / 郭广平 / 中国大陆 / 吴京 / 90分钟 / 动作 / 战争 / 吴京 Jacky Wu / 刘毅 Yi Liu / 董群 Qun Dong / 高岩 Yan Gao / 汉语普通话 / 英语",
   "rating": 3,
-  "markedAt": "2017-08-06",
+  "markedAt": "2017-08-06 20:47:42",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24753810/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3540136/"
     }
   ]
 }

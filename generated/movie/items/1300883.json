@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1300883",
-  "title": "赌神 賭神",
-  "originalTitle": "(1989)",
+  "title": "赌神",
+  "originalTitle": "賭神 / God of Gamblers",
   "year": "1989",
   "coverPath": "covers/movie/1300883.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1986001156.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1300883",
   "listSummary": "1989-12-14(中国香港) / 周润发 / 刘德华 / 王祖贤 / 张敏 / 向华强 / 龙方 / 吴孟达 / 成奎安 / 王晶 / 西协美智子 / 中国香港 / 王晶 / 126 分钟 / 赌神 / 喜剧 / 剧情 / 王晶 Jing Wong / 粤语 / 日语 / 英语",
   "rating": 5,
-  "markedAt": "2019-06-10",
+  "markedAt": "2019-06-10 10:08:51",
   "estimatedMarkedAtRange": null,
   "comment": "又刷了一次，倒是第一次看粤语版，感觉带感很多",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1300883/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0097244/"
     }
   ]
 }

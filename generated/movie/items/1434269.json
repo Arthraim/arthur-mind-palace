@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1434269",
   "title": "黑炮事件",
-  "originalTitle": "(1986)",
+  "originalTitle": "黑砲事件 / The Black Cannon Incident",
   "year": "1986",
   "coverPath": "covers/movie/1434269.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2591996324.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1434269",
   "listSummary": "1986(中国大陆) / 刘子枫 / 盖尔哈德·奥尔谢夫斯基 / 高明 / 杨亚洲 / 汪漪 / 杨凤良 / 王北龙 / 赵秀玲 / 戈辉 / 谢炜 / 中国大陆 / 黄建新 / 99分钟 / 剧情 / 喜剧 / 李唯 Wei Li / 张贤亮 Xianliang Zhang / 汉语普通话 / 德语 / 英语",
   "rating": 4,
-  "markedAt": "2022-03-29",
+  "markedAt": "2022-03-29 06:48:15",
   "estimatedMarkedAtRange": null,
   "comment": "他站在教堂的门口，多少有点对现实失望的意思。吃冰棍的小男孩被妈妈放在门口，多少是有点对现实的天真希望。他没进去大概因为知识分子总是也还有一丝天真希望的。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1434269/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0091190/"
     }
   ]
 }

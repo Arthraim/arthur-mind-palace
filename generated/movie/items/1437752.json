@@ -3,14 +3,14 @@
   "sourceId": "1437752",
   "title": "红楼梦",
   "originalTitle": "(1944)",
-  "year": "1944",
+  "year": null,
   "coverPath": "covers/movie/1437752.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2584246953.webp",
   "doubanUrl": "https://movie.douban.com/subject/1437752/",
   "detailUrl": "/movie/1437752",
   "listSummary": "周璇 / 王丹凤 / 袁美云 / 白虹 / 舒丽娟 / 仓隐秋 / 欧阳莎菲 / 王蒂 / 刘琴 / 沈浩 / 中国大陆 / 卜万苍 / 125分钟 / 剧情 / 爱情 / 卜万苍 Wancang Bu / 汉语普通话",
   "rating": 4,
-  "markedAt": "2025-12-01",
+  "markedAt": "2025-12-01 10:44:15",
   "estimatedMarkedAtRange": null,
   "comment": "缺点还是前面有点赶，电影篇幅关系也只能落脚在宝黛钗的爱情故事上",
   "metadata": [
@@ -63,10 +63,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1437752/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0192127/"
     }
   ]
 }

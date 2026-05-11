@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25863940",
-  "title": "预告犯 予告犯",
-  "originalTitle": "(2015)",
+  "title": "预告犯",
+  "originalTitle": "予告犯 / Yokokuhan / Advanced Notice Criminal",
   "year": "2015",
   "coverPath": "covers/movie/25863940.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2232713173.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25863940",
   "listSummary": "2015-06-06(日本) / 生田斗真 / 户田惠梨香 / 铃木亮平 / 荒川良良 / 滨田岳 / 宅间孝行 / 坂口健太郎 / 洼田正孝 / 小松菜奈 / 福原耕平 / 日本 / yokoku-han.jp / 中村义洋 / 119分钟(日本) / 预告犯 / 悬疑 / 林民夫 Tamio Hayashi / 筒井哲也 / 日语",
   "rating": 3,
-  "markedAt": "2025-02-03",
+  "markedAt": "2025-02-03 15:29:25",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25863940/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3952226/"
     }
   ]
 }

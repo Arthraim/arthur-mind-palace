@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26628329",
   "title": "南极之恋",
-  "originalTitle": "(2018)",
+  "originalTitle": "南极绝恋 / Till the End of the World",
   "year": "2018",
   "coverPath": "covers/movie/26628329.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518028103.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26628329",
   "listSummary": "2018-02-01(中国大陆) / 赵又廷 / 杨子姗 / 白雪 / 孙迪 / 董杨 / 张梓然 / 中国大陆 / 吴有音 / 117分钟 / 爱情 / 冒险 / 吴有音 Youyin Wu / 汉语普通话",
   "rating": 4,
-  "markedAt": "2018-03-26",
+  "markedAt": "2018-03-26 00:42:51",
   "estimatedMarkedAtRange": null,
   "comment": "嘿，我还真觉得不错",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26628329/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7962598/"
     }
   ]
 }

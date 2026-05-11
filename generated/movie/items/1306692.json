@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1306692",
-  "title": "枪王 鎗王",
-  "originalTitle": "(2000)",
+  "title": "枪王",
+  "originalTitle": "鎗王 / Double Tap",
   "year": "2000",
   "coverPath": "covers/movie/1306692.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1934400144.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1306692",
   "listSummary": "2000-05-27(中国香港) / 张国荣 / 方中信 / 黄卓玲 / 陈法蓉 / 谷德昭 / 陈望华 / 张旭燊 / 黎志伟 / 戚务振 / 方平 / 中国香港 / 罗志良 / 96 分钟 / 89 分钟(美国) / 枪王 / 动作 / 犯罪 / 罗志良 Chi-Leung Law / 杨倩玲 Sin Ling Yeung / 李厚颀 / 杨展鸿 / 粤语",
   "rating": 3,
-  "markedAt": "2024-08-23",
+  "markedAt": "2024-08-23 01:32:07",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1306692/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0258489/"
     }
   ]
 }

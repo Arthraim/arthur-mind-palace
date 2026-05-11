@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35575567",
-  "title": "沙丘2 Dune: Part Two",
-  "originalTitle": "(2024)",
+  "title": "沙丘2",
+  "originalTitle": "Dune: Part Two / 沙丘：第二部(台) / 沙丘瀚战：第二章(港)",
   "year": "2024",
   "coverPath": "covers/movie/35575567.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2902227445.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35575567",
   "listSummary": "2024-02-28(法国) / 2024-03-01(美国) / 2024-03-08(中国大陆) / 提莫西·查拉梅 / 赞达亚 / 丽贝卡·弗格森 / 哈维尔·巴登 / 乔什·布洛林 / 奥斯汀·巴特勒 / 弗洛伦丝·皮尤 / 戴夫·巴蒂斯塔 / 克里斯托弗·沃肯 / 蕾雅·赛杜 / 美国 / 加拿大 / 丹尼斯·维伦纽瓦 / 166分钟 / 沙丘2 / 剧情 / 动作 / 科幻 / 冒险 / 丹尼斯·维伦纽瓦 Denis Villeneuve / 乔·斯派茨 Jon Spaihts / 英语",
   "rating": 5,
-  "markedAt": "2024-03-16",
+  "markedAt": "2024-03-16 00:50:36",
   "estimatedMarkedAtRange": null,
   "comment": "奇观的呈现搭配着配乐，都一次次让我想起银翼杀手2049。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35575567/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt15239678/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26220737",
-  "title": "圣斗士星矢 黄金魂 聖闘士星矢 -黄金魂 soul of gold-",
-  "originalTitle": "(2015)",
+  "title": "圣斗士星矢 黄金魂",
+  "originalTitle": "聖闘士星矢 -黄金魂 soul of gold- / Saint Seiya: Soul of Gold",
   "year": "2015",
   "coverPath": "covers/movie/26220737.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2238020136.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26220737",
   "listSummary": "2015-04-11(日本) / 田中秀幸 / 关俊彦 / 玄田哲章 / 神奈延年 / 三矢雄二 / 草尾毅 / 难波圭一 / 堀内贤雄 / 置鲇龙太郎 / 新井良平 / 日本 / saintseiya-gold.com / 古田丈司 / 竹内浩志 / 追崎史敏 / 永冈智佳 / 绵田慎也 / 26分钟 / 圣斗士星矢 黄金魂 / 动画 / 车田正美 Masami Kurumada / 竹内利光 Takeuchi Toshimitsu / 日语",
   "rating": 3,
-  "markedAt": "2018-09-26",
+  "markedAt": "2018-09-26 00:58:45",
   "estimatedMarkedAtRange": null,
   "comment": "在奥丁圣衣出现，十二个圣斗士再次集齐前还是不错的，埋下的反转什么的。其他时候都是鬼扯",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26220737/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4670988/"
     }
   ]
 }

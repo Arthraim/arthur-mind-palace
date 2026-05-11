@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35579652",
-  "title": "养蜂人 The Beekeeper",
-  "originalTitle": "(2024)",
+  "title": "养蜂人",
+  "originalTitle": "The Beekeeper / 蜂刑者(台) / 蜂神恶杀(港)",
   "year": "2024",
   "coverPath": "covers/movie/35579652.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2902861438.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35579652",
   "listSummary": "2024-01-12(美国/中国大陆) / 杰森·斯坦森 / 乔什·哈切森 / 杰瑞米·艾恩斯 / 艾美·拉韦尔-兰普曼 / 鲍比·纳德利 / 大卫·威茨 / 米迦勒·埃普 / 泰勒·詹姆斯 / 菲利西亚·拉斯海德 / 吉玛·雷德格里夫 / 美国 / 英国 / 大卫·阿耶 / 105分钟 / 养蜂人 / 动作 / 惊悚 / 科特·维莫 Kurt Wimmer / 英语",
   "rating": 3,
-  "markedAt": "2024-04-01",
+  "markedAt": "2024-04-01 17:17:50",
   "estimatedMarkedAtRange": null,
   "comment": "哈哈杰森斯坦森这种爽片我一个月愿意看一部，剧情无所谓，加点什么NFT啊什么的新元素就好",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35579652/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt15314262/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "30269016",
   "title": "半个喜剧",
-  "originalTitle": "(2019)",
+  "originalTitle": "如果，我不是我 / Almost a Comedy",
   "year": "2019",
   "coverPath": "covers/movie/30269016.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2576482356.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30269016",
   "listSummary": "2019-12-20(中国大陆) / 任素汐 / 吴昱翰 / 刘迅 / 汤敏 / 赵海燕 / 刘宸翎 / 裴魁山 / 梁瀛 / 于奥 / 梁翘柏 / 中国大陆 / 周申 / 刘露 / 111分钟 / 喜剧 / 爱情 / 周申 Shen Zhou / 刘露 Lu Liu / 汉语普通话",
   "rating": 3,
-  "markedAt": "2020-12-21",
+  "markedAt": "2020-12-21 23:30:12",
   "estimatedMarkedAtRange": null,
   "comment": "那个叫孙同的一会儿这样一会儿那样没啥说服力啊",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30269016/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11273332/"
     }
   ]
 }

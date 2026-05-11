@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "19971676",
-  "title": "黑衣人：全球追缉 Men in Black International",
-  "originalTitle": "(2019)",
+  "title": "黑衣人：全球追缉",
+  "originalTitle": "Men in Black International / MIB星际战警：跨国行动(台) / 黑超特警组：反转世界(港)",
   "year": "2019",
   "coverPath": "covers/movie/19971676.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558701068.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/19971676",
   "listSummary": "2019-06-12(中国台湾) / 2019-06-14(美国) / 2019-06-14(中国大陆) / 克里斯·海姆斯沃斯 / 泰莎·汤普森 / 丽贝卡·弗格森 / 库梅尔·南贾尼 / 拉菲·斯波 / 艾玛·汤普森 / 连姆·尼森 / 戴维娜·西塔拉姆 / 纳西尔·贾玛 / 维克托里娅·菲斯 / 美国 / F·加里·格雷 / 115分钟 / 黑衣人：全球追缉 / 喜剧 / 动作 / 科幻 / 劳威尔·坎宁安 Lowell Cunningham / 马特·霍洛维 Matt Holloway / 阿特·马库姆 Art Marcum / 英语",
   "rating": 2,
-  "markedAt": "2020-01-08",
+  "markedAt": "2020-01-08 04:47:05",
   "estimatedMarkedAtRange": null,
   "comment": "猜到一定会有women in black的梗………",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/19971676/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2283336/"
     }
   ]
 }

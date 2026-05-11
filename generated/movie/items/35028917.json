@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35028917",
-  "title": "改车大师：化腐朽为神奇 第二季 Car Masters: Rust to Riches Season 2",
-  "originalTitle": "(2020)",
+  "title": "改车大师：化腐朽为神奇 第二季",
+  "originalTitle": "Car Masters: Rust to Riches Season 2",
   "year": "2020",
   "coverPath": "covers/movie/35028917.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922248229.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35028917",
   "listSummary": "2020-03-27(美国) / 康斯坦斯·努内斯 / 美国 / 改车大师：化腐朽为神奇 / 35分钟 / 改车大师：化腐朽为神奇 / 真人秀 / Will Erbrecht / 英语",
   "rating": 4,
-  "markedAt": "2020-06-22",
+  "markedAt": "2020-06-22 01:38:25",
   "estimatedMarkedAtRange": null,
   "comment": "质量和第一季持平吧",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35028917/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12038406/"
     }
   ]
 }

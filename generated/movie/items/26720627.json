@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26720627",
-  "title": "报告老师！怪怪怪怪物！ 報告老師！怪怪怪怪物！",
-  "originalTitle": "(2017)",
+  "title": "报告老师！怪怪怪怪物！",
+  "originalTitle": "報告老師！怪怪怪怪物！ / Mon Mon Mon Monsters",
   "year": "2017",
   "coverPath": "covers/movie/26720627.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460047543.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26720627",
   "listSummary": "2017-04-23(中国香港电影节) / 2017-07-28(中国台湾) / 邓育凯 / 蔡凡熙 / 陈珮骐 / 刘奕儿 / 林姵妡 / 赖浚程 / 陶柏萌 / 梁洳瑄 / 乾德门 / 禾浩辰 / 中国台湾 / 九把刀 / 112分钟 / 报告老师！怪怪怪怪物！ / 剧情 / 恐怖 / 九把刀 Giddens Ko / 汉语普通话",
   "rating": 3,
-  "markedAt": "2021-09-14",
+  "markedAt": "2021-09-14 17:24:36",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26720627/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6648404/"
     }
   ]
 }

@@ -16,7 +16,7 @@
       "detailUrl": "/book/6710437",
       "listSummary": "三毛 / 北京十月文艺出版社 / 2011-1-7 / 24.00元",
       "rating": 5,
-      "markedAt": "2013-12-28",
+      "markedAt": "2013-12-28 23:20:02",
       "estimatedMarkedAtRange": null,
       "comment": "你眼中的世界。买来放在书架很久，终于有计划这个周末看完，今天5点不到拿起来读没想到一口气读完了。"
     },
@@ -31,7 +31,7 @@
       "detailUrl": "/book/20470934",
       "listSummary": "马伯庸 / 江苏文艺出版社 / 2013-4-1 / 29.90元",
       "rating": 4,
-      "markedAt": "2013-12-27",
+      "markedAt": "2013-12-27 09:58:50",
       "estimatedMarkedAtRange": null,
       "comment": "可惜没有我喜欢的角色太多的戏份，只有马承很怂的在白帝城走了一遭。书里后面的故事挺牵强的。"
     },
@@ -46,14 +46,14 @@
       "detailUrl": "/book/19965972",
       "listSummary": "马伯庸 / 浙江大学出版社 / 2012-12 / 29.80元",
       "rating": 4,
-      "markedAt": "2013-12-11",
+      "markedAt": "2013-12-11 18:04:39",
       "estimatedMarkedAtRange": null,
       "comment": "四个故事都好神，很难说最喜欢哪一个。。。 第一个最棒吧。。。"
     },
     {
       "kind": "book",
       "sourceId": "24882288",
-      "title": "古董局中局 2",
+      "title": "古董局中局 2 : 清明上河图之谜",
       "originalTitle": null,
       "year": "2013",
       "coverPath": "covers/book/24882288.jpg",
@@ -61,7 +61,7 @@
       "detailUrl": "/book/24882288",
       "listSummary": "马伯庸 / 江苏文艺出版社 / 2013-9-1 / 32",
       "rating": 4,
-      "markedAt": "2013-12-02",
+      "markedAt": "2013-12-02 10:35:32",
       "estimatedMarkedAtRange": null,
       "comment": "平淡很多啊（1赶来赶去都把我绕晕了），几乎就是一本道。看来亲王还是很喜欢药不然（硬掰回来了）和黄烟烟（丢在看守所里完全不去写她，对剧情也完全没有帮助，放在小说里可见亲王对她有爱但不会爱）的。"
     },
@@ -76,7 +76,7 @@
       "detailUrl": "/book/11612936",
       "listSummary": "马伯庸 / 凤凰出版社 / 2012-9 / 32.00元",
       "rating": 4,
-      "markedAt": "2013-11-21",
+      "markedAt": "2013-11-21 11:24:06",
       "estimatedMarkedAtRange": null,
       "comment": "比较不喜欢这种小说YY主人公，各种「你比XX强好多」，男主各种优越感。同时又比较不喜欢这种小说YY女主人公，各种身材好性格好这个好那个好，男主继续各种优越感。"
     },
@@ -91,14 +91,14 @@
       "detailUrl": "/book/25735727",
       "listSummary": "程浩（伯爵在城堡） / 广西师范大学出版社 / 2013-10 / 35.00",
       "rating": 5,
-      "markedAt": "2013-11-12",
+      "markedAt": "2013-11-12 00:17:15",
       "estimatedMarkedAtRange": null,
       "comment": "这个比我小6岁的弟弟看问题看得太透了。尤其喜欢他香蕉和苹果的比喻"
     },
     {
       "kind": "book",
       "sourceId": "10945606",
-      "title": "精益创业",
+      "title": "精益创业 : 新创企业的成长思维",
       "originalTitle": null,
       "year": "2012",
       "coverPath": "covers/book/10945606.jpg",
@@ -106,7 +106,7 @@
       "detailUrl": "/book/10945606",
       "listSummary": "[美] 埃里克·莱斯 / 吴彤 / 中信出版社 / 2012-8 / 49.00元",
       "rating": 4,
-      "markedAt": "2013-11-05",
+      "markedAt": "2013-11-05 15:34:49",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -121,22 +121,7 @@
       "detailUrl": "/book/1453210",
       "listSummary": "韩寒 / 二十一世纪出版社 / 2006-1 / 19.90元",
       "rating": 4,
-      "markedAt": "2013-10-18",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "book",
-      "sourceId": "4238754",
-      "title": "失恋33天",
-      "originalTitle": null,
-      "year": "2010",
-      "coverPath": "covers/book/4238754.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s6980516.jpg",
-      "detailUrl": "/book/4238754",
-      "listSummary": "鲍鲸鲸 / 中信出版社 / 2010-1 / 25.00元",
-      "rating": 5,
-      "markedAt": "2013-10-12",
+      "markedAt": "2013-10-18 01:00:14",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -151,7 +136,37 @@
       "detailUrl": "/book/11533585",
       "listSummary": "[英]乔治·奥威尔 / 郝海龙 / 字节社 / 2012-7-30 / 12",
       "rating": 5,
-      "markedAt": "2013-10-12",
+      "markedAt": "2013-10-12 08:20:32",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
+    {
+      "kind": "book",
+      "sourceId": "4238754",
+      "title": "失恋33天 : 小说，或是指南",
+      "originalTitle": null,
+      "year": "2010",
+      "coverPath": "covers/book/4238754.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s6980516.jpg",
+      "detailUrl": "/book/4238754",
+      "listSummary": "鲍鲸鲸 / 中信出版社 / 2010-1 / 25.00元",
+      "rating": 5,
+      "markedAt": "2013-10-12 08:18:40",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
+    {
+      "kind": "book",
+      "sourceId": "22993873",
+      "title": "宇宙之书 : 从托勒密、爱因斯坦到多重宇宙",
+      "originalTitle": null,
+      "year": "2013",
+      "coverPath": "covers/book/22993873.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s26031299.jpg",
+      "detailUrl": "/book/22993873",
+      "listSummary": "约翰•D.巴罗 (John D.Barrow) / 李剑龙 / 人民邮电出版社 / 2013-4-1 / 39.00元",
+      "rating": 4,
+      "markedAt": "2013-09-22 08:25:45",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -172,23 +187,8 @@
     },
     {
       "kind": "book",
-      "sourceId": "22993873",
-      "title": "宇宙之书",
-      "originalTitle": null,
-      "year": "2013",
-      "coverPath": "covers/book/22993873.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s26031299.jpg",
-      "detailUrl": "/book/22993873",
-      "listSummary": "约翰•D.巴罗 (John D.Barrow) / 李剑龙 / 人民邮电出版社 / 2013-4-1 / 39.00元",
-      "rating": 4,
-      "markedAt": "2013-09-22",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "book",
       "sourceId": "17724327",
-      "title": "盛夏的方程式",
+      "title": "盛夏的方程式 : 伽利略系列06",
       "originalTitle": null,
       "year": "2012",
       "coverPath": "covers/book/17724327.jpg",
@@ -196,7 +196,7 @@
       "detailUrl": "/book/17724327",
       "listSummary": "[日] 东野圭吾 / 袁斌 / 现代出版社 / 2012-12-1 / 28.00元",
       "rating": 4,
-      "markedAt": "2013-09-12",
+      "markedAt": "2013-09-12 08:32:41",
       "estimatedMarkedAtRange": null,
       "comment": "写的是人"
     },
@@ -211,7 +211,7 @@
       "detailUrl": "/book/4894876",
       "listSummary": "安东·圣埃克苏佩里 / 王之光 / 时代文艺出版社 / 2010年7月1日 / 29.80",
       "rating": 5,
-      "markedAt": "2013-09-08",
+      "markedAt": "2013-09-08 12:37:32",
       "estimatedMarkedAtRange": null,
       "comment": "更喜欢第一人称的灰行员"
     },
@@ -226,7 +226,7 @@
       "detailUrl": "/book/5992037",
       "listSummary": "蒋峰 / 中信出版社 / 2011-4 / 29.00元",
       "rating": 5,
-      "markedAt": "2013-09-07",
+      "markedAt": "2013-09-07 18:45:49",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -241,14 +241,14 @@
       "detailUrl": "/book/21371465",
       "listSummary": "(美)托马斯•哈里斯 / 杨昊成 / 译林出版社 / 2013-1 / 26.80元",
       "rating": 5,
-      "markedAt": "2013-09-01",
+      "markedAt": "2013-09-01 16:58:11",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
     {
       "kind": "book",
       "sourceId": "6431994",
-      "title": "悟空传",
+      "title": "悟空传 : 完美纪念版",
       "originalTitle": null,
       "year": "2011",
       "coverPath": "covers/book/6431994.jpg",
@@ -256,14 +256,14 @@
       "detailUrl": "/book/6431994",
       "listSummary": "今何在 / 湖南文艺出版社 / 2011-6 / 28.00元",
       "rating": 5,
-      "markedAt": "2013-08-26",
+      "markedAt": "2013-08-26 13:03:05",
       "estimatedMarkedAtRange": null,
       "comment": "相见恨晚！"
     },
     {
       "kind": "book",
       "sourceId": "5320866",
-      "title": "重来",
+      "title": "重来 : 更为简单有效的商业思维",
       "originalTitle": null,
       "year": "2010",
       "coverPath": "covers/book/5320866.jpg",
@@ -271,7 +271,7 @@
       "detailUrl": "/book/5320866",
       "listSummary": "[美] 贾森·弗里德、[丹] 戴维·海涅迈尔·汉森 / 李瑜偲 / 中信出版社 / 2010-10 / 36.00元",
       "rating": 5,
-      "markedAt": "2013-07-24",
+      "markedAt": "2013-07-24 08:54:58",
       "estimatedMarkedAtRange": null,
       "comment": "其中某一条激发了你的某些思考甚至改变了一些想法就是胜利了"
     },
@@ -286,14 +286,14 @@
       "detailUrl": "/book/5299764",
       "listSummary": "[英] 乔治·奥威尔 / 董乐山、傅惟慈 / 万卷出版公司 / 2010-10 / 25.00元",
       "rating": 4,
-      "markedAt": "2013-07-16",
+      "markedAt": "2013-07-16 13:03:35",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
     {
       "kind": "book",
       "sourceId": "6434486",
-      "title": "上帝掷骰子吗？",
+      "title": "上帝掷骰子吗？ : 量子物理史话",
       "originalTitle": null,
       "year": "2011",
       "coverPath": "covers/book/6434486.jpg",
@@ -301,14 +301,14 @@
       "detailUrl": "/book/6434486",
       "listSummary": "曹天元 / 辽宁教育出版社 / 2011-4-1 / 36.80元",
       "rating": 5,
-      "markedAt": "2013-07-11",
+      "markedAt": "2013-07-11 00:45:02",
       "estimatedMarkedAtRange": null,
       "comment": "太叼了！"
     },
     {
       "kind": "book",
       "sourceId": "6021440",
-      "title": "黑客与画家",
+      "title": "黑客与画家 : 硅谷创业之父Paul Graham文集",
       "originalTitle": null,
       "year": "2011",
       "coverPath": "covers/book/6021440.jpg",
@@ -316,14 +316,14 @@
       "detailUrl": "/book/6021440",
       "listSummary": "[美] Paul Graham / 阮一峰 / 人民邮电出版社 / 2011-4 / 49.00元",
       "rating": 4,
-      "markedAt": "2013-06-24",
+      "markedAt": "2013-06-24 18:38:54",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
     {
       "kind": "book",
       "sourceId": "10779604",
-      "title": "图灵的秘密",
+      "title": "图灵的秘密 : 他的生平、思想及论文解读",
       "originalTitle": null,
       "year": "2012",
       "coverPath": "covers/book/10779604.jpg",
@@ -331,7 +331,7 @@
       "detailUrl": "/book/10779604",
       "listSummary": "[美] Charles Petzold / 杨卫东 / 人民邮电出版社 / 2012-11 / 69.00元",
       "rating": 5,
-      "markedAt": "2013-06-17",
+      "markedAt": "2013-06-17 09:45:44",
       "estimatedMarkedAtRange": null,
       "comment": "看到图灵通用机的时候我就跟不上了，大段的跳过了证明过程，直接看结论。即便这样我也只能跪舔图灵的脚印。知道计算机伟大，知道这些人伟大，没想到这么伟大。。。"
     },
@@ -346,7 +346,7 @@
       "detailUrl": "/book/7060185",
       "listSummary": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2012-1 / 36.00元",
       "rating": 5,
-      "markedAt": "2013-05-25",
+      "markedAt": "2013-05-25 11:04:26",
       "estimatedMarkedAtRange": null,
       "comment": "本来以为这书畅销是因为优越感，不过不得不说还客观诚恳的"
     },
@@ -361,7 +361,7 @@
       "detailUrl": "/book/20442382",
       "listSummary": "那多 / 接力出版社 / 2012-12 / 28.00元",
       "rating": 4,
-      "markedAt": "2013-03-07",
+      "markedAt": "2013-03-07 12:51:39",
       "estimatedMarkedAtRange": null,
       "comment": "故事铺的很好，结局很怂。男主角的刻画很成功，很变态，我喜欢。。。不过为毛是独立的故事，继续期待其他坑。"
     },
@@ -376,27 +376,9 @@
       "detailUrl": "/book/19949020",
       "listSummary": "结城浩 / 管杰 / 人民邮电出版社 / 2012-10 / 49.00元",
       "rating": 3,
-      "markedAt": "2013-02-23",
+      "markedAt": "2013-02-23 10:41:47",
       "estimatedMarkedAtRange": null,
       "comment": "看了《数学之美》余温没退，看到别人在看这本于是好奇买了本瞄瞄"
-    },
-    {
-      "kind": "book",
-      "sourceId": "20427187",
-      "title": "看见",
-      "originalTitle": null,
-      "year": "2013",
-      "coverPath": "covers/book/20427187.jpg",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/zh/7/71/KanjianCover.jpg",
-      "detailUrl": "/book/20427187",
-      "listSummary": "柴静 / 广西师范大学出版社 / 2013-01-01 / 39.80元",
-      "rating": null,
-      "markedAt": "",
-      "estimatedMarkedAtRange": {
-        "start": "2013-01-21",
-        "end": "2013-01-31"
-      },
-      "comment": null
     },
     {
       "kind": "book",
@@ -409,9 +391,27 @@
       "detailUrl": "/book/10797274",
       "listSummary": "(美)马修·斯托弗、(美)罗伯特·E·瓦尔德曼 / 张本煜 / 凤凰出版社 / 2012-11 / 32.90元",
       "rating": 3,
-      "markedAt": "2013-01-31",
+      "markedAt": "2013-01-31 22:58:58",
       "estimatedMarkedAtRange": null,
       "comment": "本来以为能通过这本书梳理一下打满补丁的战神的故事线。没想到小说只是讲了第一代奎爷弑神的故事。唯一在游戏中体会不到的是雅典娜的视角。"
+    },
+    {
+      "kind": "book",
+      "sourceId": "20427187",
+      "title": "看见",
+      "originalTitle": null,
+      "year": "2013",
+      "coverPath": "covers/book/20427187.jpg",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/zh/7/71/KanjianCover.jpg",
+      "detailUrl": "/book/20427187",
+      "listSummary": "柴静 / 广西师范大学出版社 / 2013-01-01 / 39.80元",
+      "rating": null,
+      "markedAt": "2013-01-26 11:47:29",
+      "estimatedMarkedAtRange": {
+        "start": "2013-01-21",
+        "end": "2013-01-31"
+      },
+      "comment": null
     },
     {
       "kind": "book",
@@ -424,7 +424,7 @@
       "detailUrl": "/book/4202422",
       "listSummary": "(英) 大卫·米切尔 / 杨春雷 / 上海文艺出版社 / 2010-1-1 / 33.00元",
       "rating": 4,
-      "markedAt": "2013-01-21",
+      "markedAt": "2013-01-21 12:05:04",
       "estimatedMarkedAtRange": null,
       "comment": "必须说设计很赞，故事很一般"
     },
@@ -439,14 +439,14 @@
       "detailUrl": "/book/10750155",
       "listSummary": "吴军 / 人民邮电出版社 / 2012-5-1 / 45.00元",
       "rating": 4,
-      "markedAt": "2013-01-07",
+      "markedAt": "2013-01-07 15:37:02",
       "estimatedMarkedAtRange": null,
       "comment": "大部分内容都轻轻扫过有没有，还是对里面的八卦比较感兴趣"
     },
     {
       "kind": "book",
       "sourceId": "20326626",
-      "title": "少年Pi的奇幻漂流",
+      "title": "少年Pi的奇幻漂流 : （插图珍藏版）",
       "originalTitle": null,
       "year": "2012",
       "coverPath": "covers/book/20326626.jpg",
@@ -454,7 +454,7 @@
       "detailUrl": "/book/20326626",
       "listSummary": "[加拿大] 扬·马特尔 / 姚媛 / 译林出版社 / 2012-11 / 35.00元",
       "rating": 5,
-      "markedAt": "2012-12-18",
+      "markedAt": "2012-12-18 07:25:00",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

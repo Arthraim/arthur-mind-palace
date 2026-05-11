@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1293422",
-  "title": "监狱风云 監獄風雲",
-  "originalTitle": "(1987)",
+  "title": "监狱风云",
+  "originalTitle": "監獄風雲 / Prison on Fire",
   "year": "1987",
   "coverPath": "covers/movie/1293422.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2347371309.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1293422",
   "listSummary": "1987-11-13(中国香港) / 周润发 / 梁家辉 / 何家驹 / 张耀扬 / 黄光亮 / 吴志雄 / 成奎安 / 王文君 / 韩坤 / 霍瑞华 / 中国香港 / 林岭东 / 101分钟 / 监狱风云 / 剧情 / 动作 / 犯罪 / 南燕 Yin Nam / 粤语",
   "rating": 4,
-  "markedAt": "2023-12-23",
+  "markedAt": "2023-12-23 04:32:02",
   "estimatedMarkedAtRange": null,
   "comment": "记得我高中时候看过",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293422/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0093304/"
     }
   ]
 }

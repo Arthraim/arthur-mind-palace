@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27037053",
-  "title": "夜以继日 寝ても覚めても",
-  "originalTitle": "(2018)",
+  "title": "夜以继日",
+  "originalTitle": "寝ても覚めても / 睡了也好，醒来也好(港) / 睡着吻别，醒来抱拥(港)",
   "year": "2018",
   "coverPath": "covers/movie/27037053.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518349518.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27037053",
   "listSummary": "2018-05-14(戛纳电影节) / 2018-09-01(日本) / 东出昌大 / 唐田英里佳 / 濑户康史 / 山下莉绪 / 伊藤沙莉 / 渡边大知 / 仲本工事 / 田中美佐子 / 长内映里香 / 大西武志 / 日本 / 法国 / netemosametemo.jp / 滨口龙介 / 119分钟 / 夜以继日 / 剧情 / 爱情 / 田中幸子 Sachiko Tanaka / 滨口龙介 Ryûsuke Hamaguchi / 柴崎友香 Tomoka Shibasaki / 日语",
   "rating": 4,
-  "markedAt": "2021-04-26",
+  "markedAt": "2021-04-26 18:05:37",
   "estimatedMarkedAtRange": null,
   "comment": "那些看着像恐怖片一样的手法，可能是用来切题的吧。喜欢女主，诚实。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27037053/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7112154/"
     }
   ]
 }

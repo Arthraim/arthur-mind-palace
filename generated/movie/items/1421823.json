@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1421823",
-  "title": "娜娜 Nana",
-  "originalTitle": "(2005)",
+  "title": "娜娜",
+  "originalTitle": "Nana / 世上的另一个我 / NANA",
   "year": "2005",
   "coverPath": "covers/movie/1421823.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2256750022.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1421823",
   "listSummary": "2005-09-03(日本) / 中岛美嘉 / 宫崎葵 / 成宫宽贵 / 松山研一 / 纱荣子 / 松田龙平 / 平冈祐太 / 虎牙光挥 / 玉山铁二 / 柳原晴郎 / 日本 / 大谷健太郎 / 113 分钟 / 娜娜 / 剧情 / 音乐 / 矢泽爱 Ai Yazawa / 浅野妙子 Taeko Asano / 大谷健太郎 Kentarô Ôtani / 日语 / 英语",
   "rating": 4,
-  "markedAt": "2024-06-12",
+  "markedAt": "2024-06-12 00:01:59",
   "estimatedMarkedAtRange": null,
   "comment": "看完中岛美嘉演唱会特地找来看，上次看的时候17岁吧。。。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1421823/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0471834/"
     }
   ]
 }

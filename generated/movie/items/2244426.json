@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2244426",
-  "title": "雷霆沙赞！ Shazam!",
-  "originalTitle": "(2019)",
+  "title": "雷霆沙赞！",
+  "originalTitle": "Shazam! / 沙赞！神力集结(港) / 沙赞！(台)",
   "year": "2019",
   "coverPath": "covers/movie/2244426.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551249211.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2244426",
   "listSummary": "2019-04-05(美国) / 2019-04-05(中国大陆) / 扎克瑞·莱维 / 马克·斯特朗 / 亚瑟·安其 / 杰克·迪伦·格雷泽 / 杰曼·翰苏 / 费滋·赫尔曼 / 约万·阿曼德 / 陈琦烨 / 格雷斯·卡罗琳·柯里 / 亚当·布罗迪 / 美国 / 加拿大 / www.shazam-movie.net / 大卫·F·桑德伯格 / 132分钟 / 雷霆沙赞！ / 动作 / 奇幻 / 冒险 / 亨利·盖登 Henry Gayden / 达伦·莱姆克 Darren Lemke / 比尔·帕克 Bill Parker / C·C·贝克 C.C. Beck / 英语 / 西班牙语",
   "rating": 2,
-  "markedAt": "2019-07-14",
+  "markedAt": "2019-07-14 22:32:54",
   "estimatedMarkedAtRange": null,
   "comment": "不行就是不行",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2244426/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0448115/"
     }
   ]
 }

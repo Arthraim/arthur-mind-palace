@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "34795320",
-  "title": "夏季来时 夏、至るころ",
-  "originalTitle": "(2020)",
+  "title": "夏季来时",
+  "originalTitle": "夏、至るころ / 夏天到来的时候 / Town Without Sea",
   "year": "2020",
   "coverPath": "covers/movie/34795320.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614831139.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34795320",
   "listSummary": "2020-07-27(上海电影节) / 仓悠贵 / 安部贤一 / 杉野希妃 / 中川雅也 / 原日出子 / 高良健吾 / 渡边梨香子 / さいとうなり / 日本 / 池田依来沙 / 104分钟 / 夏季来时 / 剧情 / 下田悠子 Yuko Shimoda / 日语",
   "rating": 3,
-  "markedAt": "2020-07-27",
+  "markedAt": "2020-07-27 15:56:59",
   "estimatedMarkedAtRange": null,
   "comment": "能有电影看也算种幸福了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34795320/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13097272/"
     }
   ]
 }

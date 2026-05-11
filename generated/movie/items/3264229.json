@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3264229",
-  "title": "冥界警局 R.I.P.D.",
-  "originalTitle": "(2013)",
+  "title": "冥界警局",
+  "originalTitle": "R.I.P.D. / 衰鬼刑警(港) / 降魔战警(台)",
   "year": "2013",
   "coverPath": "covers/movie/3264229.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1965136192.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3264229",
   "listSummary": "2013-07-19(美国) / 瑞安·雷诺兹 / 杰夫·布里吉斯 / 凯文·贝肯 / 玛丽-露易丝·帕克 / 罗伯特·克耐普 / 吴汉章 / 迈克·奥麦利 / 斯特芬妮·斯佐斯塔克 / 派珀·麦肯锡·哈里斯 / 玛丽莎·米勒 / 美国 / www.ripd.com / 罗伯特·斯文克 / 96分钟 / 冥界警局 / 喜剧 / 动作 / 犯罪 / 奇幻 / 费尔·海伊 Phil Hay / 马特·曼弗莱迪 Matt Manfredi / Peter M. Lenkov / 英语",
   "rating": 3,
-  "markedAt": "2024-07-13",
+  "markedAt": "2024-07-13 22:52:58",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3264229/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0790736/"
     }
   ]
 }

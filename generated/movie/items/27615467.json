@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27615467",
-  "title": "大法官金斯伯格 RBG",
-  "originalTitle": "(2018)",
+  "title": "大法官金斯伯格",
+  "originalTitle": "RBG / 女大法官金斯伯格 / 鲁斯·巴德·金斯伯格",
   "year": "2018",
   "coverPath": "covers/movie/27615467.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511664915.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27615467",
   "listSummary": "2018-01-21(圣丹斯电影节) / 鲁斯·巴德·金斯伯格 / 比尔·克林顿 / 奥林·G·哈奇 / 拉什·林博 / 安东宁·斯卡利亚 / 格洛丽亚·斯泰纳姆 / 妮娜·托滕贝格 / 乔治·W· 布什 / 巴拉克·奥巴马 / 唐纳德·特朗普 / 美国 / 朱莉·科昂 / 贝齐·韦斯特 / Julie Cohen / 98分钟 / 大法官金斯伯格 / 传记 / 纪录片 / 英语",
   "rating": 5,
-  "markedAt": "2025-11-14",
+  "markedAt": "2025-11-14 21:20:03",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27615467/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7689964/"
     }
   ]
 }

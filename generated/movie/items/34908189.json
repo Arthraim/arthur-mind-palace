@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "34908189",
-  "title": "老友记重聚特辑 Friends: The Reunion",
-  "originalTitle": "(2021)",
+  "title": "老友记重聚特辑",
+  "originalTitle": "Friends: The Reunion / 六人行：当我们又在一起(台) / Friends Reunion Special",
   "year": "2021",
   "coverPath": "covers/movie/34908189.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2649579601.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/34908189",
   "listSummary": "2021-05-27(美国网络) / 詹妮弗·安妮斯顿 / 柯特妮·考克斯 / 马修·派瑞 / 大卫·休默 / 丽莎·库卓 / 马特·勒布朗 / 瑞茜·威瑟斯彭 / Lady Gaga / 大卫·贝克汉姆 / 贾斯汀·比伯 / 美国 / 本·温斯顿 / 老友记重聚特辑 / 104分钟 / 98分钟(删减版) / 老友记重聚特辑 / 喜剧 / 爱情 / 大卫·克拉尼 David Crane / 玛尔塔·考夫曼 Marta Kauffman / 英语",
   "rating": 4,
-  "markedAt": "2021-05-29",
+  "markedAt": "2021-05-29 12:35:48",
   "estimatedMarkedAtRange": null,
   "comment": "纯情怀啊……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/34908189/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11337862/"
     }
   ]
 }

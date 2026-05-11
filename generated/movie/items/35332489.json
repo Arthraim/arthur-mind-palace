@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35332489",
-  "title": "薇薇 -萤石眼之歌- Vivy -Fluorite Eye’s Song-",
-  "originalTitle": "(2021)",
+  "title": "薇薇 -萤石眼之歌-",
+  "originalTitle": "Vivy -Fluorite Eye’s Song- / ヴィヴィ-フローライトアイズソング-",
   "year": "2021",
   "coverPath": "covers/movie/35332489.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2662204788.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35332489",
   "listSummary": "2021-04-03(日本) / 种崎敦美 / 福山润 / 日笠阳子 / 明坂聪美 / 日高里菜 / 富田美忧 / 加藤将之 / 子安武人 / 小原好美 / 新垣樽助 / 日本 / vivy-portal.com / 江崎慎平 / 平向智子 / 丝贺慎太郎 / 24分钟 / 薇薇 -萤石眼之歌- / 动画 / 梅原英司 Eiji Umehara / 长月达平 Nagatsuki Tappei / 日语",
   "rating": 4,
-  "markedAt": "2021-07-26",
+  "markedAt": "2021-07-26 14:00:29",
   "estimatedMarkedAtRange": null,
   "comment": "周末刷完了，结局略有点失望",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35332489/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13851958/"
     }
   ]
 }

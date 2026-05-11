@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1293792",
   "title": "异形2",
-  "originalTitle": "Aliens",
+  "originalTitle": "Aliens / 异形Ⅱ / 异形续集",
   "year": "1986",
   "coverPath": "covers/movie/1293792.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2243611590.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1293792/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0090605/"
     }
   ]
 }

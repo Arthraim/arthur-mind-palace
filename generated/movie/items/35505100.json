@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35505100",
   "title": "这个杀手不太冷静",
-  "originalTitle": "(2022)",
+  "originalTitle": "Too Cool To Kill / 中国版魔幻时刻",
   "year": "2022",
   "coverPath": "covers/movie/35505100.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2814949620.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35505100",
   "listSummary": "2022-02-01(中国大陆) / 马丽 / 魏翔 / 陈明昊 / 周大勇 / 黄才伦 / 艾伦 / 高海宝 / 韩德笑 / 孙贵权 / 许猛 / 中国大陆 / 邢文雄 / 109分钟 / 喜剧 / 邢文雄 Wenxiong Xing / 汉语普通话",
   "rating": 3,
-  "markedAt": "2022-07-15",
+  "markedAt": "2022-07-15 10:45:43",
   "estimatedMarkedAtRange": null,
   "comment": "蛮适合洗脚的时候看的。。。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35505100/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt16254308/"
     }
   ]
 }

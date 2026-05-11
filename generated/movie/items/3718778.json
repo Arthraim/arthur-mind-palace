@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3718778",
-  "title": "永远的车神 Senna",
-  "originalTitle": "(2011)",
+  "title": "永远的车神",
+  "originalTitle": "Senna / 极速传奇：冼拿(港) / 车神洗拿(台)",
   "year": "2011",
   "coverPath": "covers/movie/3718778.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p736808474.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3718778",
   "listSummary": "2011-06-03(英国) / 艾尔顿·塞纳 / Reginaldo Leme / John Bisignano / Neyde Senna / Richard Williams / Mili Okada / Ron Dennis / Viviane Senna / 阿兰·普罗斯特 / Pierre Van Vliet / 英国 / 法国 / 美国 / 阿斯弗·卡帕迪尔 / 106分钟 / 162分钟(蓝光版) / 永远的车神 / 传记 / 纪录片 / 运动 / Manish Pandey / 英语 / 葡萄牙语 / 法语 / 日语",
   "rating": 5,
-  "markedAt": "2019-04-29",
+  "markedAt": "2019-04-29 02:02:30",
   "estimatedMarkedAtRange": null,
   "comment": "哭",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3718778/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1424432/"
     }
   ]
 }

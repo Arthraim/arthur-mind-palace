@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "10484041",
   "title": "横道世之介",
-  "originalTitle": "(2013)",
+  "originalTitle": "那年遇上世之介(港) / A Story of Yonosuke",
   "year": "2013",
   "coverPath": "covers/movie/10484041.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2021127692.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/10484041",
   "listSummary": "2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
   "rating": 5,
-  "markedAt": "2018-05-20",
+  "markedAt": "2018-05-20 21:10:59",
   "estimatedMarkedAtRange": null,
   "comment": "做这样的一个人多好",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/10484041/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2151915/"
     }
   ]
 }

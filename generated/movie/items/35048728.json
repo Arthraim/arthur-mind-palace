@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35048728",
-  "title": "曼达洛人 第三季 The Mandalorian Season 3",
-  "originalTitle": "(2023)",
+  "title": "曼达洛人 第三季",
+  "originalTitle": "The Mandalorian Season 3 / 星球大战：曼达洛人 / Star Wars: The Mandalorian",
   "year": "2023",
   "coverPath": "covers/movie/35048728.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2887343397.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35048728",
   "listSummary": "2023-03-01(美国) / 佩德罗·帕斯卡 / 凯缇·萨克霍夫 / 艾米莉·斯沃洛 / 卡尔·韦瑟斯 / 吉安卡罗·埃斯波西托 / 塔伊加·维迪提 / 艾米·塞德丽丝 / 凯蒂·M·奥布莱恩 / 奥米德·阿布塔西 / 特穆拉·莫里森 / 美国 / 瑞克·法穆易瓦 / 瑞秋·莫里森 / 李·以萨克·郑 / 卡尔·韦瑟斯 / 彼得·拉姆齐 / 布莱丝·达拉斯·霍华德 / 曼达洛人 / 40分钟 / 曼达洛人 / 动作 / 科幻 / 奇幻 / 冒险 / 乔恩·费儒 Jon Favreau / 诺亚·克鲁尔 Noah Kloor / 戴夫·菲洛尼 Dave Filoni / 英语",
   "rating": 4,
-  "markedAt": "2023-05-21",
+  "markedAt": "2023-05-21 12:19:40",
   "estimatedMarkedAtRange": null,
   "comment": "这季没有了之前的西部感，夺回曼达洛的动机也略显迂腐",
   "metadata": [
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35048728/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt12187072/"
     }
   ]
 }

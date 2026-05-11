@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26538787",
-  "title": "机动战士高达 铁血的奥尔芬斯 機動戦士ガンダム 鉄血のオルフェンズ",
-  "originalTitle": "(2015)",
+  "title": "机动战士高达 铁血的奥尔芬斯",
+  "originalTitle": "機動戦士ガンダム 鉄血のオルフェンズ / 机动战士高达：铁血的孤儿 / 機動戦士ガンダムGの鉄血",
   "year": "2015",
   "coverPath": "covers/movie/26538787.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517465468.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26538787",
   "listSummary": "2015-10-04(日本) / 河西健吾 / 细谷佳正 / 花江夏树 / 梅原裕一郎 / 内匠靖明 / 村田太志 / 天崎滉平 / 田村睦心 / 齐藤壮马 / 寺崎裕香 / 日本 / g-tekketsu.com / 长井龙雪 / 大桥誉志光 / 三宅和男 / 绵田慎也 / 大和直道 / 大久保朋 / 上田茂 / 26分钟 / 机动战士高达 铁血的奥尔芬斯 / 科幻 / 动画 / 冈田麿里 Mari Okada / 鸭志田一 Kamoshida Hajime / 根元岁三 Nemoto Toshizou / 土屋理敬 Michihiro Tsuchiya / 大西信介 Nobusuke Ônishi / 富野由悠季 Yoshiyuki Tomino / 矢立肇 Hajime Yatate / 日语",
   "rating": 3,
-  "markedAt": "2024-10-27",
+  "markedAt": "2024-10-27 02:09:03",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26538787/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5344382/"
     }
   ]
 }

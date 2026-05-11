@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26785790",
   "title": "沙海",
-  "originalTitle": "(2018)",
+  "originalTitle": "盗墓笔记之沙海 / 盗墓笔记少年篇之沙海",
   "year": "2018",
   "coverPath": "covers/movie/26785790.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527072332.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26785790",
   "listSummary": "2018-07-20(中国大陆) / 吴磊 / 秦昊 / 张萌 / 杨蓉 / 季晨 / 朱杰 / 朱戬 / 王皓轩 / 陈泇文 / 陈明昊 / 中国大陆 / 毛鲲宇 / 李泽露 / 邹曦 / 45分钟 / 剧情 / 南派三叔 Lei Xu / 汤祈岑 Qicen Tang / 张鸢盎 Yuan'ang Zhang / 汉语普通话",
   "rating": 3,
-  "markedAt": "2018-09-24",
+  "markedAt": "2018-09-24 00:00:20",
   "estimatedMarkedAtRange": null,
   "comment": "害行，设定还挺喜欢的",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26785790/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9248602/"
     }
   ]
 }

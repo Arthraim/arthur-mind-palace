@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1301231",
-  "title": "电话谋杀案 Dial M for Murder",
-  "originalTitle": "(1954)",
+  "title": "电话谋杀案",
+  "originalTitle": "Dial M for Murder / 电话情杀案",
   "year": "1954",
   "coverPath": "covers/movie/1301231.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1205111193.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1301231",
   "listSummary": "1954-05-29(美国) / 雷·米兰德 / 格蕾丝·凯利 / 罗伯特·卡明斯 / 约翰·威廉姆斯 / 安东尼·道森 / 利奥·布里特 / 帕特里克·艾伦 / 乔治·利 / 罗温·休斯 / 盖·唐尔曼 / 美国 / 阿尔弗雷德·希区柯克 / 105分钟 / 88分钟(葡萄牙) / 电话谋杀案 / 犯罪 / 悬疑 / 惊悚 / 弗雷德里克·诺特 Frederick Knott / 英语",
   "rating": 5,
-  "markedAt": "2024-01-18",
+  "markedAt": "2024-01-18 08:39:53",
   "estimatedMarkedAtRange": null,
   "comment": "几乎是一个舞台剧，经精彩",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1301231/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0046912/"
     }
   ]
 }

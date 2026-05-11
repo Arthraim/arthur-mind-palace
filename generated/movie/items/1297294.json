@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1297294",
-  "title": "迷魂记 Vertigo",
-  "originalTitle": "(1958)",
+  "title": "迷魂记",
+  "originalTitle": "Vertigo / 眩晕 / Alfred Hitchcock's Vertigo",
   "year": "1958",
   "coverPath": "covers/movie/1297294.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1275162115.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1297294",
   "listSummary": "1958-05-09(美国) / 詹姆斯·斯图尔特 / 金·诺瓦克 / 芭芭拉·贝尔·戈迪斯 / 汤姆·赫尔莫 / 亨瑞·琼斯 / 雷蒙德·贝利 / 埃伦·科比 / 康斯坦丁肖恩 / 李·帕特里克 / 丹尼·鲍沙其 / 美国 / 阿尔弗雷德·希区柯克 / 128 分钟 / 迷魂记 / 爱情 / 悬疑 / 惊悚 / 亚历克·科佩尔 Alec Coppel / 萨缪尔·A·泰勒 Samuel A. Taylor / 皮埃尔·布瓦洛 Pierre Boileau / 托马·纳西雅克 Thomas Narcejac / 马克斯韦尔·安德森 Maxwell Anderson / 英语",
   "rating": 5,
-  "markedAt": "2024-01-18",
+  "markedAt": "2024-01-18 20:48:20",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1297294/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0052357/"
     }
   ]
 }

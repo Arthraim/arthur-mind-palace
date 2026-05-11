@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "3217142",
-  "title": "通灵神探 Solace",
-  "originalTitle": "(2015)",
+  "title": "通灵神探",
+  "originalTitle": "Solace / 安慰 / Prémonitions",
   "year": "2015",
   "coverPath": "covers/movie/3217142.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2300255376.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3217142/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1291570/"
     }
   ]
 }

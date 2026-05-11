@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "23232876",
-  "title": "权力的游戏 第四季 Game of Thrones Season 4",
-  "originalTitle": "(2014)",
+  "title": "权力的游戏 第四季",
+  "originalTitle": "Game of Thrones Season 4 / 冰与火之歌：权力的游戏 第四季 / 王座游戏 第四季",
   "year": "2014",
   "coverPath": "covers/movie/23232876.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2172313849.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/23232876/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2816136/"
     }
   ]
 }

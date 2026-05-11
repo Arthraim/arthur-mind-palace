@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "20277433",
-  "title": "焦点 Focus",
-  "originalTitle": "(2015)",
+  "title": "焦点",
+  "originalTitle": "Focus / 决胜焦点(台) / 千骗万化 (港)",
   "year": "2015",
   "coverPath": "covers/movie/20277433.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2228702598.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/20277433",
   "listSummary": "2015-02-27(美国) / 威尔·史密斯 / 玛格特·罗比 / 阿德里安·马丁斯 / 杰拉尔德·麦克雷尼 / 罗德里戈·桑托罗 / 黄荣亮 / 布雷南·布朗 / 罗伯特·泰勒 / 格里夫·弗斯特 / 斯蒂芬妮·奥诺雷 / 美国 / focusmovie.com / 格伦·费卡拉 / 约翰·里夸 / 105分钟 / 焦点 / 剧情 / 喜剧 / 犯罪 / 格伦·费卡拉 Glenn Ficarra / 约翰·里夸 John Requa / 英语",
   "rating": 3,
-  "markedAt": "2023-07-08",
+  "markedAt": "2023-07-08 23:15:26",
   "estimatedMarkedAtRange": null,
   "comment": "诺基亚win phone植入广告勾起很多回忆，三年后的剧情差的离谱",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/20277433/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2381941/"
     }
   ]
 }

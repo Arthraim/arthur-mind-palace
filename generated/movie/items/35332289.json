@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35332289",
   "title": "开端",
-  "originalTitle": "(2022)",
+  "originalTitle": "Reset",
   "year": "2022",
   "coverPath": "covers/movie/35332289.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2843045720.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35332289",
   "listSummary": "2022-01-11(中国大陆) / 白敬亭 / 赵今麦 / 刘奕君 / 刘涛 / 黄觉 / 刘丹 / 宋家腾 / 曾柯琅 / 张喜前 / 马兰 / 中国大陆 / 孙墨龙 / 刘洪源 / 算 / 45分钟 / 剧情 / 祈祷君 Daojun Qi / 邱玉洁 Yujie Qiu / 老算 Passsee Mu / 黄凯文 KaiWen Huang / 袁继犀 / 魏市宁 / 汉语普通话",
   "rating": 4,
-  "markedAt": "2022-02-09",
+  "markedAt": "2022-02-09 18:27:20",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35332289/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt17506706/"
     }
   ]
 }

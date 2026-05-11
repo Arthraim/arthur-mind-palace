@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27203644",
-  "title": "尼罗河上的惨案 Death on the Nile",
-  "originalTitle": "(2022)",
+  "title": "尼罗河上的惨案",
+  "originalTitle": "Death on the Nile / 尼罗河谋杀案(港/台)",
   "year": "2022",
   "coverPath": "covers/movie/27203644.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2854856216.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27203644",
   "listSummary": "2022-02-11(美国) / 2022-02-19(中国大陆) / 肯尼思·布拉纳 / 盖尔·加朵 / 露丝·莱斯利 / 莱蒂希娅·赖特 / 艾玛·麦基 / 艾米·汉莫 / 珍妮弗·桑德斯 / 苏菲·奥康内多 / 安妮特·贝宁 / 妮基塔·查达哈 / 美国 / 英国 / 肯尼思·布拉纳 / 127分钟 / 尼罗河上的惨案 / 剧情 / 犯罪 / 悬疑 / 迈克尔·格林 Michael Green / 阿加莎·克里斯蒂 Agatha Christie / 英语",
   "rating": 2,
-  "markedAt": "2023-12-17",
+  "markedAt": "2023-12-17 16:12:45",
   "estimatedMarkedAtRange": null,
   "comment": "为什么视觉要拍成了不起的盖茨比。。。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27203644/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7657566/"
     }
   ]
 }

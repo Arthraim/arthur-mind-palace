@@ -10,7 +10,7 @@
   "detailUrl": "/movie/3901388",
   "listSummary": "1993-07-01(中国大陆) / 1994-04-25(中国香港) / 文兴宇 / 宋丹丹 / 杨立新 / 梁天 / 关凌 / 赵明明 / 沈羽倩 / 刘蓓 / 李蕴桥 / 句号 / 中国大陆 / 英达 / 林丛 / 20分钟 / 喜剧 / 家庭 / 梁左 Zuo Liang / 英壮 Zhuang Ying / 梁欢 Huan Liang / 臧里 Li Zang / 汉语普通话 / 北京话",
   "rating": 5,
-  "markedAt": "2023-07-24",
+  "markedAt": "2023-07-24 19:15:23",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3901388/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1332701/"
     }
   ]
 }

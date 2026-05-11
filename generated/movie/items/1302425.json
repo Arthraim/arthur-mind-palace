@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1302425",
-  "title": "喜剧之王 喜劇之王",
-  "originalTitle": "(1999)",
+  "title": "喜剧之王",
+  "originalTitle": "喜劇之王 / King of Comedy",
   "year": "1999",
   "coverPath": "covers/movie/1302425.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917778954.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1302425",
   "listSummary": "1999-02-13(中国香港) / 周星驰 / 张柏芝 / 莫文蔚 / 吴孟达 / 林子善 / 田启文 / 李兆基 / 成龙 / 李思捷 / 郑文辉 / 中国香港 / 周星驰 / 李力持 / 89分钟 / 喜剧之王 / 喜剧 / 剧情 / 爱情 / 曾谨昌 Kan-Cheung Tsang / 周星驰 Stephen Chow / 李敏 Erica Lee / 郑文辉 Man-Fai Cheng / 冯勉恒 Min Hun Fung / 梁嘉杰 Ka-Kit Leung / 粤语",
   "rating": 4,
-  "markedAt": "2022-09-13",
+  "markedAt": "2022-09-13 22:16:13",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1302425/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0188766/"
     }
   ]
 }

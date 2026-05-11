@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26972275",
-  "title": "恋爱回旋 ミックス。",
-  "originalTitle": "(2017)",
+  "title": "恋爱回旋",
+  "originalTitle": "ミックス。 / 混合双打 / 乒乓情人梦(港)",
   "year": "2017",
   "coverPath": "covers/movie/26972275.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515437624.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26972275",
   "listSummary": "2017-10-21(日本) / 2018-03-09(中国大陆) / 新垣结衣 / 永山瑛太 / 广末凉子 / 苍井优 / 濑户康史 / 永野芽郁 / 山口纱弥加 / 佐野勇斗 / 远藤宪一 / 森崎博之 / 日本 / mix-movie.jp / 石川淳一 / 119分钟 / 恋爱回旋 / 喜剧 / 运动 / 古泽良太 Ryota Kosawa / 日语",
   "rating": 5,
-  "markedAt": "2018-03-10",
+  "markedAt": "2018-03-10 00:47:30",
   "estimatedMarkedAtRange": null,
   "comment": "电影本身很不错，真的你们要相信我，这五颗星全都是给电影不是给我老婆的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26972275/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4265596/"
     }
   ]
 }

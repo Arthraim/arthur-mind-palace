@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26387728",
   "title": "极限挑战 第一季",
-  "originalTitle": "(2015)",
+  "originalTitle": "极限挑战真人秀 / Go Fighting",
   "year": "2015",
   "coverPath": "covers/movie/26387728.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603241359.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26387728",
   "listSummary": "2015-06-14(中国大陆) / 黄渤 / 孙红雷 / 黄磊 / 罗志祥 / 张艺兴 / 王迅 / 陈乔恩 / 郭涛 / 周冬雨 / 陈柏霖 / 中国大陆 / 任静 / 严敏 / 110分钟 / 真人秀 / 汉语普通话",
   "rating": 5,
-  "markedAt": "2022-12-26",
+  "markedAt": "2022-12-26 17:07:25",
   "estimatedMarkedAtRange": null,
   "comment": "发烧睡不着的时候随便点开看的，太精彩了吧 =。= 看完了一季",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26387728/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7131118/"
     }
   ]
 }

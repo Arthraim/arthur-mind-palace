@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1309163",
-  "title": "恋恋笔记本 The Notebook",
-  "originalTitle": "(2004)",
+  "title": "恋恋笔记本",
+  "originalTitle": "The Notebook / 忘了·忘不了(港) / 手札情缘(台)",
   "year": "2004",
   "coverPath": "covers/movie/1309163.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1309163",
   "listSummary": "2004-06-25(美国) / 瑞恩·高斯林 / 瑞秋·麦克亚当斯 / 吉娜·罗兰兹 / 詹姆斯·加纳 / 斯塔尔勒塔·杜波利斯 / 凯文·康诺利 / 希瑟·沃奎斯特 / 杰弗里·奈特 / 琼·艾伦 / 詹姆斯·麦斯登 / 美国 / 尼克·卡萨维蒂 / 123分钟 / 恋恋笔记本 / 剧情 / 爱情 / 扬·萨尔迪 Jan Sardi / 杰里米·莱文 Jeremy Leven / 尼古拉斯·斯帕克斯 Nicholas Sparks / 英语",
   "rating": 5,
-  "markedAt": "2020-01-08",
+  "markedAt": "2020-01-08 05:09:09",
   "estimatedMarkedAtRange": null,
   "comment": "符合纯爱片特点，片子里所有的人都很善良…… 我要是那个兵哥哥/小寡妇/女主妈……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1309163/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0332280/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26147417",
-  "title": "神奇动物：格林德沃之罪 Fantastic Beasts: The Crimes of Grindelwald",
-  "originalTitle": "(2018)",
+  "title": "神奇动物：格林德沃之罪",
+  "originalTitle": "Fantastic Beasts: The Crimes of Grindelwald / 神奇动物在哪里2：格林德沃之罪 / 怪兽与葛林戴华德之罪(港)",
   "year": "2018",
   "coverPath": "covers/movie/26147417.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2538826177.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26147417",
   "listSummary": "2018-11-16(中国大陆) / 2018-11-16(美国) / 埃迪·雷德梅恩 / 凯瑟琳·沃特斯顿 / 约翰尼·德普 / 裘德·洛 / 埃兹拉·米勒 / 丹·福勒 / 艾莉森·萨多尔 / 佐伊·克罗维兹 / 卡勒姆·特纳 / 金秀贤 / 美国 / 英国 / www.fantasticbeasts.net / 大卫·叶茨 / 134分钟 / 142分钟(加长版) / 神奇动物：格林德沃之罪 / 奇幻 / 冒险 / J·K·罗琳 J.K. Rowling / 英语",
   "rating": 4,
-  "markedAt": "2019-02-25",
+  "markedAt": "2019-02-25 07:08:48",
   "estimatedMarkedAtRange": null,
   "comment": "有意思的部分在最后身世的揭晓。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26147417/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4123430/"
     }
   ]
 }

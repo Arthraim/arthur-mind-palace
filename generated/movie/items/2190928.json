@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2190928",
-  "title": "刑事侦缉档案2 刑事偵緝檔案Ⅱ",
-  "originalTitle": "(1995)",
+  "title": "刑事侦缉档案2",
+  "originalTitle": "刑事偵緝檔案Ⅱ / 香港警察 / Detective Investigation Files Ⅱ",
   "year": "1995",
   "coverPath": "covers/movie/2190928.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2539578017.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2190928",
   "listSummary": "1995-12-11(中国香港) / 陶大宇 / 郭可盈 / 郭蔼明 / 梁荣忠 / 苏玉华 / 郑秀文 / 林漪娸 / 楼南光 / 苏杏璇 / 陈美琪 / 中国香港 / 黄伟声 / 黄伟森 / 唐凤珍 / 陈维冠 / 潘嘉德 / 45分钟 / 刑事侦缉档案2 / 剧情 / 悬疑 / 犯罪 / 欧冠英 Guanying Ou / 曾凤如 Fengru Zeng / 关静雯 Jingwen Guan / 邹锦安 Jingan Zhou / 粤语",
   "rating": 4,
-  "markedAt": "2024-04-14",
+  "markedAt": "2024-04-14 02:32:12",
   "estimatedMarkedAtRange": null,
   "comment": "郑秀文出场前我是真的喜欢郭可盈😂",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2190928/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6183260/"
     }
   ]
 }

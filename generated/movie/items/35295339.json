@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35295339",
-  "title": "峡谷 The Gorge",
-  "originalTitle": "(2025)",
+  "title": "峡谷",
+  "originalTitle": "The Gorge / 禁谷",
   "year": "2025",
   "coverPath": "covers/movie/35295339.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916136841.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35295339",
   "listSummary": "2025-02-14(美国网络) / 迈尔斯·特勒 / 安雅·泰勒-乔伊 / 西格妮·韦弗 / 索佩·迪瑞苏 / 威廉·休斯顿 / 寇布勒·霍尔德布鲁克-史密斯 / 詹姆斯·马洛 / 朱丽安娜·库洛卡娃 / 露塔·格德米纳斯 / 奥利弗·特雷韦纳 / 英国 / 美国 / 斯科特·德瑞克森 / 127分钟 / 峡谷 / 动作 / 爱情 / 科幻 / 冒险 / 恐怖 / 扎克·迪恩 Zach Dean / 英语 / 立陶宛语",
   "rating": 3,
-  "markedAt": "2025-02-16",
+  "markedAt": "2025-02-16 02:10:00",
   "estimatedMarkedAtRange": null,
   "comment": "额。。。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35295339/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt13654226/"
     }
   ]
 }

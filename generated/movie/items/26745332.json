@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26745332",
-  "title": "花月杀手 Killers of the Flower Moon",
-  "originalTitle": "(2023)",
+  "title": "花月杀手",
+  "originalTitle": "Killers of the Flower Moon / 花开之月的杀手",
   "year": "2023",
   "coverPath": "covers/movie/26745332.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897460998.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26745332",
   "listSummary": "2023-05-20(戛纳国际电影节) / 2023-10-20(美国) / 莱昂纳多·迪卡普里奥 / 罗伯特·德尼罗 / 莉莉·格莱斯顿 / 杰西·普莱蒙 / 坦图·卡丁诺 / 约翰·利思戈 / 布兰登·费舍 / 卡拉·杰德·迈尔斯 / 亚内·科林斯 / 吉莉安·迪昂 / 美国 / 马丁·斯科塞斯 / 206分钟 / 花月杀手 / 剧情 / 历史 / 爱情 / 犯罪 / 西部 / 悬疑 / 埃里克·罗思 Eric Roth / 马丁·斯科塞斯 Martin Scorsese / 英语 / 拉丁语 / 法语 / 欧塞奇语",
   "rating": 4,
-  "markedAt": "2025-02-19",
+  "markedAt": "2025-02-19 00:26:45",
   "estimatedMarkedAtRange": null,
   "comment": "如果你80了，想表达什么给别人看",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26745332/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5537002/"
     }
   ]
 }

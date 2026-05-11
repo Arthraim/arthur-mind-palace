@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1294323",
-  "title": "第一滴血 First Blood",
-  "originalTitle": "(1982)",
+  "title": "第一滴血",
+  "originalTitle": "First Blood / 兰博 / Rambo: First Blood",
   "year": "1982",
   "coverPath": "covers/movie/1294323.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2485300934.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1294323",
   "listSummary": "1982-10-22 / 西尔维斯特·史泰龙 / 理查德·克里纳 / 布莱恩·丹内利 / 比尔·麦金尼 / 杰克·斯塔雷特 / Michael Talbott / 克里斯·马尔基 / 约翰·麦克利亚姆 / 大卫·卡罗素 / 查尔斯·A·坦伯罗 / 美国 / 特德·科特切夫 / 93分钟 / 第一滴血 / 剧情 / 动作 / 冒险 / 迈克尔·科佐尔 Michael Kozoll / 威廉·沙克海姆 William Sackheim / 西尔维斯特·史泰龙 Sylvester Stallone / 英语",
   "rating": 4,
-  "markedAt": "2023-07-02",
+  "markedAt": "2023-07-02 23:53:14",
   "estimatedMarkedAtRange": null,
   "comment": "原来传说中的rambo是个ptsd的越战老兵",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1294323/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0083944/"
     }
   ]
 }

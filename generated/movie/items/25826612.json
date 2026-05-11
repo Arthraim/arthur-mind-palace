@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "25826612",
-  "title": "权力的游戏 第五季 Game of Thrones Season 5",
-  "originalTitle": "(2015)",
+  "title": "权力的游戏 第五季",
+  "originalTitle": "Game of Thrones Season 5 / 冰与火之歌：权力的游戏 第五季 / 王座游戏 第五季",
   "year": "2015",
   "coverPath": "covers/movie/25826612.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2230256732.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25826612/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3658012/"
     }
   ]
 }

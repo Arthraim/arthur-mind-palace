@@ -1,16 +1,16 @@
 {
   "kind": "movie",
   "sourceId": "3807886",
-  "title": "广告狂人 第三季 Mad Men Season 3",
-  "originalTitle": "(2009)",
+  "title": "广告狂人 第三季",
+  "originalTitle": "Mad Men Season 3 / 麦迪逊狂人 第三季",
   "year": "2009",
   "coverPath": "covers/movie/3807886.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1384332006.webp",
   "doubanUrl": "https://movie.douban.com/subject/3807886/",
   "detailUrl": "/movie/3807886",
-  "listSummary": "2009-08-16 / 乔恩·哈姆 / 詹纽瑞·琼斯 / 伊丽莎白·莫斯 / 克里斯蒂娜·亨德里克斯 / 约翰·斯拉特里 / 文森特·卡塞瑟 / 黛博拉·莱西 / 塔利亚·巴尔萨姆 / 克里斯托弗·普拉哈 / 唐·阿伯纳西 / 美国 / 阿兰·泰勒 / 莱丝莉·琳卡·格拉特 / 菲尔·亚伯拉罕 / 马修·韦纳 / 詹妮弗·盖辛格 / 斯考特·霍恩巴契 / 巴贝特·施罗德 / 迈克尔·乌彭达尔 / 广告狂人 / 广告狂人 / 剧情 / 马修·韦纳 Matthew Weiner / 英语",
+  "listSummary": "2009-08-16 / 乔恩·哈姆 / 詹纽瑞·琼斯 / 伊丽莎白·莫斯 / 克里斯蒂娜·亨德里克斯 / 约翰·斯拉特里 / 文森特·卡塞瑟 / 达伦·佩蒂 / 爱丽森·布里 / 迈克尔·盖拉迪斯 / 克里斯托弗·斯坦利 / 美国 / 阿兰·泰勒 / 詹妮弗·盖辛格 / 斯考特·霍恩巴契 / 菲尔·亚伯拉罕 / 莱丝莉·琳卡·格拉特 / 巴贝特·施罗德 / 迈克尔·乌彭达尔 / 马修·韦纳 / 广告狂人 / 广告狂人 / 剧情 / 马修·韦纳 Matthew Weiner / 英语",
   "rating": 5,
-  "markedAt": "2020-05-18",
+  "markedAt": "2020-05-18 12:39:19",
   "estimatedMarkedAtRange": null,
   "comment": "最后太精彩了",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3807886/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1439792/"
     }
   ]
 }

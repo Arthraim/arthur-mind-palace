@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "1291546",
   "title": "霸王别姬",
-  "originalTitle": "(1993)",
+  "originalTitle": "再见，我的妾 / Farewell My Concubine",
   "year": "1993",
   "coverPath": "covers/movie/1291546.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1291546",
   "listSummary": "1993-01-01(中国香港) / 1993-07-26(中国大陆) / 张国荣 / 张丰毅 / 巩俐 / 葛优 / 英达 / 蒋雯丽 / 吴大维 / 吕齐 / 雷汉 / 尹治 / 中国大陆 / 中国香港 / 陈凯歌 / 171分钟 / 155分钟(美国剧场版) / 剧情 / 爱情 / 同性 / 芦苇 Wei Lu / 李碧华 Lillian Lee / 汉语普通话",
   "rating": 5,
-  "markedAt": "2018-04-23",
+  "markedAt": "2018-04-23 02:53:19",
   "estimatedMarkedAtRange": null,
   "comment": "真是张国荣本人啊",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1291546/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0106332/"
     }
   ]
 }

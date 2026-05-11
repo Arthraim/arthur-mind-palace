@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27098365",
-  "title": "超人王朝 Reign of the Supermen",
-  "originalTitle": "(2019)",
+  "title": "超人王朝",
+  "originalTitle": "Reign of the Supermen",
   "year": "2019",
   "coverPath": "covers/movie/27098365.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545769995.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27098365",
   "listSummary": "2019-01-10(美国) / 杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 帕特里克·法比安 / 查尔斯·哈尔福德 / 卡梅隆·莫纳汉 / 克莱斯·威廉斯 / 罗莎里奥·道森 / 内森·菲利安 / 克里斯托弗·戈勒姆 / 美国 / 山姆·刘 / 87分钟 / 超人王朝 / 动作 / 科幻 / 动画 / 詹姆斯·克里格 James Krieg / 蒂姆·谢里丹 Tim Sheridan / 英语",
   "rating": 3,
-  "markedAt": "2021-02-17",
+  "markedAt": "2021-02-17 14:07:22",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27098365/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7167686/"
     }
   ]
 }

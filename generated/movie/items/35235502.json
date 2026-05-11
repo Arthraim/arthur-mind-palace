@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35235502",
   "title": "驾驶我的车",
-  "originalTitle": "ドライブ・マイ・カー",
+  "originalTitle": "ドライブ・マイ・カー / 在车上(台) / Drive My Car",
   "year": "2021",
   "coverPath": "covers/movie/35235502.jpg",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2670263616.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35235502",
   "listSummary": "2021-07-11(戛纳电影节) / 2021-08-20(日本) / 西岛秀俊 / 三浦透子 / 雾岛丽香 / 冈田将生 / 朴有琳 / 陈大渊 / 袁子芸 / 安辉泰 / 佩里·迪桑 / 安部聪子 / 日本 / dmc.bitters.co.jp / 滨口龙介 / 179分钟 / 驾驶我的车 / 剧情 / 滨口龙介 Ryûsuke Hamaguchi / 大江崇允 Takamasa Oe / 村上春树 Haruki Murakami / 日语",
   "rating": 4,
-  "markedAt": "2026-04-28",
+  "markedAt": "2026-04-28 11:07:04",
   "estimatedMarkedAtRange": null,
   "comment": "车好抢戏啊",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35235502/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt14039582/"
     }
   ]
 }

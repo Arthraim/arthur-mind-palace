@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "37143373",
   "title": "机动战士高达：跨时之战",
-  "originalTitle": "機動戦士Gundam GQuuuuuuX -Beginning-",
+  "originalTitle": "機動戦士Gundam GQuuuuuuX -Beginning- / 机动战士高达GQuuuuuuX序章 / 機動戦士ガンダム ジークアクス -Beginning-‎",
   "year": "2025",
   "coverPath": "covers/movie/37143373.jpg",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919535626.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/37143373",
   "listSummary": "2025-01-17(日本) / 2025-04-04(中国大陆) / 黑泽朋世 / 石川由依 / 土屋神叶 / 名冢佳织 / 新祐树 / 杉田智和 / 川田绅司 / 山下诚一郎 / 伊濑茉莉也 / 钉宫理惠 / 日本 / 鹤卷和哉 / 82分钟 / 机动战士高达：跨时之战 / 科幻 / 动画 / 冒险 / 榎户洋司 Yoji Enokido / 庵野秀明 Hideaki Anno / 日语",
   "rating": 4,
-  "markedAt": "2026-05-01",
+  "markedAt": "2026-05-01 06:12:56",
   "estimatedMarkedAtRange": null,
   "comment": "喜欢这种创新，新高达站起来的时候真的浓浓初号机味。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/37143373/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt34881132/"
     }
   ]
 }

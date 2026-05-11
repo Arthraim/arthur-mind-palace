@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1316510",
-  "title": "射雕英雄传之东成西就 射鵰英雄傳之東成西就",
-  "originalTitle": "(1993)",
+  "title": "射雕英雄传之东成西就",
+  "originalTitle": "射鵰英雄傳之東成西就 / 东成西就 / 大英雄 (日本)",
   "year": "1993",
   "coverPath": "covers/movie/1316510.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2609063922.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1316510/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0108074/"
     }
   ]
 }

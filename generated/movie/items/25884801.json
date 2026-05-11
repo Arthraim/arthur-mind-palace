@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "25884801",
   "title": "记忆大师",
-  "originalTitle": "(2017)",
+  "originalTitle": "记忆战 / 催眠大师2",
   "year": "2017",
   "coverPath": "covers/movie/25884801.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455156816.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25884801",
   "listSummary": "2017-04-23(北京电影节) / 2017-04-28(中国大陆) / 黄渤 / 段奕宏 / 徐静蕾 / 杨子姗 / 梁杰理 / 许玮甯 / 王真儿 / 焦刚 / 张隽溢 / 杜函梦 / 中国大陆 / 陈正道 / 119分钟 / 悬疑 / 惊悚 / 任鹏 Peng Ren / 陈正道 Leste Chen / 汉语普通话",
   "rating": 4,
-  "markedAt": "2017-10-02",
+  "markedAt": "2017-10-02 20:52:55",
   "estimatedMarkedAtRange": null,
   "comment": "还不错啊，第三次看这个导演的片子觉得不错了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25884801/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5636668/"
     }
   ]
 }

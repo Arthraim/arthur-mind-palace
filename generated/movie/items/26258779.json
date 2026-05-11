@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26258779",
-  "title": "银河护卫队3 Guardians of the Galaxy Vol. 3",
-  "originalTitle": "(2023)",
+  "title": "银河护卫队3",
+  "originalTitle": "Guardians of the Galaxy Vol. 3 / 银河守护队3(港) / 星际异攻队3(台)",
   "year": "2023",
   "coverPath": "covers/movie/26258779.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2887888463.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26258779",
   "listSummary": "2023-05-03(中国香港) / 2023-05-05(美国/中国大陆) / 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔 / 凯伦·吉兰 / 庞·克莱门捷夫 / 布莱德利·库珀 / 范·迪塞尔 / 楚克武迪·武吉 / 威尔·保尔特 / 肖恩·古恩 / 美国 / 詹姆斯·古恩 / 2023-05-03 15:00 / 150分钟 / 银河护卫队3 / 喜剧 / 动作 / 科幻 / 惊悚 / 冒险 / 詹姆斯·古恩 James Gunn / 英语",
   "rating": 4,
-  "markedAt": "2023-05-06",
+  "markedAt": "2023-05-06 11:59:13",
   "estimatedMarkedAtRange": null,
   "comment": "总体不太行，但火箭的起源故事很打动我",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26258779/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6791350/"
     }
   ]
 }

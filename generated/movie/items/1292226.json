@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292226",
-  "title": "2001太空漫游 2001: A Space Odyssey",
-  "originalTitle": "(1968)",
+  "title": "2001太空漫游",
+  "originalTitle": "2001: A Space Odyssey / 2001：星际漫游 / 2001：太空奥德赛",
   "year": "1968",
   "coverPath": "covers/movie/1292226.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926647970.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292226",
   "listSummary": "1968-04-02(华盛顿首映) / 1968-05-12(英国) / 凯尔·杜拉 / 加里·洛克伍德 / 威廉姆·西尔维斯特 / 丹尼尔·里希特 / 雷纳德·洛塞特 / 罗伯特·比提 / 肖恩·沙利文 / 艾德·毕肖普 / 格伦·贝克 / 艾伦·吉福德 / 英国 / 美国 / 斯坦利·库布里克 / 149分钟 / 2001太空漫游 / 科幻 / 惊悚 / 冒险 / 亚瑟·克拉克 Arthur C. Clarke / 斯坦利·库布里克 Stanley Kubrick / 英语 / 俄语",
   "rating": 5,
-  "markedAt": "2020-12-22",
+  "markedAt": "2020-12-22 04:16:12",
   "estimatedMarkedAtRange": null,
   "comment": "这也太适合发烧的时候看了……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292226/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0062622/"
     }
   ]
 }

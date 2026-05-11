@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "30306570",
   "title": "囧妈",
-  "originalTitle": "(2020)",
+  "originalTitle": "俄囧 / Lost in Russia",
   "year": "2020",
   "coverPath": "covers/movie/30306570.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581835383.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/30306570",
   "listSummary": "2020-01-25(中国大陆网络) / 徐峥 / 黄梅莹 / 袁泉 / 郭京飞 / 黄景瑜 / 贾冰 / 高以翔 / 沈腾 / 宋小宝 / 黄渤 / 中国大陆 / 徐峥 / 126分钟 / 喜剧 / 何可可 Keke He / 布鲁鲁夫 Bululufu / 何一禾 Yihe He / 徐峥 Zheng Xu / 汉语普通话 / 俄语 / 英语",
   "rating": 3,
-  "markedAt": "2020-01-27",
+  "markedAt": "2020-01-27 04:03:31",
   "estimatedMarkedAtRange": null,
   "comment": "片子一般，即刻nb！",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/30306570/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11172926/"
     }
   ]
 }

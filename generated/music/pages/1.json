@@ -16,7 +16,7 @@
       "detailUrl": "/music/38391228",
       "listSummary": "deca joins / 2026-03-23 / 专辑 / 数字(Digital) / 摇滚",
       "rating": 4,
-      "markedAt": "2026-04-23",
+      "markedAt": "2026-04-23 17:32:44",
       "estimatedMarkedAtRange": null,
       "comment": "有点进步，最喜欢《坐过站》和《地图》"
     },
@@ -31,7 +31,7 @@
       "detailUrl": "/music/38426139",
       "listSummary": "STOLEN秘密行动 / 2026-04-15 / 专辑 / CD / 摇滚",
       "rating": 2,
-      "markedAt": "2026-04-18",
+      "markedAt": "2026-04-18 02:45:46",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -46,7 +46,7 @@
       "detailUrl": "/music/38391221",
       "listSummary": "Gareth.T / 2026-03-26 / 专辑 / CD / 放克/灵歌/R&B",
       "rating": 4,
-      "markedAt": "2026-04-15",
+      "markedAt": "2026-04-15 15:02:03",
       "estimatedMarkedAtRange": null,
       "comment": "最喜欢别人最不喜欢的一首怎么办"
     },
@@ -61,7 +61,7 @@
       "detailUrl": "/music/38389481",
       "listSummary": "觀觀Guanguan / 2026-03-16 / 单曲 / 数字(Digital) / 摇滚",
       "rating": 4,
-      "markedAt": "2026-04-04",
+      "markedAt": "2026-04-04 11:52:27",
       "estimatedMarkedAtRange": null,
       "comment": "期待巡演"
     },
@@ -76,7 +76,7 @@
       "detailUrl": "/music/35433794",
       "listSummary": "藤井風 / 2021-05-20 / 专辑 / CD / 流行",
       "rating": 3,
-      "markedAt": "2026-04-01",
+      "markedAt": "2026-04-01 19:24:51",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -91,7 +91,7 @@
       "detailUrl": "/music/35051952",
       "listSummary": "藤井風 / 2020-05-20 / 专辑 / CD / 放克/灵歌/R&B",
       "rating": 4,
-      "markedAt": "2026-03-27",
+      "markedAt": "2026-03-27 15:09:39",
       "estimatedMarkedAtRange": null,
       "comment": "以为会更「出格」一点"
     },
@@ -106,24 +106,9 @@
       "detailUrl": "/music/34463658",
       "listSummary": "Bon Iver / 2019-8-30 / 专辑 / CD / 民谣",
       "rating": 4,
-      "markedAt": "2026-03-10",
+      "markedAt": "2026-03-10 09:27:24",
       "estimatedMarkedAtRange": null,
       "comment": "distracting"
-    },
-    {
-      "kind": "music",
-      "sourceId": "6129247",
-      "title": "Bon Iver",
-      "originalTitle": null,
-      "year": "2011",
-      "coverPath": "covers/music/6129247.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4723056.jpg",
-      "detailUrl": "/music/6129247",
-      "listSummary": "Bon Iver / 2011-06-21 / 专辑 / CD / 民谣",
-      "rating": 5,
-      "markedAt": "2026-03-08",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     },
     {
       "kind": "music",
@@ -136,24 +121,24 @@
       "detailUrl": "/music/26854795",
       "listSummary": "Bon Iver / 2016-09-30 / 专辑 / Audio CD / 电子",
       "rating": 5,
-      "markedAt": "2026-03-08",
+      "markedAt": "2026-03-08 10:17:43",
       "estimatedMarkedAtRange": null,
       "comment": "第一次完整听这张专辑，不能用任何genre来定义它"
     },
     {
       "kind": "music",
-      "sourceId": "37307052",
-      "title": "SABLE, fABLE",
+      "sourceId": "6129247",
+      "title": "Bon Iver",
       "originalTitle": null,
-      "year": "2025",
-      "coverPath": "covers/music/37307052.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35080298.jpg",
-      "detailUrl": "/music/37307052",
-      "listSummary": "Bon Iver / 2025-04-11 / 专辑 / 黑胶 / 流行",
-      "rating": 4,
-      "markedAt": "2026-03-01",
+      "year": "2011",
+      "coverPath": "covers/music/6129247.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4723056.jpg",
+      "detailUrl": "/music/6129247",
+      "listSummary": "Bon Iver / 2011-06-21 / 专辑 / CD / 民谣",
+      "rating": 5,
+      "markedAt": "2026-03-08 10:16:06",
       "estimatedMarkedAtRange": null,
-      "comment": "SPEYSIDE可以在任何情绪里拉出我的注意力"
+      "comment": null
     },
     {
       "kind": "music",
@@ -166,9 +151,24 @@
       "detailUrl": "/music/2296457",
       "listSummary": "Bon Iver / 2008-02-19 / 专辑 / Vinyl / 民谣",
       "rating": 5,
-      "markedAt": "2026-03-01",
+      "markedAt": "2026-03-01 01:34:22",
       "estimatedMarkedAtRange": null,
       "comment": "总想到lalaland里Seb和她姐说的那句 I am a phoenix rising from the ashes."
+    },
+    {
+      "kind": "music",
+      "sourceId": "37307052",
+      "title": "SABLE, fABLE",
+      "originalTitle": null,
+      "year": "2025",
+      "coverPath": "covers/music/37307052.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s35080298.jpg",
+      "detailUrl": "/music/37307052",
+      "listSummary": "Bon Iver / 2025-04-11 / 专辑 / 黑胶 / 流行",
+      "rating": 4,
+      "markedAt": "2026-03-01 01:28:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "SPEYSIDE可以在任何情绪里拉出我的注意力"
     },
     {
       "kind": "music",
@@ -181,7 +181,7 @@
       "detailUrl": "/music/5258148",
       "listSummary": "徐佳莹 / 2010-09-03 / 专辑 / CD / 流行",
       "rating": 4,
-      "markedAt": "2023-08-11",
+      "markedAt": "2023-08-11 16:28:23",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -196,24 +196,9 @@
       "detailUrl": "/music/27042261",
       "listSummary": "艾福杰尼 / 2017-05-11 / 专辑 / CD / 说唱",
       "rating": 4,
-      "markedAt": "2023-08-09",
+      "markedAt": "2023-08-09 16:19:16",
       "estimatedMarkedAtRange": null,
       "comment": "听感非常过瘾，据说是最好的中文rap专辑"
-    },
-    {
-      "kind": "music",
-      "sourceId": "36495787",
-      "title": "郊游",
-      "originalTitle": null,
-      "year": "2023",
-      "coverPath": "covers/music/36495787.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34602968.jpg",
-      "detailUrl": "/music/36495787",
-      "listSummary": "蛙池 / 2023-07-26 / 专辑 / 数字(Digital) / 摇滚",
-      "rating": 3,
-      "markedAt": "2023-08-08",
-      "estimatedMarkedAtRange": null,
-      "comment": "没有接受新变化"
     },
     {
       "kind": "music",
@@ -226,9 +211,24 @@
       "detailUrl": "/music/36400683",
       "listSummary": "夏之禹 / 2023-05-10 / 专辑 / 数字(Digital) / 说唱",
       "rating": 5,
-      "markedAt": "2023-08-08",
+      "markedAt": "2023-08-08 17:10:58",
       "estimatedMarkedAtRange": null,
       "comment": "细腻的展现了一个九龙城寨一样的世界，以及摆脱它的成长故事，一个短线条故事串联了一个长线条的故事，交织在一个结局，甚至有点诺兰。唯独就是音乐性欠佳"
+    },
+    {
+      "kind": "music",
+      "sourceId": "36495787",
+      "title": "郊游",
+      "originalTitle": null,
+      "year": "2023",
+      "coverPath": "covers/music/36495787.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34602968.jpg",
+      "detailUrl": "/music/36495787",
+      "listSummary": "蛙池 / 2023-07-26 / 专辑 / 数字(Digital) / 摇滚",
+      "rating": 3,
+      "markedAt": "2023-08-08 17:07:20",
+      "estimatedMarkedAtRange": null,
+      "comment": "没有接受新变化"
     },
     {
       "kind": "music",
@@ -241,7 +241,7 @@
       "detailUrl": "/music/25867632",
       "listSummary": "LCD Soundsystem / 2014-04-19 / Box set / Vinyl / 电子",
       "rating": 5,
-      "markedAt": "2021-04-16",
+      "markedAt": "2021-04-16 12:03:41",
       "estimatedMarkedAtRange": null,
       "comment": "真的真的太棒了，真的相见恨晚，一边觉得nb一边觉得遗憾"
     },
@@ -256,7 +256,7 @@
       "detailUrl": "/music/35293430",
       "listSummary": "deca joins / 2020-12-28 / 专辑 / CD / 摇滚",
       "rating": 4,
-      "markedAt": "2020-12-29",
+      "markedAt": "2020-12-29 10:21:59",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -271,7 +271,7 @@
       "detailUrl": "/music/35292992",
       "listSummary": "万能青年旅店 / 2020-12-22 / 专辑 / CD / 摇滚",
       "rating": 4,
-      "markedAt": "2020-12-27",
+      "markedAt": "2020-12-27 22:11:45",
       "estimatedMarkedAtRange": null,
       "comment": "很多音乐元素，爵士部分亮瞎了"
     },
@@ -286,7 +286,7 @@
       "detailUrl": "/music/35272426",
       "listSummary": "假假條 / 2020-12-01 / 专辑 / 数字(Digital) / 摇滚",
       "rating": 4,
-      "markedAt": "2020-12-27",
+      "markedAt": "2020-12-27 22:10:37",
       "estimatedMarkedAtRange": null,
       "comment": "一如既往，喜欢但费神"
     },
@@ -301,7 +301,7 @@
       "detailUrl": "/music/34845165",
       "listSummary": "deca joins / 2019-9-27 / 单曲 / 数字(Digital) / 摇滚",
       "rating": 5,
-      "markedAt": "2019-10-23",
+      "markedAt": "2019-10-23 21:20:56",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -316,9 +316,24 @@
       "detailUrl": "/music/26808557",
       "listSummary": "假假條/JaJaTao / 2016-05-20 / 专辑 / CD / 摇滚",
       "rating": 5,
-      "markedAt": "2019-09-26",
+      "markedAt": "2019-09-26 19:21:41",
       "estimatedMarkedAtRange": null,
       "comment": "虽然不喜欢太重的摇滚，但这张专辑真的太屌了，下个月去听个现场"
+    },
+    {
+      "kind": "music",
+      "sourceId": "26753594",
+      "title": "醜奴兒",
+      "originalTitle": "丑奴儿",
+      "year": "2016",
+      "coverPath": "covers/music/26753594.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s28541447.jpg",
+      "detailUrl": "/music/26753594",
+      "listSummary": "草東沒有派對 / 2016-04-30 / 专辑 / CD / 摇滚",
+      "rating": 5,
+      "markedAt": "2019-09-09 17:16:57",
+      "estimatedMarkedAtRange": null,
+      "comment": null
     },
     {
       "kind": "music",
@@ -331,7 +346,7 @@
       "detailUrl": "/music/30364408",
       "listSummary": "Deca Joins / 2018-11-14 / EP / CD / 摇滚",
       "rating": 4,
-      "markedAt": "2019-09-09",
+      "markedAt": "2019-09-09 17:15:01",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -346,22 +361,7 @@
       "detailUrl": "/music/27067035",
       "listSummary": "Deca joins / 2017-06-08 / 专辑 / CD / 摇滚",
       "rating": 4,
-      "markedAt": "2019-09-09",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "music",
-      "sourceId": "26753594",
-      "title": "醜奴兒",
-      "originalTitle": "丑奴儿",
-      "year": "2016",
-      "coverPath": "covers/music/26753594.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s28541447.jpg",
-      "detailUrl": "/music/26753594",
-      "listSummary": "草東沒有派對 / 2016-04-30 / 专辑 / CD / 摇滚",
-      "rating": 5,
-      "markedAt": "2019-09-09",
+      "markedAt": "2019-09-09 17:13:56",
       "estimatedMarkedAtRange": null,
       "comment": null
     },
@@ -391,7 +391,7 @@
       "detailUrl": "/music/7000209",
       "listSummary": "Adele / 2011-11-29 / Live / CD",
       "rating": 5,
-      "markedAt": "2012-01-01",
+      "markedAt": "2012-01-01 15:59:54",
       "estimatedMarkedAtRange": null,
       "comment": "perfect"
     },

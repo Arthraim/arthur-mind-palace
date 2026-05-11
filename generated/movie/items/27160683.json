@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27160683",
-  "title": "忍者蝙蝠侠 Batman Ninja",
-  "originalTitle": "(2018)",
+  "title": "忍者蝙蝠侠",
+  "originalTitle": "Batman Ninja / ニンジャバットマン",
   "year": "2018",
   "coverPath": "covers/movie/27160683.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506695706.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27160683",
   "listSummary": "2018-04-24(美国) / 2018-06-15(日本) / 山寺宏一 / 高木涉 / 加隈亚衣 / 钉宫理惠 / 田中敦子 / 小野大辅 / 大塚芳忠 / 子安武人 / 诹访部顺一 / 梶裕贵 / 日本 / 美国 / wwws.warnerbros.co.jp/batman-ninja/ / 水崎淳平 / 85分钟 / 忍者蝙蝠侠 / 动作 / 动画 / 中岛一基 Kazuki Nakashima / 莱奥·褚 Leo Chu / 艾瑞克·加西亚 Eric Garcia / 鲍勃·凯恩 Bob Kane / 比尔·芬格 Bill Finger / 马文·沃夫曼 Marv Wolfman / 乔治·佩雷斯 George Pérez / 保罗·迪尼 Paul Dini / 布鲁斯·蒂姆 Bruce W. Timm / 查克·狄克逊 Chuck Dixon / 道格·蒙克 Doug Moench / 格雷厄姆·诺兰 / 日语 / 英语",
   "rating": 4,
-  "markedAt": "2018-11-21",
+  "markedAt": "2018-11-21 18:25:53",
   "estimatedMarkedAtRange": null,
   "comment": "设定一流，制作水准也好高。但没想到中段变成了机器人大战。忍者和蝙蝠侠的组合我以为会是敌后战场的极致，没想到各种刚正面，最后变成了决战紫禁之巅……",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27160683/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7451284/"
     }
   ]
 }

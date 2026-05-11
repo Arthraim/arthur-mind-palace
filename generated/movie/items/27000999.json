@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27000999",
-  "title": "生活大爆炸 第十一季 The Big Bang Theory Season 11",
-  "originalTitle": "(2017)",
+  "title": "生活大爆炸 第十一季",
+  "originalTitle": "The Big Bang Theory Season 11",
   "year": "2017",
   "coverPath": "covers/movie/27000999.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562676631.webp",
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27000999/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt6673774/"
     }
   ]
 }

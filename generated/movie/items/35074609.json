@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35074609",
   "title": "金手指",
-  "originalTitle": "(2023)",
+  "originalTitle": "The Goldfinger",
   "year": "2023",
   "coverPath": "covers/movie/35074609.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2901830629.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35074609",
   "listSummary": "2023-12-30(中国大陆) / 梁朝伟 / 刘德华 / 蔡卓妍 / 任达华 / 方中信 / 陈家乐 / 白只 / 姜皓文 / 太保 / 钱嘉乐 / 中国香港 / 中国大陆 / 庄文强 / 125分钟 / 剧情 / 犯罪 / 庄文强 Felix Chong / 粤语 / 汉语普通话 / 英语",
   "rating": 3,
-  "markedAt": "2024-01-11",
+  "markedAt": "2024-01-11 10:13:56",
   "estimatedMarkedAtRange": null,
   "comment": "也不是时间跨度大就是史诗，简直是琐碎的流水账，浪费了这卡司。这电影拍开门关门走进去走出来的镜头加起来估计得有几十分钟。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35074609/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt14099796/"
     }
   ]
 }

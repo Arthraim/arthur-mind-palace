@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26816104",
   "title": "从21世纪安全撤离",
-  "originalTitle": "(2024)",
+  "originalTitle": "Evacuate from the 21st Century",
   "year": "2024",
   "coverPath": "covers/movie/26816104.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911256273.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26816104",
   "listSummary": "2024-08-02(中国大陆) / 张若昀 / 钟楚曦 / 宋洋 / 吴晓亮 / 朱颜曼滋 / 李晨浩 / 温峥嵘 / 石凉 / 陈一辰 / 李卓钊 / 中国大陆 / 李阳 / 2024-07-18 20:10 / 98分钟 / 喜剧 / 科幻 / 李阳 Yang Li / 汉语普通话",
   "rating": 4,
-  "markedAt": "2024-08-08",
+  "markedAt": "2024-08-08 22:19:25",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26816104/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7171442/"
     }
   ]
 }

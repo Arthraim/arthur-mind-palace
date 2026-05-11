@@ -2,15 +2,15 @@
   "kind": "movie",
   "sourceId": "24867845",
   "title": "乡村里的中国",
-  "originalTitle": "(2013)",
-  "year": "2013",
+  "originalTitle": "Village Diary",
+  "year": null,
   "coverPath": "covers/movie/24867845.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2164484961.webp",
   "doubanUrl": "https://movie.douban.com/subject/24867845/",
   "detailUrl": "/movie/24867845",
   "listSummary": "中国大陆 / 焦波 / 98分钟 / 纪录片 / 汉语普通话",
   "rating": 5,
-  "markedAt": "2019-08-05",
+  "markedAt": "2019-08-05 10:17:06",
   "estimatedMarkedAtRange": null,
   "comment": "土地不养人",
   "metadata": [
@@ -59,10 +59,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24867845/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt10167982/"
     }
   ]
 }

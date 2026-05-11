@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35588219",
   "title": "南海归墟",
-  "originalTitle": "(2023)",
+  "originalTitle": "鬼吹灯之南海归墟",
   "year": "2023",
   "coverPath": "covers/movie/35588219.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893738612.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35588219",
   "listSummary": "2023-11-27(中国大陆) / 潘粤明 / 张雨绮 / 姜超 / 汤镇业 / 王奕权 / 程东 / 陈牧驰 / 周杨洋 / 朱梓瑜 / 佟磊 / 中国大陆 / 蔡岳勋 / 45分钟 / 剧情 / 动作 / 冒险 / 刘安琪 Angie Liu / 汉语普通话",
   "rating": 2,
-  "markedAt": "2023-12-23",
+  "markedAt": "2023-12-23 00:13:16",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35588219/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt30209969/"
     }
   ]
 }

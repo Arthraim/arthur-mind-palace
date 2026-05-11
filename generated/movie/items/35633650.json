@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35633650",
-  "title": "坠落的审判 Anatomie d'une chute",
-  "originalTitle": "(2023)",
+  "title": "坠落的审判",
+  "originalTitle": "Anatomie d'une chute / 堕下的对证(港) / 坠恶真相(台)",
   "year": "2023",
   "coverPath": "covers/movie/35633650.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2896940977.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35633650",
   "listSummary": "2023-05-21(戛纳电影节) / 2023-08-23(法国) / 2024-03-29(中国大陆) / 桑德拉·惠勒 / 斯万·阿劳德 / 米洛·马查多·格拉纳 / 安托万·赖纳茨 / 塞缪尔·泰斯 / 珍妮·贝丝 / 梅西 / 萨迪亚·本塔伊布 / 卡米莉·拉瑟福德 / 安妮·罗特格 / 法国 / 茹斯汀·特里耶 / 151分钟 / 坠落的审判 / 剧情 / 家庭 / 茹斯汀·特里耶 Justine Triet / 阿图·阿拉里 Arthur Harari / 法语 / 英语 / 德语",
   "rating": 5,
-  "markedAt": "2025-03-23",
+  "markedAt": "2025-03-23 01:19:53",
   "estimatedMarkedAtRange": null,
   "comment": "好到离谱。被审判的是一只藏污纳垢的麻袋，把它从里向外翻过来，外来者、母职倒转、性向、有污点的亲密关系等等等等嵌在麻布缝隙里一个一个被找出来，用以证明它是闷死死者的凶器。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35633650/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt17009710/"
     }
   ]
 }

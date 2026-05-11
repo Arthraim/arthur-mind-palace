@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "24773958",
-  "title": "复仇者联盟3：无限战争 Avengers: Infinity War",
-  "originalTitle": "(2018)",
+  "title": "复仇者联盟3：无限战争",
+  "originalTitle": "Avengers: Infinity War / 复仇者联盟3：无限之战(港) / 复仇者联盟：无限之战(台)",
   "year": "2018",
   "coverPath": "covers/movie/24773958.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516481762.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/24773958",
   "listSummary": "2018-04-23(加州首映) / 2018-04-27(美国) / 2018-05-11(中国大陆) / 小罗伯特·唐尼 / 克里斯·埃文斯 / 克里斯·海姆斯沃斯 / 斯嘉丽·约翰逊 / 马克·鲁法洛 / 乔什·布洛林 / 本尼迪克特·康伯巴奇 / 汤姆·霍兰德 / 克里斯·帕拉特 / 佐伊·索尔达娜 / 美国 / marvel.com/avengers / 安东尼·罗素 / 乔·罗素 / 149分钟 / 复仇者联盟3：无限战争 / 动作 / 科幻 / 奇幻 / 冒险 / 杰克·科比 Jack Kirby / 克里斯托弗·马库斯 Christopher Markus / 斯蒂芬·麦克菲利 Stephen McFeely / 吉姆·斯特林 Jim Starlin / 英语",
   "rating": 5,
-  "markedAt": "2018-05-16",
+  "markedAt": "2018-05-16 13:40:41",
   "estimatedMarkedAtRange": null,
   "comment": "DC 粉：心服口服 =。=",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24773958/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4154756/"
     }
   ]
 }

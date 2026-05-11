@@ -16,14 +16,14 @@
       "detailUrl": "/book/4002701",
       "listSummary": "《朱镕基答记者问》编辑组 编 / 人民出版社 / 2009-8 / 59.00元",
       "rating": null,
-      "markedAt": "2009-12-14",
+      "markedAt": "2009-12-14 18:55:45",
       "estimatedMarkedAtRange": null,
       "comment": "读了一点点送给老爸了……"
     },
     {
       "kind": "book",
       "sourceId": "4010196",
-      "title": "世界因你不同",
+      "title": "世界因你不同 : 李开复自传",
       "originalTitle": null,
       "year": "2009",
       "coverPath": "covers/book/4010196.jpg",
@@ -31,14 +31,14 @@
       "detailUrl": "/book/4010196",
       "listSummary": "李开复、范海涛 / 中信出版社 / 2009-9 / 29.80元",
       "rating": 4,
-      "markedAt": "2009-10-20",
+      "markedAt": "2009-10-20 09:14:37",
       "estimatedMarkedAtRange": null,
       "comment": "我不同意你，但是支持你"
     },
     {
       "kind": "book",
       "sourceId": "1056144",
-      "title": "中的精神",
+      "title": "中的精神 : 吴清源自传",
       "originalTitle": null,
       "year": "2003",
       "coverPath": "covers/book/1056144.jpg",
@@ -46,7 +46,7 @@
       "detailUrl": "/book/1056144",
       "listSummary": "吴清源 / 王亦青 / 中信出版社 / 2003-09 / 24.00",
       "rating": 5,
-      "markedAt": "2009-09-24",
+      "markedAt": "2009-09-24 09:09:21",
       "estimatedMarkedAtRange": null,
       "comment": "中庸之道"
     },
@@ -68,7 +68,7 @@
     {
       "kind": "book",
       "sourceId": "2038779",
-      "title": "版本控制之道",
+      "title": "版本控制之道 : 使用Subversion(第2版)",
       "originalTitle": null,
       "year": "2007",
       "coverPath": "covers/book/2038779.jpg",
@@ -83,7 +83,7 @@
     {
       "kind": "book",
       "sourceId": "3699395",
-      "title": "观止",
+      "title": "观止 : 微软创建NT和未来的夺命狂奔",
       "originalTitle": null,
       "year": "2009",
       "coverPath": "covers/book/3699395.jpg",
@@ -91,7 +91,7 @@
       "detailUrl": "/book/3699395",
       "listSummary": "[美] G·Pascal Zachary / 张银奎 / 机械工业出版社 / 2009 / 42.00元",
       "rating": 5,
-      "markedAt": "2009-08-09",
+      "markedAt": "2009-08-09 12:27:02",
       "estimatedMarkedAtRange": null,
       "comment": "1个多亿，250多人，1500多天，开发了我们死都不能离开的操作系统"
     },
@@ -106,7 +106,7 @@
       "detailUrl": "/book/3662219",
       "listSummary": "李会军 / 2009-4 / 78.00元",
       "rating": 5,
-      "markedAt": "2009-08-07",
+      "markedAt": "2009-08-07 02:29:01",
       "estimatedMarkedAtRange": null,
       "comment": "的确是好书"
     }

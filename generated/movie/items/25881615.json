@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "25881615",
   "title": "超凡战队",
-  "originalTitle": "Power Rangers",
+  "originalTitle": "Power Rangers / 战龙觉醒(港) / 金刚战士(台)",
   "year": "2017",
   "coverPath": "covers/movie/25881615.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441013548.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/25881615",
   "listSummary": "2017-03-24(美国) / 2017-05-12(中国大陆) / 戴克·蒙哥马利 / 娜奥米·斯科特 / RJ·赛勒 / 林路迪 / 贝姬·戈麦斯 / 伊丽莎白·班克斯 / 布莱恩·克兰斯顿 / 比尔·哈德尔 / 马特·夏夫利 / 科迪·基尔斯利 / 美国 / 中国香港 / 加拿大 / 迪恩·以色列特 / 124分钟 / 超凡战队 / 动作 / 科幻 / 冒险 / 扎克·施坦茨 Zack Stentz / 罗伯托·奥奇 Roberto Orci / 伯克·沙普利斯 Burk Sharpless / 马特·萨兹马 Matt Sazama / 阿什利·米勒 Ashley Miller / 约翰·盖汀斯 John Gatins / 马克斯·兰迪斯 Max Landis / 哈伊姆·萨班 Haim Saban / 舒基·莱维 Shuki Levy / 英语",
   "rating": 2,
-  "markedAt": "2017-08-04",
+  "markedAt": "2017-08-04 01:29:59",
   "estimatedMarkedAtRange": null,
   "comment": "这故事……… 还真的很恐龙战队………",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25881615/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt3717490/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26357307",
-  "title": "花木兰 Mulan",
-  "originalTitle": "(2020)",
+  "title": "花木兰",
+  "originalTitle": "Mulan / 木兰传说 / 花木兰真人版",
   "year": "2020",
   "coverPath": "covers/movie/26357307.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2590336843.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26357307",
   "listSummary": "2020-09-04(美国网络) / 2020-09-11(中国大陆) / 刘亦菲 / 甄子丹 / 巩俐 / 李连杰 / 李截 / 安柚鑫 / 马泰 / 赵家玲 / 郑佩佩 / 温明娜 / 美国 / 中国香港 / 妮琪·卡罗 / 115分钟 / 花木兰 / 动作 / 冒险 / 古装 / 劳伦·希内克 Lauren Hynek / 里克·杰法 Rick Jaffa / 伊丽莎白·马丁 Elizabeth Martin / 阿曼达·斯尔沃 Amanda Silver / 英语 / 汉语普通话",
   "rating": 2,
-  "markedAt": "2025-09-09",
+  "markedAt": "2025-09-09 13:09:50",
   "estimatedMarkedAtRange": null,
   "comment": "巩俐要是知道自己献出生命救出来的女性先锋，最后是得到君王和父亲的认可才算完美结局是什么心情。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26357307/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4566758/"
     }
   ]
 }

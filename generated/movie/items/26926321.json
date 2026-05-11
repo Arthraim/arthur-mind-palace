@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26926321",
   "title": "缝纫机乐队",
-  "originalTitle": "(2017)",
+  "originalTitle": "City of Rock",
   "year": "2017",
   "coverPath": "covers/movie/26926321.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498558511.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26926321",
   "listSummary": "2017-09-29(中国大陆) / 大鹏 / 乔杉 / 古力娜扎 / 李鸿其 / 韩童生 / 曲隽希 / 于谦 / 岳云鹏 / 王劲松 / 于洋 / 中国大陆 / 大鹏 / 117分钟 / 喜剧 / 音乐 / 大鹏 Da Peng / 苏彪 Biao Su / 汉语普通话",
   "rating": 3,
-  "markedAt": "2017-12-11",
+  "markedAt": "2017-12-11 08:14:56",
   "estimatedMarkedAtRange": null,
   "comment": "全程没法从古力娜扎身上移开视线，这种演员太让人出戏了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26926321/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7339584/"
     }
   ]
 }

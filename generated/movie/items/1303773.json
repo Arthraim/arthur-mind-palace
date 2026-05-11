@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1303773",
-  "title": "007之择日而亡 Die Another Day",
-  "originalTitle": "(2002)",
+  "title": "007之择日而亡",
+  "originalTitle": "Die Another Day / 新铁金刚之不日杀机(港) / 007谁与争锋(台)",
   "year": "2002",
   "coverPath": "covers/movie/1303773.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p940106094.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1303773",
   "listSummary": "2002-11-22 / 皮尔斯·布鲁斯南 / 哈莉·贝瑞 / 托比·斯蒂芬斯 / 裴淳华 / 尹成植 / 朱迪·丹奇 / 约翰·克里斯 / 迈克尔·马德森 / 李威尹 / 曾江 / 英国 / 美国 / www.dieanotherday.com / 李·塔玛霍瑞 / 133 分钟 / 007之择日而亡 / 动作 / 惊悚 / 冒险 / 尼尔·珀维斯 Neal Purvis / 罗伯特·韦德 Robert Wade / 伊恩·弗莱明 Ian Fleming / 英语 / 粤语 / 西班牙语 / 德语 / 冰岛语 / 意大利语 / 韩语",
   "rating": 3,
-  "markedAt": "2021-11-28",
+  "markedAt": "2021-11-28 21:58:15",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1303773/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0246460/"
     }
   ]
 }

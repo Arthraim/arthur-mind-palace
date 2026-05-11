@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "26336252",
-  "title": "碟中谍6：全面瓦解 Mission: Impossible - Fallout",
-  "originalTitle": "(2018)",
+  "title": "碟中谍6：全面瓦解",
+  "originalTitle": "Mission: Impossible - Fallout / 碟中谍6 / 职业特工队：叛逆之谜(港)",
   "year": "2018",
   "coverPath": "covers/movie/26336252.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529365085.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26336252",
   "listSummary": "2018-07-27(美国) / 2018-08-31(中国大陆) / 汤姆·克鲁斯 / 亨利·卡维尔 / 文·瑞姆斯 / 西蒙·佩吉 / 丽贝卡·弗格森 / 西恩·哈里斯 / 安吉拉·贝塞特 / 凡妮莎·柯比 / 米歇尔·莫纳汉 / 韦斯·本特利 / 美国 / 中国大陆 / 法国 / 挪威 / 英国 / 克里斯托弗·麦奎里 / 147分钟 / 148分钟(中国大陆) / 碟中谍6：全面瓦解 / 动作 / 惊悚 / 冒险 / 克里斯托弗·麦奎里 Christopher McQuarrie / 布鲁斯·盖勒 Bruce Geller / 英语 / 法语",
   "rating": 5,
-  "markedAt": "2018-12-03",
+  "markedAt": "2018-12-03 19:29:26",
   "estimatedMarkedAtRange": null,
   "comment": "居然说不清的觉得好看！",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26336252/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt4912910/"
     }
   ]
 }

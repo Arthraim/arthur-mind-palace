@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1298412",
-  "title": "三十九级台阶 The 39 Steps",
-  "originalTitle": "(1935)",
+  "title": "三十九级台阶",
+  "originalTitle": "The 39 Steps / 国防大秘密(港) / 国防大机密(台)",
   "year": "1935",
   "coverPath": "covers/movie/1298412.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2250578848.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1298412",
   "listSummary": "1935-08-01(英国) / 罗伯特·多纳特 / 玛德琳·卡洛 / 露西·曼海姆 / 戈弗雷·特尔 / 佩吉·阿什克罗福特 / 约翰·劳里 / 海伦哈耶 / 怀利·沃森 / 格斯·麦克诺顿 / 查尔斯·贝内特 / 英国 / 阿尔弗雷德·希区柯克 / 86 分钟 / 三十九级台阶 / 悬疑 / 惊悚 / 犯罪 / 约翰·伯肯 John Buchan / 查尔斯·贝内特 Charles Bennett / 伊恩·海伊 Ian Hay / 英语",
   "rating": 4,
-  "markedAt": "2024-01-18",
+  "markedAt": "2024-01-18 08:42:46",
   "estimatedMarkedAtRange": null,
   "comment": "商业动作大片的感觉",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1298412/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0026029/"
     }
   ]
 }

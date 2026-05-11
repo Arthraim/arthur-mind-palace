@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1998799",
-  "title": "灌篮高手 スラムダンク",
-  "originalTitle": "(1993)",
+  "title": "灌篮高手",
+  "originalTitle": "スラムダンク / 篮球飞人 / 男儿当入樽(港)",
   "year": "1993",
   "coverPath": "covers/movie/1998799.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2445459194.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1998799",
   "listSummary": "1993-10-16(日本) / 2013-11-03 / 草尾毅 / 绿川光 / 梁田清之 / 置鲇龙太郎 / 盐屋翼 / 原惠理子 / 平松晶子 / 田中秀幸 / 小野坂昌也 / 神奈延年 / 日本 / 西泽信孝 / 角铜博之 / 志水淳儿 / 明比正行 / 又野弘道 / 中村哲治 / 竹之内和久 / 22分钟 / 灌篮高手 / 动画 / 喜剧 / 运动 / 井上雄彦 Inoue Takehiko / 岸间信明 Nobuaki Kishima / 菅良幸 Yoshiyuki Suga / 日语",
   "rating": 5,
-  "markedAt": "2023-03-13",
+  "markedAt": "2023-03-13 09:34:34",
   "estimatedMarkedAtRange": null,
   "comment": "好喜欢樱木花道，简单纯粹，尤其是那句「20000个就够了吗」",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1998799/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0965547/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35437938",
-  "title": "名侦探柯南：万圣节的新娘 名探偵コナン ハロウィンの花嫁",
-  "originalTitle": "(2022)",
+  "title": "名侦探柯南：万圣节的新娘",
+  "originalTitle": "名探偵コナン ハロウィンの花嫁 / 名侦探柯南剧场版25 / Detective Conan: The Bride of Halloween",
   "year": "2022",
   "coverPath": "covers/movie/35437938.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2883894742.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35437938",
   "listSummary": "2022-04-15(日本) / 2022-11-18(中国大陆) / 高山南 / 古谷彻 / 山崎和佳奈 / 小山力也 / 林原惠美 / 山口胜平 / 高木涉 / 汤屋敦子 / 三宅健太 / 绪方贤一 / 日本 / 满仲劝 / 111分钟 / 110分钟(中国大陆) / 名侦探柯南：万圣节的新娘 / 动作 / 动画 / 悬疑 / 大仓崇裕 Takahiro Ohkura / 青山刚昌 Gôshô Aoyama / 日语 / 俄语",
   "rating": 4,
-  "markedAt": "2022-12-12",
+  "markedAt": "2022-12-12 00:47:00",
   "estimatedMarkedAtRange": null,
   "comment": "好开心的观影体验，确实憋坏了…… 想 念 涩 谷",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35437938/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt19770970/"
     }
   ]
 }

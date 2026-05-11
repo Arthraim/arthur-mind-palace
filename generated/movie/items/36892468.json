@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36892468",
   "title": "庇护之地",
-  "originalTitle": "Shelter",
+  "originalTitle": "Shelter / 庇护所 / 天眼浩劫(台)",
   "year": "2026",
   "coverPath": "covers/movie/36892468.jpg",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929018970.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36892468",
   "listSummary": "2026-01-30(美国/中国大陆) / 杰森·斯坦森 / 博德希·蕾·布里纳希 / 娜奥米·阿基 / 比尔·奈伊 / 迈克尔·谢弗 / 安娜·克里里 / 哈丽特·瓦尔特 / 尤吉尼亚·克鲁索 / 席琳·邦金斯 / 巴利·吉尔 / 英国 / 美国 / 加拿大 / 里克·罗曼·沃夫 / 108分钟 / 庇护之地 / 动作 / 惊悚 / 沃德·帕里 / 英语",
   "rating": 3,
-  "markedAt": "2026-05-06",
+  "markedAt": "2026-05-06 10:43:21",
   "estimatedMarkedAtRange": null,
   "comment": "看养蜂人后我就说，这样的类似故事你就一直拍，我爱看👀",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36892468/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt32357218/"
     }
   ]
 }

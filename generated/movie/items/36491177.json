@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36491177",
   "title": "坂本龙一：杰作",
-  "originalTitle": "Ryuichi Sakamoto | Opus",
+  "originalTitle": "Ryuichi Sakamoto | Opus / 坂本龙一：OPUS(台) / 坂本龙一｜杰作",
   "year": "2023",
   "coverPath": "covers/movie/36491177.jpg",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907966076.jpg",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36491177",
   "listSummary": "2023-09-04(威尼斯电影节) / 2024-05-10(日本) / 2024-05-31(中国大陆) / 坂本龙一 / 日本 / 空音央 / 103分钟 / 坂本龙一：杰作 / 纪录片 / 音乐 / 日语",
   "rating": 5,
-  "markedAt": "2026-04-29",
+  "markedAt": "2026-04-29 02:34:50",
   "estimatedMarkedAtRange": null,
   "comment": "谢谢教授留下这最后的演出。也使得疫情里那场温暖的直播不是最后的演出。",
   "metadata": [
@@ -67,10 +67,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36491177/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt28490873/"
     }
   ]
 }

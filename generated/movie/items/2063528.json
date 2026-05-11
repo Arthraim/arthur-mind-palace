@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "2063528",
   "title": "盲山",
-  "originalTitle": "(2007)",
+  "originalTitle": "回家路 / Blind Mountain",
   "year": "2007",
   "coverPath": "covers/movie/2063528.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p524941991.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2063528",
   "listSummary": "2007-05-20(戛纳电影节) / 2007-10-25(中国香港) / 黄璐 / 杨幼安 / 贺运乐 / 张友平 / 李杨 / 袁志顺 / 中国大陆 / 李杨 / 95分钟 / 103分钟(DVD) / 剧情 / 犯罪 / 李杨 Yang Li / 四川话 / 陕西话",
   "rating": 3,
-  "markedAt": "2018-10-28",
+  "markedAt": "2018-10-28 13:34:19",
   "estimatedMarkedAtRange": null,
   "comment": "路人们的演技真的有点尴尬",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2063528/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1020972/"
     }
   ]
 }

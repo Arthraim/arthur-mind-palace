@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36430322",
   "title": "末路狂花钱",
-  "originalTitle": "(2024)",
+  "originalTitle": "The Last Frenzy",
   "year": "2024",
   "coverPath": "covers/movie/36430322.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2906646351.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36430322",
   "listSummary": "2024-05-01(中国大陆) / 贾冰 / 谭卓 / 小沈阳 / 于洋 / 董宝石 / 李嘉琦 / 张百乔 / 李宗恒 / 刘嘉裕 / 李琦 / 中国大陆 / 乌日娜 / 107分钟 / 剧情 / 喜剧 / 乌日娜 Rina Wu / 元婴 / 颜铮 Zheng Yan / 王闵 / 马多 / 胡图图 / 徐琳琳 Linlin Xu / 王紫萱 Zixuan Wang / 徐忆鸥 / 汉语普通话",
   "rating": 2,
-  "markedAt": "2024-06-24",
+  "markedAt": "2024-06-24 08:35:24",
   "estimatedMarkedAtRange": null,
   "comment": "半部三星",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36430322/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt30768761/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2124507",
-  "title": "火线特攻 Righteous Kill",
-  "originalTitle": "(2008)",
+  "title": "火线特攻",
+  "originalTitle": "Righteous Kill / 正义杀戮 / 世纪交锋(台)",
   "year": "2008",
   "coverPath": "covers/movie/2124507.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p715239352.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/2124507",
   "listSummary": "2008-09-12(美国) / 2010-11-30(中国大陆) / 罗伯特·德尼罗 / 阿尔·帕西诺 / 50分 / 卡拉·古奇诺 / 约翰·雷吉扎莫 / 唐尼·沃尔伯格 / 布莱恩·丹内利 / 特里尔比·格洛弗 / 斯特林·K·布朗 / 哈罗德·布里吉佛斯 / 美国 / 乔恩·阿维奈 / 101分钟 / 火线特攻 / 剧情 / 犯罪 / 悬疑 / 罗赛·格维茨 Russell Gewirtz / 英语 / 西班牙语",
   "rating": 3,
-  "markedAt": "2024-12-18",
+  "markedAt": "2024-12-18 03:22:00",
   "estimatedMarkedAtRange": null,
   "comment": "看不出他俩有啥感情",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2124507/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1034331/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "35182979",
   "title": "远山淡影",
-  "originalTitle": "(2022)",
+  "originalTitle": "Fading Shadow / L'esquisse de l'ombre",
   "year": "2022",
   "coverPath": "covers/movie/35182979.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2867871477.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35182979",
   "listSummary": "2022-06-18(中国大陆) / 2022-06-18(法国) / 叶硕 / 周楚濋 / 杨骏 / 聂礎一 / 谢宇朦 / 董浩然 / 贠钰 / 中国大陆 / 贺泉 / 126分钟 / 剧情 / 悬疑 / 张良学 Liangxue Zhang / 贺泉 Quan He / 吴童立 Tongli Wu / 汉语普通话",
   "rating": 3,
-  "markedAt": "2022-10-19",
+  "markedAt": "2022-10-19 09:16:09",
   "estimatedMarkedAtRange": null,
   "comment": "你不要影响我看严华跳舞",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35182979/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt21049210/"
     }
   ]
 }

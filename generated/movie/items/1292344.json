@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292344",
-  "title": "十二罗汉 Ocean's Twelve",
-  "originalTitle": "(2004)",
+  "title": "十二罗汉",
+  "originalTitle": "Ocean's Twelve / 瞒天过海2：长驱直入(台) / 盗海豪情12瞒徒(港)",
   "year": "2004",
   "coverPath": "covers/movie/1292344.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p677446893.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1292344",
   "listSummary": "2004-12-10(美国) / 乔治·克鲁尼 / 布拉德·皮特 / 凯瑟琳·泽塔-琼斯 / 朱莉娅·罗伯茨 / 安迪·加西亚 / 马特·达蒙 / 唐·钱德尔 / 卡西·阿弗莱克 / 伯尼·麦克 / 文森特·卡索 / 美国 / 史蒂文·索德伯格 / 125分钟 / 十二罗汉 / 犯罪 / 惊悚 / 乔治·诺非 George Nolfi / George Clayton Johnson / 杰克·戈登·拉塞尔 Jack Golden Russell / 英语 / 荷兰语 / 法语 / 意大利语 / 普通话",
   "rating": 3,
-  "markedAt": "2018-07-04",
+  "markedAt": "2018-07-04 20:58:44",
   "estimatedMarkedAtRange": null,
   "comment": "凯瑟琳泽塔琼斯真是逆天的好看 -。- 整个剧本也太蠢了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292344/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0349903/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26996619",
   "title": "古董局中局",
-  "originalTitle": "(2021)",
+  "originalTitle": "古董局中局电影版 / Schemes In Antiques",
   "year": "2021",
   "coverPath": "covers/movie/26996619.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2734316987.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26996619",
   "listSummary": "2021-12-03(中国大陆) / 2022-04-21(中国香港) / 雷佳音 / 李现 / 辛芷蕾 / 葛优 / 郭涛 / 咏梅 / 王庆祥 / 赵燕国彰 / 杨新鸣 / 阿如那 / 中国大陆 / 中国香港 / 郭子健 / 123分钟 / 剧情 / 悬疑 / 冒险 / 朱炫 Xuan Zhu / 范文文 Wenwen Fan / 黄海 Hai Huang / 王亚鹤 Yahe Wang / 潘依然 Yiran Pan / 常小琥 Xiaohu Chang / 汉语普通话 / 粤语",
   "rating": 4,
-  "markedAt": "2021-12-10",
+  "markedAt": "2021-12-10 00:51:21",
   "estimatedMarkedAtRange": null,
   "comment": "最好的一版",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26996619/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt11482948/"
     }
   ]
 }

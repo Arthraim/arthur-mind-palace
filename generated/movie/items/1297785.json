@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1297785",
-  "title": "星球大战前传2：克隆人的进攻 Star Wars: Episode II - Attack of the Clones",
-  "originalTitle": "(2002)",
+  "title": "星球大战前传2：克隆人的进攻",
+  "originalTitle": "Star Wars: Episode II - Attack of the Clones / 星球大战第二集：克隆人的进攻 / 星球大战前传II：复制人侵略(港)",
   "year": "2002",
   "coverPath": "covers/movie/1297785.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308393297.webp",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1297785/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0121765/"
     }
   ]
 }

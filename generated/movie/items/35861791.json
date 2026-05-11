@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35861791",
-  "title": "初步举证 National Theatre Live: Prima Facie",
-  "originalTitle": "(2022)",
+  "title": "初步举证",
+  "originalTitle": "National Theatre Live: Prima Facie / 英国国家剧院现场：初步举证 / 初步证据",
   "year": "2022",
   "coverPath": "covers/movie/35861791.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918386473.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35861791",
   "listSummary": "2022-07-21(英国点映) / 2022-07-21(爱尔兰) / 2025-02-28(中国大陆) / 朱迪·科默 / 英国 / 贾斯汀·马丁 / 109分钟 / 初步举证 / 剧情 / Suzie Miller / 英语",
   "rating": 5,
-  "markedAt": "2025-05-01",
+  "markedAt": "2025-05-01 16:25:49",
   "estimatedMarkedAtRange": null,
   "comment": "台词高速地在内心、对话、客观描写等等内容里快速的穿插切换，非常考验观众的注意力和理解能力。哭的没停过，哭着哭着觉得剧情其实也没有什么煽情技巧，纯粹是理性的展现了事情本身和她内心的真实，甚至这个理性的真实还在试图理性地呼吁些什么。只是这个真实确实挺好哭的。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35861791/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt21093976/"
     }
   ]
 }

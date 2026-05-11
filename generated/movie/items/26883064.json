@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26883064",
   "title": "白夜追凶",
-  "originalTitle": "(2017)",
+  "originalTitle": "白夜追凶 第一季 / Day and Night",
   "year": "2017",
   "coverPath": "covers/movie/26883064.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2483150767.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26883064",
   "listSummary": "2017-08-30(中国大陆) / 潘粤明 / 王龙正 / 梁缘 / 吕晓霖 / 尹姝贻 / 侯雪龙 / 宋乃刚 / 王余阳 / 博超 / 李胜强 / 中国大陆 / 王伟 / 45分钟 / 剧情 / 犯罪 / 悬疑 / 指纹 Zhiwen / 顾小白 Xiaobai Gu / 汉语普通话",
   "rating": 4,
-  "markedAt": "2021-10-16",
+  "markedAt": "2021-10-16 16:23:29",
   "estimatedMarkedAtRange": null,
   "comment": "没发现自己标了想看，还是因为毒舌推荐。的确是好看的，可惜太多坑没填了。中间卧底那段故事也比较拖节奏。",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26883064/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7341934/"
     }
   ]
 }

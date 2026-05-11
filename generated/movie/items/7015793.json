@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "7015793",
-  "title": "独立游戏大电影 Indie Game: The Movie",
-  "originalTitle": "(2012)",
+  "title": "独立游戏大电影",
+  "originalTitle": "Indie Game: The Movie",
   "year": "2012",
   "coverPath": "covers/movie/7015793.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1605808860.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/7015793",
   "listSummary": "2012-01-20(圣丹斯电影节) / 乔纳森·布洛 / 菲尔·费斯 / 埃德蒙·麦克米伦 / 汤米·里弗内斯 / 加拿大 / buy.indiegamethemovie.com / 丽萨尼·帕若 / 詹姆斯·史威斯基 / 94分钟 / 103分钟(台湾) / 独立游戏大电影 / 纪录片 / 英语 / 法语",
   "rating": 5,
-  "markedAt": "2025-09-27",
+  "markedAt": "2025-09-27 20:30:43",
   "estimatedMarkedAtRange": null,
   "comment": "每个故事都是all in的，要是十年前看这个电影，我的人生轨迹可能会大不相同",
   "metadata": [
@@ -63,10 +63,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/7015793/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1942884/"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "kind": "movie",
   "sourceId": "7051830",
-  "title": "佩小姐的奇幻城堡 Miss Peregrine's Home for Peculiar Children",
-  "originalTitle": "(2016)",
+  "title": "佩小姐的奇幻城堡",
+  "originalTitle": "Miss Peregrine's Home for Peculiar Children / 怪屋女孩 / 怪奇孤儿院(台)",
   "year": "2016",
   "coverPath": "covers/movie/7051830.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2398173791.webp",
   "doubanUrl": "https://movie.douban.com/subject/7051830/",
   "detailUrl": "/movie/7051830",
-  "listSummary": "2016-09-30(美国) / 2016-12-02(中国大陆) / 阿萨·巴特菲尔德 / 伊娃·格林 / 塞缪尔·杰克逊 / 朱迪·丹奇 / 艾拉·珀内尔 / 克里斯·奥多德 / 金·迪肯斯 / 艾莉森·詹尼 / 劳伦·麦克罗斯蒂 / 特伦斯·斯坦普 / 美国 / www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children / 蒂姆·波顿 / 127分钟 / 126分钟(中国大陆) / 佩小姐的奇幻城堡 / 剧情 / 奇幻 / 冒险 / 简·古德曼 Jane Goldman / 兰塞姆·里格斯 Ransom Riggs / 英语",
+  "listSummary": "2016-09-30(美国) / 2016-12-02(中国大陆) / 阿萨·巴特菲尔德 / 伊娃·格林 / 塞缪尔·杰克逊 / 朱迪·丹奇 / 艾拉·珀内尔 / 克里斯·奥多德 / 金·迪肯斯 / 艾莉森·珍妮 / 劳伦·麦克罗斯蒂 / 特伦斯·斯坦普 / 美国 / www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children / 蒂姆·波顿 / 127分钟 / 126分钟(中国大陆) / 佩小姐的奇幻城堡 / 剧情 / 奇幻 / 冒险 / 简·古德曼 Jane Goldman / 兰塞姆·里格斯 Ransom Riggs / 英语",
   "rating": 4,
-  "markedAt": "2022-12-28",
+  "markedAt": "2022-12-28 00:49:23",
   "estimatedMarkedAtRange": null,
   "comment": "设定都挺有意思的",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/7051830/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1935859/"
     }
   ]
 }

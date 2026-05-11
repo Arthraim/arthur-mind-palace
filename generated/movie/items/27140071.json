@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27140071",
   "title": "找到你",
-  "originalTitle": "(2018)",
+  "originalTitle": "谜踪 / Lost, Found",
   "year": "2018",
   "coverPath": "covers/movie/27140071.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534471408.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27140071",
   "listSummary": "2018-06-17(上海电影节) / 2018-10-05(中国大陆) / 姚晨 / 马伊琍 / 袁文康 / 吴昊宸 / 王梓尘 / 陶昕然 / 高叶 / 齐欢 / 韩龙瑄 / 袁晶 / 中国大陆 / 吕乐 / 102分钟 / 剧情 / 家庭 / 秦海燕 Haiyan Qin / 汉语普通话",
   "rating": 4,
-  "markedAt": "2018-12-08",
+  "markedAt": "2018-12-08 00:14:29",
   "estimatedMarkedAtRange": null,
   "comment": "扣一颗星给最后几分钟",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27140071/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt9034530/"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "27605698",
   "title": "西虹市首富",
-  "originalTitle": "(2018)",
+  "originalTitle": "Hello Mr. Billionaire / 资本接班人",
   "year": "2018",
   "coverPath": "covers/movie/27605698.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529206747.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27605698",
   "listSummary": "2018-07-27(中国大陆) / 沈腾 / 宋芸桦 / 张一鸣 / 张晨光 / 常远 / 魏翔 / 赵自强 / 九孔 / 李立群 / 王成思 / 中国大陆 / 闫非 / 彭大魔 / 118分钟 / 喜剧 / 闫非 Fei Yan / 彭大魔 Damo Peng / 林炳宝 Bingbao Lin / 汉语普通话",
   "rating": 4,
-  "markedAt": "2018-07-29",
+  "markedAt": "2018-07-29 04:14:07",
   "estimatedMarkedAtRange": null,
   "comment": "哈哈哈哈哈哈哈哈哈哈哈哈",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27605698/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt8529186/"
     }
   ]
 }

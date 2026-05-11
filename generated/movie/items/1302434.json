@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1302434",
-  "title": "机动部队 PTU",
-  "originalTitle": "(2003)",
+  "title": "机动部队",
+  "originalTitle": "PTU / PTU: Into the Perilous Night / PTU - Police Tactical Unit",
   "year": "2003",
   "coverPath": "covers/movie/1302434.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248645493.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1302434",
   "listSummary": "2003-04-17(中国香港) / 任达华 / 邵美琪 / 林雪 / 黄卓玲 / 黄浩然 / 高雄 / 卢海鹏 / 张满源 / 利沙华 / 张志平 / 中国香港 / 杜琪峰 / 88分钟 / 机动部队 / 犯罪 / 剧情 / 欧健儿 Kin-Yee Au / 游乃海 Nai-Hoi Yau / 粤语",
   "rating": 5,
-  "markedAt": "2025-06-12",
+  "markedAt": "2025-06-12 01:33:41",
   "estimatedMarkedAtRange": null,
   "comment": "居然错过如此神片",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1302434/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0250638/"
     }
   ]
 }

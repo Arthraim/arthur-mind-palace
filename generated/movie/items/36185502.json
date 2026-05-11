@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36185502",
   "title": "长安的荔枝",
-  "originalTitle": "(2025)",
+  "originalTitle": "长安的荔枝(电影版) / The Lychee Road",
   "year": "2025",
   "coverPath": "covers/movie/36185502.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926288464.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36185502",
   "listSummary": "2025-07-18(中国大陆) / 大鹏 / 白客 / 庄达菲 / 刘俊谦 / 刘德华 / 杨幂 / 常远 / 魏翔 / 王迅 / 孙阳 / 中国大陆 / 大鹏 / 2025-07-12 16:00 / 122分钟 / 剧情 / 喜剧 / 古装 / 沈雨悦 Yuyue Shen / 戴思奥 Si'ao Dai / 大鹏 Chengpeng Dong / 汉语普通话 / 粤语",
   "rating": 4,
-  "markedAt": "2025-10-16",
+  "markedAt": "2025-10-16 01:32:30",
   "estimatedMarkedAtRange": null,
   "comment": "制作真不错，那个旋焦好适合长安，欠它一张门票",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36185502/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt34388866/"
     }
   ]
 }

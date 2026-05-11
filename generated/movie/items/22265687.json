@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "22265687",
-  "title": "星球大战9：天行者崛起 Star Wars: The Rise of Skywalker",
-  "originalTitle": "(2019)",
+  "title": "星球大战9：天行者崛起",
+  "originalTitle": "Star Wars: The Rise of Skywalker / STAR WARS：天行者的崛起(台) / 星球大战9",
   "year": "2019",
   "coverPath": "covers/movie/22265687.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575456458.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/22265687",
   "listSummary": "2019-12-18(中国大陆) / 2019-12-20(美国) / 黛西·雷德利 / 亚当·德赖弗 / 奥斯卡·伊萨克 / 约翰·博耶加 / 马克·哈米尔 / 凯丽·费雪 / 比利·迪·威廉姆斯 / 伊恩·麦克迪阿梅德 / 凯丽·拉塞尔 / 哈里森·福特 / 美国 / J·J·艾布拉姆斯 / 142分钟 / 星球大战9：天行者崛起 / 动作 / 科幻 / 冒险 / J·J·艾布拉姆斯 J.J. Abrams / 克里斯·特里奥 Chris Terrio / 乔治·卢卡斯 George Lucas / 科林·特雷沃罗 Colin Trevorrow / 德里克·康纳利 Derek Connolly / 英语",
   "rating": 5,
-  "markedAt": "2019-12-20",
+  "markedAt": "2019-12-20 13:45:09",
   "estimatedMarkedAtRange": null,
   "comment": "情怀满分，电影0分。星战粉给五颗星没毛病。我有点想自己YY一个三部曲。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/22265687/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2527338/"
     }
   ]
 }

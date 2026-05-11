@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1295686",
-  "title": "盗火线 Heat",
-  "originalTitle": "(1995)",
+  "title": "盗火线",
+  "originalTitle": "Heat / 烈火悍将(台) / 热力",
   "year": "1995",
   "coverPath": "covers/movie/1295686.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792508289.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/1295686",
   "listSummary": "1995-12-15(美国) / 阿尔·帕西诺 / 罗伯特·德尼罗 / 方·基默 / 乔恩·沃伊特 / 汤姆·塞兹摩尔 / 戴安·维诺拉 / 艾米·布伦尼曼 / 艾什莉·贾德 / 麦凯尔泰·威廉逊 / 韦斯·斯塔迪 / 美国 / 迈克尔·曼 / 170分钟 / 盗火线 / 剧情 / 动作 / 犯罪 / 惊悚 / 迈克尔·曼 Michael Mann / 英语 / 西班牙语",
   "rating": 4,
-  "markedAt": "2021-02-19",
+  "markedAt": "2021-02-19 02:47:47",
   "estimatedMarkedAtRange": null,
   "comment": "两个人喝咖啡的桥段真的nb坏了",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1295686/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0113277/"
     }
   ]
 }

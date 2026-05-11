@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "35604677",
-  "title": "机动战士高达 水星的魔女 機動戦士ガンダム 水星の魔女",
-  "originalTitle": "(2022)",
+  "title": "机动战士高达 水星的魔女",
+  "originalTitle": "機動戦士ガンダム 水星の魔女 / Mobile Suit Gundam: The Witch from Mercury",
   "year": "2022",
   "coverPath": "covers/movie/35604677.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2879515135.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/35604677",
   "listSummary": "2022-10-02(日本) / 市之濑加那 / Lynn / 阿座上洋平 / 宫本侑芽 / 花江夏树 / 富田美忧 / 古川慎 / 能登麻美子 / 内田直哉 / 斧笃 / 日本 / 小林宽 / 24分钟 / 机动战士高达 水星的魔女 / 剧情 / 科幻 / 动画 / 大河内一楼 Ichiro Okouchi / 日语",
   "rating": 4,
-  "markedAt": "2024-10-26",
+  "markedAt": "2024-10-26 02:51:50",
   "estimatedMarkedAtRange": null,
   "comment": "好复杂，各方势力，人设机设都很棒",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/35604677/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt15433166/"
     }
   ]
 }

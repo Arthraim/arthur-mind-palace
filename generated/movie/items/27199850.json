@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "27199850",
-  "title": "暗夜博士：莫比亚斯 Morbius",
-  "originalTitle": "(2022)",
+  "title": "暗夜博士：莫比亚斯",
+  "originalTitle": "Morbius / 莫比亚斯 / 魔比煞(港)",
   "year": "2022",
   "coverPath": "covers/movie/27199850.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2867984237.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/27199850",
   "listSummary": "2022-04-01(美国) / 杰瑞德·莱托 / 马特·史密斯 / 阿德里娅·阿霍纳 / 杰瑞德·哈里斯 / 泰瑞斯·吉布森 / 艾尔·马德里加尔 / 迈克尔·基顿 / 萨里斯-安奇·哈托 / 乔·费雷拉 / 查理·肖特韦尔 / 美国 / 丹尼尔·伊斯皮诺萨 / 104分钟 / 暗夜博士：莫比亚斯 / 动作 / 科幻 / 惊悚 / 冒险 / 恐怖 / 马特·萨兹马 Matt Sazama / 伯克·沙普利斯 Burk Sharpless / 英语 / 西班牙语 / 俄语",
   "rating": 3,
-  "markedAt": "2022-05-24",
+  "markedAt": "2022-05-24 19:41:07",
   "estimatedMarkedAtRange": null,
   "comment": "不咋地，把莱托还给DC",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/27199850/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt5108870/"
     }
   ]
 }

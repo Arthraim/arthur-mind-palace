@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4765764",
-  "title": "广告狂人 第四季 Mad Men Season 4",
-  "originalTitle": "(2010)",
+  "title": "广告狂人 第四季",
+  "originalTitle": "Mad Men Season 4 / 麦迪逊狂人 第四季",
   "year": "2010",
   "coverPath": "covers/movie/4765764.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p520223372.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4765764",
   "listSummary": "2010-07-25 / 乔恩·哈姆 / 詹纽瑞·琼斯 / 伊丽莎白·莫斯 / 山姆·佩吉 / 亚历克莎·阿勒曼尼 / 丹尼尔·文森特·戈德 / 马特·朗 / 黛博拉·莱西 / 汤米·杜威 / 查理·霍夫赫梅尔 / 美国 / media.amctv.com/originals/madmen/index.html / 莱丝莉·琳卡·格拉特 / 斯考特·霍恩巴契 / 菲尔·亚伯拉罕 / 马修·韦纳 / 迈克尔·乌彭达尔 / 詹妮弗·盖辛格 / 广告狂人 / 广告狂人 / 剧情 / 马修·维纳 Matthew Weiner / 英语",
   "rating": 5,
-  "markedAt": "2020-05-25",
+  "markedAt": "2020-05-25 12:23:59",
   "estimatedMarkedAtRange": null,
   "comment": "好想抽烟喝酒………",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4765764/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1615656/"
     }
   ]
 }

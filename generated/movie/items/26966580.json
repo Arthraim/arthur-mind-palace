@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "26966580",
   "title": "妖铃铃",
-  "originalTitle": "(2017)",
+  "originalTitle": "妖妖铃 / 妖妖零",
   "year": "2017",
   "coverPath": "covers/movie/26966580.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506825662.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/26966580",
   "listSummary": "2017-12-29(中国大陆) / 吴君如 / 沈腾 / 岳云鹏 / 张译 / 姜逸磊 / 吴镇宇 / 方中信 / 焦俊艳 / 潘斌龙 / 阿如那 / 中国大陆 / 吴君如 / 88分钟 / 喜剧 / 惊悚 / 周运海 Yunhai Zhou / 查慕春 Muchun Zha / 王貽興 Ong Yi Hing / 汉语普通话",
   "rating": 1,
-  "markedAt": "2017-12-31",
+  "markedAt": "2017-12-31 19:51:06",
   "estimatedMarkedAtRange": null,
   "comment": "我决定就从这部片开始，严防死守的一颗星正式被开放",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26966580/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt7743588/"
     }
   ]
 }

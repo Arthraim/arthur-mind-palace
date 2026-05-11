@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "11537954",
-  "title": "瑞克和莫蒂 第一季 Rick and Morty Season 1",
-  "originalTitle": "(2013)",
+  "title": "瑞克和莫蒂 第一季",
+  "originalTitle": "Rick and Morty Season 1",
   "year": "2013",
   "coverPath": "covers/movie/11537954.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2396871198.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/11537954",
   "listSummary": "2013-12-02(美国) / 贾斯汀·罗兰 / 克里斯·帕内尔 / 斯宾瑟·格拉默 / 萨拉·乔克 / 凯瑞·华格伦 / 汤姆·肯尼 / 阿尔弗雷德·莫里纳 / 约翰·奥利弗 / Hope Sandoval / 布兰登·约翰逊 / 美国 / www.rickandmorty.com / 贾斯汀·罗兰 / 瑞克和莫蒂 / 22分钟 / 瑞克和莫蒂 / 喜剧 / 科幻 / 动画 / 贾斯汀·罗兰 Justin Roiland / 丹·哈萌 Dan Harmon / 英语",
   "rating": 5,
-  "markedAt": "2019-05-19",
+  "markedAt": "2019-05-19 19:09:52",
   "estimatedMarkedAtRange": null,
   "comment": "11集 mind blown 🤯🤯🤯 了几十次",
   "metadata": [
@@ -75,10 +75,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/11537954/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2861424/"
     }
   ]
 }

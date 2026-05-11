@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "4811774",
-  "title": "阿凡达：水之道 Avatar: The Way of Water",
-  "originalTitle": "(2022)",
+  "title": "阿凡达：水之道",
+  "originalTitle": "Avatar: The Way of Water / 阿凡达2 / 阿凡达2：水之道",
   "year": "2022",
   "coverPath": "covers/movie/4811774.webp",
   "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2882772634.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/4811774",
   "listSummary": "2022-12-14(中国香港/中国台湾) / 2022-12-16(美国/中国大陆) / 2025-10-03(中国大陆重映) / 萨姆·沃辛顿 / 佐伊·索尔达娜 / 西格妮·韦弗 / 史蒂芬·朗 / 克利夫·柯蒂斯 / 乔·大卫·摩尔 / 希·庞德 / 埃迪·法可 / 杰米·福雷特斯 / 吉奥瓦尼·瑞比西 / 美国 / 詹姆斯·卡梅隆 / 2022-12-14 14:00 / 193分钟 / 阿凡达：水之道 / 动作 / 科幻 / 冒险 / 詹姆斯·卡梅隆 James Cameron / 里克·杰法 Rick Jaffa / 阿曼达·斯尔沃 Amanda Silver / 乔什·弗莱德曼 Josh Friedman / 肖恩·萨莱诺 Shane Salerno / 英语",
   "rating": 4,
-  "markedAt": "2023-03-28",
+  "markedAt": "2023-03-28 09:17:44",
   "estimatedMarkedAtRange": null,
   "comment": null,
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4811774/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt1630029/"
     }
   ]
 }

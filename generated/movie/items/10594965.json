@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "10594965",
-  "title": "实习生 The Intern",
-  "originalTitle": "(2015)",
+  "title": "实习生",
+  "originalTitle": "The Intern / 高年级实习生(台) / 见习冇限耆(港)",
   "year": "2015",
   "coverPath": "covers/movie/10594965.webp",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2260497287.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/10594965",
   "listSummary": "2015-09-25(美国) / 罗伯特·德尼罗 / 安妮·海瑟薇 / 蕾妮·罗素 / 安德斯·霍尔姆 / 乔乔·库什纳 / 安德鲁·兰内斯 / 亚当·德维尼 / 扎克·珀尔曼 / 杰森·奥利 / 克里斯蒂娜·谢勒 / 美国 / theinternmovie.com / 南希·迈耶斯 / 121分钟 / 实习生 / 喜剧 / 南希·迈耶斯 Nancy Meyers / 英语",
   "rating": 4,
-  "markedAt": "2021-09-03",
+  "markedAt": "2021-09-03 04:06:58",
   "estimatedMarkedAtRange": null,
   "comment": "不喜欢那些没说服力的童话元素。但超喜欢德尼罗这个角色，温暖智慧。（btw 这片子并不女性友好，只是有个女主外男主内的皮而已，女主听老男人教导，讨好自己的丈夫，乖的像个完美小女人。对了不靠谱的司机偏偏突兀的是一个女性。",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/10594965/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt2361509/"
     }
   ]
 }

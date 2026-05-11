@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "2156528",
-  "title": "生活大爆炸 第一季 The Big Bang Theory Season 1",
-  "originalTitle": "(2007)",
+  "title": "生活大爆炸 第一季",
+  "originalTitle": "The Big Bang Theory Season 1 / 天才也性感 / 天才理论传",
   "year": "2007",
   "coverPath": "covers/movie/2156528.webp",
   "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553281898.webp",
@@ -79,10 +79,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/2156528/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0898266/"
     }
   ]
 }

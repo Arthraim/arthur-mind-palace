@@ -2,7 +2,7 @@
   "kind": "movie",
   "sourceId": "36154853",
   "title": "好东西",
-  "originalTitle": "(2024)",
+  "originalTitle": "爱情神话平行篇：好东西 / 爱情神话·平行篇",
   "year": "2024",
   "coverPath": "covers/movie/36154853.webp",
   "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.webp",
@@ -10,7 +10,7 @@
   "detailUrl": "/movie/36154853",
   "listSummary": "2024-11-13(金鸡国产电影展) / 2024-11-16(大规模点映) / 2024-11-22(中国大陆) / 宋佳 / 钟楚曦 / 曾慕梅 / 章宇 / 赵又廷 / 任彬 / 张弛 / 周野芒 / 王菊 / 孔连顺 / 中国大陆 / 邵艺辉 / 2024-11-09 12:00 / 123分钟 / 剧情 / 爱情 / 邵艺辉 Yihui Shao / 汉语普通话",
   "rating": 5,
-  "markedAt": "2024-11-30",
+  "markedAt": "2024-11-30 00:20:16",
   "estimatedMarkedAtRange": null,
   "comment": "出差在北京，晚上一个人出来看这部电影，看完电影拿出手机，看见孩子妈在牙医群里安排明天的检查，因为医生说了一句要带一套换洗衣服开始担心：会不会痛啊。得让我女儿看，爸爸怎么会比妈妈好啊",
   "metadata": [
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/36154853/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt31807233/"
     }
   ]
 }
