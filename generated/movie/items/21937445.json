@@ -13,11 +13,68 @@
   "markedAt": "2017-06-29 22:40:41",
   "estimatedMarkedAtRange": null,
   "comment": "很有力",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2013"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2013)"
+    },
+    {
+      "label": "Title",
+      "value": "辩护人 변호인"
+    },
+    {
+      "label": "导演",
+      "value": "杨宇硕"
+    },
+    {
+      "label": "编剧",
+      "value": "杨宇硕 / 尹贤浩"
+    },
+    {
+      "label": "主演",
+      "value": "宋康昊 / 金迎爱 / 吴达洙 / 郭度沅 / 任时完 / 宋永彰 / 郑元中 / 赵敏基 / 李杭娜 / 李星民 / 车光洙 / 韩基重 / 沈熙燮 / 赵莞基 / 李姃垠"
+    },
+    {
+      "label": "类型",
+      "value": "剧情"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "韩国"
+    },
+    {
+      "label": "语言",
+      "value": "韩语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2013-12-18(韩国)"
+    },
+    {
+      "label": "片长",
+      "value": "127分钟"
+    },
+    {
+      "label": "又名",
+      "value": "逆权大状(港) / 正义辩护人(台) / The Attorney"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3404140"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/21937445/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3404140/"
     }
   ]
 }

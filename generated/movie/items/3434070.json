@@ -13,11 +13,68 @@
   "markedAt": "2017-06-14 08:21:40",
   "estimatedMarkedAtRange": null,
   "comment": "还是觉得原谅的太快",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "太空旅客 Passengers"
+    },
+    {
+      "label": "导演",
+      "value": "莫滕·泰杜姆"
+    },
+    {
+      "label": "编剧",
+      "value": "乔·斯派茨"
+    },
+    {
+      "label": "主演",
+      "value": "詹妮弗·劳伦斯 / 克里斯·帕拉特 / 麦克·辛 / 劳伦斯·菲什伯恩 / 安迪·加西亚 / 因德尔·库马尔 / 奥罗拉·佩里诺"
+    },
+    {
+      "label": "类型",
+      "value": "科幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语 / 汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-01-13(中国大陆) / 2016-12-21(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "116分钟"
+    },
+    {
+      "label": "又名",
+      "value": "太空潜航者(港) / 星际过客(台) / 旅客 / 乘客"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1355644"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/3434070/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1355644/"
     }
   ]
 }

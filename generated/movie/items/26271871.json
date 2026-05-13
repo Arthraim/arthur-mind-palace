@@ -13,11 +13,68 @@
   "markedAt": "2017-07-22 10:36:05",
   "estimatedMarkedAtRange": null,
   "comment": "还行吧…… 算是不错的还原了这个故事咯",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "全部成为F すべてがFになる THE PERFECT INSIDER"
+    },
+    {
+      "label": "导演",
+      "value": "神户守"
+    },
+    {
+      "label": "编剧",
+      "value": "大野敏哉 / 渡边雄介 / 森博嗣"
+    },
+    {
+      "label": "主演",
+      "value": "加濑康之 / 种崎敦美 / 木户衣吹 / 咲野俊介 / 甲斐田裕子 / 铃木达央 / 伊藤健太郎 / 日笠阳子 / 下崎纮史 / 伊丸冈笃 / 桑岛法子 / 村田太志 / 堀江由衣 / 长克巳 / 户田惠 / 高桥伸也 / 佐藤美由希 / 木岛隆一 / 竹内荣治 / 四宫豪 / 山路和弘 / 园崎未惠 / 加藤将之 / 矶部勉"
+    },
+    {
+      "label": "类型",
+      "value": "动画 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "首播",
+      "value": "2015-10-09(日本)"
+    },
+    {
+      "label": "集数",
+      "value": "11"
+    },
+    {
+      "label": "单集片长",
+      "value": "25分钟"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5247480"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26271871/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5247480/"
     }
   ]
 }

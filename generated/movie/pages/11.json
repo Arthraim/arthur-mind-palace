@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 11,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1401536",
+      "title": "机动战士高达 逆袭的夏亚",
+      "originalTitle": "機動戦士ガンダム 逆襲のシャア / 机动战士：马沙之反击 (港) / Kidō Senshi Gandamu Gyakushū no Shā",
+      "year": "1988",
+      "coverPath": "covers/movie/1401536.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549768986.webp",
+      "detailUrl": "/movie/1401536",
+      "listSummary": "1988-03-12(日本) / 古谷彻 / 池田秀一 / 铃置洋孝 / 榊原良子 / 白石冬美 / 川村万梨阿 / 弥生美月 / 佐佐木望 / 山寺宏一 / 伊仓一惠 / 日本 / www.gundam-cca.net / 富野由悠季 / 120分钟 / 机动战士高达 逆袭的夏亚 / 剧情 / 动作 / 科幻 / 动画 / 战争 / 富野由悠季 Yoshiyuki Tomino / 日语",
+      "rating": 5,
+      "markedAt": "2021-06-18 14:22:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "第二次看，第一次在电影院看，氛围太好了。UC这么完结简直完美。"
+    },
     {
       "kind": "movie",
       "sourceId": "1464352",
@@ -439,21 +454,6 @@
       "markedAt": "2020-12-22 04:16:12",
       "estimatedMarkedAtRange": null,
       "comment": "这也太适合发烧的时候看了……"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "30269016",
-      "title": "半个喜剧",
-      "originalTitle": "如果，我不是我 / Almost a Comedy",
-      "year": "2019",
-      "coverPath": "covers/movie/30269016.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2576482356.webp",
-      "detailUrl": "/movie/30269016",
-      "listSummary": "2019-12-20(中国大陆) / 任素汐 / 吴昱翰 / 刘迅 / 汤敏 / 赵海燕 / 刘宸翎 / 裴魁山 / 梁瀛 / 于奥 / 梁翘柏 / 中国大陆 / 周申 / 刘露 / 111分钟 / 喜剧 / 爱情 / 周申 Shen Zhou / 刘露 Lu Liu / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2020-12-21 23:30:12",
-      "estimatedMarkedAtRange": null,
-      "comment": "那个叫孙同的一会儿这样一会儿那样没啥说服力啊"
     }
   ]
 }

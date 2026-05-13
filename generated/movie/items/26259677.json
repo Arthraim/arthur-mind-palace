@@ -13,11 +13,68 @@
   "markedAt": "2017-07-17 23:23:09",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "垫底辣妹 ビリギャル"
+    },
+    {
+      "label": "导演",
+      "value": "土井裕泰"
+    },
+    {
+      "label": "编剧",
+      "value": "桥本裕志"
+    },
+    {
+      "label": "主演",
+      "value": "有村架纯 / 伊藤淳史 / 吉田羊 / 田中哲司 / 野村周平 / 安田显 / 阿部菜渚美 / 中村靖日 / 矢岛健一 / 峰村理惠"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 家庭"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2016-04-14(中国大陆) / 2015-05-01(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "117分钟"
+    },
+    {
+      "label": "又名",
+      "value": "奇迹补习社(港) / 奇迹补习班 / 垫底女生 / Biri Girl / Flying Colors"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4195368"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26259677/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4195368/"
     }
   ]
 }

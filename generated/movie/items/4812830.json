@@ -13,11 +13,68 @@
   "markedAt": "2017-05-21 19:44:30",
   "estimatedMarkedAtRange": null,
   "comment": "稀饭",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2011"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2011)"
+    },
+    {
+      "label": "Title",
+      "value": "魁拔之十万火急"
+    },
+    {
+      "label": "导演",
+      "value": "王川"
+    },
+    {
+      "label": "编剧",
+      "value": "王川 / 田博 / 马华 / 李嘉 / 王鹏展 / 汤俊 / 朱岳 / 关皓天 / 武寒青"
+    },
+    {
+      "label": "主演",
+      "value": "刘婧荦 / 王凯 / 张杰 / 敖磊 / 李立宏 / 周志强 / 姜广涛 / 季冠霖"
+    },
+    {
+      "label": "类型",
+      "value": "动画 / 儿童 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2011-07-08(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "83分钟"
+    },
+    {
+      "label": "又名",
+      "value": "魁拔 / Kuiba / Cribug"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2557868"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/4812830/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2557868/"
     }
   ]
 }

@@ -13,11 +13,68 @@
   "markedAt": "2017-05-20 12:29:45",
   "estimatedMarkedAtRange": null,
   "comment": "跟着男主来看到。从头到尾疯疯癫癫，男主拦下 rex 的车的时候这是惊了",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2011"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2011)"
+    },
+    {
+      "label": "Title",
+      "value": "杀手乔 Killer Joe"
+    },
+    {
+      "label": "导演",
+      "value": "威廉·弗莱德金"
+    },
+    {
+      "label": "编剧",
+      "value": "崔西·莱茨"
+    },
+    {
+      "label": "主演",
+      "value": "马修·麦康纳 / 埃米尔·赫斯基 / 朱诺·坦普尔 / 托马斯·哈登·丘奇 / 吉娜·格申 / 马克·麦考利 / 格拉伦·布莱恩特·班克斯 / Carol Sutton / Danny Epper / Jeff Galpin / 斯科特·A·马丁 / Gregory C. Bauchard / Charley Vance / Julia Adams / 杰拉尔丁·格伦"
+    },
+    {
+      "label": "类型",
+      "value": "惊悚 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2011-09-08(威尼斯电影节) / 2012-07-27(美国)"
+    },
+    {
+      "label": "片长",
+      "value": "102分钟"
+    },
+    {
+      "label": "又名",
+      "value": "杀手乔一下(台)"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1726669"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/5318758/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1726669/"
     }
   ]
 }

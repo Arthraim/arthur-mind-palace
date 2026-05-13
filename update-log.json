@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-05-11T03:01:52.857Z",
+  "generatedAt": "2026-05-13T02:25:12.864Z",
   "entries": [
+    {
+      "id": "2026-05-13T02:25:12.864Z",
+      "generatedAt": "2026-05-13T02:25:12.864Z",
+      "lastDoubanSyncAt": "2026-05-13T02:20:27.240Z",
+      "totals": {
+        "added": 1,
+        "updated": 1,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 1,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "27622447",
+          "title": "小偷家族",
+          "markedAt": "2026-05-13 09:17:49",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "1292337",
+          "title": "无人知晓",
+          "markedAt": "2026-05-11 10:47:19",
+          "changeType": "updated",
+          "changedFields": [
+            "title",
+            "originalTitle"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-05-11T03:01:52.857Z",
       "generatedAt": "2026-05-11T03:01:52.857Z",

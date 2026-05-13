@@ -13,11 +13,68 @@
   "markedAt": "2017-06-22 12:34:25",
   "estimatedMarkedAtRange": null,
   "comment": "故事好没办法",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "嫌疑人X的献身"
+    },
+    {
+      "label": "导演",
+      "value": "苏有朋"
+    },
+    {
+      "label": "编剧",
+      "value": "李佳颖 / 黄海 / 苌江 / 王潮 / 迟海 / 冯元良 / 东野圭吾"
+    },
+    {
+      "label": "主演",
+      "value": "王凯 / 张鲁一 / 林心如 / 叶祖新 / 丁冠森 / 邓恩熙 / 成泰燊 / 赵阳 / 侯明昊 / 焉栩嘉 / 任熙青 / 李炳易 / 李宏 / 赵燕国彰"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-03-31(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "112分钟"
+    },
+    {
+      "label": "又名",
+      "value": "The Devotion of Suspect X / Suspect X"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3401392"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26606743/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3401392/"
     }
   ]
 }

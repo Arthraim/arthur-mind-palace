@@ -2,14 +2,29 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
     {
       "kind": "movie",
+      "sourceId": "27622447",
+      "title": "小偷家族",
+      "originalTitle": "万引き家族 / Shoplifters / Une Affaire de Famille",
+      "year": "2018",
+      "coverPath": "covers/movie/27622447.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg",
+      "detailUrl": "/movie/27622447",
+      "listSummary": "2018-05-13(戛纳电影节) / 2018-06-08(日本) / 2018-08-03(中国大陆) / 中川雅也 / 安藤樱 / 松冈茉优 / 城桧吏 / 佐佐木美结 / 树木希林 / 绪形直人 / 池松壮亮 / 森口瑶子 / 山田裕贵 / 日本 / gaga.ne.jp/manbiki-kazoku/ / 是枝裕和 / 117分钟(中国大陆) / 121分钟 / 小偷家族 / 剧情 / 犯罪 / 家庭 / 是枝裕和 Hirokazu Koreeda / 日语",
+      "rating": 5,
+      "markedAt": "2026-05-13 09:17:49",
+      "estimatedMarkedAtRange": null,
+      "comment": "故事到了安藤樱的哭戏那里真的绷不住"
+    },
+    {
+      "kind": "movie",
       "sourceId": "1292337",
-      "title": "无人知晓 誰も知らない",
-      "originalTitle": "(2004)",
+      "title": "无人知晓",
+      "originalTitle": "誰も知らない / 谁知赤子心(港) / 无人知晓的夏日清晨(台)",
       "year": "2004",
       "coverPath": "covers/movie/1292337.jpg",
       "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
@@ -439,21 +454,6 @@
       "markedAt": "2025-12-11 01:40:37",
       "estimatedMarkedAtRange": null,
       "comment": "确实是六部里最好的一部，导演编剧不用做客观选择题了，可以稍做一些主观题"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26295987",
-      "title": "红楼梦第五部：晴雯夭亡",
-      "originalTitle": "(1989)",
-      "year": null,
-      "coverPath": "covers/movie/26295987.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2868516513.webp",
-      "detailUrl": "/movie/26295987",
-      "listSummary": "夏菁 / 陶慧敏 / 傅艺伟 / 刘晓庆 / 林默予 / 俞红菲 / 李勇勇 / 马丽娜 / 闵英 / 王斑 / 中国大陆 / 谢铁骊 / 赵元 / 110分钟 / 爱情 / 古装 / 家庭 / 谢铁骊 Tieli Xie / 谢逢松 Fengsong Xie / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-12-10 13:45:39",
-      "estimatedMarkedAtRange": null,
-      "comment": "请问晴为黛影体现在了？"
     }
   ]
 }

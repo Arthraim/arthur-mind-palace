@@ -13,11 +13,68 @@
   "markedAt": "2017-07-02 16:47:36",
   "estimatedMarkedAtRange": null,
   "comment": "推理呢？！简直是恶梦",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2016"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2016)"
+    },
+    {
+      "label": "Title",
+      "value": "名侦探柯南：纯黑的恶梦 名探偵コナン 純黒の悪夢"
+    },
+    {
+      "label": "导演",
+      "value": "静野孔文"
+    },
+    {
+      "label": "编剧",
+      "value": "樱井武晴 / 青山刚昌"
+    },
+    {
+      "label": "主演",
+      "value": "高山南 / 山崎和佳奈 / 小山力也 / 山口胜平 / 林原惠美 / 绪方贤一 / 岩居由希子 / 高木涉 / 大谷育江 / 堀之纪 / 立木文彦 / 小山茉美 / 井上喜久子 / 木下浩之 / 茶风林 / 汤屋敦子 / 千叶一伸 / 松井菜樱子 / 榎本充希子 / 土师孝也 / 一城美由希 / 梁田清之 / 泽海阳子 / 志村知幸 / 佐藤美一 / 铃木琢磨 / 宇垣秀成 / 笠原留美 / 桃森李桃 / 大原沙耶香 / 半场友惠 / 武内健 / 东龙一 / 飞田展男 / 三石琴乃 / 池田秀一 / 古谷彻 / 天海祐希"
+    },
+    {
+      "label": "类型",
+      "value": "动画 / 悬疑"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2016-11-25(中国大陆) / 2016-04-16(日本)"
+    },
+    {
+      "label": "片长",
+      "value": "112分钟"
+    },
+    {
+      "label": "又名",
+      "value": "名侦探柯南：剧场版20 / 名侦探柯南：纯黑的噩梦 / 名侦探柯南：2016年剧场版 / Meitantei Conan： Movie 20 / Detective Conan： The Darkest Nightmare"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4954660"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26596486/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4954660/"
     }
   ]
 }

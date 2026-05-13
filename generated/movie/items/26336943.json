@@ -13,11 +13,68 @@
   "markedAt": "2017-07-10 21:38:19",
   "estimatedMarkedAtRange": null,
   "comment": "迪斯尼还是会玩",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2015"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2015)"
+    },
+    {
+      "label": "Title",
+      "value": "星球大战：义军崛起 第二季 Star Wars Rebels Season 2"
+    },
+    {
+      "label": "主演",
+      "value": "瓦内萨·马歇尔 / 小弗雷迪·普林兹 / 史蒂夫·布卢姆 / 大卫·奥伊罗 / 泰勒·格雷 / Tiya Sircar / 艾什莉·埃克斯坦 / 莎拉·米歇尔·盖拉"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 科幻 / 动画 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "首播",
+      "value": "2015-06-20"
+    },
+    {
+      "label": "季数",
+      "value": "2"
+    },
+    {
+      "label": "集数",
+      "value": "22"
+    },
+    {
+      "label": "单集片长",
+      "value": "30分钟"
+    },
+    {
+      "label": "又名",
+      "value": "星球大战：反叛军"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4236890"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26336943/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4236890/"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36851291",
+      "title": "名侦探柯南：独眼的残像",
+      "originalTitle": "名探偵コナン 隻眼の残像 / 名侦探柯南剧场版28 / Detective Conan: One-eyed Flashback",
+      "year": "2025",
+      "coverPath": "covers/movie/36851291.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922540490.webp",
+      "detailUrl": "/movie/36851291",
+      "listSummary": "2025-04-18(日本) / 2025-04-19(北京国际电影节) / 2025-06-27(中国大陆) / 高山南 / 山崎和佳奈 / 小山力也 / 速水奖 / 高田裕司 / 小清水亚美 / 草尾毅 / 飞田展男 / 高木涉 / 汤屋敦子 / 日本 / 重原克也 / 110分钟 / 名侦探柯南：独眼的残像 / 剧情 / 犯罪 / 动画 / 悬疑 / 樱井武晴 Takahiro Sakurai / 青山刚昌 Gôshô Aoyama / 日语",
+      "rating": 3,
+      "markedAt": "2025-07-14 01:06:14",
+      "estimatedMarkedAtRange": null,
+      "comment": "又被诸葛亮装到了"
+    },
     {
       "kind": "movie",
       "sourceId": "35689244",
@@ -439,21 +454,6 @@
       "markedAt": "2024-12-19 21:09:55",
       "estimatedMarkedAtRange": null,
       "comment": "「前已无通路 后不见归途」"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2124507",
-      "title": "火线特攻",
-      "originalTitle": "Righteous Kill / 正义杀戮 / 世纪交锋(台)",
-      "year": "2008",
-      "coverPath": "covers/movie/2124507.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p715239352.webp",
-      "detailUrl": "/movie/2124507",
-      "listSummary": "2008-09-12(美国) / 2010-11-30(中国大陆) / 罗伯特·德尼罗 / 阿尔·帕西诺 / 50分 / 卡拉·古奇诺 / 约翰·雷吉扎莫 / 唐尼·沃尔伯格 / 布莱恩·丹内利 / 特里尔比·格洛弗 / 斯特林·K·布朗 / 哈罗德·布里吉佛斯 / 美国 / 乔恩·阿维奈 / 101分钟 / 火线特攻 / 剧情 / 犯罪 / 悬疑 / 罗赛·格维茨 Russell Gewirtz / 英语 / 西班牙语",
-      "rating": 3,
-      "markedAt": "2024-12-18 03:22:00",
-      "estimatedMarkedAtRange": null,
-      "comment": "看不出他俩有啥感情"
     }
   ]
 }

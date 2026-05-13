@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-05-13T02:25:12.864Z
+- Summary: +1 added, ~1 updated, -0 removed
+- Last Douban sync: 2026-05-13T02:20:27.240Z
+- movie: +1 / ~1 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 小偷家族 (27622447) marked 2026-05-13 09:17:49
+  - [updated] movie 无人知晓 (1292337) marked 2026-05-11 10:47:19 fields=title,originalTitle
+
 ## 2026-05-11T03:01:52.857Z
 - Summary: +1 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-05-11T02:56:08.882Z

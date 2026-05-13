@@ -13,11 +13,68 @@
   "markedAt": "2017-05-21 19:46:21",
   "estimatedMarkedAtRange": null,
   "comment": "越来越好了，好期待剧情",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2014"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2014)"
+    },
+    {
+      "label": "Title",
+      "value": "魁拔Ⅲ战神崛起"
+    },
+    {
+      "label": "导演",
+      "value": "王川 / 张钢 / 周洁"
+    },
+    {
+      "label": "编剧",
+      "value": "王鹏展 / 王川"
+    },
+    {
+      "label": "主演",
+      "value": "刘婧荦 / 姚姝 / 王宇腾 / 杨晨 / 刘校妤 / 王凯 / 敖磊 / 石困困 / 宝木中阳 / 马斑马 / 杨凝 / 张杰 / 范哲琛 / 图特哈蒙 / 姜广涛"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 动画 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2014-10-01(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "90分钟"
+    },
+    {
+      "label": "又名",
+      "value": "魁拔3 / 魁拔3战神崛起 / 魁拔3之战神崛起 / Kuiba Ⅲ"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4912418"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/24723061/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4912418/"
     }
   ]
 }

@@ -13,11 +13,68 @@
   "markedAt": "2017-05-21 19:45:24",
   "estimatedMarkedAtRange": null,
   "comment": "好，没1好",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2013"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2013)"
+    },
+    {
+      "label": "Title",
+      "value": "魁拔之大战元泱界"
+    },
+    {
+      "label": "导演",
+      "value": "王川"
+    },
+    {
+      "label": "编剧",
+      "value": "王川 / 王鹏展"
+    },
+    {
+      "label": "主演",
+      "value": "刘婧荦 / 刘校妤 / 王凯 / 敖磊 / 瞿澳晖 / 郭政建 / 杨晨"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 动画 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2013-05-31(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "83分钟"
+    },
+    {
+      "label": "又名",
+      "value": "魁拔II / 魁拔2 / Kuiba II"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt3279464"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/7051357/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt3279464/"
     }
   ]
 }

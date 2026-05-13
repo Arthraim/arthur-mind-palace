@@ -13,11 +13,68 @@
   "markedAt": "2017-06-21 01:06:04",
   "estimatedMarkedAtRange": null,
   "comment": "还行",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "加勒比海盗5：死无对证 Pirates of the Caribbean: Dead Men Tell No Tales"
+    },
+    {
+      "label": "导演",
+      "value": "艾斯彭·山德伯格 / 乔阿吉姆·罗恩尼"
+    },
+    {
+      "label": "编剧",
+      "value": "特里·鲁西奥 / 泰德·艾略特 / 斯图尔特·贝亚蒂耶 / 杰夫·内桑森 / 杰·沃尔伯特"
+    },
+    {
+      "label": "主演",
+      "value": "约翰尼·德普 / 布伦顿·思韦茨 / 卡雅·斯考达里奥 / 杰弗里·拉什 / 哈维尔·巴登 / 格什菲·法拉哈尼 / 奥兰多·布鲁姆 / 凯文·麦克纳利 / 凯拉·奈特莉 / 斯蒂芬·格拉汉姆 / 大卫·文翰 / 保罗·麦卡特尼 / 马丁·科勒巴 / 亚当·布朗 / 丹尼·基兰 / 马赫什·扎杜 / 胡安·卡洛斯·凡希多"
+    },
+    {
+      "label": "类型",
+      "value": "动作 / 奇幻 / 冒险"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "美国"
+    },
+    {
+      "label": "语言",
+      "value": "英语"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-05-26(中国大陆/美国)"
+    },
+    {
+      "label": "片长",
+      "value": "129分钟"
+    },
+    {
+      "label": "又名",
+      "value": "加勒比海盗：恶灵启航(港) / 加勒比海盗 神鬼奇航：死无对证(台) / 加勒比海盗5：亡灵的缄默 / 加勒比海盗5：亡者无言 / 加勒比海盗5：死人不会告密 / Pirates of the Caribbean 5"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt1790809"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/6311303/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt1790809/"
     }
   ]
 }

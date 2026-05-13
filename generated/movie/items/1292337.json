@@ -1,8 +1,8 @@
 {
   "kind": "movie",
   "sourceId": "1292337",
-  "title": "无人知晓 誰も知らない",
-  "originalTitle": "(2004)",
+  "title": "无人知晓",
+  "originalTitle": "誰も知らない / 谁知赤子心(港) / 无人知晓的夏日清晨(台)",
   "year": "2004",
   "coverPath": "covers/movie/1292337.jpg",
   "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
@@ -71,10 +71,6 @@
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/1292337/"
-    },
-    {
-      "label": "IMDb",
-      "url": "https://www.imdb.com/title/tt0408664/"
     }
   ]
 }

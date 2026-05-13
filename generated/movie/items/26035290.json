@@ -13,11 +13,68 @@
   "markedAt": "2017-07-14 23:23:36",
   "estimatedMarkedAtRange": null,
   "comment": "如果我逼自己摆正心态，不把它当悟空传来看，的确是一部还可以的西游电影………… 场面特效堪称满分…… 然而悟空传有个好故事你不拍一定要自己装逼！傻逼导演一生黑！",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "悟空传"
+    },
+    {
+      "label": "导演",
+      "value": "郭子健"
+    },
+    {
+      "label": "编剧",
+      "value": "郭子健 / 今何在 / 黄海 / 范文文 / 黄智亨"
+    },
+    {
+      "label": "主演",
+      "value": "彭于晏 / 倪妮 / 余文乐 / 俞飞鸿 / 欧豪 / 乔杉 / 杨迪 / 巴音 / 王德顺 / 李尚恩 / 张承阳"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动作 / 奇幻"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-07-13(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "123分钟"
+    },
+    {
+      "label": "又名",
+      "value": "Wukong / Immortal Demon Slayer"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt6513406"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/26035290/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt6513406/"
     }
   ]
 }

@@ -13,11 +13,76 @@
   "markedAt": "2017-06-26 00:37:33",
   "estimatedMarkedAtRange": null,
   "comment": "额结局略失望",
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2013"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2013)"
+    },
+    {
+      "label": "Title",
+      "value": "弹丸论破 希望的学园和绝望高中生 ダンガンロンパ 希望の学園と絶望の高校生"
+    },
+    {
+      "label": "导演",
+      "value": "岸诚二 / 木村真一郎 / 下司泰弘 / 小林孝志 / 野亦则行 / 镰田祐辅 / 岩田义彦"
+    },
+    {
+      "label": "编剧",
+      "value": "上江洲诚 / 待田堂子 / 关根聪子 / 朱白葵"
+    },
+    {
+      "label": "主演",
+      "value": "绪方惠美 / 大本真基子 / 樱井孝宏 / 日笠阳子 / 石田彰 / 山口胜平 / 中井和哉 / 泽城美雪 / 椎名碧流 / 斋藤千和 / 鸟海浩辅 / 鲸 / 松风雅也 Masaya Matsukaze / 丰口惠美 / 宫田幸季 / 大山羡代 / 小西克幸"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 动画 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "日本"
+    },
+    {
+      "label": "语言",
+      "value": "日语"
+    },
+    {
+      "label": "首播",
+      "value": "2013-07-04(日本)"
+    },
+    {
+      "label": "季数",
+      "value": "1"
+    },
+    {
+      "label": "集数",
+      "value": "13"
+    },
+    {
+      "label": "单集片长",
+      "value": "24分钟"
+    },
+    {
+      "label": "又名",
+      "value": "弹丸论破：希望的学园和绝望高中生 / 弹丸轮舞 / 弹丸轮舞 希望的学园和绝望高中生"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt2902582"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/20438714/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt2902582/"
     }
   ]
 }

@@ -13,11 +13,68 @@
   "markedAt": "2017-07-13 23:58:28",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2014"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2014)"
+    },
+    {
+      "label": "Title",
+      "value": "心迷宫"
+    },
+    {
+      "label": "导演",
+      "value": "忻钰坤"
+    },
+    {
+      "label": "编剧",
+      "value": "忻钰坤 / 冯元良 / 鲁妮凡"
+    },
+    {
+      "label": "主演",
+      "value": "霍卫民 / 王笑天 / 罗芸 / 杨瑜珍 / 孙黎 / 邵胜杰 / 曹西安 / 贾致钢 / 朱自清 / 王梓尘 / 赵梓彤 / 贾世忠 / 袁满 / 陈梅生 / 张景素 / 平坦 / 金子 / 张建军"
+    },
+    {
+      "label": "类型",
+      "value": "剧情 / 悬疑 / 犯罪"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2015-10-16(中国大陆) / 2014-07-21(FIRST青年影展) / 2014-08-28(威尼斯电影节)"
+    },
+    {
+      "label": "片长",
+      "value": "110分钟(中国大陆) / 119分钟(威尼斯电影节)"
+    },
+    {
+      "label": "又名",
+      "value": "殡棺 / The Coffin in the Mountain / Deep in the Heart"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt4078856"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25917973/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt4078856/"
     }
   ]
 }

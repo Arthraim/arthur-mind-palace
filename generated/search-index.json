@@ -1,12 +1,27 @@
 {
-  "generatedAt": "2026-05-11T03:01:52.857Z",
+  "generatedAt": "2026-05-13T02:25:12.864Z",
   "entriesByKind": {
     "movie": [
       {
         "kind": "movie",
+        "sourceId": "27622447",
+        "title": "小偷家族",
+        "originalTitle": "万引き家族 / Shoplifters / Une Affaire de Famille",
+        "year": "2018",
+        "coverPath": "covers/movie/27622447.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg",
+        "detailUrl": "/movie/27622447",
+        "listSummary": "2018-05-13(戛纳电影节) / 2018-06-08(日本) / 2018-08-03(中国大陆) / 中川雅也 / 安藤樱 / 松冈茉优 / 城桧吏 / 佐佐木美结 / 树木希林 / 绪形直人 / 池松壮亮 / 森口瑶子 / 山田裕贵 / 日本 / gaga.ne.jp/manbiki-kazoku/ / 是枝裕和 / 117分钟(中国大陆) / 121分钟 / 小偷家族 / 剧情 / 犯罪 / 家庭 / 是枝裕和 Hirokazu Koreeda / 日语",
+        "rating": 5,
+        "markedAt": "2026-05-13 09:17:49",
+        "estimatedMarkedAtRange": null,
+        "comment": "故事到了安藤樱的哭戏那里真的绷不住"
+      },
+      {
+        "kind": "movie",
         "sourceId": "1292337",
-        "title": "无人知晓 誰も知らない",
-        "originalTitle": "(2004)",
+        "title": "无人知晓",
+        "originalTitle": "誰も知らない / 谁知赤子心(港) / 无人知晓的夏日清晨(台)",
         "year": "2004",
         "coverPath": "covers/movie/1292337.jpg",
         "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",

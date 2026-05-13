@@ -13,11 +13,68 @@
   "markedAt": "2017-07-16 22:54:22",
   "estimatedMarkedAtRange": null,
   "comment": null,
-  "metadata": [],
+  "metadata": [
+    {
+      "label": "Year",
+      "value": "2017"
+    },
+    {
+      "label": "Original Title",
+      "value": "(2017)"
+    },
+    {
+      "label": "Title",
+      "value": "西游伏妖篇"
+    },
+    {
+      "label": "导演",
+      "value": "徐克"
+    },
+    {
+      "label": "编剧",
+      "value": "周星驰 / 李思臻 / 徐克"
+    },
+    {
+      "label": "主演",
+      "value": "吴亦凡 / 林更新 / 姚晨 / 林允 / 包贝尔 / 巴特尔 / 杨一威 / 大鹏 / 王丽坤 / 汪铎 / 张美娥"
+    },
+    {
+      "label": "类型",
+      "value": "喜剧 / 动作 / 奇幻 / 古装"
+    },
+    {
+      "label": "制片国家/地区",
+      "value": "中国大陆 / 中国香港"
+    },
+    {
+      "label": "语言",
+      "value": "汉语普通话"
+    },
+    {
+      "label": "上映日期",
+      "value": "2017-01-28(中国大陆)"
+    },
+    {
+      "label": "片长",
+      "value": "108分钟"
+    },
+    {
+      "label": "又名",
+      "value": "西游2：伏妖篇 / 西游降魔篇2 / 西游·降魔篇2 / 西游·降魔2 / Journey to the West： The Demons Strike Back / Journey to the West： Demon Chapter"
+    },
+    {
+      "label": "IMDb",
+      "value": "tt5273624"
+    }
+  ],
   "externalLinks": [
     {
       "label": "Douban",
       "url": "https://movie.douban.com/subject/25801066/"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com/title/tt5273624/"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 44,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3193932",
+      "title": "好男孩",
+      "originalTitle": "The Good Guy / 曼哈顿求爱法则",
+      "year": "2010",
+      "coverPath": "covers/movie/3193932.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510484683.jpg",
+      "detailUrl": "/movie/3193932",
+      "listSummary": "2010-03-19 / 凯特·娜乌塔 / 丹妮斯·瓦西 / 凯西·塞雷尔 / 科林·伊格斯菲德 / 克里斯汀·伊万格丽斯塔 / Sarah Glendening / Ursula Abbott / 艾瑞克·泰尔 / 亚当·勒费弗 / 斯科特·波特 / 美国 / USA: 90 分钟 / 好男孩 / 喜剧 / 爱情 / Julio DePietro / 英语",
+      "rating": 3,
+      "markedAt": "2010-07-02",
+      "estimatedMarkedAtRange": null,
+      "comment": "很久没看爱情的了…… 这片子太理想化了，好人太好，坏人太坏，事实上很多坏人都是自己觉得自己是好人的。消遣消遣咯"
+    },
     {
       "kind": "movie",
       "sourceId": "2131649",
@@ -439,21 +454,6 @@
       "markedAt": "2010-03-21",
       "estimatedMarkedAtRange": null,
       "comment": "冲着“穿越时空的少女的原班人马”而去看，期待又是一个神作，结果期望过高有点失望。女主角说实话分量不是很足，牵了个头出来似乎对整个“大作战”就显得不重要了；整个家庭给人们的印象倒是非常深刻。总的来说感动不足SF有余啊…… // 21年再看只能给三星"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "4016477",
-      "title": "机动战士高达UC",
-      "originalTitle": "機動戦士ガンダムUC / 机动战士钢弹UC(台) / Mobile Suit Gundam Unicorn",
-      "year": "2010",
-      "coverPath": "covers/movie/4016477.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1715454803.jpg",
-      "detailUrl": "/movie/4016477",
-      "listSummary": "2010-02-20(日本) / 内山昂辉 / 藤村步 / 甲斐田裕子 / 浪川大辅 / 池田秀一 / 西川几雄 / 北村谦次 / 小川真司 / 川村万梨阿 / 中村悠一 / 日本 / 古桥一浩 / 菱田正和 / 村田和也 / 京极尚彦 / 初见浩一 / 绵田慎也 / 远藤广隆 / 佐藤照雄 / 59分钟 / 90分钟(第7集) / 机动战士高达UC / 科幻 / 动画 / 富野由悠季 Yoshiyuki Tomino / 矢立肇 Hajime Yatate / 福井晴敏 Harutoshi Fukui / 武藤康之 Mutou Yasuyuki / 日语 / 内山昂辉 / 藤村步 / 下野纮 / 户松遥 / 浪川大辅 / 丰口惠 / 甲斐田裕子 / 池田秀一 / 柿原徹也 / 手塚秀彰 / 菅生隆之 / 永井一郎 / 高木渉 / 小山力也 / 东地宏树",
-      "rating": 5,
-      "markedAt": "2010-03-17",
-      "estimatedMarkedAtRange": null,
-      "comment": "激动啊~ 好激动啊，UC变身的一刹那！话说人设虽然很UC，不过也很现代的感觉~ 我喜欢"
     }
   ]
 }

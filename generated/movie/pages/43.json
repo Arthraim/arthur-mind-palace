@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1871220",
+      "title": "霹雳先锋",
+      "originalTitle": "霹靂先鋒 / Pik lik sin fung / Final Justice",
+      "year": "1988",
+      "coverPath": "covers/movie/1871220.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2347547076.jpg",
+      "detailUrl": "/movie/1871220",
+      "listSummary": "1988-06-23(中国香港) / 李修贤 / 周星驰 / 成奎安 / 何家驹 / 黄光亮 / 韩坤 / 王俊棠 / 卢惠光 / 杨玉梅 / 黄志强 / 中国香港 / 黄柏文 / 95分钟 / 98分钟(蓝光修复版) / 霹雳先锋 / 动作 / 喜剧 / 犯罪 / 冯瑞熊 James Fung / 粤语 / 英语",
+      "rating": 3,
+      "markedAt": "2010-09-10",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "3074503",
@@ -439,21 +454,6 @@
       "markedAt": "2010-07-05",
       "estimatedMarkedAtRange": null,
       "comment": "美国西部片+香港警匪片，不过这电影已经大大超出了我去影院买票之前的期望了。故事的确是一个好故事~~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3193932",
-      "title": "好男孩",
-      "originalTitle": "The Good Guy / 曼哈顿求爱法则",
-      "year": "2010",
-      "coverPath": "covers/movie/3193932.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510484683.jpg",
-      "detailUrl": "/movie/3193932",
-      "listSummary": "2010-03-19 / 凯特·娜乌塔 / 丹妮斯·瓦西 / 凯西·塞雷尔 / 科林·伊格斯菲德 / 克里斯汀·伊万格丽斯塔 / Sarah Glendening / Ursula Abbott / 艾瑞克·泰尔 / 亚当·勒费弗 / 斯科特·波特 / 美国 / USA: 90 分钟 / 好男孩 / 喜剧 / 爱情 / Julio DePietro / 英语",
-      "rating": 3,
-      "markedAt": "2010-07-02",
-      "estimatedMarkedAtRange": null,
-      "comment": "很久没看爱情的了…… 这片子太理想化了，好人太好，坏人太坏，事实上很多坏人都是自己觉得自己是好人的。消遣消遣咯"
     }
   ]
 }

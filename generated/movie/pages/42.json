@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 42,
   "pageSize": 30,
-  "totalEntries": 1391,
+  "totalEntries": 1392,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1298574",
+      "title": "机器战警2",
+      "originalTitle": "Robocop 2 / 机械战警2 / 铁甲威龙2",
+      "year": "1990",
+      "coverPath": "covers/movie/1298574.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2243757541.jpg",
+      "detailUrl": "/movie/1298574",
+      "listSummary": "1990-06-22(美国) / 彼得·威勒 / 南茜·艾伦 / 丹·奥赫里奇 / 汤姆·诺南 / 加布里埃尔·达蒙 / 加琳·格罗 / 弗兰克·米勒 / 菲尔顿·派瑞 / 威拉德·E·普 / 菲尔·鲁本斯坦 / 美国 / www.robocop.com / 厄文·克什纳 / 117分钟 / 82分钟(德国版) / 机器战警2 / 动作 / 犯罪 / 科幻 / 惊悚 / 弗兰克·米勒 Frank Miller / 沃伦·格林 Walon Green / 英语",
+      "rating": 3,
+      "markedAt": "2010-10-27",
+      "estimatedMarkedAtRange": null,
+      "comment": "说实话真的是不怎么样。。。 第一部很多镜头都历历在目，这一部感觉是第一次看，而且现在看来的确是烂片"
+    },
     {
       "kind": "movie",
       "sourceId": "1294791",
@@ -437,21 +452,6 @@
       "listSummary": "1991-03-07 / 郑裕玲 / 梅艳芳 / 吴孟达 / 周星驰 / 吴君如 / 成奎安 / 钟镇涛 / 元华 / 卢冠廷 / 元奎 / 中国香港 / 刘镇伟 / 元奎 / 91分钟 / 赌霸 / 动作 / 喜剧 / 爱情 / 刘镇伟 / 粤语",
       "rating": 3,
       "markedAt": "2010-09-12",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1871220",
-      "title": "霹雳先锋",
-      "originalTitle": "霹靂先鋒 / Pik lik sin fung / Final Justice",
-      "year": "1988",
-      "coverPath": "covers/movie/1871220.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2347547076.jpg",
-      "detailUrl": "/movie/1871220",
-      "listSummary": "1988-06-23(中国香港) / 李修贤 / 周星驰 / 成奎安 / 何家驹 / 黄光亮 / 韩坤 / 王俊棠 / 卢惠光 / 杨玉梅 / 黄志强 / 中国香港 / 黄柏文 / 95分钟 / 98分钟(蓝光修复版) / 霹雳先锋 / 动作 / 喜剧 / 犯罪 / 冯瑞熊 James Fung / 粤语 / 英语",
-      "rating": 3,
-      "markedAt": "2010-09-10",
       "estimatedMarkedAtRange": null,
       "comment": null
     }
