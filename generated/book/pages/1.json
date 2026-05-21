@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 157,
+  "totalEntries": 158,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "1366641",
+      "title": "うたたね",
+      "originalTitle": "うたたね（白日梦、假寐、小睡、Utatane）",
+      "year": "2001",
+      "coverPath": "covers/book/1366641.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s2142638.jpg",
+      "detailUrl": "/book/1366641",
+      "listSummary": "川內倫子 / リトルモア / 2001-11 / NT$ 1260",
+      "rating": 4,
+      "markedAt": "2026-05-13",
+      "estimatedMarkedAtRange": null,
+      "comment": "第一遍看很慢，注意到都是一些长焦会对准的小细节，不在意构图不在意对焦，颜色很梦幻，符合书名的印象。没留下什么深刻印象的图，唯二称得上奇观的是乌鸦和爬满苍蝇的小孩。第二遍听说左右两张都有对应，突然觉得日式恐怖起来，死蜜蜂旁边是办公楼下的人，死蝴蝶旁边是剪断植物的场面，沙滩上双脚的特写旁边是深渊或者求生的小乌龟，一池安静的蝌蚪旁边是过马路的人群。"
+    },
     {
       "kind": "book",
       "sourceId": "36161297",
@@ -439,21 +454,6 @@
       "markedAt": "2021-03-24 11:19:57",
       "estimatedMarkedAtRange": null,
       "comment": "充满谍战、宫斗气氛的一本创业公司传记，故事性强所以很好读"
-    },
-    {
-      "kind": "book",
-      "sourceId": "6938132",
-      "title": "書劍恩仇錄（新修版）（全二冊）",
-      "originalTitle": null,
-      "year": "2004",
-      "coverPath": "covers/book/6938132.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s28724898.jpg",
-      "detailUrl": "/book/6938132",
-      "listSummary": "金庸 / 明河社 / 2004-4 / HK$100",
-      "rating": 3,
-      "markedAt": "2021-03-01 13:49:22",
-      "estimatedMarkedAtRange": null,
-      "comment": "很遗憾入坑居然在没有搞清楚版本的情况下看了一个明河社新修版。发现很多用词很像嘉兴方言，比如「你寻死啊？」hhh"
     }
   ]
 }

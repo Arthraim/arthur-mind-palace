@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 47,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3683409",
+      "title": "夜·店",
+      "originalTitle": "超市 / 夜店",
+      "year": "2009",
+      "coverPath": "covers/movie/3683409.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p516451928.jpg",
+      "detailUrl": "/movie/3683409",
+      "listSummary": "2009-07-24 / 徐峥 / 李小璐 / 乔任梁 / 杨青 / 张嘉益 / 赵英俊 / 李伟建 / 班赞 / 王东方 / 王迅 / 中国大陆 / 杨庆 / 94分钟 / 喜剧 / 杨庆 Qing Yang / 汉语普通话",
+      "rating": 4,
+      "markedAt": "2009-09-19",
+      "estimatedMarkedAtRange": null,
+      "comment": "感觉一般吧"
+    },
     {
       "kind": "movie",
       "sourceId": "3412882",

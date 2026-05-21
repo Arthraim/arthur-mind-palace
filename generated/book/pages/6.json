@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 6,
   "pageSize": 30,
-  "totalEntries": 157,
+  "totalEntries": 158,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "3764948",
+      "title": "Google API大全",
+      "originalTitle": null,
+      "year": "2009",
+      "coverPath": "covers/book/3764948.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s6029162.jpg",
+      "detailUrl": "/book/3764948",
+      "listSummary": "《Google API大全》编委会 编 / 2009-6 / 69.80元",
+      "rating": 5,
+      "markedAt": "2009-12-31",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "book",
       "sourceId": "4002701",

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 39,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1293731",
+      "title": "忠奸人",
+      "originalTitle": "Donnie Brasco / 惊天爆(台) / 绝地危机",
+      "year": "1997",
+      "coverPath": "covers/movie/1293731.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2212201036.jpg",
+      "detailUrl": "/movie/1293731",
+      "listSummary": "1997-02-28 / 阿尔·帕西诺 / 约翰尼·德普 / 迈克尔·马德森 / 布鲁诺·柯比 / 詹姆斯·拉索 / 安妮·海切 / 保罗·吉亚玛提 / 蒂姆·布雷克·尼尔森 / 扎克·格雷尼尔 / 罗伯特·米亚诺 / 美国 / 迈克·内威尔 / 127 分钟 / 147 分钟(extended cut) / 忠奸人 / 剧情 / 传记 / 犯罪 / 保罗·阿塔那斯奥 Paul Attanasio / 英语",
+      "rating": 4,
+      "markedAt": "2011-10-04",
+      "estimatedMarkedAtRange": null,
+      "comment": "原来这片子我以前看过。。。"
+    },
     {
       "kind": "movie",
       "sourceId": "5422105",
@@ -439,21 +454,6 @@
       "markedAt": "2011-06-09",
       "estimatedMarkedAtRange": null,
       "comment": "神片！"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1297447",
-      "title": "倩女幽魂",
-      "originalTitle": "倩女幽魂(87版) / 倩女幽魂：妖魔道",
-      "year": "1987",
-      "coverPath": "covers/movie/1297447.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918554634.jpg",
-      "detailUrl": "/movie/1297447",
-      "listSummary": "1987-07-18(中国香港) / 2011-04-30(中国大陆) / 2025-03-21(中国大陆重映) / 张国荣 / 王祖贤 / 午马 / 刘兆铭 / 林威 / 薛芷伦 / 王晶 / 胡大为 / 黄虾 / 史美仪 / 中国香港 / 程小东 / 96分钟 / 爱情 / 奇幻 / 武侠 / 古装 / 阮继志 Kai-Chi Yun / 粤语",
-      "rating": 4,
-      "markedAt": "2011-06-09",
-      "estimatedMarkedAtRange": null,
-      "comment": "其实吧。。港片有港片的味道，大陆有大陆的味道"
     }
   ]
 }

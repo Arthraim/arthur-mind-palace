@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 32,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3586996",
+      "title": "绝命毒师 第二季",
+      "originalTitle": "Breaking Bad Season 2 / 致命毒师 第二季 / 制毒师 第二季",
+      "year": "2009",
+      "coverPath": "covers/movie/3586996.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872295944.jpg",
+      "detailUrl": "/movie/3586996",
+      "listSummary": "2009-03-08(美国) / 布莱恩·克兰斯顿 / 亚伦·保尔 / 安娜·冈 / 克里斯滕·里特 / 迪恩·诺里斯 / 查尔斯·贝克 / 卡莱伯·兰德里·琼斯 / 雷·韦克曼 / 山姆·麦克莫里 / 瑞欧·亚历山大 / 美国 / www.amctv.com/shows/breaking-bad / 亚当·伯恩斯坦 / 米歇尔·麦克拉伦 / 布莱恩·克兰斯顿 / 查尔斯·海德 / 泰瑞·麦克多诺 / 约翰·达尔 / 约翰·伦克 / 彼得·梅达克 / 费利克斯·恩里克斯·阿尔科拉 / 菲尔·亚伯拉罕 / 绝命毒师 / 45分钟 / 绝命毒师 / 犯罪 / 剧情 / 文斯·吉里根 Vince Gilligan / 乔治·马斯塔斯 George Mastras / 皮特·古尔德 Peter Gould / 山姆·卡特林 Sam Catlin / 莫伊拉·沃利-贝克特 Moira Walley-Beckett / 约翰·施班 John Shiban / J·罗伯茨 J. Roberts / 英语 / 西班牙语",
+      "rating": 5,
+      "markedAt": "2013-09-12 09:56:43",
+      "estimatedMarkedAtRange": null,
+      "comment": "最后第二集结尾，一个劲的说「救她啊你不是坏人啊，救她啊你不是坏人啊」，最后还是伤了我的心，编剧太尼玛恨了"
+    },
     {
       "kind": "movie",
       "sourceId": "1291579",
@@ -442,21 +457,6 @@
       "markedAt": "2013-05-04 23:29:39",
       "estimatedMarkedAtRange": null,
       "comment": "鼻子被Wormtail吃掉了！"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1291544",
-      "title": "哈利·波特与阿兹卡班的囚徒",
-      "originalTitle": "Harry Potter and the Prisoner of Azkaban / 哈利波特3：阿兹卡班的逃犯(港/台) / 哈利·波特与阿兹卡班的逃犯",
-      "year": "2004",
-      "coverPath": "covers/movie/1291544.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913456870.jpg",
-      "detailUrl": "/movie/1291544",
-      "listSummary": "2004-05-31(英国) / 2004-09-10(中国大陆) / 2024-10-25(中国大陆重映) / 丹尼尔·雷德克里夫 / 艾玛·沃森 / 鲁伯特·格林特 / 加里·奥德曼 / 朱丽·沃特斯 / 邦妮·怀特 / 大卫·休里斯 / 迈克尔·刚本 / 艾伦·瑞克曼 / 玛吉·史密斯 / 英国 / 美国 / www.azkaban.com / 阿方索·卡隆 / 141分钟 / 哈利·波特与阿兹卡班的囚徒 / 奇幻 / 冒险 / Steve Kloves / J.K. Rowling / 英语",
-      "rating": 5,
-      "markedAt": "2013-05-02 23:43:43",
-      "estimatedMarkedAtRange": null,
-      "comment": "Snape为什么不做黑魔法防御的老师。。。"
     }
   ]
 }

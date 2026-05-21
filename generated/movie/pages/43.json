@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1296826",
+      "title": "赌霸",
+      "originalTitle": "賭霸 / 赌圣延续篇：赌霸 / The Top Bet",
+      "year": "1991",
+      "coverPath": "covers/movie/1296826.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2623507228.jpg",
+      "detailUrl": "/movie/1296826",
+      "listSummary": "1991-03-07 / 郑裕玲 / 梅艳芳 / 吴孟达 / 周星驰 / 吴君如 / 成奎安 / 钟镇涛 / 元华 / 卢冠廷 / 元奎 / 中国香港 / 刘镇伟 / 元奎 / 91分钟 / 赌霸 / 动作 / 喜剧 / 爱情 / 刘镇伟 / 粤语",
+      "rating": 3,
+      "markedAt": "2010-09-12",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1871220",
@@ -439,21 +454,6 @@
       "markedAt": "2010-07-07",
       "estimatedMarkedAtRange": null,
       "comment": "穿越的电影总是比较对我胃口，不过片子要说明的问题还真是老套的可以啊…… 剧情还们蛮好笑的，推荐和我一样等球等的蛋疼的人看"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "4133988",
-      "title": "枪王之王",
-      "originalTitle": "Triple Tap",
-      "year": "2010",
-      "coverPath": "covers/movie/4133988.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p530615773.jpg",
-      "detailUrl": "/movie/4133988",
-      "listSummary": "2010-07-02(中国大陆) / 古天乐 / 吴彦祖 / 李冰冰 / 蔡卓妍 / 方中信 / 连凯 / 林雪 / 王敏德 / 姜广涛 / 杨羚 / 中国香港 / 中国大陆 / qwzw.ent.sina.com.cn/main.html / 尔冬升 / 117分钟 / 动作 / 悬疑 / 惊悚 / 尔冬升 Tung-Shing Yee / 秦天南 Tin Nam Chun / 刘浩良 Ho Leung Lau / 粤语 / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2010-07-05",
-      "estimatedMarkedAtRange": null,
-      "comment": "美国西部片+香港警匪片，不过这电影已经大大超出了我去影院买票之前的期望了。故事的确是一个好故事~~"
     }
   ]
 }

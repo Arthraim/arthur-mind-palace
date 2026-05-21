@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36188176",
+      "title": "超人",
+      "originalTitle": "Superman / 超人：传承 / 超人：遗产",
+      "year": "2025",
+      "coverPath": "covers/movie/36188176.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2922810871.webp",
+      "detailUrl": "/movie/36188176",
+      "listSummary": "2025-07-09(中国台湾) / 2025-07-11(美国) / 2025-07-11(中国大陆) / 大卫·科伦斯韦 / 瑞秋·布罗斯纳安 / 尼古拉斯·霍尔特 / 埃迪·盖瑟吉 / 安东尼·卡里根 / 内森·菲利安 / 伊莎贝拉·莫塞德 / 斯凯勒·吉桑多 / 莎拉·桑帕伊奥 / 玛利亚·加布里埃拉·德法里亚 / 美国 / 詹姆斯·古恩 / 130分钟 / 超人 / 动作 / 科幻 / 奇幻 / 冒险 / 詹姆斯·古恩 James Gunn / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster / 英语",
+      "rating": 2,
+      "markedAt": "2025-07-14 01:12:33",
+      "estimatedMarkedAtRange": null,
+      "comment": "大超是我的神啊差一点成了星爵，我是万万不同意，丑化绿灯我也是一万个不同意。好你想探讨神一样的超级英雄站队国家和政治立场的母题，那你能不能严肃一点讨论，拿大超这么不痛不痒的摸两下算什么。Lois说我爱你的时候大超那个傻乎乎的笑容算什么！？超人爹妈成了封建糟粕算什么，求求了收了神通吧别拍了。"
+    },
     {
       "kind": "movie",
       "sourceId": "36851291",
@@ -439,21 +454,6 @@
       "markedAt": "2025-01-03 07:57:53",
       "estimatedMarkedAtRange": null,
       "comment": "家人在哪里，家就在哪里，简直可以送给湾湾当座右铭"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "25980443",
-      "title": "海边的曼彻斯特",
-      "originalTitle": "Manchester by the Sea / 情系海边之城(港)",
-      "year": "2016",
-      "coverPath": "covers/movie/25980443.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.webp",
-      "detailUrl": "/movie/25980443",
-      "listSummary": "2016-01-23(圣丹斯电影节) / 2016-11-18(美国) / 2017-08-25(中国大陆) / 卡西·阿弗莱克 / 卢卡斯·赫奇斯 / 米歇尔·威廉姆斯 / C·J·威尔逊 / 凯尔·钱德勒 / 卡拉·海沃德 / 格瑞辰·摩尔 / 泰特·多诺万 / 埃里卡·麦克德莫特 / 希瑟·伯恩斯 / 美国 / 肯尼思·洛纳根 / 137分钟 / 海边的曼彻斯特 / 剧情 / 家庭 / 肯尼斯·罗纳根 Kenneth Lonergan / 英语",
-      "rating": 5,
-      "markedAt": "2024-12-19 21:09:55",
-      "estimatedMarkedAtRange": null,
-      "comment": "「前已无通路 后不见归途」"
     }
   ]
 }

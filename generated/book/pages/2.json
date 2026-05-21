@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 157,
+  "totalEntries": 158,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "6938132",
+      "title": "書劍恩仇錄（新修版）（全二冊）",
+      "originalTitle": null,
+      "year": "2004",
+      "coverPath": "covers/book/6938132.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s28724898.jpg",
+      "detailUrl": "/book/6938132",
+      "listSummary": "金庸 / 明河社 / 2004-4 / HK$100",
+      "rating": 3,
+      "markedAt": "2021-03-01 13:49:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "很遗憾入坑居然在没有搞清楚版本的情况下看了一个明河社新修版。发现很多用词很像嘉兴方言，比如「你寻死啊？」hhh"
+    },
     {
       "kind": "book",
       "sourceId": "34481379",
@@ -439,21 +454,6 @@
       "markedAt": "2018-02-15 01:03:32",
       "estimatedMarkedAtRange": null,
       "comment": "写得一般般… 对这个人也越来越没兴趣"
-    },
-    {
-      "kind": "book",
-      "sourceId": "1763385",
-      "title": "Kingdom Come",
-      "originalTitle": null,
-      "year": "1997",
-      "coverPath": "covers/book/1763385.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9063295.jpg",
-      "detailUrl": "/book/1763385",
-      "listSummary": "Mark Waid / DC Comics / 1997-10-1 / USD 14.99",
-      "rating": 5,
-      "markedAt": "2017-11-22 21:04:15",
-      "estimatedMarkedAtRange": null,
-      "comment": "知道是神作，但是结局………"
     }
   ]
 }

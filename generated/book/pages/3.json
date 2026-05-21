@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 157,
+  "totalEntries": 158,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "1763385",
+      "title": "Kingdom Come",
+      "originalTitle": null,
+      "year": "1997",
+      "coverPath": "covers/book/1763385.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9063295.jpg",
+      "detailUrl": "/book/1763385",
+      "listSummary": "Mark Waid / DC Comics / 1997-10-1 / USD 14.99",
+      "rating": 5,
+      "markedAt": "2017-11-22 21:04:15",
+      "estimatedMarkedAtRange": null,
+      "comment": "知道是神作，但是结局………"
+    },
     {
       "kind": "book",
       "sourceId": "26685810",
@@ -439,21 +454,6 @@
       "markedAt": "2014-03-05 09:27:01",
       "estimatedMarkedAtRange": null,
       "comment": "故事发展缓慢，从头到尾没有什么激动人心的剧情，期待一个爆发结果始终不瘟不火的，和1984一样大概这种立意的小说不怎么吸引我"
-    },
-    {
-      "kind": "book",
-      "sourceId": "24536403",
-      "title": "代码的未来",
-      "originalTitle": null,
-      "year": "2013",
-      "coverPath": "covers/book/24536403.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s26393136.jpg",
-      "detailUrl": "/book/24536403",
-      "listSummary": "[日] 松本行弘 / 周自恒 / 人民邮电出版社 / 2013-6 / 79.00元",
-      "rating": 4,
-      "markedAt": "2014-02-13 21:16:04",
-      "estimatedMarkedAtRange": null,
-      "comment": "果然语言相关的章节比较好看，其他部分一般"
     }
   ]
 }

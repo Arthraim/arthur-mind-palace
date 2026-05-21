@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 157,
+  "totalEntries": 158,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "24536403",
+      "title": "代码的未来",
+      "originalTitle": null,
+      "year": "2013",
+      "coverPath": "covers/book/24536403.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s26393136.jpg",
+      "detailUrl": "/book/24536403",
+      "listSummary": "[日] 松本行弘 / 周自恒 / 人民邮电出版社 / 2013-6 / 79.00元",
+      "rating": 4,
+      "markedAt": "2014-02-13 21:16:04",
+      "estimatedMarkedAtRange": null,
+      "comment": "果然语言相关的章节比较好看，其他部分一般"
+    },
     {
       "kind": "book",
       "sourceId": "6710437",
@@ -442,21 +457,6 @@
       "markedAt": "2013-01-07 15:37:02",
       "estimatedMarkedAtRange": null,
       "comment": "大部分内容都轻轻扫过有没有，还是对里面的八卦比较感兴趣"
-    },
-    {
-      "kind": "book",
-      "sourceId": "20326626",
-      "title": "少年Pi的奇幻漂流 : （插图珍藏版）",
-      "originalTitle": null,
-      "year": "2012",
-      "coverPath": "covers/book/20326626.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s24223033.jpg",
-      "detailUrl": "/book/20326626",
-      "listSummary": "[加拿大] 扬·马特尔 / 姚媛 / 译林出版社 / 2012-11 / 35.00元",
-      "rating": 5,
-      "markedAt": "2012-12-18 07:25:00",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-05-21T09:11:53.804Z
+- Summary: +2 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-05-21T09:06:56.204Z
+- movie: +1 / ~0 / -0
+- book: +1 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 特雷弗·诺亚：苦中作乐 (38416840) marked 2026-05-18
+  - [added] book うたたね (1366641) marked 2026-05-13
+
 ## 2026-05-13T02:25:12.864Z
 - Summary: +1 added, ~1 updated, -0 removed
 - Last Douban sync: 2026-05-13T02:20:27.240Z

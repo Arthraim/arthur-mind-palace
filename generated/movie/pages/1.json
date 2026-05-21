@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "38416840",
+      "title": "特雷弗·诺亚：苦中作乐",
+      "originalTitle": "Trevor Noah: Joy in the Trenches",
+      "year": "2026",
+      "coverPath": "covers/movie/38416840.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931587917.jpg",
+      "detailUrl": "/movie/38416840",
+      "listSummary": "2026-04-14(美国网络) / 特雷弗·诺亚 / 美国 / 戴维·保罗·迈耶 / 特雷弗·诺亚：苦中作乐 / 喜剧 / 脱口秀 / 特雷弗·诺亚 Trevor Noah / 英语",
+      "rating": 4,
+      "markedAt": "2026-05-18",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "27622447",
@@ -439,21 +454,6 @@
       "markedAt": "2025-12-12 15:01:43",
       "estimatedMarkedAtRange": null,
       "comment": "最通俗的版本了，任何复杂的部分都解读成了最世俗的方式改写台词，毫无趣味。演员的台词也念的硬邦邦的。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26295988",
-      "title": "红楼梦第六部：宝玉化石",
-      "originalTitle": "(1989)",
-      "year": null,
-      "coverPath": "covers/movie/26295988.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868516546.webp",
-      "detailUrl": "/movie/26295988",
-      "listSummary": "夏菁 / 陶慧敏 / 傅艺伟 / 刘晓庆 / 李秀明 / 林默予 / 赵丽蓉 / 章杰 / 邢红 / 曾丹 / 中国大陆 / 谢铁骊 / 赵元 / 148分钟 / 爱情 / 古装 / 家庭 / 谢铁骊 Tieli Xie / 谢逢松 Fengsong Xie / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2025-12-11 01:40:37",
-      "estimatedMarkedAtRange": null,
-      "comment": "确实是六部里最好的一部，导演编剧不用做客观选择题了，可以稍做一些主观题"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 1392,
+  "totalEntries": 1393,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "25980443",
+      "title": "海边的曼彻斯特",
+      "originalTitle": "Manchester by the Sea / 情系海边之城(港)",
+      "year": "2016",
+      "coverPath": "covers/movie/25980443.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.webp",
+      "detailUrl": "/movie/25980443",
+      "listSummary": "2016-01-23(圣丹斯电影节) / 2016-11-18(美国) / 2017-08-25(中国大陆) / 卡西·阿弗莱克 / 卢卡斯·赫奇斯 / 米歇尔·威廉姆斯 / C·J·威尔逊 / 凯尔·钱德勒 / 卡拉·海沃德 / 格瑞辰·摩尔 / 泰特·多诺万 / 埃里卡·麦克德莫特 / 希瑟·伯恩斯 / 美国 / 肯尼思·洛纳根 / 137分钟 / 海边的曼彻斯特 / 剧情 / 家庭 / 肯尼斯·罗纳根 Kenneth Lonergan / 英语",
+      "rating": 5,
+      "markedAt": "2024-12-19 21:09:55",
+      "estimatedMarkedAtRange": null,
+      "comment": "「前已无通路 后不见归途」"
+    },
     {
       "kind": "movie",
       "sourceId": "2124507",
@@ -439,21 +454,6 @@
       "markedAt": "2024-07-22 19:37:25",
       "estimatedMarkedAtRange": null,
       "comment": "照着拍有点没意思"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3264229",
-      "title": "冥界警局",
-      "originalTitle": "R.I.P.D. / 衰鬼刑警(港) / 降魔战警(台)",
-      "year": "2013",
-      "coverPath": "covers/movie/3264229.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1965136192.webp",
-      "detailUrl": "/movie/3264229",
-      "listSummary": "2013-07-19(美国) / 瑞安·雷诺兹 / 杰夫·布里吉斯 / 凯文·贝肯 / 玛丽-露易丝·帕克 / 罗伯特·克耐普 / 吴汉章 / 迈克·奥麦利 / 斯特芬妮·斯佐斯塔克 / 派珀·麦肯锡·哈里斯 / 玛丽莎·米勒 / 美国 / www.ripd.com / 罗伯特·斯文克 / 96分钟 / 冥界警局 / 喜剧 / 动作 / 犯罪 / 奇幻 / 费尔·海伊 Phil Hay / 马特·曼弗莱迪 Matt Manfredi / Peter M. Lenkov / 英语",
-      "rating": 3,
-      "markedAt": "2024-07-13 22:52:58",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }
