@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 21,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1295647",
+      "title": "超时空接触",
+      "originalTitle": "Contact / 接触未来(台) / 接触",
+      "year": "1997",
+      "coverPath": "covers/movie/1295647.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453499268.webp",
+      "detailUrl": "/movie/1295647",
+      "listSummary": "1997-07-11(美国) / 朱迪·福斯特 / 吉娜·马隆 / 大卫·摩斯 / 杰弗里·布莱克 / 威廉·菲克纳 / 蒂莫西·麦克尼尔 / 马修·麦康纳 / 汤姆·斯凯里特 / 亨利斯·特罗齐尔 / 马克斯·马蒂尼 / 美国 / 罗伯特·泽米吉斯 / 150分钟 / 超时空接触 / 剧情 / 科幻 / 悬疑 / 惊悚 / 詹姆士·V·哈特 James V. Hart / 迈克尔·戈登伯格 Michael Goldenberg / 卡尔·萨根 Carl Sagan / 安·德鲁扬 Ann Druyan / 英语 / 西班牙语 / 德语 / 俄语",
+      "rating": 5,
+      "markedAt": "2017-03-13 09:11:51",
+      "estimatedMarkedAtRange": null,
+      "comment": "硬科幻"
+    },
     {
       "kind": "movie",
       "sourceId": "25765735",
@@ -439,21 +454,6 @@
       "markedAt": "2016-10-17 15:52:48",
       "estimatedMarkedAtRange": null,
       "comment": "学生作品的赶脚"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "25774050",
-      "title": "寄生兽",
-      "originalTitle": "寄生獣 / 寄生兽(上) / Kiseijû: Part 1",
-      "year": "2014",
-      "coverPath": "covers/movie/25774050.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2375921261.webp",
-      "detailUrl": "/movie/25774050",
-      "listSummary": "2014-10-30(东京电影节) / 2014-11-29(日本) / 2016-09-02(中国大陆) / 染谷将太 / 深津绘里 / 阿部贞夫 / 桥本爱 / 东出昌大 / 岩井秀人 / 山中崇 / 池内万作 / 丰原功补 / 大森南朋 / 日本 / kiseiju.com / 山崎贵 / 109分钟 / 125分钟(中国大陆) / 寄生兽 / 剧情 / 动作 / 科幻 / 恐怖 / 岩明均 Hitoshi Iwaaki / 古泽良太 Ryota Kosawa / 日语",
-      "rating": 4,
-      "markedAt": "2016-10-13 22:56:38",
-      "estimatedMarkedAtRange": null,
-      "comment": "想看看原作了"
     }
   ]
 }

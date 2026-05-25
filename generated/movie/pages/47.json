@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 47,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2359497",
+      "title": "20世纪少年 第1章",
+      "originalTitle": "20世紀少年 第1章 終わりの始まり / 20世纪少年 第1章 完结的开始 / 20世纪少年：第一部 降临",
+      "year": "2008",
+      "coverPath": "covers/movie/2359497.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1081197256.jpg",
+      "detailUrl": "/movie/2359497",
+      "listSummary": "2008-08-30 / 龙雷太 / Dave Spector / 岩尾万太郎 / 津田宽治 / 远藤宪一 / 柳原晴郎 / 阿藤快 / 石桥莲司 / 井浦新 / Yukiko Nakatsubo / 日本 / 堤幸彦 / 142 分钟 / 20世纪少年 第1章 / 冒险 / 奇幻 / 悬疑 / 科幻 / 福田靖 Yasushi Fukuda / 长崎尚志 Takashi Nagasaki / 浦泽直树 Naoki Urasawa / 渡边雄介 Yûsuke Watanabe / 日语 / 泰语 / 英语",
+      "rating": 5,
+      "markedAt": "2009-09-20",
+      "estimatedMarkedAtRange": null,
+      "comment": "充满了年少时天真的想象的片子"
+    },
     {
       "kind": "movie",
       "sourceId": "3683409",

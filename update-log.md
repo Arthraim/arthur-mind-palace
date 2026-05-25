@@ -2,6 +2,16 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-05-25T04:01:07.919Z
+- Summary: +1 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-05-25T03:56:19.150Z
+- movie: +1 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 星球大战：曼达洛人与古古 (36723035) marked 2026-05-23
+
 ## 2026-05-21T09:11:53.804Z
 - Summary: +2 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-05-21T09:06:56.204Z

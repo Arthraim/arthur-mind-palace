@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 22,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "25774050",
+      "title": "寄生兽",
+      "originalTitle": "寄生獣 / 寄生兽(上) / Kiseijû: Part 1",
+      "year": "2014",
+      "coverPath": "covers/movie/25774050.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2375921261.webp",
+      "detailUrl": "/movie/25774050",
+      "listSummary": "2014-10-30(东京电影节) / 2014-11-29(日本) / 2016-09-02(中国大陆) / 染谷将太 / 深津绘里 / 阿部贞夫 / 桥本爱 / 东出昌大 / 岩井秀人 / 山中崇 / 池内万作 / 丰原功补 / 大森南朋 / 日本 / kiseiju.com / 山崎贵 / 109分钟 / 125分钟(中国大陆) / 寄生兽 / 剧情 / 动作 / 科幻 / 恐怖 / 岩明均 Hitoshi Iwaaki / 古泽良太 Ryota Kosawa / 日语",
+      "rating": 4,
+      "markedAt": "2016-10-13 22:56:38",
+      "estimatedMarkedAtRange": null,
+      "comment": "想看看原作了"
+    },
     {
       "kind": "movie",
       "sourceId": "1308377",
@@ -439,21 +454,6 @@
       "markedAt": "2016-06-20 15:57:24",
       "estimatedMarkedAtRange": null,
       "comment": "觉得自己是一个具有后现代注意精神的现代主义者，所以我既认可 helvetica 带来的价值，也认可 Helvetica 存在的不足。纪录片本身，本来以为是历史的介绍，结果除了两个论点的碰撞是一个亮点以外，没有太多字体本身的故事。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "20644938",
-      "title": "硅谷 第一季",
-      "originalTitle": "Silicon Valley Season 1 / 硅谷群英(港) / 矽谷群英(港)",
-      "year": "2014",
-      "coverPath": "covers/movie/20644938.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2172371194.webp",
-      "detailUrl": "/movie/20644938",
-      "listSummary": "2014-04-06(美国) / 托马斯·米德蒂奇 / T·J·米勒 / 马丁·斯塔尔 / 库梅尔·南贾尼 / 乔什·布雷纳 / 克里斯托弗·埃文·韦尔奇 / 马特·罗斯 / 阿曼达·克鲁 / 扎克·伍兹 / 欧阳万成 / 美国 / www.hbo.com/silicon-valley / 迈克·乔吉 / 亚力克·博格 / 翠西亚·布洛克 / 玛姬·凯瑞 / 硅谷 / 30分钟 / 硅谷 / 喜剧 / 迈克·乔吉 Mike Judge / 约翰·奥茨舒勒 John Altschuler / 亚力克·博格 Alec Berg / 克雷·塔沃 Clay Tarver / 英语",
-      "rating": 5,
-      "markedAt": "2016-06-19 02:36:05",
-      "estimatedMarkedAtRange": null,
-      "comment": "这不就是我每天的生活咩 =。="
     }
   ]
 }

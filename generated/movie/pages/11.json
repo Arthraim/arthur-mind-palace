@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 11,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27080656",
+      "title": "普罗米亚",
+      "originalTitle": "プロメア / 普罗米亚的火焰(港) / PROMARE",
+      "year": "2019",
+      "coverPath": "covers/movie/27080656.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2652044770.webp",
+      "detailUrl": "/movie/27080656",
+      "listSummary": "2019-05-24(日本) / 2021-06-05(中国大陆) / 松山研一 / 早乙女太一 / 堺雅人 / 佐仓绫音 / 吉野裕行 / 稻田彻 / 新谷真弓 / 小山力也 / 小清水亚美 / 楠大典 / 日本 / promare-movie.com / 今石洋之 / 111分钟 / 普罗米亚 / 剧情 / 动作 / 科幻 / 动画 / 中岛一树 Kazuki Nakashima / 日语",
+      "rating": 3,
+      "markedAt": "2021-06-20 21:42:44",
+      "estimatedMarkedAtRange": null,
+      "comment": "如果是个op或者mv就还好，全程这个样子真的很疲劳…… 剧情也比较俗套…… 这么闹腾的场面我却想睡觉……"
+    },
     {
       "kind": "movie",
       "sourceId": "30345227",
@@ -439,21 +454,6 @@
       "markedAt": "2020-12-27 13:55:32",
       "estimatedMarkedAtRange": null,
       "comment": "太好看了，每个都喜欢"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "4324852",
-      "title": "魔术快斗",
-      "originalTitle": "まじっく快斗 / 怪盗基德 / 神偷怪盗(台)",
-      "year": "2010",
-      "coverPath": "covers/movie/4324852.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2871061143.webp",
-      "detailUrl": "/movie/4324852",
-      "listSummary": "2010-04-17(日本) / 山口胜平 / 藤村步 / 石冢运升 / 泽城美雪 / 石田彰 / 长嶝高士 / 田中信夫 / 麦人 / 浪川大辅 / 进藤尚美 / 日本 / 平野俊贵 / 福田纪之 / 三瓶圣 / 岩永彰 / 古谷田顺久 / 佐土原武之 / 25分钟 / 魔术快斗 / 动画 / 宫下隼一 Junichi Miyashita / 吉永亚矢 Yoshinaga Aya / 青山刚昌 Gôshô Aoyama / 日语 / 山口胜平 / 藤村步 / 池田秀一 / 石冢运升",
-      "rating": 5,
-      "markedAt": "2020-12-25 12:59:24",
-      "estimatedMarkedAtRange": null,
-      "comment": "所谓的老版，当年还是新番的时候还看过一集来着，岁月不饶人"
     }
   ]
 }

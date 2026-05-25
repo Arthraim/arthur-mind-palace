@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 45,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2052059",
+      "title": "黑之契约者",
+      "originalTitle": "DARKER THAN BLACK -黒の契約者- / 黑之契约者 / Kuro no Keiyakusha",
+      "year": "2007",
+      "coverPath": "covers/movie/2052059.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917224507.jpg",
+      "detailUrl": "/movie/2052059",
+      "listSummary": "2007-04-05(日本) / 木内秀信 / 福圆美里 / 泽木郁也 / 池田胜 / 水树奈奈 / 川上伦子 / 名冢佳织 / 丰口惠美 / 井上和彦 / 本田贵子 / 日本 / 冈村天斋 / 久保山英一 / 平向智子 / 鸟羽聪 / 安斋刚文 / 恒松圭 / 千叶大辅 / 金子伸吾 / 山本秀世 / 24分钟 / 黑之契约者 / 动画 / 动作 / 恐怖 / 科幻 / 惊悚 / 冈村天斋 Tensai Okamura / 野村祐一 Yuuichi Nomura / 菅正太郎 Shotaro Suga / 大西信介 Nobusuke Ônishi / 砂山藏澄 Sunayama Kurasumi / BONES / 日语",
+      "rating": 5,
+      "markedAt": "2010-03-24",
+      "estimatedMarkedAtRange": null,
+      "comment": "绝对是一个伟大的强大的不可替代的世界观…… 超有爱"
+    },
     {
       "kind": "movie",
       "sourceId": "3908423",
@@ -439,21 +454,6 @@
       "markedAt": "2009-12-23",
       "estimatedMarkedAtRange": null,
       "comment": "当时看完这个，我的感觉是：“大友克洋这次是让我失望了………………” 我记得一个香港读书的同学说在剧场看首映，上千个关注看完之后，没有一个说看懂的…………"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2997155",
-      "title": "风云Ⅱ",
-      "originalTitle": "風雲Ⅱ / 风云之皇者降临 / The Storm Warriors",
-      "year": "2009",
-      "coverPath": "covers/movie/2997155.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1320935641.jpg",
-      "detailUrl": "/movie/2997155",
-      "listSummary": "2009-12-09 / 郭富城 / 郑伊健 / 蔡卓妍 / 唐嫣 / 谢霆锋 / 任达华 / 何家劲 / 谭耀文 / 林雪 / 金永钢 / 中国香港 / 中国大陆 / 彭顺 / 彭发 / 110分钟 / 风云Ⅱ / 动作 / 冒险 / 奇幻 / 彭顺 Oxide Pang / 彭发 Danny Pang / 彭柏成 Thomas Pang / 秋逸 / 粤语",
-      "rating": 5,
-      "markedAt": "2009-12-14",
-      "estimatedMarkedAtRange": null,
-      "comment": "过瘾，延续的经典，不错不错。虽然打的时间貌似太长了一点…………"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 10,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1307106",
+      "title": "无间道2",
+      "originalTitle": "無間道II / 无间道前传 / Infernal Affairs II",
+      "year": "2003",
+      "coverPath": "covers/movie/1307106.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p958008320.webp",
+      "detailUrl": "/movie/1307106",
+      "listSummary": "2003-10-01(中国香港) / 2003-10-17(中国大陆) / 陈冠希 / 余文乐 / 曾志伟 / 黄秋生 / 吴镇宇 / 刘嘉玲 / 胡军 / 张耀扬 / 连凯 / 惠英红 / 中国香港 / 刘伟强 / 麦兆辉 / 119分钟 / 110 分钟(德国电视版) / 无间道2 / 剧情 / 犯罪 / 惊悚 / 麦兆辉 Alan Mak / 庄文强 Felix Chong / 粤语 / 英语 / 汉语普通话 / 泰语",
+      "rating": 5,
+      "markedAt": "2022-02-04 01:28:56",
+      "estimatedMarkedAtRange": null,
+      "comment": "真的史诗，半天没缓过来"
+    },
     {
       "kind": "movie",
       "sourceId": "1307914",
@@ -439,21 +454,6 @@
       "markedAt": "2021-06-25 01:38:23",
       "estimatedMarkedAtRange": null,
       "comment": "相当不错的正统续作，相对没诚意的冷饭版本"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "27080656",
-      "title": "普罗米亚",
-      "originalTitle": "プロメア / 普罗米亚的火焰(港) / PROMARE",
-      "year": "2019",
-      "coverPath": "covers/movie/27080656.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2652044770.webp",
-      "detailUrl": "/movie/27080656",
-      "listSummary": "2019-05-24(日本) / 2021-06-05(中国大陆) / 松山研一 / 早乙女太一 / 堺雅人 / 佐仓绫音 / 吉野裕行 / 稻田彻 / 新谷真弓 / 小山力也 / 小清水亚美 / 楠大典 / 日本 / promare-movie.com / 今石洋之 / 111分钟 / 普罗米亚 / 剧情 / 动作 / 科幻 / 动画 / 中岛一树 Kazuki Nakashima / 日语",
-      "rating": 3,
-      "markedAt": "2021-06-20 21:42:44",
-      "estimatedMarkedAtRange": null,
-      "comment": "如果是个op或者mv就还好，全程这个样子真的很疲劳…… 剧情也比较俗套…… 这么闹腾的场面我却想睡觉……"
     }
   ]
 }

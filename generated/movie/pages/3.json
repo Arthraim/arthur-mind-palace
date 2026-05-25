@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2154390",
+      "title": "编辑部的故事",
+      "originalTitle": "Stories of an Editorial Board",
+      "year": null,
+      "coverPath": "covers/movie/2154390.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2255590045.webp",
+      "detailUrl": "/movie/2154390",
+      "listSummary": "葛优 / 张瞳 / 侯耀华 / 吕齐 / 童正维 / 冯小刚 / 张国立 / 刘蓓 / 濮存昕 / 于谦 / 中国大陆 / 赵宝刚 / 金炎 / 49分钟 / 喜剧 / 王朔 Shuo Wang / 马未都 Weidu Ma / 冯小刚 Xiaogang Feng / 汉语普通话",
+      "rating": 4,
+      "markedAt": "2025-07-28 00:16:18",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "36188176",
@@ -439,21 +454,6 @@
       "markedAt": "2025-01-08 01:33:51",
       "estimatedMarkedAtRange": null,
       "comment": "升职加薪的丈夫有的选，而怀孕的她则没有。她在酒吧说出的才是影片的真相，丈夫知道要什么，并且已经拥有了他想要的一切。而她哪怕出轨，不惜堕胎，甚至最后献出了生命，才得以真正的逃离和摆脱这个婚姻。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "35503125",
-      "title": "还是觉得你最好",
-      "originalTitle": "飯戲攻心 / 饭戏攻心 / Table for Six",
-      "year": "2022",
-      "coverPath": "covers/movie/35503125.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903115602.webp",
-      "detailUrl": "/movie/35503125",
-      "listSummary": "2022-04-24(远东国际电影节) / 2022-09-08(中国香港) / 2022-09-09(中国大陆) / 2024-01-20(中国大陆重映) / 黄子华 / 邓丽欣 / 张继聪 / 王菀之 / 林明祯 / 陈湛文 / 廖子妤 / 古天乐 / 王丹妮 / 余香凝 / 中国香港 / 陈咏燊 / 116分钟(中国大陆) / 120分钟 / 还是觉得你最好 / 喜剧 / 爱情 / 陈咏燊 Sunny Chan / 粤语 / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-01-03 07:57:53",
-      "estimatedMarkedAtRange": null,
-      "comment": "家人在哪里，家就在哪里，简直可以送给湾湾当座右铭"
     }
   ]
 }

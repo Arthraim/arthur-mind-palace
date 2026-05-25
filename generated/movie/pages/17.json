@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 17,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26774033",
+      "title": "幕后玩家",
+      "originalTitle": "操控者 / A or B",
+      "year": "2018",
+      "coverPath": "covers/movie/26774033.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520543845.webp",
+      "detailUrl": "/movie/26774033",
+      "listSummary": "2018-04-15(北京电影节) / 2018-04-28(中国大陆) / 徐峥 / 王丽坤 / 王砚辉 / 段博文 / 任达华 / 于和伟 / 朱珠 / 赵达 / 谢楠 / 鲍晓 / 中国大陆 / 任鹏远 / 114分钟 / 剧情 / 犯罪 / 悬疑 / 任鹏远 Pengyuan Ren / 汉语普通话",
+      "rating": 2,
+      "markedAt": "2018-09-09 13:24:00",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1292528",
@@ -439,21 +454,6 @@
       "markedAt": "2018-04-06 11:26:48",
       "estimatedMarkedAtRange": null,
       "comment": "最感动的是，第一个游戏彩蛋是让你 xjb 乱转享受游戏本身。梗是玩的真的好~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "20435622",
-      "title": "环太平洋：雷霆再起",
-      "originalTitle": "Pacific Rim: Uprising / 环太平洋2 / 环太平洋2：雷霆再起",
-      "year": "2018",
-      "coverPath": "covers/movie/20435622.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.webp",
-      "detailUrl": "/movie/20435622",
-      "listSummary": "2018-03-23(美国) / 2018-03-23(中国大陆) / 约翰·博耶加 / 卡莉·史派妮 / 斯科特·伊斯特伍德 / 景甜 / 伯恩·戈曼 / 查理·戴 / 阿德里娅·阿霍纳 / 张晋 / 菊地凛子 / 卡兰·布拉尔 / 英国 / 中国大陆 / 日本 / 美国 / 墨西哥 / www.pacificrimmovie.com / 斯蒂文·S·迪奈特 / 111分钟 / 环太平洋：雷霆再起 / 动作 / 科幻 / 冒险 / 斯蒂文·S·迪奈特 Steven S. DeKnight / 艾米丽·卡迈克尔 Emily Carmichael / 吉拉·斯奈德 Kira Snyder / T·S·诺林 T.S. Nowlin / 特拉维斯·比彻姆 Travis Beacham / 英语 / 汉语普通话 / 俄语",
-      "rating": 2,
-      "markedAt": "2018-03-26 00:43:53",
-      "estimatedMarkedAtRange": null,
-      "comment": "根本不懂怪兽片的精髓。。。瞎搞"
     }
   ]
 }

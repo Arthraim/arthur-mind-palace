@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 26,
   "pageSize": 30,
-  "totalEntries": 1393,
+  "totalEntries": 1394,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1293799",
+      "title": "壮志凌云",
+      "originalTitle": "Top Gun / 捍卫战士(台) / 壮志凌云 3D",
+      "year": "1986",
+      "coverPath": "covers/movie/1293799.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1871745733.webp",
+      "detailUrl": "/movie/1293799",
+      "listSummary": "1986-05-16(美国) / 2013-02-08(美国) / 汤姆·克鲁斯 / 凯莉·麦吉利斯 / 方·基默 / 安东尼·爱德华兹 / 汤姆·斯凯里特 / 迈克尔·艾恩塞德 / 约翰·斯托克韦尔 / 里克·罗索维奇 / 蒂姆·罗宾斯 / 小克拉伦斯·吉尔亚德 / 美国 / 托尼·斯科特 / 109分钟 / 111分钟(3D版) / 壮志凌云 / 剧情 / 动作 / 吉姆·卡什 Jim Cash / 小杰克·埃普斯 Jack Epps Jr. / 埃胡德·约纳 Ehud Yonay / 英语",
+      "rating": 4,
+      "markedAt": "2015-08-06 04:01:02",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "3073124",
@@ -439,21 +454,6 @@
       "markedAt": "2015-04-23 04:18:52",
       "estimatedMarkedAtRange": null,
       "comment": "闭起双眼你最挂念谁，眼睛睁开身边竟是谁"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "23331914",
-      "title": "狂怒",
-      "originalTitle": "Fury / 战逆豪情(港) / 怒火特攻队(台)",
-      "year": "2014",
-      "coverPath": "covers/movie/23331914.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2209858994.webp",
-      "detailUrl": "/movie/23331914",
-      "listSummary": "2014-10-17(美国) / 2014-11-21(中国大陆) / 布拉德·皮特 / 希亚·拉博夫 / 罗根·勒曼 / 迈克尔·佩纳 / 乔·博恩瑟 / 吉姆·帕拉克 / 布拉德·威廉姆·亨克 / 凯文·万斯 / 泽维尔·塞缪尔 / 詹森·艾萨克 / 美国 / 中国大陆 / 英国 / 大卫·阿耶 / 132分钟(中国大陆) / 134分钟(美国) / 狂怒 / 剧情 / 动作 / 战争 / 大卫·艾亚 David Ayer / 英语 / 德语",
-      "rating": 5,
-      "markedAt": "2015-04-14 13:00:49",
-      "estimatedMarkedAtRange": null,
-      "comment": "印象最深的是开场不久的台词：What a man can do to another man. 然后电影就随队长给菜鸟「参观」战争，向观众展示了那种残酷。五个人的刻画，剧情，主旨，子弹特效，单挑虎式坦克，处处是亮点，五星送给你。"
     }
   ]
 }
