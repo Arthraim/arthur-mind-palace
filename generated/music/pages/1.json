@@ -2,9 +2,39 @@
   "kind": "music",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 52,
+  "totalEntries": 54,
   "totalPages": 2,
   "entries": [
+    {
+      "kind": "music",
+      "sourceId": "37475363",
+      "title": "进化：多巴胺_摇滚",
+      "originalTitle": "EVOLUTION: DOPAMINE_ROCK",
+      "year": "2025",
+      "coverPath": "covers/music/37475363.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s35224431.jpg",
+      "detailUrl": "/music/37475363",
+      "listSummary": "Hyper Slash / 2025-08-11 / 专辑 / 数字(Digital) / 摇滚",
+      "rating": 3,
+      "markedAt": "2026-05-26",
+      "estimatedMarkedAtRange": null,
+      "comment": "会希望专辑中有一两首特别不一样的点缀一下。很喜欢手办恋人。以及功夫中，酸发出的那几个打架声太惊人了。"
+    },
+    {
+      "kind": "music",
+      "sourceId": "37355838",
+      "title": "羽毛剑",
+      "originalTitle": null,
+      "year": "2025",
+      "coverPath": "covers/music/37355838.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35155554.jpg",
+      "detailUrl": "/music/37355838",
+      "listSummary": "秦凡淇 / 2025-05-11 / 专辑 / 数字(Digital) / 流行",
+      "rating": 4,
+      "markedAt": "2026-05-26",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "music",
       "sourceId": "38391228",
@@ -264,7 +294,7 @@
       "kind": "music",
       "sourceId": "35292992",
       "title": "冀西南林路行",
-      "originalTitle": "Inside The Cable Temple",
+      "originalTitle": "INSIDE THE CABLE TEMPLE",
       "year": "2020",
       "coverPath": "covers/music/35292992.jpg",
       "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33802807.jpg",
@@ -424,36 +454,6 @@
       "markedAt": "2010-10-26",
       "estimatedMarkedAtRange": null,
       "comment": "这是我最后一张入正版的Jay的专辑。。。"
-    },
-    {
-      "kind": "music",
-      "sourceId": "1401853",
-      "title": "七里香",
-      "originalTitle": "Common Jasmin Orange",
-      "year": "2004",
-      "coverPath": "covers/music/1401853.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s3737076.jpg",
-      "detailUrl": "/music/1401853",
-      "listSummary": "周杰伦 / 2004 / 专辑 / CD / 流行",
-      "rating": 4,
-      "markedAt": "2010-10-26",
-      "estimatedMarkedAtRange": null,
-      "comment": "好吧，某个不是很快乐的暑假里听的。。。"
-    },
-    {
-      "kind": "music",
-      "sourceId": "1422300",
-      "title": "Jay",
-      "originalTitle": null,
-      "year": "2000",
-      "coverPath": "covers/music/1422300.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s8932514.jpg",
-      "detailUrl": "/music/1422300",
-      "listSummary": "周杰伦 / 2000-11-13 / 专辑 / Audio CD / 流行",
-      "rating": 4,
-      "markedAt": "2010-10-20",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T04:01:07.919Z",
+  "generatedAt": "2026-05-29T09:42:04.427Z",
   "entriesByKind": {
     "movie": [
       {
@@ -23297,6 +23297,36 @@
     "music": [
       {
         "kind": "music",
+        "sourceId": "37475363",
+        "title": "进化：多巴胺_摇滚",
+        "originalTitle": "EVOLUTION: DOPAMINE_ROCK",
+        "year": "2025",
+        "coverPath": "covers/music/37475363.jpg",
+        "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s35224431.jpg",
+        "detailUrl": "/music/37475363",
+        "listSummary": "Hyper Slash / 2025-08-11 / 专辑 / 数字(Digital) / 摇滚",
+        "rating": 3,
+        "markedAt": "2026-05-26",
+        "estimatedMarkedAtRange": null,
+        "comment": "会希望专辑中有一两首特别不一样的点缀一下。很喜欢手办恋人。以及功夫中，酸发出的那几个打架声太惊人了。"
+      },
+      {
+        "kind": "music",
+        "sourceId": "37355838",
+        "title": "羽毛剑",
+        "originalTitle": null,
+        "year": "2025",
+        "coverPath": "covers/music/37355838.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35155554.jpg",
+        "detailUrl": "/music/37355838",
+        "listSummary": "秦凡淇 / 2025-05-11 / 专辑 / 数字(Digital) / 流行",
+        "rating": 4,
+        "markedAt": "2026-05-26",
+        "estimatedMarkedAtRange": null,
+        "comment": null
+      },
+      {
+        "kind": "music",
         "sourceId": "38391228",
         "title": "在這裡停一下",
         "originalTitle": "在这里停一下",
@@ -23554,7 +23584,7 @@
         "kind": "music",
         "sourceId": "35292992",
         "title": "冀西南林路行",
-        "originalTitle": "Inside The Cable Temple",
+        "originalTitle": "INSIDE THE CABLE TEMPLE",
         "year": "2020",
         "coverPath": "covers/music/35292992.jpg",
         "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33802807.jpg",

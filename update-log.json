@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-05-25T04:01:07.919Z",
+  "generatedAt": "2026-05-29T09:42:04.427Z",
   "entries": [
+    {
+      "id": "2026-05-29T09:42:04.427Z",
+      "generatedAt": "2026-05-29T09:42:04.427Z",
+      "lastDoubanSyncAt": "2026-05-29T09:37:19.426Z",
+      "totals": {
+        "added": 2,
+        "updated": 1,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 2,
+          "updated": 1,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "music",
+          "sourceId": "37355838",
+          "title": "羽毛剑",
+          "markedAt": "2026-05-26",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "37475363",
+          "title": "进化：多巴胺_摇滚",
+          "markedAt": "2026-05-26",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "35292992",
+          "title": "冀西南林路行",
+          "markedAt": "2020-12-27 22:11:45",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-05-25T04:01:07.919Z",
       "generatedAt": "2026-05-25T04:01:07.919Z",

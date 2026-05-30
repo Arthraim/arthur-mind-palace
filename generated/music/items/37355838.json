@@ -1,0 +1,48 @@
+{
+  "kind": "music",
+  "sourceId": "37355838",
+  "title": "羽毛剑",
+  "originalTitle": null,
+  "year": "2025",
+  "coverPath": "covers/music/37355838.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35155554.jpg",
+  "doubanUrl": "https://music.douban.com/subject/37355838/",
+  "detailUrl": "/music/37355838",
+  "listSummary": "秦凡淇 / 2025-05-11 / 专辑 / 数字(Digital) / 流行",
+  "rating": 4,
+  "markedAt": "2026-05-26",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "羽毛剑"
+    },
+    {
+      "label": "流派",
+      "value": "流行"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2025-05-11"
+    },
+    {
+      "label": "出版者",
+      "value": "ABY"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/37355838/"
+    }
+  ]
+}
