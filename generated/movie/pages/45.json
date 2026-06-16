@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 45,
   "pageSize": 30,
-  "totalEntries": 1394,
+  "totalEntries": 1395,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3807893",
+      "title": "黑之契约者2：流星的双子",
+      "originalTitle": "DARKER THAN BLACK -流星の双子- / Darker Than Black: Ryusei no Gemini / Darker Than Black: Gemini of the Meteor",
+      "year": "2009",
+      "coverPath": "covers/movie/3807893.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2326953825.jpg",
+      "detailUrl": "/movie/3807893",
+      "listSummary": "2009-10-08(日本) / 木内秀信 / 花泽香菜 / 桑岛法子 / 泽木郁也 / 浅井清己 / 堀胜之祐 / 福圆美里 / 水树奈奈 / 大友龙三郎 / 三宅健太 / 日本 / www.d-black.net / 冈村天斋 / 初见浩一 / 金子伸吾 / 伊藤秀树 / 岩崎太郎 / 山本秀世 / 大西景介 / 千叶大辅 / 成田岁法 / 24分钟 / 黑之契约者2：流星的双子 / 剧情 / 动作 / 动画 / 冈村天斋 Tensai Okamura / 菅正太郎 Shotaro Suga / 大西信介 Nobusuke Ônishi / 吉野弘幸 Hiroyuki Yoshino / 冈田麿里 Mari Okada / BONES / 日语 / 木内秀信 / 福圓美里 / 沢木郁也",
+      "rating": 4,
+      "markedAt": "2010-03-24",
+      "estimatedMarkedAtRange": null,
+      "comment": "神啊，就算不是正统的你也不用这样吧……………… 看完12集像没看一样 = ="
+    },
     {
       "kind": "movie",
       "sourceId": "2052059",
@@ -439,21 +454,6 @@
       "markedAt": "2009-12-30",
       "estimatedMarkedAtRange": null,
       "comment": "有够励志的…………"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1887829",
-      "title": "虫师",
-      "originalTitle": "蟲師 / Mushishi / Bugmaster",
-      "year": "2006",
-      "coverPath": "covers/movie/1887829.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p764625487.jpg",
-      "detailUrl": "/movie/1887829",
-      "listSummary": "2006-09-08(威尼斯电影节) / 2007-03-24(日本) / 小田切让 / 大森南朋 / 苍井优 / 镰田小惠子 / 久野真季子 / 亚伦·迪斯穆克 / 江角真纪子 / 托德·哈伯空 / 沼田爆 / 李礼仙 / 日本 / 大友克洋 / 131分钟 / 虫师 / 奇幻 / 漆原友纪 Yuki Urushibara / 村井贞之 Sadayuki Murai / 大友克洋 Katsuhiro Ôtomo / 日语",
-      "rating": 3,
-      "markedAt": "2009-12-23",
-      "estimatedMarkedAtRange": null,
-      "comment": "当时看完这个，我的感觉是：“大友克洋这次是让我失望了………………” 我记得一个香港读书的同学说在剧场看首映，上千个关注看完之后，没有一个说看懂的…………"
     }
   ]
 }

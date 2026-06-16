@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-29T09:42:04.427Z",
+  "generatedAt": "2026-06-16T08:57:39.371Z",
   "entries": [
+    {
+      "id": "2026-06-16T08:57:39.371Z",
+      "generatedAt": "2026-06-16T08:57:39.371Z",
+      "lastDoubanSyncAt": "2026-06-16T08:52:55.305Z",
+      "totals": {
+        "added": 1,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "37144851",
+          "title": "137号案件",
+          "markedAt": "2026-06-16",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-05-29T09:42:04.427Z",
       "generatedAt": "2026-05-29T09:42:04.427Z",

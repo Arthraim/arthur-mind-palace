@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 6,
   "pageSize": 30,
-  "totalEntries": 1394,
+  "totalEntries": 1395,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1292328",
+      "title": "东邪西毒",
+      "originalTitle": "東邪西毒 / Ashes of Time",
+      "year": "1994",
+      "coverPath": "covers/movie/1292328.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.webp",
+      "detailUrl": "/movie/1292328",
+      "listSummary": "1994-09-12(威尼斯电影节) / 1994-09-17(中国大陆) / 张国荣 / 林青霞 / 梁朝伟 / 张学友 / 张曼玉 / 刘嘉玲 / 梁家辉 / 杨采妮 / 邹兆龙 / 王祖贤 / 中国香港 / 中国台湾 / 王家卫 / 98分钟 / 东邪西毒 / 剧情 / 动作 / 爱情 / 武侠 / 古装 / 王家卫 Kar Wai Wong / 金庸 Louis Cha / 粤语 / 汉语普通话",
+      "rating": 5,
+      "markedAt": "2024-01-21",
+      "estimatedMarkedAtRange": null,
+      "comment": "高清修复"
+    },
     {
       "kind": "movie",
       "sourceId": "3217142",
@@ -439,21 +454,6 @@
       "markedAt": "2023-08-31 00:29:43",
       "estimatedMarkedAtRange": null,
       "comment": "只有我被诺兰骂哭了吗"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "4058939",
-      "title": "芭比",
-      "originalTitle": "Barbie / 芭比娃娃 / 芭比真人版",
-      "year": "2023",
-      "coverPath": "covers/movie/4058939.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890207440.webp",
-      "detailUrl": "/movie/4058939",
-      "listSummary": "2023-07-09(洛杉矶首映) / 2023-07-21(美国/中国大陆) / 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉 / 阿丽亚娜·格林布拉特 / 凯特·麦克金农 / 海伦·米伦 / 威尔·法瑞尔 / 伊萨·雷 / 哈莉·尼夫 / 艾玛·麦基 / 美国 / 英国 / 格蕾塔·葛韦格 / 114分钟 / 芭比 / 喜剧 / 奇幻 / 冒险 / 格蕾塔·葛韦格 Greta Gerwig / 诺亚·鲍姆巴赫 Noah Baumbach / 英语 / 西班牙语",
-      "rating": 4,
-      "markedAt": "2023-08-07 20:42:24",
-      "estimatedMarkedAtRange": null,
-      "comment": "要么是很浅，要么就是我没看懂"
     }
   ]
 }

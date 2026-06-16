@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 25,
   "pageSize": 30,
-  "totalEntries": 1394,
+  "totalEntries": 1395,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2996790",
+      "title": "林肯律师",
+      "originalTitle": "The Lincoln Lawyer / 依法犯法(港) / 下流正义(台)",
+      "year": "2011",
+      "coverPath": "covers/movie/2996790.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p846769692.webp",
+      "detailUrl": "/movie/2996790",
+      "listSummary": "2011-03-18(美国) / 2012-08-15(中国大陆) / 马修·麦康纳 / 玛丽莎·托梅 / 瑞安·菲利普 / 威廉·H·梅西 / 约翰·雷吉扎莫 / 迈克尔·佩纳 / 凯瑟琳·莫宁 / 布莱恩·克兰斯顿 / 鲍勃·冈顿 / 弗兰西丝·费舍 / 美国 / www.thelincolnlawyermovie.com / 布拉德·福尔曼 / 118分钟 / 林肯律师 / 剧情 / 惊悚 / 犯罪 / 约翰·罗曼罗 John Romano / 麦可·康纳利 Michael Connelly / 英语",
+      "rating": 5,
+      "markedAt": "2015-11-14 18:15:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "要是逆转裁判的话，输了辩护也要维护自己的正义感… 美国人就现实多了，辩护归辩护良心等我辩护完再来照顾…"
+    },
     {
       "kind": "movie",
       "sourceId": "11620560",
@@ -439,21 +454,6 @@
       "markedAt": "2015-08-25 13:06:15",
       "estimatedMarkedAtRange": null,
       "comment": "有意思的设定，一旦接受之后情节展开意外精彩"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "5353344",
-      "title": "盲证",
-      "originalTitle": "블라인드 / 盲 / 盲症",
-      "year": "2011",
-      "coverPath": "covers/movie/5353344.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1097845082.webp",
-      "detailUrl": "/movie/5353344",
-      "listSummary": "2011-08-11(韩国) / 金荷娜 / 俞承豪 / 曹熙奉 / 梁英祖 / 谢姬 / 朴宝剑 / 金永周 / Dolly / 吴代焕 / 金敬益 / 韩国 / www.blind2011.co.kr / 安相勋 / 111分钟 / 盲证 / 剧情 / 犯罪 / 悬疑 / Min-seok Choi / 安相勋 Sang-hoon Ahn / 尹昌业 Andy Yoon / 韩语",
-      "rating": 3,
-      "markedAt": "2015-08-15 14:19:14",
-      "estimatedMarkedAtRange": null,
-      "comment": "好好的犯罪悬疑，一定要讲感情，讲感情你就想想办法啊，不管，放下节奏慢慢说，搞得节奏乱七八糟的… 而且警察叔叔死了就这么死了… 主角都不知道啊！"
     }
   ]
 }

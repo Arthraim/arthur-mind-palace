@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1394,
+  "totalEntries": 1395,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "37144851",
+      "title": "137号案件",
+      "originalTitle": "Dossier 137 / 137号档案(港) / Case 137",
+      "year": "2025",
+      "coverPath": "covers/movie/37144851.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921549477.jpg",
+      "detailUrl": "/movie/37144851",
+      "listSummary": "2025-05-15(戛纳电影节) / 2025-11-19(法国) / 蕾雅·德吕盖 / 帕斯卡·桑格拉 / 克莱尔·博德森 / 朱利安·利蒂 / 佛罗伦斯·维亚拉 / 海伦·亚历山德里迪斯 / 索兰·马查多·格拉纳 / 安东尼娅·布雷西 / 杰纳维夫·马尼奇 / 克里斯蒂安·辛尼格 / 法国 / 多米尼克·摩尔 / 115分钟 / 137号案件 / 剧情 / 犯罪 / 吉勒·马尚 Gilles Marchand / 多米尼克·摩尔 Dominik Moll / 法语",
+      "rating": 4,
+      "markedAt": "2026-06-16",
+      "estimatedMarkedAtRange": null,
+      "comment": "那个视频挺有冲击力的，电影先让我听到枪声，后面也不厌其烦一遍遍重放它，觉得电影真好，能这么去视听呈现"
+    },
     {
       "kind": "movie",
       "sourceId": "36723035",
@@ -439,21 +454,6 @@
       "markedAt": "2025-12-17 09:47:06",
       "estimatedMarkedAtRange": null,
       "comment": "比较好的是突出了香菱和晴雯，把很多老词儿改到了新情境里。缺点也很明显，剧情线索非常乱，人物非黑即白，袭人简直成了奸人，不能接受。远不如小戏骨版。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "26951951",
-      "title": "小戏骨：红楼梦之刘姥姥进大观园",
-      "originalTitle": "小戏骨之刘姥姥进大观园 / 红楼梦之刘姥姥进大观园",
-      "year": "2017",
-      "coverPath": "covers/movie/26951951.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500138181.webp",
-      "detailUrl": "/movie/26951951",
-      "listSummary": "2017-10-01(中国大陆) / 释小松 / 周漾玥 / 钟熠璠 / 郭飞歌 / 杨纳娜 / 姚奥依 / 孙伊雯 / 刘戴恩 / 陶冰蓝 / 孙乐颜 / 中国大陆 / 潘礼平 / 刘玉洁 / 25分钟 / 剧情 / 儿童 / 古装 / 刘玉洁 Yujie Liu / 罗妤佳 / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2025-12-15 22:51:34",
-      "estimatedMarkedAtRange": null,
-      "comment": "太好了，和87一样好"
     }
   ]
 }

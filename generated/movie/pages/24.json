@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 24,
   "pageSize": 30,
-  "totalEntries": 1394,
+  "totalEntries": 1395,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26311973",
+      "title": "唐人街探案",
+      "originalTitle": "唐人街·探案 / 唐探",
+      "year": "2015",
+      "coverPath": "covers/movie/26311973.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2302930556.webp",
+      "detailUrl": "/movie/26311973",
+      "listSummary": "2015-12-31(中国大陆) / 王宝强 / 刘昊然 / 佟丽娅 / 陈赫 / 肖央 / 小沈阳 / 潘粤明 / 马浴柯 / 张子枫 / 赵英俊 / 中国大陆 / 陈思诚 / 135分钟 / 喜剧 / 动作 / 悬疑 / 陈思诚 Sicheng Chen / 程佳客 Jiake Cheng / 刘凯 Kai Liu / 白鹤 He Bai / 汉语普通话 / 泰语 / 英语",
+      "rating": 4,
+      "markedAt": "2016-02-23 11:45:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "一个小时后，突然精彩起来了，从泰囧突然变成夏洛克了 -。-"
+    },
     {
       "kind": "movie",
       "sourceId": "1300303",
@@ -439,21 +454,6 @@
       "markedAt": "2015-11-22 23:47:13",
       "estimatedMarkedAtRange": null,
       "comment": "……陆川的电影就是这样让人既爱又恨，剧情真是支离破碎"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2996790",
-      "title": "林肯律师",
-      "originalTitle": "The Lincoln Lawyer / 依法犯法(港) / 下流正义(台)",
-      "year": "2011",
-      "coverPath": "covers/movie/2996790.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p846769692.webp",
-      "detailUrl": "/movie/2996790",
-      "listSummary": "2011-03-18(美国) / 2012-08-15(中国大陆) / 马修·麦康纳 / 玛丽莎·托梅 / 瑞安·菲利普 / 威廉·H·梅西 / 约翰·雷吉扎莫 / 迈克尔·佩纳 / 凯瑟琳·莫宁 / 布莱恩·克兰斯顿 / 鲍勃·冈顿 / 弗兰西丝·费舍 / 美国 / www.thelincolnlawyermovie.com / 布拉德·福尔曼 / 118分钟 / 林肯律师 / 剧情 / 惊悚 / 犯罪 / 约翰·罗曼罗 John Romano / 麦可·康纳利 Michael Connelly / 英语",
-      "rating": 5,
-      "markedAt": "2015-11-14 18:15:22",
-      "estimatedMarkedAtRange": null,
-      "comment": "要是逆转裁判的话，输了辩护也要维护自己的正义感… 美国人就现实多了，辩护归辩护良心等我辩护完再来照顾…"
     }
   ]
 }
