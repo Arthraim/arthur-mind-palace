@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-07-08T17:57:31.525Z
+- Summary: +2 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-07-08T17:53:11.294Z
+- movie: +1 / ~0 / -0
+- book: +1 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 谜之屋 (1941347) marked 2026-07-05
+  - [added] book 不要因为走得太远而忘记为什么出发 : 陈虻，我们听你讲 (20453024) marked 2026-07-05
+
 ## 2026-06-16T08:57:39.371Z
 - Summary: +1 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-06-16T08:52:55.305Z

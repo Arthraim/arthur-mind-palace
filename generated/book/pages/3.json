@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 158,
+  "totalEntries": 159,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "26400900",
+      "title": "创京东 : 刘强东亲述创业之路",
+      "originalTitle": null,
+      "year": "2015",
+      "coverPath": "covers/book/26400900.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28091725.jpg",
+      "detailUrl": "/book/26400900",
+      "listSummary": "李志刚 / 中信出版社 / 2015-5-1 / CNY 49.80",
+      "rating": 2,
+      "markedAt": "2018-02-15 01:03:32",
+      "estimatedMarkedAtRange": null,
+      "comment": "写得一般般… 对这个人也越来越没兴趣"
+    },
     {
       "kind": "book",
       "sourceId": "1763385",
@@ -439,21 +454,6 @@
       "markedAt": "2014-03-10 09:38:01",
       "estimatedMarkedAtRange": null,
       "comment": "收获不多"
-    },
-    {
-      "kind": "book",
-      "sourceId": "24843834",
-      "title": "羊毛战记",
-      "originalTitle": null,
-      "year": "2013",
-      "coverPath": "covers/book/24843834.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27003062.jpg",
-      "detailUrl": "/book/24843834",
-      "listSummary": "(美)休·豪伊 / 陈宗琛 / 湖南人民出版社 / 2013-9 / 58.00元",
-      "rating": 3,
-      "markedAt": "2014-03-05 09:27:01",
-      "estimatedMarkedAtRange": null,
-      "comment": "故事发展缓慢，从头到尾没有什么激动人心的剧情，期待一个爆发结果始终不瘟不火的，和1984一样大概这种立意的小说不怎么吸引我"
     }
   ]
 }

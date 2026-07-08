@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-06-16T08:57:39.371Z",
+  "generatedAt": "2026-07-08T17:57:31.525Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "1941347",
+        "title": "谜之屋",
+        "originalTitle": "The Lost Room / 失落的房间 / 密室惊魂",
+        "year": "2006",
+        "coverPath": "covers/movie/1941347.jpg",
+        "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494157949.jpg",
+        "detailUrl": "/movie/1941347",
+        "listSummary": "2006-12-11(美国) / 彼得·克劳斯 / 朱丽安娜·玛格丽丝 / 彼得·雅各布森 / 丹尼斯·克里斯托弗 / 艾普尔·格雷斯 / 艾丽·范宁 / 凯文·波拉克 / 杰森·道格拉斯 / 哈里特·桑塞姆·哈里斯 / 赵牡丹 / 美国 / www.scifi.com/lostroom / 克雷格·R·巴克斯利 / 迈克尔·W·沃特金斯 / 90分钟 / 谜之屋 / 动作 / 科幻 / 悬疑 / Laura Harkcom / Christopher Leone / 英语",
+        "rating": 3,
+        "markedAt": "2026-07-05",
+        "estimatedMarkedAtRange": null,
+        "comment": "设定还挺严谨，制作不行，草草收尾是不是因为被砍了，也好，在物品扩写稀烂之前收他一收。"
+      },
       {
         "kind": "movie",
         "sourceId": "37144851",
@@ -20935,6 +20950,21 @@
       }
     ],
     "book": [
+      {
+        "kind": "book",
+        "sourceId": "20453024",
+        "title": "不要因为走得太远而忘记为什么出发 : 陈虻，我们听你讲",
+        "originalTitle": null,
+        "year": "2013",
+        "coverPath": "covers/book/20453024.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24869644.jpg",
+        "detailUrl": "/book/20453024",
+        "listSummary": "徐泓、陈虻 / 中国人民大学出版社 / 2013-1 / 45.00元",
+        "rating": 3,
+        "markedAt": "2026-07-05",
+        "estimatedMarkedAtRange": null,
+        "comment": "看完某女主播油罐的节目后一时热情拿出来看的，有点难读下去，勉强看完了"
+      },
       {
         "kind": "book",
         "sourceId": "1366641",

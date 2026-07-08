@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 12,
   "pageSize": 30,
-  "totalEntries": 1395,
+  "totalEntries": 1396,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1901329",
+      "title": "星球大战：克隆人战争 第一季",
+      "originalTitle": "Star Wars: The Clone Wars Season 1 / 星球大戰: 克隆人戰爭 第一季",
+      "year": "2008",
+      "coverPath": "covers/movie/1901329.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511005903.webp",
+      "detailUrl": "/movie/1901329",
+      "listSummary": "2008-10-03(美国) / 马特·兰特尔 / 阿梅德·贝斯特 / 雷·帕克 / 汤姆·凯恩 / 吉姆·卡明斯 / 丹尼尔·洛根 / 科里·伯顿 / 特伦斯·卡森 / 伊安·艾伯克龙比 / 凯萨琳·塔柏 / 美国 / www.cartoonnetwork.com/clonewar / George Samilski / 戴夫·布洛克 / 贾斯汀·里奇 / 星球大战：克隆人战争 / 22 分钟 / 星球大战：克隆人战争 / 动画 / 动作 / 冒险 / 剧情 / 家庭 / 奇幻 / 科幻 / 凯文·坎贝尔 Kevin Campbell / Bill Canterbury / 保罗·迪尼 Paul Dini / 亨利·吉尔罗伊 Henry Gilroy / Drew Z. Greenberg / 乔治·克鲁斯蒂克 George Krstic / Brian Larsen / 凯蒂·卢卡斯 Katie Lucas / Eoghan Mahony / Steven Melching / Scott Murphy / Kevin Rubio / 朱莉·西格 Julie Siege / Randy Stradley / 克雷格·提特利 Craig Titley / 英语",
+      "rating": 4,
+      "markedAt": "2021-01-27",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "4097142",
@@ -437,21 +452,6 @@
       "listSummary": "2008-07-27 / 乔恩·哈姆 / 伊丽莎白·莫斯 / 文森特·卡塞瑟 / 詹纽瑞·琼斯 / 佩顿·利斯特 / 加布里埃尔·曼 / 德雷克·雷 / 雅各布·萨尔瓦提 / 拜伦·巴特 / 莎拉·德鲁 / 美国 / www.amctv.com/shows/mad-men/crew/season-2 / 莱丝莉·琳卡·格拉特 / 詹妮弗·盖辛格 / 菲尔·亚伯拉罕 / 蒂姆·亨特 / 阿兰·泰勒 / 马修·韦纳 / 迈克尔·乌彭达尔 / 安德鲁·伯恩斯坦 / 广告狂人 / 45分钟 / 广告狂人 / 剧情 / Matthew Weiner / 英语",
       "rating": 5,
       "markedAt": "2020-05-18 12:38:35",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "30285826",
-      "title": "风骚律师 第五季",
-      "originalTitle": "Better Call Saul Season 5 / 绝命律师 / 索尔最高",
-      "year": "2020",
-      "coverPath": "covers/movie/30285826.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2638316334.webp",
-      "detailUrl": "/movie/30285826",
-      "listSummary": "2020-02-23(美国) / 鲍勃·奥登科克 / 乔纳森·班克斯 / 蕾亚·塞洪 / 帕特里克·法比安 / 迈克尔·曼多 / 吉安卡罗·埃斯波西托 / 马克·马戈利斯 / 凯瑞·康顿 / 托尼·达尔顿 / 乔希·法德姆 / 美国 / 布朗温·休斯 / 诺维托·巴尔瓦 / 迈克尔·莫里斯 / 戈登·史密斯 / 吉姆·麦凯 / 梅丽莎·伯恩斯坦 / 文斯·吉利根 / 托马斯·施纳泽 / 皮特·古尔德 / 风骚律师 / 54分钟 / 风骚律师 / 剧情 / 犯罪 / 文斯·吉里根 Vince Gilligan / 皮特·古尔德 Peter Gould / 艾莉森·塔特洛克 Alison Tatlock / 安·彻基斯 Ann Cherkis / 戈登·史密斯 Gordon Smith / 托马斯·施纳泽 Thomas Schnauz / Ariel Levine / 希瑟·马里恩 Heather Marion / 英语",
-      "rating": 5,
-      "markedAt": "2020-04-26 01:42:05",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

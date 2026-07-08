@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 158,
+  "totalEntries": 159,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "20453024",
+      "title": "不要因为走得太远而忘记为什么出发 : 陈虻，我们听你讲",
+      "originalTitle": null,
+      "year": "2013",
+      "coverPath": "covers/book/20453024.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s24869644.jpg",
+      "detailUrl": "/book/20453024",
+      "listSummary": "徐泓、陈虻 / 中国人民大学出版社 / 2013-1 / 45.00元",
+      "rating": 3,
+      "markedAt": "2026-07-05",
+      "estimatedMarkedAtRange": null,
+      "comment": "看完某女主播油罐的节目后一时热情拿出来看的，有点难读下去，勉强看完了"
+    },
     {
       "kind": "book",
       "sourceId": "1366641",
@@ -439,21 +454,6 @@
       "markedAt": "2021-03-25 19:12:04",
       "estimatedMarkedAtRange": null,
       "comment": "收获颇丰。不过这样的闲谈类的书有个问题就是坂本龙一很多聊过的东西可能也只是他那个时候一时兴起的东西。比起这样，作为一个开始试图了解他的人，还是更想知道沉淀在这个人身上最重要的那些东西，毕竟书名给我的预期也是这样的。"
-    },
-    {
-      "kind": "book",
-      "sourceId": "25763770",
-      "title": "孵化Twitter : 从蛮荒到IPO的狂野旅程",
-      "originalTitle": null,
-      "year": "2014",
-      "coverPath": "covers/book/25763770.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s27160480.jpg",
-      "detailUrl": "/book/25763770",
-      "listSummary": "[美]尼克·比尔顿(Nick Bilton) / 欧常智、张宇、单旖 / 浙江人民出版社 / 2014-1 / 49.90元",
-      "rating": 4,
-      "markedAt": "2021-03-24 11:19:57",
-      "estimatedMarkedAtRange": null,
-      "comment": "充满谍战、宫斗气氛的一本创业公司传记，故事性强所以很好读"
     }
   ]
 }

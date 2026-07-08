@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-06-16T08:57:39.371Z",
+  "generatedAt": "2026-07-08T17:57:31.525Z",
   "entries": [
+    {
+      "id": "2026-07-08T17:57:31.525Z",
+      "generatedAt": "2026-07-08T17:57:31.525Z",
+      "lastDoubanSyncAt": "2026-07-08T17:53:11.294Z",
+      "totals": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "1941347",
+          "title": "谜之屋",
+          "markedAt": "2026-07-05",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "20453024",
+          "title": "不要因为走得太远而忘记为什么出发 : 陈虻，我们听你讲",
+          "markedAt": "2026-07-05",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-06-16T08:57:39.371Z",
       "generatedAt": "2026-06-16T08:57:39.371Z",

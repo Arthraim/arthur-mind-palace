@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1395,
+  "totalEntries": 1396,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "33434848",
+      "title": "天真派：红楼梦之桃花诗社",
+      "originalTitle": "天真派：红楼梦 / 红楼梦之桃花诗社",
+      "year": "2020",
+      "coverPath": "covers/movie/33434848.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2585715592.webp",
+      "detailUrl": "/movie/33434848",
+      "listSummary": "2020-02-14(中国大陆) / 邓琳漾 / 陈舒宜 / 段智文 / 苏魏舞 / 钟熠璠 / 郭飞歌 / 孙伊雯 / 陶冰蓝 / 付雯迪 / 姜姝含 / 中国大陆 / 潘礼平 / 王骏 / 75分钟 / 剧情 / 儿童 / 古装 / 王骏 Jun Wang / 赵月冰 / 王帅 / 汉语普通话",
+      "rating": 3,
+      "markedAt": "2025-12-17 09:47:06",
+      "estimatedMarkedAtRange": null,
+      "comment": "比较好的是突出了香菱和晴雯，把很多老词儿改到了新情境里。缺点也很明显，剧情线索非常乱，人物非黑即白，袭人简直成了奸人，不能接受。远不如小戏骨版。"
+    },
     {
       "kind": "movie",
       "sourceId": "26951951",
@@ -439,21 +454,6 @@
       "markedAt": "2025-09-01 01:49:11",
       "estimatedMarkedAtRange": null,
       "comment": "设定满分，情怀满分，剧情嘛还是迪士尼星战水平。dark falcon乐高已经下单！"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1442129",
-      "title": "豪斯医生 第一季",
-      "originalTitle": "House M.D. Season 1 / 医神 / 流氓医生",
-      "year": "2004",
-      "coverPath": "covers/movie/1442129.webp",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1021158381.webp",
-      "detailUrl": "/movie/1442129",
-      "listSummary": "2004-11-16(美国) / 休·劳瑞 / 丽莎·艾德尔斯汀 / 欧玛·艾普斯 / 罗伯特·肖恩·莱纳德 / 詹妮弗·莫里森 / 杰西·斯宾塞 / Benjamin John Parrillo / Marcus Chait / Eugene Long / 内森·克莱斯 / 美国 / www.fox.com/house / Ann Donahue / 比尔·约翰逊 / 休·劳瑞 / 布莱恩·斯派克 / 费利克斯·恩里克斯·阿尔科拉 / 丹尼尔·沙克海姆 / 兰迪·奇斯克 / 尼尔森·麦科米克 / 保罗·麦克兰尼 / 彼得·梅达克 / 豪斯医生 / 45分钟 / 豪斯医生 / 剧情 / 悬疑 / 大卫·肖 David Shore / 英语",
-      "rating": 5,
-      "markedAt": "2025-08-30 00:14:53",
-      "estimatedMarkedAtRange": null,
-      "comment": "旅行中晚上没事做，电视里就随便点开了这个，这下好了又看上了。S1E21真是神中神，穆赫兰道豪斯版，最重要的剧情用最棒的方式拍出来了。"
     }
   ]
 }

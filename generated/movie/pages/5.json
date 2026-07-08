@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 1395,
+  "totalEntries": 1396,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "35058564",
+      "title": "星球大战：侍者",
+      "originalTitle": "The Acolyte / 侍者(港/台) / 星球大战：追随者",
+      "year": "2024",
+      "coverPath": "covers/movie/35058564.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907778056.webp",
+      "detailUrl": "/movie/35058564",
+      "listSummary": "2024-06-04(美国) / 阿曼德拉·斯坦伯格 / 李政宰 / 查理·巴奈特 / 达芙妮·基恩 / 瑞贝卡·亨德森 / 朱迪·特纳-史密斯 / 凯瑞-安·莫斯 / 利娅·布雷迪 / 乔纳斯·索塔莫 / 曾爱媚 / 美国 / 莱丝利·海德兰德 / 亚历克斯·加西亚·洛佩斯 / 星球大战：侍者 / 35分钟 / 星球大战：侍者 / 剧情 / 动作 / 科幻 / 悬疑 / 奇幻 / 惊悚 / 冒险 / 莱丝利·海德兰德 Leslye Headland / 英语",
+      "rating": 4,
+      "markedAt": "2024-07-27 00:48:14",
+      "estimatedMarkedAtRange": null,
+      "comment": "绝地们个个说谎，西斯们各个真诚呀。真的极其讨厌男主，面具男太好了"
+    },
     {
       "kind": "movie",
       "sourceId": "3660428",
@@ -439,21 +454,6 @@
       "markedAt": "2024-01-21",
       "estimatedMarkedAtRange": null,
       "comment": "高清粤语版真棒"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1301230",
-      "title": "夺魂索",
-      "originalTitle": "Rope / 夺魄索(港) / 绳索",
-      "year": "1948",
-      "coverPath": "covers/movie/1301230.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154845412.webp",
-      "detailUrl": "/movie/1301230",
-      "listSummary": "1948-08-28(美国) / 约翰·道尔 / 法利·格兰杰 / 詹姆斯·斯图尔特 / 伊迪丝·埃文森 / 道格拉斯·迪克 / 琼·钱德勒 / 塞德里克·哈德威克 / 康丝坦斯·柯莉儿 / 迪克·霍根 / 美国 / 阿尔弗雷德·希区柯克 / 80 分钟 / 夺魂索 / 犯罪 / 悬疑 / 惊悚 / 休姆·克罗宁 Hume Cronyn / 帕特里克·汉密尔顿 Patrick Hamilton / 亚瑟·劳伦特斯 Arthur Laurents / 本·赫克特 Ben Hecht / 英语",
-      "rating": 4,
-      "markedAt": "2024-01-21",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

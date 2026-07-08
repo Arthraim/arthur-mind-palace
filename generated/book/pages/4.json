@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 158,
+  "totalEntries": 159,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "24843834",
+      "title": "羊毛战记",
+      "originalTitle": null,
+      "year": "2013",
+      "coverPath": "covers/book/24843834.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27003062.jpg",
+      "detailUrl": "/book/24843834",
+      "listSummary": "(美)休·豪伊 / 陈宗琛 / 湖南人民出版社 / 2013-9 / 58.00元",
+      "rating": 3,
+      "markedAt": "2014-03-05 09:27:01",
+      "estimatedMarkedAtRange": null,
+      "comment": "故事发展缓慢，从头到尾没有什么激动人心的剧情，期待一个爆发结果始终不瘟不火的，和1984一样大概这种立意的小说不怎么吸引我"
+    },
     {
       "kind": "book",
       "sourceId": "24536403",
@@ -442,21 +457,6 @@
       "markedAt": "2013-01-21 12:05:04",
       "estimatedMarkedAtRange": null,
       "comment": "必须说设计很赞，故事很一般"
-    },
-    {
-      "kind": "book",
-      "sourceId": "10750155",
-      "title": "数学之美",
-      "originalTitle": null,
-      "year": "2012",
-      "coverPath": "covers/book/10750155.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s9114855.jpg",
-      "detailUrl": "/book/10750155",
-      "listSummary": "吴军 / 人民邮电出版社 / 2012-5-1 / 45.00元",
-      "rating": 4,
-      "markedAt": "2013-01-07 15:37:02",
-      "estimatedMarkedAtRange": null,
-      "comment": "大部分内容都轻轻扫过有没有，还是对里面的八卦比较感兴趣"
     }
   ]
 }
