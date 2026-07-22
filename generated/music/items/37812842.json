@@ -1,0 +1,48 @@
+{
+  "kind": "music",
+  "sourceId": "37812842",
+  "title": "凝视白色的边界",
+  "originalTitle": null,
+  "year": "2025",
+  "coverPath": "covers/music/37812842.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35290105.jpg",
+  "doubanUrl": "https://music.douban.com/subject/37812842/",
+  "detailUrl": "/music/37812842",
+  "listSummary": "Cicada / 2025-10-30 / 专辑 / 数字(Digital) / 古典",
+  "rating": 4,
+  "markedAt": "2026-07-09",
+  "estimatedMarkedAtRange": null,
+  "comment": "也许终将成为神话 / 凝视白色的边界",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "凝视白色的边界"
+    },
+    {
+      "label": "流派",
+      "value": "古典"
+    },
+    {
+      "label": "专辑类型",
+      "value": "专辑"
+    },
+    {
+      "label": "介质",
+      "value": "数字(Digital)"
+    },
+    {
+      "label": "发行时间",
+      "value": "2025-10-30"
+    },
+    {
+      "label": "出版者",
+      "value": "风潮"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://music.douban.com/subject/37812842/"
+    }
+  ]
+}

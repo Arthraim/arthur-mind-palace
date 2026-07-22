@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 45,
   "pageSize": 30,
-  "totalEntries": 1396,
+  "totalEntries": 1397,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3822842",
+      "title": "白夜行",
+      "originalTitle": "백야행 : 하얀 어둠 속을 걷다 / 白夜行：走进白色的黑夜 / Into The White Night",
+      "year": "2009",
+      "coverPath": "covers/movie/3822842.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465542953.jpg",
+      "detailUrl": "/movie/3822842",
+      "listSummary": "2009-11-19(韩国) / 孙艺珍 / 韩石圭 / 高洙 / 李珉廷 / 朱多英 / 朴成雄 / 吴相浩 / 洪智熙 / 朱雅凛 / 方中贤 / 韩国 / 朴信宇 / 135分钟 / 白夜行 / 悬疑 / 爱情 / 东野圭吾 Keigo Higashino / 朴妍善 / 朴信宇 Shin-woo Park / 韩语",
+      "rating": 3,
+      "markedAt": "2010-04-02",
+      "estimatedMarkedAtRange": null,
+      "comment": "好好的一个白夜行，被韩国棒子搞得跟韩剧似的，真是惨不忍睹，影片所有的亮点都来自于故事本身，和电影无关，BTW，棒子一定以为日本人都是拍A片的，拍日本的东西比日本还A"
+    },
     {
       "kind": "movie",
       "sourceId": "1783772",
@@ -439,21 +454,6 @@
       "markedAt": "2010-01-02",
       "estimatedMarkedAtRange": null,
       "comment": "比我想象的好看许多~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2369549",
-      "title": "公众之敌",
-      "originalTitle": "Public Enemies / 头号公敌(台) / 大犯罪家(港)",
-      "year": "2009",
-      "coverPath": "covers/movie/2369549.jpg",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p825100239.jpg",
-      "detailUrl": "/movie/2369549",
-      "listSummary": "2009-06-18(芝加哥首映) / 约翰尼·德普 / 克里斯蒂安·贝尔 / 玛丽昂·歌迪亚 / 比利·克鲁德普 / 吉奥瓦尼·瑞比西 / 查宁·塔图姆 / 斯蒂芬·多尔夫 / 凯瑞·穆里根 / 斯蒂芬·格拉汉姆 / 艾米莉·德瑞文 / 美国 / 日本 / 迈克尔·曼 / 140分钟 / 公众之敌 / 剧情 / 传记 / 历史 / 犯罪 / 迈克尔·曼 Michael Mann / 安·白德曼 Ann Biderman / 布赖恩·布罗 Bryan Burrough / 英语",
-      "rating": 4,
-      "markedAt": "2010-01-01",
-      "estimatedMarkedAtRange": null,
-      "comment": "看不出影片是想突出警匪对抗，还是展现男主角的魅力，如果是前者，那就很失败，后者，那么一个看情太重的男子到不如给我一个心狠手辣的黑道恶棍~"
     }
   ]
 }

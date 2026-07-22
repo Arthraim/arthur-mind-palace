@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 23,
   "pageSize": 30,
-  "totalEntries": 1396,
+  "totalEntries": 1397,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "25954475",
+      "title": "聚焦",
+      "originalTitle": "Spotlight / 焦点追击(港) / 惊爆焦点(台)",
+      "year": "2015",
+      "coverPath": "covers/movie/25954475.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.webp",
+      "detailUrl": "/movie/25954475",
+      "listSummary": "2015-09-03(威尼斯电影节) / 2015-11-06(美国) / 马克·鲁法洛 / 迈克尔·基顿 / 瑞秋·麦克亚当斯 / 列维·施瑞博尔 / 约翰·斯拉特里 / 布莱恩·达西·詹姆斯 / 斯坦利·图齐 / 比利·克鲁德普 / 保罗·吉尔福伊尔 / 杰米·谢尔丹 / 美国 / spotlightthefilm.com / 汤姆·麦卡锡 / 128分钟 / 聚焦 / 剧情 / 传记 / 乔希·辛格 Josh Singer / 托马斯·麦卡锡 Thomas McCarthy / 英语",
+      "rating": 5,
+      "markedAt": "2016-07-01 02:13:31",
+      "estimatedMarkedAtRange": null,
+      "comment": "感动哭。不管是不是天真，坚持正义和探寻真相的理想主义没有错"
+    },
     {
       "kind": "movie",
       "sourceId": "25871679",
@@ -439,21 +454,6 @@
       "markedAt": "2016-03-07 12:55:45",
       "estimatedMarkedAtRange": null,
       "comment": "找不到缺点啊 -。-"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1301168",
-      "title": "卧虎藏龙",
-      "originalTitle": "臥虎藏龍 / Crouching Tiger, Hidden Dragon",
-      "year": "2000",
-      "coverPath": "covers/movie/1301168.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908175252.webp",
-      "detailUrl": "/movie/1301168",
-      "listSummary": "2000-05-16(戛纳电影节) / 2000-07-07(中国台湾) / 2000-10-13(中国大陆) / 周润发 / 杨紫琼 / 章子怡 / 张震 / 郎雄 / 郑佩佩 / 李法曾 / 高西安 / 海燕 / 王德明 / 中国台湾 / 中国香港 / 美国 / 中国大陆 / 李安 / 120分钟 / 卧虎藏龙 / 剧情 / 爱情 / 武侠 / 王蕙玲 Hui-Ling Wang / 詹姆士·沙姆斯 James Schamus / 蔡国荣 Kuo Jung Tsai / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2016-03-04 23:53:34",
-      "estimatedMarkedAtRange": null,
-      "comment": "26-3-1：家庭、师徒、江湖，最终妹妹一跳跳出所有禁锢 // 好完美的电影…… 小时候果然看不懂"
     }
   ]
 }

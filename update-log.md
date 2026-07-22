@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-07-22T06:35:33.125Z
+- Summary: +2 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-07-22T06:33:39.266Z
+- movie: +1 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +1 / ~0 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 弗兰肯斯坦 (10508921) marked 2026-07-20
+  - [added] music 凝视白色的边界 (37812842) marked 2026-07-09
+
 ## 2026-07-08T17:57:31.525Z
 - Summary: +2 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-07-08T17:53:11.294Z

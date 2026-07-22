@@ -2,9 +2,24 @@
   "kind": "music",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 54,
+  "totalEntries": 55,
   "totalPages": 2,
   "entries": [
+    {
+      "kind": "music",
+      "sourceId": "37812842",
+      "title": "凝视白色的边界",
+      "originalTitle": null,
+      "year": "2025",
+      "coverPath": "covers/music/37812842.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s35290105.jpg",
+      "detailUrl": "/music/37812842",
+      "listSummary": "Cicada / 2025-10-30 / 专辑 / 数字(Digital) / 古典",
+      "rating": 4,
+      "markedAt": "2026-07-09",
+      "estimatedMarkedAtRange": null,
+      "comment": "也许终将成为神话 / 凝视白色的边界"
+    },
     {
       "kind": "music",
       "sourceId": "37475363",
@@ -439,21 +454,6 @@
       "markedAt": "2010-10-29",
       "estimatedMarkedAtRange": null,
       "comment": "这张不错，可惜不够范特西。。。"
-    },
-    {
-      "kind": "music",
-      "sourceId": "1436975",
-      "title": "十一月的萧邦",
-      "originalTitle": "11月的蕭邦 / 11月的萧邦",
-      "year": "2005",
-      "coverPath": "covers/music/1436975.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s1456874.jpg",
-      "detailUrl": "/music/1436975",
-      "listSummary": "周杰伦 / 2005-11-01 / 专辑 / CD / 流行",
-      "rating": 4,
-      "markedAt": "2010-10-26",
-      "estimatedMarkedAtRange": null,
-      "comment": "这是我最后一张入正版的Jay的专辑。。。"
     }
   ]
 }

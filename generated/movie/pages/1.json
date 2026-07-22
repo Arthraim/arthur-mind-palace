@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1396,
+  "totalEntries": 1397,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "10508921",
+      "title": "弗兰肯斯坦",
+      "originalTitle": "National Theatre Live: Frankenstein / 英国国家剧院现场：弗兰肯斯坦 / 弗兰肯斯坦的灵与肉",
+      "year": "2011",
+      "coverPath": "covers/movie/10508921.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2252273146.jpg",
+      "detailUrl": "/movie/10508921",
+      "listSummary": "2011-03-17(英国) / 2016-04(北京电影节) / 本尼迪克特·康伯巴奇 / 约翰尼·李·米勒 / 娜奥米·哈里斯 / 埃拉史密斯 / 卡尔·约翰逊 / 乔治·哈里斯 / 丹尼尔·英格斯 / 马廷·张伯伦 / 威尔·奈 / Daniel Millar / 英国 / ntlive.nationaltheatre.org.uk/productions/ntlin4-frankenstein / 丹尼·博伊尔 / 国家大剧院直播 / 130分钟 / 弗兰肯斯坦 / 剧情 / 尼克·迪尔 Nick Dear / 玛丽·雪莱 Mary Shelley / 英语",
+      "rating": 5,
+      "markedAt": "2026-07-20",
+      "estimatedMarkedAtRange": null,
+      "comment": "好高级，太高级了，这剧本、这表演、这舞台。说两位主演会互换角色演出，可惜电影只呈现了其中一个版本。"
+    },
     {
       "kind": "movie",
       "sourceId": "1941347",
@@ -439,21 +454,6 @@
       "markedAt": "2026-01-08 09:30:39",
       "estimatedMarkedAtRange": null,
       "comment": "这个系列吸引我的悬念、多线叙事，这一季都不太行。很工业化，搞了些逻辑上说不太通的高概念，说实话看得挺失望。10年了，给结局一个4星吧。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "36438475",
-      "title": "浪浪山小妖怪",
-      "originalTitle": "小妖怪的夏天：从前有座浪浪山 / 小妖怪的夏天",
-      "year": "2025",
-      "coverPath": "covers/movie/36438475.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.webp",
-      "detailUrl": "/movie/36438475",
-      "listSummary": "2025-07-26(FIRST青年电影展) / 2025-08-02(中国大陆) / 陈子平 / 路扬 / 董汶亮 / 刘琮 / 林强 / 张闻天 / 李盟 / 陈喆 / 付博文 / 王上斌 / 中国大陆 / 於水 / 2025-07-22 20:50 / 118分钟 / 剧情 / 喜剧 / 动画 / 奇幻 / 於水 Shui Yu / 刘佳 Jia Liu / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2025-12-17 14:53:05",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

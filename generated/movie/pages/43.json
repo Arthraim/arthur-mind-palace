@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1396,
+  "totalEntries": 1397,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1302977",
+      "title": "赌侠2：上海滩赌圣",
+      "originalTitle": "賭俠II上海灘賭聖 / 赌侠2之上海滩赌圣 / God of Gamblers Part III: Back to Shanghai",
+      "year": "1991",
+      "coverPath": "covers/movie/1302977.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2349573639.jpg",
+      "detailUrl": "/movie/1302977",
+      "listSummary": "1991-08-21(中国香港) / 周星驰 / 巩俐 / 吕良伟 / 向华强 / 吴君如 / 吴孟达 / 黄韵诗 / 龙方 / 张敏 / 方季惟 / 中国香港 / 王晶 / 116分钟 / 赌侠2：上海滩赌圣 / 喜剧 / 奇幻 / 王晶 Jing Wong / 粤语 / 英语 / 汉语普通话 / 法语",
+      "rating": 3,
+      "markedAt": "2010-09-13",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1302451",
@@ -439,21 +454,6 @@
       "markedAt": "2010-07-20",
       "estimatedMarkedAtRange": null,
       "comment": "悬念的铺设很老道，很吊胃口。不过比起《记忆碎片》，这个故事显得简单很多~ 故事更多的不是给人悬疑惊悚的感官体验，而是良知上的思考。这个在良心边缘挣扎的失眠男人和老帕以往饰演的形象很不同。值得一看~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1291832",
-      "title": "低俗小说",
-      "originalTitle": "Pulp Fiction / 危险人物(港) / 黑色追缉令(台)",
-      "year": "1994",
-      "coverPath": "covers/movie/1291832.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg",
-      "detailUrl": "/movie/1291832",
-      "listSummary": "1994-05-12(戛纳电影节) / 1994-10-14(美国) / 约翰·特拉沃尔塔 / 乌玛·瑟曼 / 阿曼达·普拉莫 / 蒂姆·罗斯 / 塞缪尔·杰克逊 / 菲尔·拉马 / 布鲁斯·威利斯 / 弗兰克·威利 / 布尔·斯蒂尔斯 / 文·瑞姆斯 / 美国 / 昆汀·塔伦蒂诺 / 154分钟 / 低俗小说 / 剧情 / 喜剧 / 犯罪 / 昆汀·塔伦蒂诺 Quentin Tarantino / 罗杰·阿夫瑞 Roger Avary / 英语 / 西班牙语 / 法语",
-      "rating": 5,
-      "markedAt": "2010-07-19",
-      "estimatedMarkedAtRange": null,
-      "comment": "额…… 把故事发展顺序理顺了，不过不知道昆汀想表达的是什么……不过很好看"
     }
   ]
 }
