@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 35,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1298898",
+      "title": "暗战",
+      "originalTitle": "暗戰 / 谈判专家(台) / Running Out of Time",
+      "year": "1999",
+      "coverPath": "covers/movie/1298898.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2001994907.jpg",
+      "detailUrl": "/movie/1298898",
+      "listSummary": "1999-09-23(中国香港) / 刘德华 / 刘青云 / 蒙嘉慧 / 李子雄 / 许绍雄 / 林雪 / 黄卓玲 / 艾威 / 林伟健 / 洪伟良 / 中国香港 / 杜琪峰 / 93 分钟 / 暗战 / 动作 / 剧情 / 犯罪 / 游乃海 Nai-Hoi Yau / 劳伦特·考蒂奥德 Laurent Courtiaud / 朱连·卡邦 Julien Carbon / 粤语 / 英语",
+      "rating": 4,
+      "markedAt": "2012-11-20 23:40:07",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "2027938",
@@ -439,21 +454,6 @@
       "markedAt": "2012-08-26 12:26:53",
       "estimatedMarkedAtRange": null,
       "comment": "重新看了一遍，诺兰的蝙蝠侠的确不一样."
-    },
-    {
-      "kind": "movie",
-      "sourceId": "6402464",
-      "title": "麒麟之翼 新参者剧场版",
-      "originalTitle": "麒麟の翼 劇場版新参者 / 神探加贺：麒麟之翼(港) / 新参者",
-      "year": "2011",
-      "coverPath": "covers/movie/6402464.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1691940892.jpg",
-      "detailUrl": "/movie/6402464",
-      "listSummary": "2011-10-28(东京电影节) / 2012-01-28(日本) / 阿部宽 / 新垣结衣 / 沟端淳平 / 松坂桃李 / 菅田将晖 / 山崎贤人 / 田中丽奈 / 山崎努 / 中井贵一 / 三浦贵大 / 日本 / www.shinzanmono-movie.jp/index.html / 土井裕泰 / 129分钟 / 麒麟之翼 新参者剧场版 / 剧情 / 犯罪 / 悬疑 / 东野圭吾 Keigo Higashino / 樱井武晴 Takahiro Sakurai / 日语",
-      "rating": 4,
-      "markedAt": "2012-08-25 15:59:22",
-      "estimatedMarkedAtRange": null,
-      "comment": "不算是一个好故事，不过电影本身把这个故事讲的很好"
     }
   ]
 }

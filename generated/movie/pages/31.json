@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 31,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1898121",
+      "title": "嗜血法医 第一季",
+      "originalTitle": "Dexter Season 1 / 嗜血判官(港) / 梦魇杀魔(台)",
+      "year": "2006",
+      "coverPath": "covers/movie/1898121.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521967010.jpg",
+      "detailUrl": "/movie/1898121",
+      "listSummary": "2006-10-01(美国) / 迈克尔·C·豪尔 / 詹妮弗·卡朋特 / 大卫·札亚斯 / 詹姆斯·瑞马尔 / 李升熙 / 劳伦·维勒斯 / 戴斯蒙德·哈灵顿 / 朱莉·本茨 / 克里斯蒂娜·罗宾森 / 吉奥夫·皮尔森 / 美国 / www.sho.com/dexter / 迈克尔·科斯塔 / 托尼·戈德温 / 基斯·戈登 / 亚当·戴维森 / 马科斯·西恩加 / 史蒂夫·希尔 / 罗伯特·里伯曼 / 嗜血法医 / 60分钟 / 嗜血法医 / 犯罪 / 剧情 / 悬疑 / 惊悚 / Jeff Lindsay / James Manos Jr. / 英语 / 西班牙语",
+      "rating": 5,
+      "markedAt": "2014-01-27 00:17:04",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "10455629",
@@ -437,21 +452,6 @@
       "listSummary": "2013-08-08(中国大陆) / 杨幂 / 柯震东 / 郭采洁 / 凤小岳 / 郭碧婷 / 谢依霖 / 陈学冬 / 王琳 / 李悦铭 / 商侃 / 中国大陆 / 中国台湾 / 郭敬明 / 116分钟 / 剧情 / 喜剧 / 爱情 / 郭敬明 Jingming Guo / 汉语普通话",
       "rating": 3,
       "markedAt": "2013-10-03 17:03:41",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "20376577",
-      "title": "小时代",
-      "originalTitle": "小时代1.0折纸时代 / 小时代电影版",
-      "year": "2013",
-      "coverPath": "covers/movie/20376577.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2004121607.jpg",
-      "detailUrl": "/movie/20376577",
-      "listSummary": "2013-06-27(中国大陆) / 杨幂 / 柯震东 / 郭采洁 / 郭碧婷 / 谢依霖 / 凤小岳 / 李悦铭 / 陈学冬 / 姜潮 / 杜天皓 / 中国大陆 / 中国台湾 / 郭敬明 / 116分钟 / 剧情 / 喜剧 / 爱情 / 郭敬明 Jingming Guo / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2013-10-03 17:03:30",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

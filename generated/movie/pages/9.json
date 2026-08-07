@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 9,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27668664",
+      "title": "欧比旺",
+      "originalTitle": "Obi-Wan Kenobi / 欧比-旺·克诺比 / 星球大战外传：欧比旺",
+      "year": "2022",
+      "coverPath": "covers/movie/27668664.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872516470.webp",
+      "detailUrl": "/movie/27668664",
+      "listSummary": "2022-05-27(美国) / 伊万·麦克格雷格 / 海登·克里斯滕森 / 詹姆斯·厄尔·琼斯 / 维维恩·莱拉·布莱尔 / 摩西·英格拉姆 / 库梅尔·南贾尼 / 连姆·尼森 / 伊恩·麦克迪阿梅德 / 姜成镐 / 因迪拉·瓦玛 / 美国 / 黛博拉·周 / 未命名欧比旺剧集 / 36-55分钟 / 欧比旺 / 动作 / 科幻 / 冒险 / 卓比·哈罗德 Joby Harold / 汉娜·弗里德曼 Hannah Friedman / 霍辛·阿米尼 Hossein Amini / 斯图尔特·贝亚蒂耶 Stuart Beattie / 安德鲁·斯坦顿 Andrew Stanton / 乔治·卢卡斯 George Lucas / 英语",
+      "rating": 3,
+      "markedAt": "2022-06-29 07:37:25",
+      "estimatedMarkedAtRange": null,
+      "comment": "最棒的一幕是老王对决Anakin，三式剑法起手。希望编剧从此不碰星球大战"
+    },
     {
       "kind": "movie",
       "sourceId": "30304994",
@@ -439,21 +454,6 @@
       "markedAt": "2022-03-20 20:32:57",
       "estimatedMarkedAtRange": null,
       "comment": "第一次看粤语版"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1307856",
-      "title": "背靠背，脸对脸",
-      "originalTitle": "背对背，脸对脸 / Back to Back, Face to Face",
-      "year": "1994",
-      "coverPath": "covers/movie/1307856.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505048077.webp",
-      "detailUrl": "/movie/1307856",
-      "listSummary": "1994-09-10(多伦多电影节) / 牛振华 / 雷恪生 / 李强 / 句号 / 王劲松 / 戈治均 / 佘南南 / 张嘉益 / 刘国祥 / 徐学政 / 中国大陆 / 中国香港 / 黄建新 / 杨亚洲 / 148分钟 / 205分钟(电视剧加长版) / 剧情 / 黄欣 Xin Huang / 孙毅安 Yi-an Sun / 刘醒龙 Xinglong Liu / 汉语普通话",
-      "rating": 5,
-      "markedAt": "2022-03-20 14:22:16",
-      "estimatedMarkedAtRange": null,
-      "comment": "那时候这么松的吗"
     }
   ]
 }

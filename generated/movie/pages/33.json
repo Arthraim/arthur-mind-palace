@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 33,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1305224",
+      "title": "寻枪",
+      "originalTitle": "The Missing Gun",
+      "year": "2002",
+      "coverPath": "covers/movie/1305224.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2184558984.jpg",
+      "detailUrl": "/movie/1305224",
+      "listSummary": "2002-05-09(中国大陆) / 姜文 / 宁静 / 伍宇娟 / 刘小宁 / 石凉 / 韩三平 / 中国大陆 / 陆川 / 90分钟 / 犯罪 / 剧情 / 悬疑 / 陆川 Chuan Lu / 贵州话",
+      "rating": 4,
+      "markedAt": "2013-05-16 23:46:41",
+      "estimatedMarkedAtRange": null,
+      "comment": "不得不说王的盛宴之前的陆川我是真的很喜欢的 =。="
+    },
     {
       "kind": "movie",
       "sourceId": "3011235",
@@ -437,21 +452,6 @@
       "listSummary": "2009-09-17(美国) / 安娜·托芙 / 乔舒亚·杰克逊 / 约翰·诺贝尔 / 吉姆·特鲁-福斯特 / 沙吉·豪德 / 奎恩·罗德 / 黛安·克鲁格 / 奥尔拉·布雷迪 / 彼得·威勒 / 凯蒂·芬德莱 / 美国 / 加拿大 / www.fox.com/fringe / 阿齐瓦·高斯曼 / 塞斯·曼恩 / 布拉德·安德森 / 布莱恩·斯派克 / 乔·施佩尔 / 保罗·A·爱德华兹 / 强·卡萨 / 丹尼斯·史密斯 / 保罗·豪拉汉 / 吉诺特·兹瓦克 / 危机边缘 / 44分钟 / 危机边缘 / 剧情 / 恐怖 / 悬疑 / 科幻 / 惊悚 / J.J. Abrams / Alex Kurtzman / 英语",
       "rating": 4,
       "markedAt": "2013-03-16 20:03:05",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2338071",
-      "title": "危机边缘 第一季",
-      "originalTitle": "Fringe Season 1 / F档案 : 第1辑(港) / 迷离档案 第一季",
-      "year": "2008",
-      "coverPath": "covers/movie/2338071.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579638737.jpg",
-      "detailUrl": "/movie/2338071",
-      "listSummary": "2008-09-23(美国) / 安娜·托芙 / 约翰·诺贝尔 / 乔舒亚·杰克逊 / 詹妮弗·费林 / 杰弗森·梅斯 / 理查德·贝金斯 / 克林特·霍华德 / 理查德·肖特 / 蔡斯·凯利 / 布兰登·阿兰·史密斯 / 美国 / 加拿大 / www.fox.com/fringe / 亚历克斯·格雷夫斯 / 保罗·A·爱德华兹 / 弗雷德里克·E·O·托耶 / 克里斯托弗·米西亚诺 / 比尔·艾格斯 / 布拉德·安德森 / 格温妮丝·霍德-佩顿 / 迈克尔·津伯格 / 约翰·波尔森 / 诺维托·巴尔瓦 / 危机边缘 / 45分钟 / 危机边缘 / 剧情 / 恐怖 / 悬疑 / 科幻 / 惊悚 / J·J·艾布拉姆斯 J.J. Abrams / Alex Kurtzman / 英语",
-      "rating": 4,
-      "markedAt": "2013-03-16 20:02:47",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

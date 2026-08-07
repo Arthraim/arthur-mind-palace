@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 19,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "26691486",
+      "title": "心灵猎人 第一季",
+      "originalTitle": "Mindhunter Season 1 / 破案神探(港/台) / 读心神探",
+      "year": "2017",
+      "coverPath": "covers/movie/26691486.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502557574.webp",
+      "detailUrl": "/movie/26691486",
+      "listSummary": "2017-10-13(美国) / 乔纳森·格罗夫 / 霍特·麦克卡兰尼 / 安娜·托芙 / 汉娜·格罗斯 / 桑尼·瓦利森蒂 / 斯泰西·罗卡 / 乔·塔特尔 / 科特·史密斯 / 阿尔伯特·琼斯 / 劳伦·格莱齐尔 / 美国 / 大卫·芬奇 / 安德鲁·道格拉斯 / 阿斯弗·卡帕迪尔 / 托比亚斯·林道赫姆 / 心灵猎人 / 34–60分钟 / 心灵猎人 / 剧情 / 犯罪 / 惊悚 / 约翰·道格拉斯 John Douglas / 乔·彭豪尔 Joe Penhall / Mark Olshaker / 珍妮弗·海利 Jennifer Haley / 托比亚斯·林道赫姆 Tobias Lindholm / 多米尼克·奥兰多 Dominic Orlando / 鲁比·雷·斯皮格尔 Ruby Rae Spiegel / Erin Levy / Carly Wray / 英语",
+      "rating": 5,
+      "markedAt": "2018-01-15 12:21:43",
+      "estimatedMarkedAtRange": null,
+      "comment": "看多了连我都要被反噬… 我得去看点积极阳光的缓冲一下"
+    },
     {
       "kind": "movie",
       "sourceId": "26898192",
@@ -439,21 +454,6 @@
       "markedAt": "2017-08-04 01:29:59",
       "estimatedMarkedAtRange": null,
       "comment": "这故事……… 还真的很恐龙战队………"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1294833",
-      "title": "花木兰",
-      "originalTitle": "Mulan / 木兰 / China Doll",
-      "year": "1998",
-      "coverPath": "covers/movie/1294833.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2443062814.webp",
-      "detailUrl": "/movie/1294833",
-      "listSummary": "1998-06-19(美国) / 温明娜 / 艾迪·墨菲 / 黄荣亮 / 哈维·费斯特恩 / 米盖尔·弗尔 / 吴汉章 / 成龙 / 许晴 / 陈佩斯 / 丽娅·萨隆加 / 美国 / 巴里·库克 / 托尼·班克罗夫特 / 88分钟 / 花木兰 / 动画 / 冒险 / 剧情 / 家庭 / 萧丽塔 Rita Hsiao / 克里斯·桑德斯 Chris Sanders / 英语",
-      "rating": 4,
-      "markedAt": "2017-08-04 01:28:35",
-      "estimatedMarkedAtRange": null,
-      "comment": "现在看看 剧情也太简单了"
     }
   ]
 }

@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-08-07T08:51:59.110Z
+- Summary: +1 added, ~1 updated, -0 removed
+- Last Douban sync: 2026-08-07T08:49:44.014Z
+- movie: +1 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~1 / -0
+- game: +0 / ~0 / -0
+- Items:
+  - [added] movie 门徒 (1890784) marked 2026-08-02
+  - [updated] music 浴室 (2019 Reprise) (34845165) marked 2019-10-23 21:20:56 fields=originalTitle
+
 ## 2026-07-22T06:35:33.125Z
 - Summary: +2 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-07-22T06:33:39.266Z

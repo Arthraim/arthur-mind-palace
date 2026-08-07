@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 23,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "25987068",
+      "title": "超级少女 第一季",
+      "originalTitle": "Supergirl Season 1 / 超级女孩 / 超女",
+      "year": "2015",
+      "coverPath": "covers/movie/25987068.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2260510252.webp",
+      "detailUrl": "/movie/25987068",
+      "listSummary": "2015-07-11(圣迭戈动漫展) / 2015-10-26(美国) / 梅莉莎·班诺伊 / 凯乐·利 / 大卫·哈雷伍德 / 麦卡德·布鲁克斯 / 杰瑞米·乔丹 / 卡莉斯塔·弗洛克哈特 / 迪恩·凯恩 / 海伦·斯雷特 / 彼得·费辛利 / 劳拉·本纳蒂 / 美国 / www.cbs.com/shows/supergirl / 格伦·温特 / 拉里·邓 / 德莫特·唐斯 / 亚当·肯恩 / 史蒂夫·希尔 / 克里斯·费舍 / 托尔·弗罗伊登塔尔 / 尼克·戈麦斯 / 超级少女 / 43分钟 / 超级少女 / 动作 / 科幻 / 冒险 / 艾莉森·艾得勒 Ali Adler / 格里格·伯兰蒂 Greg Berlanti / 英语",
+      "rating": 5,
+      "markedAt": "2016-07-02 18:36:00",
+      "estimatedMarkedAtRange": null,
+      "comment": "么么哒"
+    },
     {
       "kind": "movie",
       "sourceId": "25954475",
@@ -439,21 +454,6 @@
       "markedAt": "2016-03-24 00:49:41",
       "estimatedMarkedAtRange": null,
       "comment": "棒极了的电影！太会讲故事了！"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "25662329",
-      "title": "疯狂动物城",
-      "originalTitle": "Zootopia / 优兽大都会(港) / 动物方城市(台)",
-      "year": "2016",
-      "coverPath": "covers/movie/25662329.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924128964.webp",
-      "detailUrl": "/movie/25662329",
-      "listSummary": "2016-03-04(中国大陆) / 2016-03-04(美国) / 2020-07-24(中国大陆重映) / 2025-08-08(中国大陆重映) / 金妮弗·古德温 / 杰森·贝特曼 / 伊德瑞斯·艾尔巴 / 珍妮·斯蕾特 / 内特·托伦斯 / 邦妮·亨特 / 唐·雷克 / 汤米·钟 / J·K·西蒙斯 / 奥克塔维亚·斯宾瑟 / 美国 / 拜伦·霍华德 / 瑞奇·摩尔 / 杰拉德·布什 / 109分钟(中国大陆) / 108分钟 / 疯狂动物城 / 喜剧 / 动画 / 冒险 / 拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore / 杰拉德·布什 Jared Bush / 吉姆·里尔顿 Jim Reardon / 乔西·特立尼达 Josie Trinidad / 菲尔·约翰斯顿 Phil Johnston / 珍妮弗·李 Jennifer Lee / 英语 / 挪威语",
-      "rating": 5,
-      "markedAt": "2016-03-07 12:55:45",
-      "estimatedMarkedAtRange": null,
-      "comment": "找不到缺点啊 -。-"
     }
   ]
 }

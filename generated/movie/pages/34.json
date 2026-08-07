@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 34,
   "pageSize": 30,
-  "totalEntries": 1397,
+  "totalEntries": 1398,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "2338071",
+      "title": "危机边缘 第一季",
+      "originalTitle": "Fringe Season 1 / F档案 : 第1辑(港) / 迷离档案 第一季",
+      "year": "2008",
+      "coverPath": "covers/movie/2338071.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579638737.jpg",
+      "detailUrl": "/movie/2338071",
+      "listSummary": "2008-09-23(美国) / 安娜·托芙 / 约翰·诺贝尔 / 乔舒亚·杰克逊 / 詹妮弗·费林 / 杰弗森·梅斯 / 理查德·贝金斯 / 克林特·霍华德 / 理查德·肖特 / 蔡斯·凯利 / 布兰登·阿兰·史密斯 / 美国 / 加拿大 / www.fox.com/fringe / 亚历克斯·格雷夫斯 / 保罗·A·爱德华兹 / 弗雷德里克·E·O·托耶 / 克里斯托弗·米西亚诺 / 比尔·艾格斯 / 布拉德·安德森 / 格温妮丝·霍德-佩顿 / 迈克尔·津伯格 / 约翰·波尔森 / 诺维托·巴尔瓦 / 危机边缘 / 45分钟 / 危机边缘 / 剧情 / 恐怖 / 悬疑 / 科幻 / 惊悚 / J·J·艾布拉姆斯 J.J. Abrams / Alex Kurtzman / 英语",
+      "rating": 4,
+      "markedAt": "2013-03-16 20:02:47",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "3566266",
@@ -439,21 +454,6 @@
       "markedAt": "2012-11-27 00:16:36",
       "estimatedMarkedAtRange": null,
       "comment": "说什么现实太残酷的时候，接受一个想象来的更美好，还不就是逃避现实的懦夫给自己找找接口而已。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1298898",
-      "title": "暗战",
-      "originalTitle": "暗戰 / 谈判专家(台) / Running Out of Time",
-      "year": "1999",
-      "coverPath": "covers/movie/1298898.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2001994907.jpg",
-      "detailUrl": "/movie/1298898",
-      "listSummary": "1999-09-23(中国香港) / 刘德华 / 刘青云 / 蒙嘉慧 / 李子雄 / 许绍雄 / 林雪 / 黄卓玲 / 艾威 / 林伟健 / 洪伟良 / 中国香港 / 杜琪峰 / 93 分钟 / 暗战 / 动作 / 剧情 / 犯罪 / 游乃海 Nai-Hoi Yau / 劳伦特·考蒂奥德 Laurent Courtiaud / 朱连·卡邦 Julien Carbon / 粤语 / 英语",
-      "rating": 4,
-      "markedAt": "2012-11-20 23:40:07",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }
