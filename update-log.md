@@ -2,6 +2,19 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-08-07T09:25:52.906Z
+- Summary: +3 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-08-07T09:20:48.386Z
+- movie: +0 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- drama: +3 / ~0 / -0
+- Items:
+  - [added] drama 农庄馆客人 (37818347) marked 2026-08-07
+  - [added] drama Multiple Bad Things (37119610) marked 2025-10-21
+  - [added] drama 恋爱的犀牛 (3167344) marked 2025-06-25
+
 ## 2026-08-07T08:51:59.110Z
 - Summary: +1 added, ~1 updated, -0 removed
 - Last Douban sync: 2026-08-07T08:49:44.014Z
@@ -9,6 +22,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~1 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 门徒 (1890784) marked 2026-08-02
   - [updated] music 浴室 (2019 Reprise) (34845165) marked 2019-10-23 21:20:56 fields=originalTitle
@@ -20,6 +34,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +1 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 弗兰肯斯坦 (10508921) marked 2026-07-20
   - [added] music 凝视白色的边界 (37812842) marked 2026-07-09
@@ -31,6 +46,7 @@ Auto-generated when exported site data changes.
 - book: +1 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 谜之屋 (1941347) marked 2026-07-05
   - [added] book 不要因为走得太远而忘记为什么出发 : 陈虻，我们听你讲 (20453024) marked 2026-07-05
@@ -42,6 +58,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 137号案件 (37144851) marked 2026-06-16
 
@@ -52,6 +69,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +2 / ~1 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] music 羽毛剑 (37355838) marked 2026-05-26
   - [added] music 进化：多巴胺_摇滚 (37475363) marked 2026-05-26
@@ -64,6 +82,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 星球大战：曼达洛人与古古 (36723035) marked 2026-05-23
 
@@ -74,6 +93,7 @@ Auto-generated when exported site data changes.
 - book: +1 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 特雷弗·诺亚：苦中作乐 (38416840) marked 2026-05-18
   - [added] book うたたね (1366641) marked 2026-05-13
@@ -85,6 +105,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 小偷家族 (27622447) marked 2026-05-13 09:17:49
   - [updated] movie 无人知晓 (1292337) marked 2026-05-11 10:47:19 fields=title,originalTitle
@@ -96,6 +117,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 无人知晓 誰も知らない (1292337) marked 2026-05-11 10:47:19
 
@@ -106,6 +128,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~152 / -0
 - music: +0 / ~25 / -0
 - game: +0 / ~10 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [updated] movie 制暴：无限杀机 (33415953) marked 2026-05-06 22:05:46 fields=originalTitle,markedAt
   - [updated] movie 庇护之地 (36892468) marked 2026-05-06 10:43:21 fields=originalTitle,markedAt
@@ -1685,6 +1708,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~31 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [updated] music 在這裡停一下 (38391228) marked 2026-04-23 fields=originalTitle
   - [updated] music For Emma, Forever Ago (2296457) marked 2026-03-01 fields=originalTitle
@@ -1725,6 +1749,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~41 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [updated] music 在這裡停一下 (38391228) marked 2026-04-23 fields=originalTitle,comment
   - [updated] music THE PROTÉGÉ (38391221) marked 2026-04-15 fields=comment
@@ -1775,6 +1800,7 @@ Auto-generated when exported site data changes.
 - book: +1 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 制暴：无限杀机 (33415953) marked 2026-05-06
   - [added] movie 庇护之地 (36892468) marked 2026-05-06
@@ -1791,6 +1817,7 @@ Auto-generated when exported site data changes.
 - book: +1 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 坂本龙一：杰作 (36491177) marked 2026-04-29
   - [added] book 空间的敦煌 : 走近莫高窟 (35694442) marked 2026-04-29
@@ -1809,6 +1836,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +0 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 同乐者 第一季 (36352371) marked 2026-04-26
 
@@ -1819,6 +1847,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +1 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] music 在這裡停一下 (38391228) marked 2026-04-23
 
@@ -1829,6 +1858,7 @@ Auto-generated when exported site data changes.
 - book: +0 / ~0 / -0
 - music: +2 / ~0 / -0
 - game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
 - Items:
   - [added] movie 蓦然回首 (36765646) marked 2026-04-20
   - [added] music Cacophonic Symphony 不安的交响 (38426139) marked 2026-04-18

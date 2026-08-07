@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:51:59.110Z",
+  "generatedAt": "2026-08-07T09:25:52.906Z",
   "entriesByKind": {
     "movie": [
       {
@@ -24466,6 +24466,53 @@
         "markedAt": "2019-08-15 20:02:21",
         "estimatedMarkedAtRange": null,
         "comment": "这也太诡异了"
+      }
+    ],
+    "drama": [
+      {
+        "kind": "drama",
+        "sourceId": "37818347",
+        "title": "农庄馆客人",
+        "originalTitle": null,
+        "year": "2025",
+        "coverPath": "covers/drama/37818347.jpg",
+        "coverUrl": "https://img1.doubanio.com/pview/drama_subject_poster/small/public/7edfb48a5e0b4bc.jpg",
+        "detailUrl": "/drama/37818347",
+        "listSummary": "杨婷 / 凯瑟琳·莫尔 / 黄磊 / 何炅 / 吴彼 / 赵晓苏 / 张露 / 王晨阳 / 王滔 / 尉港垣 / 2025-12-01-02",
+        "rating": 4,
+        "markedAt": "2026-08-07",
+        "estimatedMarkedAtRange": null,
+        "comment": "感觉从戏剧节上的6把椅子进化到这么好看的一个舞台的过程会挺有趣的"
+      },
+      {
+        "kind": "drama",
+        "sourceId": "37119610",
+        "title": "Multiple Bad Things",
+        "originalTitle": "Multiple Bad Things / 多重坏事",
+        "year": null,
+        "coverPath": "covers/drama/37119610.jpg",
+        "coverUrl": "https://img1.doubanio.com/pview/drama_subject_poster/small/public/9382b2d43f93c2c.jpg",
+        "detailUrl": "/drama/37119610",
+        "listSummary": "Back to Back Theatre / Tamara Searle / Ingrid Voorendt / Bron Batten / Simon Laherty / Sarah Mainwaring / Scott Price",
+        "rating": 3,
+        "markedAt": "2025-10-21",
+        "estimatedMarkedAtRange": null,
+        "comment": "标记一下，纪念25年乌镇戏剧节"
+      },
+      {
+        "kind": "drama",
+        "sourceId": "3167344",
+        "title": "恋爱的犀牛",
+        "originalTitle": null,
+        "year": "1999",
+        "coverPath": "covers/drama/3167344.jpg",
+        "coverUrl": "https://img3.doubanio.com/pview/drama_subject_poster/small/public/09c55406ea61ad7.jpg",
+        "detailUrl": "/drama/3167344",
+        "listSummary": "1999版 / 孟京辉 / 廖一梅 / 郭涛 / 吴越 / 2003版 / 孟京辉 / 廖一梅 / 段奕宏 / 郝蕾 / 2004版 / 孟京辉 / 廖一梅 / 段奕宏 / 王柠 / 2008版 / 孟京辉 / 廖一梅 / 张念骅 / 齐溪 / 2012版 / 孟京辉 / 廖一梅 / 张迪扉 / 黄湘丽 / 千场纪念版 / 孟京辉 / 廖一梅 / 郝蕾 / 张念骅 / 2012-08-07-08-12 / 2014版 / 孟京辉 / 廖一梅 / 刘畅 / 刘润萱 / 2014-02-26-03-09-11-13 ...",
+        "rating": 5,
+        "markedAt": "2025-06-25",
+        "estimatedMarkedAtRange": null,
+        "comment": "有点遥远，不太能代入了"
       }
     ]
   }
