@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T09:25:52.906Z",
+  "generatedAt": "2026-08-18T13:28:45.696Z",
   "pageSize": 30,
   "counts": {
-    "movie": 1398,
+    "movie": 1401,
     "book": 159,
     "music": 55,
-    "game": 18,
+    "game": 22,
     "drama": 3
   },
   "totalPagesByKind": {
@@ -15,5 +15,5 @@
     "game": 1,
     "drama": 1
   },
-  "lastDoubanSyncAt": "2026-08-07T09:20:48.386Z"
+  "lastDoubanSyncAt": "2026-08-18T13:28:27.595Z"
 }

@@ -1,6 +1,101 @@
 {
-  "generatedAt": "2026-08-07T09:25:52.906Z",
+  "generatedAt": "2026-08-18T13:28:45.696Z",
   "entries": [
+    {
+      "id": "2026-08-18T13:28:45.696Z",
+      "generatedAt": "2026-08-18T13:28:45.696Z",
+      "lastDoubanSyncAt": "2026-08-18T13:28:27.595Z",
+      "totals": {
+        "added": 7,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 3,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 4,
+          "updated": 0,
+          "removed": 0
+        },
+        "drama": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "game",
+          "sourceId": "10734051",
+          "title": "使命召唤4：现代战争 Call of Duty: Modern Warfare",
+          "markedAt": "2026-08-18",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "game",
+          "sourceId": "27086917",
+          "title": "星球大战 绝地：陨落的武士团 Star Wars Jedi: Fallen Order",
+          "markedAt": "2026-08-18",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "36965301",
+          "title": "消失的人",
+          "markedAt": "2026-08-12",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "game",
+          "sourceId": "37523504",
+          "title": "宝可梦 Pokopia ぽこ あ ポケモン",
+          "markedAt": "2026-08-11",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "1433602",
+          "title": "赌圣2：街头赌圣",
+          "markedAt": "2026-08-10",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "1478174",
+          "title": "赌圣3：无名小子",
+          "markedAt": "2026-08-10",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "game",
+          "sourceId": "11619263",
+          "title": "最终幻想战略版Advance Final Fantasy Tactics Advance",
+          "markedAt": "2026-08-10",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-08-07T09:25:52.906Z",
       "generatedAt": "2026-08-07T09:25:52.906Z",

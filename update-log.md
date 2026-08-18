@@ -2,6 +2,23 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-08-18T13:28:45.696Z
+- Summary: +7 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-08-18T13:28:27.595Z
+- movie: +3 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +4 / ~0 / -0
+- drama: +0 / ~0 / -0
+- Items:
+  - [added] game 使命召唤4：现代战争 Call of Duty: Modern Warfare (10734051) marked 2026-08-18
+  - [added] game 星球大战 绝地：陨落的武士团 Star Wars Jedi: Fallen Order (27086917) marked 2026-08-18
+  - [added] movie 消失的人 (36965301) marked 2026-08-12
+  - [added] game 宝可梦 Pokopia ぽこ あ ポケモン (37523504) marked 2026-08-11
+  - [added] movie 赌圣2：街头赌圣 (1433602) marked 2026-08-10
+  - [added] movie 赌圣3：无名小子 (1478174) marked 2026-08-10
+  - [added] game 最终幻想战略版Advance Final Fantasy Tactics Advance (11619263) marked 2026-08-10
+
 ## 2026-08-07T09:25:52.906Z
 - Summary: +3 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-08-07T09:20:48.386Z
