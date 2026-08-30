@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 1401,
+  "totalEntries": 1402,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1291557",
+      "title": "花样年华",
+      "originalTitle": "花樣年華 / 花样年华导演特别版 / 花样年华4K修复版",
+      "year": "2000",
+      "coverPath": "covers/movie/1291557.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918312477.webp",
+      "detailUrl": "/movie/1291557",
+      "listSummary": "2000-05-20(戛纳电影节) / 2000-09-29(中国香港) / 2000-11-24(中国大陆) / 2025-02-14(中国大陆·导演特别版) / 张曼玉 / 梁朝伟 / 潘迪华 / 雷震 / 萧炳林 / 陈万雷 / 张同祖 / 钱似莺 / 顾锦华 / 张耀扬 / 中国香港 / 王家卫 / 103分钟(导演剪辑版) / 98分钟 / 花样年华 / 剧情 / 爱情 / 王家卫 Kar Wai Wong / 粤语 / 沪语 / 法语",
+      "rating": 4,
+      "markedAt": "2025-02-15 01:37:42",
+      "estimatedMarkedAtRange": null,
+      "comment": "那个花样的年华，每个人都还有很多坚持"
+    },
     {
       "kind": "movie",
       "sourceId": "1292754",
@@ -437,21 +452,6 @@
       "listSummary": "2007-06-28(中国香港) / 2007-06-29(中国大陆) / 杨千嬅 / 陈奕迅 / 黄渤 / 冯淬帆 / 张睿羚 / 黄又南 / 林家栋 / 谷祖琳 / 黄浩然 / 许绍雄 / 中国大陆 / 中国香港 / 罗永昌 / 97分钟 / 喜剧 / 剧情 / 爱情 / 冯志强 Chi Keung Fung / 粤语",
       "rating": 3,
       "markedAt": "2024-08-20 01:53:27",
-      "estimatedMarkedAtRange": null,
-      "comment": null
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1308498",
-      "title": "暖",
-      "originalTitle": "故郷の香り",
-      "year": "2003",
-      "coverPath": "covers/movie/1308498.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405091384.webp",
-      "detailUrl": "/movie/1308498",
-      "listSummary": "2003-11-04(东京国际电影节) / 2004-02-27(中国大陆) / 郭晓东 / 李佳 / 香川照之 / 黄齐峰 / 关晓彤 / 中国大陆 / 霍建起 / 109分钟 / 爱情 / 剧情 / 思芜 Wu Si / 汉语普通话",
-      "rating": 4,
-      "markedAt": "2024-08-19 12:17:52",
       "estimatedMarkedAtRange": null,
       "comment": null
     }

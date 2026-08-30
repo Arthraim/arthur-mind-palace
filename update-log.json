@@ -1,6 +1,95 @@
 {
-  "generatedAt": "2026-08-18T13:28:45.696Z",
+  "generatedAt": "2026-08-30T08:46:14.894Z",
   "entries": [
+    {
+      "id": "2026-08-30T08:46:14.894Z",
+      "generatedAt": "2026-08-30T08:46:14.894Z",
+      "lastDoubanSyncAt": "2026-08-30T08:45:54.657Z",
+      "totals": {
+        "added": 5,
+        "updated": 1,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 4,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 1,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "drama": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "movie",
+          "sourceId": "36808876",
+          "title": "奥德赛",
+          "markedAt": "2026-08-26",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "26411941",
+          "title": "星球大战：传承1",
+          "markedAt": "2026-08-25",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "26411942",
+          "title": "星球大战：传承2",
+          "markedAt": "2026-08-25",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "27615766",
+          "title": "星球大战：传承3",
+          "markedAt": "2026-08-25",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "book",
+          "sourceId": "30242573",
+          "title": "星球大战：传承4",
+          "markedAt": "2026-08-25",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "38391228",
+          "title": "在這裡停一下",
+          "markedAt": "2026-04-23 17:32:44",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-18T13:28:45.696Z",
       "generatedAt": "2026-08-18T13:28:45.696Z",

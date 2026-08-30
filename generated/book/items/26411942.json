@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "26411942",
+  "title": "星球大战：传承2",
+  "originalTitle": "Star Wars： Legacy Book 2",
+  "year": "2016",
+  "coverPath": "covers/book/26411942.jpg",
+  "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s28366971.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26411942/",
+  "detailUrl": "/book/26411942",
+  "listSummary": "[美] 约翰·奥斯特兰德 著、[美] 简·杜尔塞马 绘 / 张氚 / 世界图书出版公司 / 2016-1 / 46.00元",
+  "rating": 4,
+  "markedAt": "2026-08-25",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "Star Wars： Legacy Book 2"
+    },
+    {
+      "label": "Title",
+      "value": "星球大战：传承2"
+    },
+    {
+      "label": "出版年",
+      "value": "2016-1"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787510097089"
+    },
+    {
+      "label": "页数",
+      "value": "152"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "46.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Star Wars： Legacy Book 2"
+    },
+    {
+      "label": "丛书",
+      "value": "世图动漫·星球大战系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26411942/"
+    }
+  ]
+}

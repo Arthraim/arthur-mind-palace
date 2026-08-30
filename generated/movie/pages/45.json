@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 45,
   "pageSize": 30,
-  "totalEntries": 1401,
+  "totalEntries": 1402,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3578981",
+      "title": "叶问2：宗师传奇",
+      "originalTitle": "葉問2 / 叶问2 / Ip Man 2",
+      "year": "2010",
+      "coverPath": "covers/movie/3578981.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1556481862.jpg",
+      "detailUrl": "/movie/3578981",
+      "listSummary": "2010-04-27(中国大陆) / 甄子丹 / 洪金宝 / 熊黛林 / 黄晓明 / 樊少皇 / 郑则仕 / 敖嘉年 / 杜宇航 / 达伦·萨赫拉维 / 释小龙 / 中国大陆 / 中国香港 / www.ipman2-movie.com / 叶伟信 / 108分钟 / 叶问2：宗师传奇 / 动作 / 传记 / 历史 / 黄子桓 Edmond Wong / 粤语 / 汉语普通话 / 英语",
+      "rating": 4,
+      "markedAt": "2010-04-28",
+      "estimatedMarkedAtRange": null,
+      "comment": "不知道怎么理性的评价，看得热血沸腾，不过瘾 - - 总觉得最后一拳补上比没有补上好"
+    },
     {
       "kind": "movie",
       "sourceId": "1419936",
@@ -439,21 +454,6 @@
       "markedAt": "2010-01-10",
       "estimatedMarkedAtRange": null,
       "comment": "充满寂寞色彩的童话电影，就像片名一样，那些打破规程的狂野其实只是妄想而已，回过头来人类的社会性才是更温暖的~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1292722",
-      "title": "泰坦尼克号",
-      "originalTitle": "Titanic / 铁达尼号(港/台)",
-      "year": "1997",
-      "coverPath": "covers/movie/1292722.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
-      "detailUrl": "/movie/1292722",
-      "listSummary": "1997-11-01(东京电影节) / 1997-12-19(美国) / 1998-04-03(中国大陆) / 2023-04-03(中国大陆重映) / 莱昂纳多·迪卡普里奥 / 凯特·温斯莱特 / 比利·赞恩 / 凯西·贝茨 / 弗兰西丝·费舍 / 格劳瑞亚·斯图尔特 / 比尔·帕克斯顿 / 伯纳德·希尔 / 大卫·沃纳 / 维克多·加博 / 美国 / 詹姆斯·卡梅隆 / 194分钟 / 227分钟(白星版) / 泰坦尼克号 / 剧情 / 爱情 / 灾难 / 詹姆斯·卡梅隆 James Cameron / 英语 / 意大利语 / 德语 / 俄语",
-      "rating": 5,
-      "markedAt": "2010-01-09",
-      "estimatedMarkedAtRange": null,
-      "comment": "向jack致敬，向卡梅隆致敬，向泰坦尼克致敬"
     }
   ]
 }

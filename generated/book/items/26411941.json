@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "26411941",
+  "title": "星球大战：传承1",
+  "originalTitle": "Star Wars： Legacy Book 1",
+  "year": "2016",
+  "coverPath": "covers/book/26411941.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s28366946.jpg",
+  "doubanUrl": "https://book.douban.com/subject/26411941/",
+  "detailUrl": "/book/26411941",
+  "listSummary": "[美]约翰·奥斯特兰德、简·杜尔塞马 / 张氚 / 世界图书出版公司 / 2016-2 / 48.00元",
+  "rating": 4,
+  "markedAt": "2026-08-25",
+  "estimatedMarkedAtRange": null,
+  "comment": null,
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "Star Wars： Legacy Book 1"
+    },
+    {
+      "label": "Title",
+      "value": "星球大战：传承1"
+    },
+    {
+      "label": "出版年",
+      "value": "2016-2"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787510097072"
+    },
+    {
+      "label": "页数",
+      "value": "168"
+    },
+    {
+      "label": "装帧",
+      "value": "平装"
+    },
+    {
+      "label": "定价",
+      "value": "48.00元"
+    },
+    {
+      "label": "原作名",
+      "value": "Star Wars： Legacy Book 1"
+    },
+    {
+      "label": "丛书",
+      "value": "世图动漫·星球大战系列"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/26411941/"
+    }
+  ]
+}

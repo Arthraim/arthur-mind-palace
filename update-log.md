@@ -2,6 +2,22 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-08-30T08:46:14.894Z
+- Summary: +5 added, ~1 updated, -0 removed
+- Last Douban sync: 2026-08-30T08:45:54.657Z
+- movie: +1 / ~0 / -0
+- book: +4 / ~0 / -0
+- music: +0 / ~1 / -0
+- game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
+- Items:
+  - [added] movie 奥德赛 (36808876) marked 2026-08-26
+  - [added] book 星球大战：传承1 (26411941) marked 2026-08-25
+  - [added] book 星球大战：传承2 (26411942) marked 2026-08-25
+  - [added] book 星球大战：传承3 (27615766) marked 2026-08-25
+  - [added] book 星球大战：传承4 (30242573) marked 2026-08-25
+  - [updated] music 在這裡停一下 (38391228) marked 2026-04-23 17:32:44 fields=originalTitle
+
 ## 2026-08-18T13:28:45.696Z
 - Summary: +7 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-08-18T13:28:27.595Z

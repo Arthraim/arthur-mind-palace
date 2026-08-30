@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 6,
   "pageSize": 30,
-  "totalEntries": 1401,
+  "totalEntries": 1402,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27605105",
+      "title": "玉面情魔",
+      "originalTitle": "Nightmare Alley / 噩梦巷 / 夜路(台)",
+      "year": "2021",
+      "coverPath": "covers/movie/27605105.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2757579107.webp",
+      "detailUrl": "/movie/27605105",
+      "listSummary": "2021-12-17(美国) / 2022-02-01(美国网络) / 布莱德利·库珀 / 凯特·布兰切特 / 鲁妮·玛拉 / 托妮·科莱特 / 威廉·达福 / 理查德·詹金斯 / 朗·普尔曼 / 玛丽·斯汀伯根 / 大卫·斯特雷泽恩 / 保罗·安德森 / 美国 / 吉尔莫·德尔·托罗 / 150分钟 / 玉面情魔 / 剧情 / 犯罪 / 悬疑 / 吉尔莫·德尔·托罗 Guillermo del Toro / 金·摩根 Kim Morgan / 威廉·林赛·葛雷逊 William Lindsay Gresham / 英语",
+      "rating": 3,
+      "markedAt": "2024-01-31 15:14:29",
+      "estimatedMarkedAtRange": null,
+      "comment": "男主演技撑不起来。嘉年华那段虽然长但是看不腻，拍成连续剧可好？"
+    },
     {
       "kind": "movie",
       "sourceId": "1395091",
@@ -439,21 +454,6 @@
       "markedAt": "2023-12-09 09:09:22",
       "estimatedMarkedAtRange": null,
       "comment": "好多设计都太drama了，增加了距离，减少了共情"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1292348",
-      "title": "洛城机密",
-      "originalTitle": "L.A. Confidential / 幕后嫌疑犯(港) / 铁面特警队(台)",
-      "year": "1997",
-      "coverPath": "covers/movie/1292348.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2920548116.webp",
-      "detailUrl": "/movie/1292348",
-      "listSummary": "1997-05-14(戛纳电影节) / 1997-09-19(美国) / 凯文·史派西 / 罗素·克劳 / 盖·皮尔斯 / 詹姆斯·克伦威尔 / 金·贝辛格 / 丹尼·德维托 / 大卫·斯特雷泽恩 / 朗·瑞弗金 / 马特·麦考伊 / 保罗·吉尔福伊尔 / 美国 / 柯蒂斯·汉森 / 138分钟 / 洛城机密 / 剧情 / 犯罪 / 悬疑 / 惊悚 / 詹姆斯·艾罗瑞 James Ellroy / 布莱恩·海尔格兰德 Brian Helgeland / 柯蒂斯·汉森 Curtis Hanson / 英语",
-      "rating": 5,
-      "markedAt": "2023-12-03 10:53:44",
-      "estimatedMarkedAtRange": null,
-      "comment": "这么复杂的故事，用了甚至有点轻描淡写的叙事方式，线索人物一大堆，嗖嗖嗖就过去了。好紧凑，好刺激。"
     }
   ]
 }
