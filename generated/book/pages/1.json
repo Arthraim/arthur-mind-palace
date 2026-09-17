@@ -2,9 +2,39 @@
   "kind": "book",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 163,
+  "totalEntries": 165,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "30285053",
+      "title": "星球大战：传承6",
+      "originalTitle": "Star Wars： Legacy Volume 6 Vector",
+      "year": "2018",
+      "coverPath": "covers/book/30285053.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29924066.jpg",
+      "detailUrl": "/book/30285053",
+      "listSummary": "[美]约翰•奥斯特兰德 著、[美]简•杜尔塞马 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-10 / 42.00元",
+      "rating": 4,
+      "markedAt": "2026-09-15",
+      "estimatedMarkedAtRange": null,
+      "comment": "没想到引入了千年前的西斯，成为了打破局面的新变化"
+    },
+    {
+      "kind": "book",
+      "sourceId": "30242574",
+      "title": "星球大战：传承5",
+      "originalTitle": "Star Wars： Legacy, Vol. 5 ： The Hidden Temple",
+      "year": "2018",
+      "coverPath": "covers/book/30242574.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29835772.jpg",
+      "detailUrl": "/book/30242574",
+      "listSummary": "[美] 约翰•奥斯特兰德 著、[美] 简•杜尔塞马 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-8 / 42.00",
+      "rating": 3,
+      "markedAt": "2026-08-31",
+      "estimatedMarkedAtRange": null,
+      "comment": "有种凯德寻根的感觉，剧情非常无聊，但终于正面描写凯德家族和绝地高层了。"
+    },
     {
       "kind": "book",
       "sourceId": "30242573",
@@ -424,36 +454,6 @@
       "markedAt": "2023-03-31 14:07:28",
       "estimatedMarkedAtRange": null,
       "comment": "太棒了，为自己早早猜到了悬念感到得意"
-    },
-    {
-      "kind": "book",
-      "sourceId": "35080870",
-      "title": "两京十五日",
-      "originalTitle": null,
-      "year": "2020",
-      "coverPath": "covers/book/35080870.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s33682883.jpg",
-      "detailUrl": "/book/35080870",
-      "listSummary": "马伯庸 / 湖南文艺出版社 / 2020-7 / 108.00元",
-      "rating": 5,
-      "markedAt": "2023-03-19 00:47:24",
-      "estimatedMarkedAtRange": null,
-      "comment": "要说像电视剧，我倒觉得像个RPG，吴定缘、朱瞻基、于谦、苏荆溪四人小队，主C、辅助、法师、奶妈，刚刚好。剧情的话，男主身世迷雾重重，我一直错觉在看书剑恩仇录，以为吴定缘怎么也得是个朱允炆后人吧，结果是个不知道但更逻辑一点的典故。"
-    },
-    {
-      "kind": "book",
-      "sourceId": "5366248",
-      "title": "你一定爱读的极简欧洲史 : 为什么欧洲对现代文明的影响这么深",
-      "originalTitle": null,
-      "year": "2011",
-      "coverPath": "covers/book/5366248.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s27463097.jpg",
-      "detailUrl": "/book/5366248",
-      "listSummary": "[澳] 约翰·赫斯特 / 席玉苹 / 广西师范大学出版社 / 2011-11 / 25.00元",
-      "rating": 4,
-      "markedAt": "2022-03-09 00:32:10",
-      "estimatedMarkedAtRange": null,
-      "comment": "十年前知道这本书，八年前开始看。终于今年从头开始读完了一遍。"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-08-30T08:46:14.894Z",
+  "generatedAt": "2026-09-17T16:02:56.077Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "35679820",
+        "title": "两不疑 第二季",
+        "originalTitle": "No Doubt In Us Ⅱ",
+        "year": "2022",
+        "coverPath": "covers/movie/35679820.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2889855512.jpg",
+        "detailUrl": "/movie/35679820",
+        "listSummary": "2022-10-26(中国大陆) / 徐佳琦 / 张杰 / 苏尚卿 / 张碧玉 / 钱琛 / 赵爽 / 李诗萌 / 宝木中阳 / 刘校妤 / 杨天翔 / 中国大陆 / 王丰彬 / 15分钟 / 动画 / 桃子 / 小凡 / 罗梓瑜 / 汉语普通话",
+        "rating": 4,
+        "markedAt": "2026-09-07",
+        "estimatedMarkedAtRange": null,
+        "comment": "这季版本落后的那几位太好笑了"
+      },
+      {
+        "kind": "movie",
+        "sourceId": "37233640",
+        "title": "小表弟之杂交植物大作战",
+        "originalTitle": null,
+        "year": "2024",
+        "coverPath": "covers/movie/37233640.jpg",
+        "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918346589.jpg",
+        "detailUrl": "/movie/37233640",
+        "listSummary": "2024(中国大陆) / 中国大陆 / 儿童 / 动画 / 汉语普通话",
+        "rating": 5,
+        "markedAt": "2026-09-06",
+        "estimatedMarkedAtRange": null,
+        "comment": null
+      },
+      {
+        "kind": "movie",
+        "sourceId": "34925295",
+        "title": "两不疑",
+        "originalTitle": "No Doubt In Us",
+        "year": "2021",
+        "coverPath": "covers/movie/34925295.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578234492.jpg",
+        "detailUrl": "/movie/34925295",
+        "listSummary": "2021-04-21(中国大陆) / 徐佳琦 / 张杰 / 苏尚卿 / 钱琛 / 赵爽 / 李诗萌 / 宝木中阳 / 刘校妤 / 杨天翔 / 郭浩然 / 中国大陆 / 王丰彬 / 14分钟 / 剧情 / 喜剧 / 动画 / 桃子 / 小凡 / 吕晓敏 / 赵昕 / 汉语普通话",
+        "rating": 4,
+        "markedAt": "2026-09-06",
+        "estimatedMarkedAtRange": null,
+        "comment": "哪怕用相对严厉的性别视角来看故事的文本，其实也是经得起考验的，甚至我觉得如果能更深入一点，会比上野千鹤子好共情很多。"
+      },
       {
         "kind": "movie",
         "sourceId": "36808876",
@@ -21040,6 +21085,36 @@
       }
     ],
     "book": [
+      {
+        "kind": "book",
+        "sourceId": "30285053",
+        "title": "星球大战：传承6",
+        "originalTitle": "Star Wars： Legacy Volume 6 Vector",
+        "year": "2018",
+        "coverPath": "covers/book/30285053.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29924066.jpg",
+        "detailUrl": "/book/30285053",
+        "listSummary": "[美]约翰•奥斯特兰德 著、[美]简•杜尔塞马 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-10 / 42.00元",
+        "rating": 4,
+        "markedAt": "2026-09-15",
+        "estimatedMarkedAtRange": null,
+        "comment": "没想到引入了千年前的西斯，成为了打破局面的新变化"
+      },
+      {
+        "kind": "book",
+        "sourceId": "30242574",
+        "title": "星球大战：传承5",
+        "originalTitle": "Star Wars： Legacy, Vol. 5 ： The Hidden Temple",
+        "year": "2018",
+        "coverPath": "covers/book/30242574.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29835772.jpg",
+        "detailUrl": "/book/30242574",
+        "listSummary": "[美] 约翰•奥斯特兰德 著、[美] 简•杜尔塞马 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-8 / 42.00",
+        "rating": 3,
+        "markedAt": "2026-08-31",
+        "estimatedMarkedAtRange": null,
+        "comment": "有种凯德寻根的感觉，剧情非常无聊，但终于正面描写凯德家族和绝地高层了。"
+      },
       {
         "kind": "book",
         "sourceId": "30242573",
