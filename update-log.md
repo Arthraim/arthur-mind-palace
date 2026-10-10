@@ -2,6 +2,18 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-10-10T04:28:46.973Z
+- Summary: +2 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-10-10T04:28:37.100Z
+- movie: +1 / ~0 / -0
+- book: +1 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
+- Items:
+  - [added] book 星球大战：传承7 (30285054) marked 2026-10-10
+  - [added] movie E.T.外星人 (1294638) marked 2026-09-25
+
 ## 2026-09-17T16:02:56.077Z
 - Summary: +5 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-09-17T16:02:45.110Z

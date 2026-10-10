@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-09-17T16:02:56.077Z",
+  "generatedAt": "2026-10-10T04:28:46.973Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "1294638",
+        "title": "E.T.外星人",
+        "originalTitle": "E.T. the Extra-Terrestrial / 外星人E.T. / 外星人",
+        "year": "1982",
+        "coverPath": "covers/movie/1294638.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg",
+        "detailUrl": "/movie/1294638",
+        "listSummary": "1982-05-26(戛纳电影节) / 1982-06-11(美国) / 2002-06-20(中国大陆) / 亨利·托马斯 / 迪·沃伦斯 / 罗伯特·麦克纳夫顿 / 德鲁·巴里摩尔 / 彼德·考约特 / 童自荣 / 埃丽卡·埃伦尼克 / K.C.马特尔 / 帕特·威尔士 / 美国 / 史蒂文·斯皮尔伯格 / 115分钟 / 120分钟(加长版) / E.T.外星人 / 剧情 / 科幻 / 梅丽莎·马西森 Melissa Mathison / 英语",
+        "rating": 4,
+        "markedAt": "2026-09-25",
+        "estimatedMarkedAtRange": null,
+        "comment": "飞机上没别的感兴趣的，重看了一遍。还得是孩子们～"
+      },
       {
         "kind": "movie",
         "sourceId": "35679820",
@@ -21085,6 +21100,21 @@
       }
     ],
     "book": [
+      {
+        "kind": "book",
+        "sourceId": "30285054",
+        "title": "星球大战：传承7",
+        "originalTitle": "Star Wars： Legacy, Vol. 7： Storms",
+        "year": "2018",
+        "coverPath": "covers/book/30285054.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29924100.jpg",
+        "detailUrl": "/book/30285054",
+        "listSummary": "[美]约翰•奥斯特兰德 著、[阿根廷]奥马尔•弗朗西亚 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-10 / 45.00元",
+        "rating": 4,
+        "markedAt": "2026-10-10",
+        "estimatedMarkedAtRange": null,
+        "comment": "各条线索的展开都让人有些失望，辛德大师在种族灭绝中的反抗，阿兹琳得到了一个自己不希望的重生，尤其是克雷特不但没有成为凯德宿命的引领者，还成了被利用的标本。（单行本还有4本，不知道还有没有在推进。以及第二季Ania Solo的部分）"
+      },
       {
         "kind": "book",
         "sourceId": "30285053",

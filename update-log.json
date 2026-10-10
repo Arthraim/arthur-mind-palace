@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-09-17T16:02:56.077Z",
+  "generatedAt": "2026-10-10T04:28:46.973Z",
   "entries": [
+    {
+      "id": "2026-10-10T04:28:46.973Z",
+      "generatedAt": "2026-10-10T04:28:46.973Z",
+      "lastDoubanSyncAt": "2026-10-10T04:28:37.100Z",
+      "totals": {
+        "added": 2,
+        "updated": 0,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "drama": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "book",
+          "sourceId": "30285054",
+          "title": "星球大战：传承7",
+          "markedAt": "2026-10-10",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "1294638",
+          "title": "E.T.外星人",
+          "markedAt": "2026-09-25",
+          "changeType": "added",
+          "changedFields": []
+        }
+      ]
+    },
     {
       "id": "2026-09-17T16:02:56.077Z",
       "generatedAt": "2026-09-17T16:02:56.077Z",

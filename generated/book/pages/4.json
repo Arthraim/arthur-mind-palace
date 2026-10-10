@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 165,
+  "totalEntries": 166,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "2057285",
+      "title": "盗墓笔记2 : 秦岭神树",
+      "originalTitle": null,
+      "year": "2007",
+      "coverPath": "covers/book/2057285.jpg",
+      "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s34564228.jpg",
+      "detailUrl": "/book/2057285",
+      "listSummary": "南派三叔 / 中国友谊出版公司 / 2007-4 / 26.80元",
+      "rating": 4,
+      "markedAt": "2015-03-13 11:11:15",
+      "estimatedMarkedAtRange": null,
+      "comment": "这一部还挺靠谱的嘛"
+    },
     {
       "kind": "book",
       "sourceId": "1948901",
@@ -439,21 +454,6 @@
       "markedAt": "2013-06-24 18:38:54",
       "estimatedMarkedAtRange": null,
       "comment": null
-    },
-    {
-      "kind": "book",
-      "sourceId": "10779604",
-      "title": "图灵的秘密 : 他的生平、思想及论文解读",
-      "originalTitle": null,
-      "year": "2012",
-      "coverPath": "covers/book/10779604.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s23127964.jpg",
-      "detailUrl": "/book/10779604",
-      "listSummary": "[美] Charles Petzold / 杨卫东 / 人民邮电出版社 / 2012-11 / 69.00元",
-      "rating": 5,
-      "markedAt": "2013-06-17 09:45:44",
-      "estimatedMarkedAtRange": null,
-      "comment": "看到图灵通用机的时候我就跟不上了，大段的跳过了证明过程，直接看结论。即便这样我也只能跪舔图灵的脚印。知道计算机伟大，知道这些人伟大，没想到这么伟大。。。"
     }
   ]
 }

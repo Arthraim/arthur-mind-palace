@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 165,
+  "totalEntries": 166,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "35271451",
+      "title": "星之继承者",
+      "originalTitle": null,
+      "year": "2021",
+      "coverPath": "covers/book/35271451.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33771274.jpg",
+      "detailUrl": "/book/35271451",
+      "listSummary": "[英] 詹姆斯·P.霍根 / [加] 仇春卉 / 新星出版社 / 2021-4 / 58.00元",
+      "rating": 5,
+      "markedAt": "2023-03-31 14:07:28",
+      "estimatedMarkedAtRange": null,
+      "comment": "太棒了，为自己早早猜到了悬念感到得意"
+    },
     {
       "kind": "book",
       "sourceId": "35080870",
@@ -439,21 +454,6 @@
       "markedAt": "2019-01-06 20:34:40",
       "estimatedMarkedAtRange": null,
       "comment": "用心写的，满分还用说吗"
-    },
-    {
-      "kind": "book",
-      "sourceId": "26899538",
-      "title": "长安十二时辰 下",
-      "originalTitle": null,
-      "year": "2017",
-      "coverPath": "covers/book/26899538.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29205251.jpg",
-      "detailUrl": "/book/26899538",
-      "listSummary": "马伯庸 / 湖南文艺出版社 / 2017-1 / 39.80元",
-      "rating": 5,
-      "markedAt": "2018-12-02 16:13:18",
-      "estimatedMarkedAtRange": null,
-      "comment": "靠谱，不是特别喜欢结局，更希望太子黑化比较刺激。找了一个没出现过的角色背锅有点不爽。另外元载的运气也太好了。期待电视剧，但想到李泌的演员就觉得很慌…"
     }
   ]
 }

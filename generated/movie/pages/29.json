@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 29,
   "pageSize": 30,
-  "totalEntries": 1405,
+  "totalEntries": 1406,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "4824512",
+      "title": "驯龙高手2",
+      "originalTitle": "How to Train Your Dragon 2 / 驯龙记2(港)",
+      "year": "2014",
+      "coverPath": "covers/movie/4824512.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192713707.jpg",
+      "detailUrl": "/movie/4824512",
+      "listSummary": "2014-05-16(戛纳电影节) / 2014-06-13(美国) / 2014-08-14(中国大陆) / 杰伊·巴鲁切尔 / 凯特·布兰切特 / 杰拉德·巴特勒 / 克雷格·费格森 / 亚美莉卡·费雷拉 / 乔纳·希尔 / 克里斯托夫·梅兹-普莱瑟 / T·J·米勒 / 克里斯汀·韦格 / 杰曼·翰苏 / 美国 / www.howtotrainyourdragon.com / 迪恩·戴布洛伊 / 102分钟 / 驯龙高手2 / 动画 / 奇幻 / 冒险 / 迪恩·德布洛斯 Dean DeBlois / 葛蕾熙达·柯维尔 Cressida Cowell / 英语",
+      "rating": 4,
+      "markedAt": "2014-09-11 23:32:54",
+      "estimatedMarkedAtRange": null,
+      "comment": "比起第一集好像少了些什么"
+    },
     {
       "kind": "movie",
       "sourceId": "2353023",
@@ -439,21 +454,6 @@
       "markedAt": "2014-06-10 11:20:40",
       "estimatedMarkedAtRange": null,
       "comment": "阿汤哥你这么怂逼你家里人知道吗"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3680627",
-      "title": "屠魔战士",
-      "originalTitle": "I, Frankenstein / 我，弗兰肯斯坦 / 科学怪人：屠魔大战(台)",
-      "year": "2014",
-      "coverPath": "covers/movie/3680627.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2243601202.jpg",
-      "detailUrl": "/movie/3680627",
-      "listSummary": "2014-01-24(美国) / 2015-05-26(中国大陆) / 艾伦·艾克哈特 / 伊冯娜·斯特拉霍夫斯基 / 米兰达·奥图 / 比尔·奈伊 / 杰·科特尼 / 苏格拉底·奥图 / 阿登·杨 / 凯特琳·斯塔西 / 马赫什·扎杜 / 斯蒂夫·莫察基斯 / 美国 / 澳大利亚 / 斯图尔特·贝亚蒂耶 / 92分钟 / 屠魔战士 / 动作 / 科幻 / 奇幻 / 惊悚 / 斯图尔特·贝亚蒂耶 Stuart Beattie / 凯文·格雷维奥斯 Kevin Grevioux / 玛丽·雪莱 Mary Shelley / 英语",
-      "rating": 3,
-      "markedAt": "2014-06-06 01:00:02",
-      "estimatedMarkedAtRange": null,
-      "comment": "剧情之简陋堪比奥特曼"
     }
   ]
 }

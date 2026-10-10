@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 165,
+  "totalEntries": 166,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "30285054",
+      "title": "星球大战：传承7",
+      "originalTitle": "Star Wars： Legacy, Vol. 7： Storms",
+      "year": "2018",
+      "coverPath": "covers/book/30285054.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s29924100.jpg",
+      "detailUrl": "/book/30285054",
+      "listSummary": "[美]约翰•奥斯特兰德 著、[阿根廷]奥马尔•弗朗西亚 绘 / 张氚、虞佳炜 / 世界图书出版公司 / 2018-10 / 45.00元",
+      "rating": 4,
+      "markedAt": "2026-10-10",
+      "estimatedMarkedAtRange": null,
+      "comment": "各条线索的展开都让人有些失望，辛德大师在种族灭绝中的反抗，阿兹琳得到了一个自己不希望的重生，尤其是克雷特不但没有成为凯德宿命的引领者，还成了被利用的标本。（单行本还有4本，不知道还有没有在推进。以及第二季Ania Solo的部分）"
+    },
     {
       "kind": "book",
       "sourceId": "30285053",
@@ -439,21 +454,6 @@
       "markedAt": "2024-02-21 09:48:13",
       "estimatedMarkedAtRange": null,
       "comment": "机场偶遇的这本书，之前完全不知道。当年就是知乎看石猴铁猴被圈的粉。一难一难重写，看官场小说一样，看到觉得有点烦的时候，突然故事转向了一个调查阴谋的路数，还挺有趣的。看了后记只觉得亲王你开心就好，我也看的开心"
-    },
-    {
-      "kind": "book",
-      "sourceId": "35271451",
-      "title": "星之继承者",
-      "originalTitle": null,
-      "year": "2021",
-      "coverPath": "covers/book/35271451.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s33771274.jpg",
-      "detailUrl": "/book/35271451",
-      "listSummary": "[英] 詹姆斯·P.霍根 / [加] 仇春卉 / 新星出版社 / 2021-4 / 58.00元",
-      "rating": 5,
-      "markedAt": "2023-03-31 14:07:28",
-      "estimatedMarkedAtRange": null,
-      "comment": "太棒了，为自己早早猜到了悬念感到得意"
     }
   ]
 }

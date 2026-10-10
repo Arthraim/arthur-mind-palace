@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1405,
+  "totalEntries": 1406,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1306939",
+      "title": "推手",
+      "originalTitle": "Pushing Hands",
+      "year": "1991",
+      "coverPath": "covers/movie/1306939.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p753043026.webp",
+      "detailUrl": "/movie/1306939",
+      "listSummary": "1991-12-07(金马影展) / 郎雄 / 王莱 / 王伯昭 / 戴布·斯内德 / 李涵 / 陈捷文 / 黎拨佳 / 李巨源 / 刘怡明 / 王洪彰 / 中国台湾 / 美国 / 李安 / 105 分钟 / 推手 / 剧情 / 家庭 / 李安 Ang Lee / 詹姆斯·夏慕斯 James Schamus / 汉语普通话 / 英语 / 粤语",
+      "rating": 4,
+      "markedAt": "2026-03-09 09:32:52",
+      "estimatedMarkedAtRange": null,
+      "comment": "推手就是中国人的生活哲学，卸掉正面冲突的力，各自保持自身平衡，但始终连接不断。"
+    },
     {
       "kind": "movie",
       "sourceId": "1418834",
@@ -439,21 +454,6 @@
       "markedAt": "2025-10-16",
       "estimatedMarkedAtRange": null,
       "comment": "结局挺好的，22集堪称一坨。看多了有点烦张卫健的演法。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1292845",
-      "title": "007之雷霆杀机",
-      "originalTitle": "A View to a Kill / 铁金刚勇战大狂魔 / 雷霆杀机",
-      "year": "1985",
-      "coverPath": "covers/movie/1292845.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1729394637.webp",
-      "detailUrl": "/movie/1292845",
-      "listSummary": "1985-05-24 / 罗杰·摩尔 / 克里斯托弗·沃肯 / 坦娅·罗伯茨 / 葛蕾丝·琼斯 / 帕特里克·麦克尼 / 帕特里克·波查 / 叶西园 / 费欧娜·弗勒顿 / 曼宁·瑞德沃德 / 艾莉森·杜迪 / 英国 / 美国 / 约翰·格兰 / 131 分钟 / 007之雷霆杀机 / 动作 / 犯罪 / 冒险 / 理查德·麦鲍姆 Richard Maibaum / 迈克尔·G·威尔森 Michael G. Wilson / 伊恩·弗莱明 Ian Fleming / 英语",
-      "rating": 3,
-      "markedAt": "2025-09-29 09:45:07",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

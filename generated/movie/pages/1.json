@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1405,
+  "totalEntries": 1406,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1294638",
+      "title": "E.T.外星人",
+      "originalTitle": "E.T. the Extra-Terrestrial / 外星人E.T. / 外星人",
+      "year": "1982",
+      "coverPath": "covers/movie/1294638.jpg",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg",
+      "detailUrl": "/movie/1294638",
+      "listSummary": "1982-05-26(戛纳电影节) / 1982-06-11(美国) / 2002-06-20(中国大陆) / 亨利·托马斯 / 迪·沃伦斯 / 罗伯特·麦克纳夫顿 / 德鲁·巴里摩尔 / 彼德·考约特 / 童自荣 / 埃丽卡·埃伦尼克 / K.C.马特尔 / 帕特·威尔士 / 美国 / 史蒂文·斯皮尔伯格 / 115分钟 / 120分钟(加长版) / E.T.外星人 / 剧情 / 科幻 / 梅丽莎·马西森 Melissa Mathison / 英语",
+      "rating": 4,
+      "markedAt": "2026-09-25",
+      "estimatedMarkedAtRange": null,
+      "comment": "飞机上没别的感兴趣的，重看了一遍。还得是孩子们～"
+    },
     {
       "kind": "movie",
       "sourceId": "35679820",
@@ -439,21 +454,6 @@
       "markedAt": "2026-03-11 10:28:26",
       "estimatedMarkedAtRange": null,
       "comment": "太好了，感人。李安太温柔了，结局很温柔，片子里每个人也都很温柔。观念这么前卫，真希望自己早些年看到，不知道会不会早点开悟。男主的演技略有点尴尬，但反而觉得很适合表现这个角色的无所适从。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1306939",
-      "title": "推手",
-      "originalTitle": "Pushing Hands",
-      "year": "1991",
-      "coverPath": "covers/movie/1306939.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p753043026.webp",
-      "detailUrl": "/movie/1306939",
-      "listSummary": "1991-12-07(金马影展) / 郎雄 / 王莱 / 王伯昭 / 戴布·斯内德 / 李涵 / 陈捷文 / 黎拨佳 / 李巨源 / 刘怡明 / 王洪彰 / 中国台湾 / 美国 / 李安 / 105 分钟 / 推手 / 剧情 / 家庭 / 李安 Ang Lee / 詹姆斯·夏慕斯 James Schamus / 汉语普通话 / 英语 / 粤语",
-      "rating": 4,
-      "markedAt": "2026-03-09 09:32:52",
-      "estimatedMarkedAtRange": null,
-      "comment": "推手就是中国人的生活哲学，卸掉正面冲突的力，各自保持自身平衡，但始终连接不断。"
     }
   ]
 }
