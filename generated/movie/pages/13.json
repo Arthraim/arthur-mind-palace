@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 13,
   "pageSize": 30,
-  "totalEntries": 1406,
+  "totalEntries": 1407,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1456198",
+      "title": "魔神坛斗士 辉煌帝传说",
+      "originalTitle": "鎧伝サムライトルーパー 輝煌帝伝説 / Yoroiden Samurai Trooper: Kikôtei densetsu",
+      "year": "1989",
+      "coverPath": "covers/movie/1456198.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517421832.webp",
+      "detailUrl": "/movie/1456198",
+      "listSummary": "1989-10-08 / 草尾毅 / 竹村拓 / 中村大树 / 佐佐木望 / 西村朋纮 / 渡边久美子 / 鹰森淑乃 / 卷岛直树 / 桥本博 / 日本 / 滨津守 / 杉岛邦久 / 赤根和树 / 27分钟 / 魔神坛斗士 辉煌帝传说 / 动画 / 铃木良武 Suzuki Yoshitake / 池田成 Masashi Ikeda / 矢立肇 Hajime Yatate / 日语",
+      "rating": 3,
+      "markedAt": "2020-07-20 13:58:00",
+      "estimatedMarkedAtRange": null,
+      "comment": "这个OVA2制作精良，真的佩服那个时代的动画制作。但剧情就有点鬼扯了，我大概明白你想反战，反战主题你写成主角不愿战斗也太直接了吧，一个弯都不拐。"
+    },
     {
       "kind": "movie",
       "sourceId": "1456202",
@@ -439,21 +454,6 @@
       "markedAt": "2020-01-12 22:37:14",
       "estimatedMarkedAtRange": null,
       "comment": "若不是女主足够可爱………"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3124124",
-      "title": "代码奔腾",
-      "originalTitle": "Code Rush / 代码奔腾",
-      "year": "2000",
-      "coverPath": "covers/movie/3124124.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512511705.webp",
-      "detailUrl": "/movie/3124124",
-      "listSummary": "2000-04-25 / 美国 / 59分钟 / 代码奔腾 / 纪录片 / 英语",
-      "rating": 5,
-      "markedAt": "2020-01-10 01:39:29",
-      "estimatedMarkedAtRange": null,
-      "comment": "第一次看的时候以为程序员都像朋克青年一样酷…… 哪知道后来入了行发现国内程序员成了格子衬衫双肩包形象……"
     }
   ]
 }

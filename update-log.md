@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-10-21T07:40:39.758Z
+- Summary: +1 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-10-21T07:39:55.511Z
+- movie: +1 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
+- Items:
+  - [added] movie 给阿嬷的情书 (37116446) marked 2026-10-14
+
 ## 2026-10-10T04:28:46.973Z
 - Summary: +2 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-10-10T04:28:37.100Z

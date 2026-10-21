@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 14,
   "pageSize": 30,
-  "totalEntries": 1406,
+  "totalEntries": 1407,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3124124",
+      "title": "代码奔腾",
+      "originalTitle": "Code Rush / 代码奔腾",
+      "year": "2000",
+      "coverPath": "covers/movie/3124124.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512511705.webp",
+      "detailUrl": "/movie/3124124",
+      "listSummary": "2000-04-25 / 美国 / 59分钟 / 代码奔腾 / 纪录片 / 英语",
+      "rating": 5,
+      "markedAt": "2020-01-10 01:39:29",
+      "estimatedMarkedAtRange": null,
+      "comment": "第一次看的时候以为程序员都像朋克青年一样酷…… 哪知道后来入了行发现国内程序员成了格子衬衫双肩包形象……"
+    },
     {
       "kind": "movie",
       "sourceId": "30344167",
@@ -439,21 +454,6 @@
       "markedAt": "2019-09-30 17:39:48",
       "estimatedMarkedAtRange": null,
       "comment": "前面几集一般，睡前想看看Trump提精神，发现都是些低端黑阴谋论。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "30171425",
-      "title": "扫毒2：天地对决",
-      "originalTitle": "掃毒2：天地對決 / 扫毒2天地对决 / The White Storm 2: Drug Lords",
-      "year": "2019",
-      "coverPath": "covers/movie/30171425.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561172733.webp",
-      "detailUrl": "/movie/30171425",
-      "listSummary": "2019-07-05(中国大陆) / 2019-07-16(中国香港) / 刘德华 / 古天乐 / 苗侨伟 / 林嘉欣 / 周秀娜 / 应采儿 / 陈家乐 / 卫诗雅 / 郑则仕 / 张国强 / 中国大陆 / 中国香港 / 邱礼涛 / 99分钟 / 扫毒2：天地对决 / 剧情 / 动作 / 犯罪 / 悬疑 / 李敏 Erica Lee / 李昇 Eric Lee / 邱礼涛 Herman Yau / 汉语普通话 / 粤语",
-      "rating": 3,
-      "markedAt": "2019-09-26 14:22:47",
-      "estimatedMarkedAtRange": null,
-      "comment": "初中生剧本… 给中环地铁站飙车加一颗星……"
     }
   ]
 }

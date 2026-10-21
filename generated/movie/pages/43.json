@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1406,
+  "totalEntries": 1407,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1400668",
+      "title": "无敌幸运星",
+      "originalTitle": "無敵幸運星 / When Fortune Smiles",
+      "year": "1990",
+      "coverPath": "covers/movie/1400668.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552598406.jpg",
+      "detailUrl": "/movie/1400668",
+      "listSummary": "1990-09-27(中国香港) / 周星驰 / 吴君如 / 陈友 / 黄秋生 / 梅小惠 / 成奎安 / 林蛟 / 周比利 / 翁世杰 / 程守一 / 中国香港 / 陈友 / 95分钟 / 无敌幸运星 / 喜剧 / 动作 / 杜国威 Raymond To / 粤语",
+      "rating": 3,
+      "markedAt": "2010-09-24",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1298603",
@@ -439,21 +454,6 @@
       "markedAt": "2010-08-05",
       "estimatedMarkedAtRange": null,
       "comment": "就用超级英雄题材的电影来对比的话的确挺新鲜的……"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3986493",
-      "title": "神探夏洛克 第一季",
-      "originalTitle": "Sherlock Season 1 / 新世纪福尔摩斯(港) / 新福尔摩斯(港)",
-      "year": "2010",
-      "coverPath": "covers/movie/3986493.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461954452.jpg",
-      "detailUrl": "/movie/3986493",
-      "listSummary": "2010-07-25(英国) / 本尼迪克特·康伯巴奇 / 马丁·弗瑞曼 / 鲁珀特·格雷夫斯 / 安德鲁·斯科特 / 马克·加蒂斯 / 尤娜·斯塔布斯 / 露易丝·布瑞丽 / 菲尔·戴维斯 / 嘉玛·陈 / 奥利维亚·波莉 / 英国 / www.bbc.co.uk/programmes/b018ttws / 保罗·麦圭根 / 尤洛斯·林 / 神探夏洛克 / 88分钟 / 神探夏洛克 / 剧情 / 悬疑 / 犯罪 / 阿瑟·柯南·道尔 Arthur Conan Doyle / 马克·加蒂斯 Mark Gatiss / 史蒂文·莫法特 Steven Moffat / 史蒂夫·汤普森 Steve Thompson / 英语",
-      "rating": 5,
-      "markedAt": "2010-08-04",
-      "estimatedMarkedAtRange": null,
-      "comment": "全新的诠释，完美！ | 看完第二集，依旧完美，尤其是deadman写在贝克街221B的时候~ | 哇，第三集的推理真的是看得大呼过瘾啊！最后主仆一对gay的铺垫…哇… 好棒的剧【终于看完了"
     }
   ]
 }

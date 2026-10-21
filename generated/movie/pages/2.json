@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1406,
+  "totalEntries": 1407,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1303037",
+      "title": "喜宴",
+      "originalTitle": "囍宴 / The Wedding Banquet",
+      "year": "1993",
+      "coverPath": "covers/movie/1303037.webp",
+      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.webp",
+      "detailUrl": "/movie/1303037",
+      "listSummary": "1993-02(柏林电影节) / 1993-08-04(美国) / 赵文瑄 / 归亚蕾 / 郎雄 / 金素梅 / 米切尔·利希藤斯坦 / 迈克尔·加斯顿 / 许永德 / 尼尔·赫夫 / 李淳 / 汉娜·沙利文 / 中国台湾 / 美国 / 李安 / 108分钟 / 喜宴 / 剧情 / 喜剧 / 爱情 / 同性 / 家庭 / 李安 Ang Lee / 冯光远 Neil Peng / 詹姆斯·夏慕斯 James Schamus / 汉语普通话 / 英语",
+      "rating": 5,
+      "markedAt": "2026-03-11 10:28:26",
+      "estimatedMarkedAtRange": null,
+      "comment": "太好了，感人。李安太温柔了，结局很温柔，片子里每个人也都很温柔。观念这么前卫，真希望自己早些年看到，不知道会不会早点开悟。男主的演技略有点尴尬，但反而觉得很适合表现这个角色的无所适从。"
+    },
     {
       "kind": "movie",
       "sourceId": "1306939",
@@ -439,21 +454,6 @@
       "markedAt": "2025-10-16 01:32:30",
       "estimatedMarkedAtRange": null,
       "comment": "制作真不错，那个旋焦好适合长安，欠它一张门票"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2295811",
-      "title": "机灵小不懂",
-      "originalTitle": "一修和尚(台) / 机灵小子(港)",
-      "year": "2001",
-      "coverPath": "covers/movie/2295811.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2360420844.webp",
-      "detailUrl": "/movie/2295811",
-      "listSummary": "2001-07-09(中国香港) / 张卫健 / 李冰冰 / 聂远 / 何美钿 / 罗家英 / 马精武 / 薛佳凝 / 李进荣 / 薛文成 / 谭建昌 / 中国香港 / 中国大陆 / 马精武 / 靳德茂 / 45分钟 / 剧情 / 喜剧 / 古装 / 黄浩华 Ho-Wa Wong / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2025-10-16",
-      "estimatedMarkedAtRange": null,
-      "comment": "结局挺好的，22集堪称一坨。看多了有点烦张卫健的演法。"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-10T04:28:46.973Z",
+  "generatedAt": "2026-10-21T07:40:39.758Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "37116446",
+        "title": "给阿嬷的情书",
+        "originalTitle": "Dear You",
+        "year": "2026",
+        "coverPath": "covers/movie/37116446.jpg",
+        "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931851430.jpg",
+        "detailUrl": "/movie/37116446",
+        "listSummary": "2026-04-30(中国大陆) / 李思潼 / 王彦桐 / 吴少卿 / 郑润奇 / 王晓慧 / 赵曙光 / 李德如 / 李树浩 / 乌萨·萨梅坎姆 / 方培松 / 中国大陆 / 蓝鸿春 / 2026-04-17 / 118分钟 / 剧情 / 家庭 / 蓝鸿春 Hongchun Lan / 郑萱轩 Xuanxuan Zheng / 杨冷 / 朱丽云 Liyun Zhu / 潮汕话 / 汉语普通话 / 泰语 / 英语",
+        "rating": 5,
+        "markedAt": "2026-10-14",
+        "estimatedMarkedAtRange": null,
+        "comment": null
+      },
       {
         "kind": "movie",
         "sourceId": "1294638",

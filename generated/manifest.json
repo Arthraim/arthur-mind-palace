@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T04:28:46.973Z",
+  "generatedAt": "2026-10-21T07:40:39.758Z",
   "pageSize": 30,
   "counts": {
-    "movie": 1406,
+    "movie": 1407,
     "book": 166,
     "music": 55,
     "game": 22,
@@ -15,5 +15,5 @@
     "game": 1,
     "drama": 1
   },
-  "lastDoubanSyncAt": "2026-10-10T04:28:37.100Z"
+  "lastDoubanSyncAt": "2026-10-21T07:39:55.511Z"
 }

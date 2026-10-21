@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 9,
   "pageSize": 30,
-  "totalEntries": 1406,
+  "totalEntries": 1407,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1302425",
+      "title": "喜剧之王",
+      "originalTitle": "喜劇之王 / King of Comedy",
+      "year": "1999",
+      "coverPath": "covers/movie/1302425.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917778954.webp",
+      "detailUrl": "/movie/1302425",
+      "listSummary": "1999-02-13(中国香港) / 周星驰 / 张柏芝 / 莫文蔚 / 吴孟达 / 林子善 / 田启文 / 李兆基 / 成龙 / 李思捷 / 郑文辉 / 中国香港 / 周星驰 / 李力持 / 89分钟 / 喜剧之王 / 喜剧 / 剧情 / 爱情 / 曾谨昌 Kan-Cheung Tsang / 周星驰 Stephen Chow / 李敏 Erica Lee / 郑文辉 Man-Fai Cheng / 冯勉恒 Min Hun Fung / 梁嘉杰 Ka-Kit Leung / 粤语",
+      "rating": 4,
+      "markedAt": "2022-09-13 22:16:13",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "35187381",
@@ -439,21 +454,6 @@
       "markedAt": "2022-04-11 03:58:34",
       "estimatedMarkedAtRange": null,
       "comment": "没想到我会喜欢这个片"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "35444998",
-      "title": "李茂扮太子",
-      "originalTitle": "李茂换太子 / 好运来客栈",
-      "year": "2022",
-      "coverPath": "covers/movie/35444998.webp",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2812626447.webp",
-      "detailUrl": "/movie/35444998",
-      "listSummary": "2022-01-01(中国大陆) / 马丽 / 常远 / 艾伦 / 魏翔 / 王成思 / 杜晓宇 / 陈冰 / 冯秦川 / 李海银 / 克拉拉 / 中国大陆 / 高可 / 杨晓明 / 100分钟 / 喜剧 / 古装 / 高可 / 杨晓明 Xiaoming Yang / 汉语普通话",
-      "rating": 3,
-      "markedAt": "2022-04-03 15:35:56",
-      "estimatedMarkedAtRange": null,
-      "comment": "2.5四舍五入3吧，是我喜欢的乞丐王子/狸猫换太子套路……"
     }
   ]
 }
