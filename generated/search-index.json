@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:40:39.758Z",
+  "generatedAt": "2026-10-28T16:21:29.214Z",
   "entriesByKind": {
     "movie": [
       {
@@ -24769,6 +24769,21 @@
       }
     ],
     "drama": [
+      {
+        "kind": "drama",
+        "sourceId": "37238848",
+        "title": "希波吕托斯",
+        "originalTitle": "Hippolytus",
+        "year": "2025",
+        "coverPath": "covers/drama/37238848.jpg",
+        "coverUrl": "https://img3.doubanio.com/pview/drama_subject_poster/small/public/8c161556060cba2.jpg",
+        "detailUrl": "/drama/37238848",
+        "listSummary": "卡捷琳娜·埃万杰拉托斯 / 欧里庇得斯 / 2025-03-01",
+        "rating": 4,
+        "markedAt": "2026-10-27",
+        "estimatedMarkedAtRange": null,
+        "comment": "好高级，即时影像的设置非常有表现力"
+      },
       {
         "kind": "drama",
         "sourceId": "37818347",

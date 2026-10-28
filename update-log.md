@@ -2,6 +2,17 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-10-28T16:21:29.214Z
+- Summary: +1 added, ~0 updated, -0 removed
+- Last Douban sync: 2026-10-28T16:20:52.746Z
+- movie: +0 / ~0 / -0
+- book: +0 / ~0 / -0
+- music: +0 / ~0 / -0
+- game: +0 / ~0 / -0
+- drama: +1 / ~0 / -0
+- Items:
+  - [added] drama 希波吕托斯 (37238848) marked 2026-10-27
+
 ## 2026-10-21T07:40:39.758Z
 - Summary: +1 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-10-21T07:39:55.511Z
