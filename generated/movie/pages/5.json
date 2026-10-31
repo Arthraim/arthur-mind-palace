@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 1407,
+  "totalEntries": 1408,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "30391109",
+      "title": "蓝甲虫",
+      "originalTitle": "Blue Beetle",
+      "year": "2023",
+      "coverPath": "covers/movie/30391109.webp",
+      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895433340.webp",
+      "detailUrl": "/movie/30391109",
+      "listSummary": "2023-08-18(美国) / 索洛·马里多纳 / 布鲁娜·马尔科辛 / 贝姬·戈麦斯 / 达米安·阿尔卡扎 / 乔治·洛佩兹 / 阿德里安娜·巴拉萨 / 贝莉莎·埃斯科贝多 / 艾尔皮迪娅·卡里洛 / 苏珊·萨兰登 / 哈维·吉兰 / 美国 / 墨西哥 / 安杰尔·曼纽尔·索托 / 127分钟 / 蓝甲虫 / 动作 / 科幻 / 惊悚 / 冒险 / 加雷斯·邓内特-阿尔科塞 Gareth Dunnet-Alcocer / 英语",
+      "rating": 2,
+      "markedAt": "2024-09-25 01:28:34",
+      "estimatedMarkedAtRange": null,
+      "comment": "😮‍💨一无是处啊可以说是"
+    },
     {
       "kind": "movie",
       "sourceId": "30167997",
@@ -439,21 +454,6 @@
       "markedAt": "2024-03-22 01:31:27",
       "estimatedMarkedAtRange": null,
       "comment": "惊呆了，刚开始看到拉金库，撞火球，觉得动作场面是猫和老鼠那儿学的。看到最后扔儿子那一幕发现是跟泰国片学的"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "35575567",
-      "title": "沙丘2",
-      "originalTitle": "Dune: Part Two / 沙丘：第二部(台) / 沙丘瀚战：第二章(港)",
-      "year": "2024",
-      "coverPath": "covers/movie/35575567.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2902227445.webp",
-      "detailUrl": "/movie/35575567",
-      "listSummary": "2024-02-28(法国) / 2024-03-01(美国) / 2024-03-08(中国大陆) / 提莫西·查拉梅 / 赞达亚 / 丽贝卡·弗格森 / 哈维尔·巴登 / 乔什·布洛林 / 奥斯汀·巴特勒 / 弗洛伦丝·皮尤 / 戴夫·巴蒂斯塔 / 克里斯托弗·沃肯 / 蕾雅·赛杜 / 美国 / 加拿大 / 丹尼斯·维伦纽瓦 / 166分钟 / 沙丘2 / 剧情 / 动作 / 科幻 / 冒险 / 丹尼斯·维伦纽瓦 Denis Villeneuve / 乔·斯派茨 Jon Spaihts / 英语",
-      "rating": 5,
-      "markedAt": "2024-03-16 00:50:36",
-      "estimatedMarkedAtRange": null,
-      "comment": "奇观的呈现搭配着配乐，都一次次让我想起银翼杀手2049。"
     }
   ]
 }

@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 43,
   "pageSize": 30,
-  "totalEntries": 1407,
+  "totalEntries": 1408,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1419924",
+      "title": "师兄撞鬼",
+      "originalTitle": "師兄撞鬼 / Look Out, Officer!",
+      "year": "1990",
+      "coverPath": "covers/movie/1419924.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2281804284.jpg",
+      "detailUrl": "/movie/1419924",
+      "listSummary": "1990-07-28 / 周星驰 / 陈德容 / 冯淬帆 / 叶子楣 / 董骠 / 方刚 / 梅小惠 / 英德拉·利奇 / 陈立品 / 张旭燊 / 中国香港 / 刘仕裕 / 95分钟 / 师兄撞鬼 / 喜剧 / 动作 / 奇幻 / 徐正康 / 粤语",
+      "rating": 3,
+      "markedAt": "2010-09-24",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "movie",
       "sourceId": "1400668",
@@ -439,21 +454,6 @@
       "markedAt": "2010-08-08",
       "estimatedMarkedAtRange": null,
       "comment": "因为Nolan对蝙蝠侠系列做出的伟大贡献，是的BATMAN的整个调调都变得更加阴暗但是成熟，大银幕上的蝙蝠侠应该是真正找到了自己的路。绝对不知是一部动画电影~"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3148748",
-      "title": "海扁王",
-      "originalTitle": "Kick-Ass / 劲揪侠(港) / 特攻联盟(台)",
-      "year": "2010",
-      "coverPath": "covers/movie/3148748.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2166633101.jpg",
-      "detailUrl": "/movie/3148748",
-      "listSummary": "2010-03-12(西南偏南电影节) / 2010-03-26(英国) / 2010-04-16(美国) / 亚伦·泰勒-约翰逊 / 科洛·葛蕾丝·莫瑞兹 / 尼古拉斯·凯奇 / 克里斯托夫·梅兹-普莱瑟 / 马克·斯特朗 / 琳德西·冯塞卡 / 埃文·彼得斯 / 克拉克·杜克 / 黛博拉·特维斯 / 苏菲·吴 / 美国 / 英国 / 马修·沃恩 / 117分钟 / 海扁王 / 喜剧 / 动作 / 犯罪 / 简·古德曼 Jane Goldman / 马修·沃恩 Matthew Vaughn / 英语",
-      "rating": 4,
-      "markedAt": "2010-08-05",
-      "estimatedMarkedAtRange": null,
-      "comment": "就用超级英雄题材的电影来对比的话的确挺新鲜的……"
     }
   ]
 }

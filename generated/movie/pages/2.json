@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 1407,
+  "totalEntries": 1408,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "1291818",
+      "title": "饮食男女",
+      "originalTitle": "飲食男女 / Eat Drink Man Woman",
+      "year": "1994",
+      "coverPath": "covers/movie/1291818.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.webp",
+      "detailUrl": "/movie/1291818",
+      "listSummary": "1994-05-13(戛纳电影节) / 1994-07-02(中国台湾) / 1994-08-03(美国) / 郎雄 / 杨贵媚 / 吴倩莲 / 王渝文 / 张艾嘉 / 归亚蕾 / 赵文瑄 / 陈昭荣 / 陈捷文 / 卢金城 / 中国台湾 / 美国 / 李安 / 124分钟 / 饮食男女 / 剧情 / 家庭 / 李安 Ang Lee / 王蕙玲 Hui-Ling Wang / 詹姆士·沙姆斯 James Schamus / 汉语普通话 / 闽南语 / 湖南话",
+      "rating": 5,
+      "markedAt": "2026-03-15 13:53:03",
+      "estimatedMarkedAtRange": null,
+      "comment": "爸爸和三姐妹每个人都值得一部属于自己的电影，每个人的爱情故事里都有道德伦理的瑕疵，各有各的酸楚"
+    },
     {
       "kind": "movie",
       "sourceId": "1303037",
@@ -439,21 +454,6 @@
       "markedAt": "2025-11-04 10:19:49",
       "estimatedMarkedAtRange": null,
       "comment": "感觉全部心思都放在把案情讲清楚，别的啥也顾不上了"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "36185502",
-      "title": "长安的荔枝",
-      "originalTitle": "长安的荔枝(电影版) / The Lychee Road",
-      "year": "2025",
-      "coverPath": "covers/movie/36185502.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926288464.webp",
-      "detailUrl": "/movie/36185502",
-      "listSummary": "2025-07-18(中国大陆) / 大鹏 / 白客 / 庄达菲 / 刘俊谦 / 刘德华 / 杨幂 / 常远 / 魏翔 / 王迅 / 孙阳 / 中国大陆 / 大鹏 / 2025-07-12 16:00 / 122分钟 / 剧情 / 喜剧 / 古装 / 沈雨悦 Yuyue Shen / 戴思奥 Si'ao Dai / 大鹏 Chengpeng Dong / 汉语普通话 / 粤语",
-      "rating": 4,
-      "markedAt": "2025-10-16 01:32:30",
-      "estimatedMarkedAtRange": null,
-      "comment": "制作真不错，那个旋焦好适合长安，欠它一张门票"
     }
   ]
 }

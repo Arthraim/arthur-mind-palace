@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 1407,
+  "totalEntries": 1408,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "36185502",
+      "title": "长安的荔枝",
+      "originalTitle": "长安的荔枝(电影版) / The Lychee Road",
+      "year": "2025",
+      "coverPath": "covers/movie/36185502.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926288464.webp",
+      "detailUrl": "/movie/36185502",
+      "listSummary": "2025-07-18(中国大陆) / 大鹏 / 白客 / 庄达菲 / 刘俊谦 / 刘德华 / 杨幂 / 常远 / 魏翔 / 王迅 / 孙阳 / 中国大陆 / 大鹏 / 2025-07-12 16:00 / 122分钟 / 剧情 / 喜剧 / 古装 / 沈雨悦 Yuyue Shen / 戴思奥 Si'ao Dai / 大鹏 Chengpeng Dong / 汉语普通话 / 粤语",
+      "rating": 4,
+      "markedAt": "2025-10-16 01:32:30",
+      "estimatedMarkedAtRange": null,
+      "comment": "制作真不错，那个旋焦好适合长安，欠它一张门票"
+    },
     {
       "kind": "movie",
       "sourceId": "2295811",
@@ -439,21 +454,6 @@
       "markedAt": "2025-04-12 23:40:57",
       "estimatedMarkedAtRange": null,
       "comment": "接近尾声的时候几乎没有游客，常去的店都关门了，很难想象这场梦一样的乌托邦后面是一个就地过年的口罩背景，大概这就是戏剧的魅力，把现实生活抛到十万八千里外了"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "36445098",
-      "title": "还有明天",
-      "originalTitle": "C'è ancora domani / 明天还有梦(港) / 我们还有明天(台)",
-      "year": "2023",
-      "coverPath": "covers/movie/36445098.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918279456.webp",
-      "detailUrl": "/movie/36445098",
-      "listSummary": "2023-10-18(罗马电影节) / 2023-10-26(意大利) / 2025-03-08(中国大陆) / 宝拉·柯特莱西 / 瓦莱里奥·马斯坦德雷亚 / 罗马纳·马乔拉·韦尔加诺 / 埃马努艾拉·法内利 / 乔治·科兰杰利 / 维尼乔·马尔基奥尼 / 弗朗切斯科·琴托拉梅 / 雷法莱·维诺利 / 保拉·蒂齐亚娜·克鲁恰尼 / 尤夫·约瑟夫 / 意大利 / 宝拉·柯特莱西 / 118分钟 / 还有明天 / 剧情 / 喜剧 / 历史 / 宝拉·柯特莱西 Paola Cortellesi / 吉利亚·卡伦达 Giulia Calenda / 法里奥·安德烈奥蒂 Furio Andreotti / 意大利语 / 英语",
-      "rating": 5,
-      "markedAt": "2025-03-29 14:34:12",
-      "estimatedMarkedAtRange": null,
-      "comment": "觉得投票和个人命运抗争还是让我觉得有点远，我的理解是她也没咋为自己抗争过，诉诸体制也是一种帮女儿乃至其他女性的抗争吧。但女同事说她没有逃跑的出路，电影也表达了「去哪里」的问题，感觉作为男人确实理解不到这一层。"
     }
   ]
 }

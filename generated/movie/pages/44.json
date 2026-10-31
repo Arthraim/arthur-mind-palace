@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 44,
   "pageSize": 30,
-  "totalEntries": 1407,
+  "totalEntries": 1408,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "3148748",
+      "title": "海扁王",
+      "originalTitle": "Kick-Ass / 劲揪侠(港) / 特攻联盟(台)",
+      "year": "2010",
+      "coverPath": "covers/movie/3148748.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2166633101.jpg",
+      "detailUrl": "/movie/3148748",
+      "listSummary": "2010-03-12(西南偏南电影节) / 2010-03-26(英国) / 2010-04-16(美国) / 亚伦·泰勒-约翰逊 / 科洛·葛蕾丝·莫瑞兹 / 尼古拉斯·凯奇 / 克里斯托夫·梅兹-普莱瑟 / 马克·斯特朗 / 琳德西·冯塞卡 / 埃文·彼得斯 / 克拉克·杜克 / 黛博拉·特维斯 / 苏菲·吴 / 美国 / 英国 / 马修·沃恩 / 117分钟 / 海扁王 / 喜剧 / 动作 / 犯罪 / 简·古德曼 Jane Goldman / 马修·沃恩 Matthew Vaughn / 英语",
+      "rating": 4,
+      "markedAt": "2010-08-05",
+      "estimatedMarkedAtRange": null,
+      "comment": "就用超级英雄题材的电影来对比的话的确挺新鲜的……"
+    },
     {
       "kind": "movie",
       "sourceId": "3986493",
@@ -439,21 +454,6 @@
       "markedAt": "2010-05-26",
       "estimatedMarkedAtRange": null,
       "comment": "庵野痞子，您这次想清楚了没？想清楚了就拼了命的把原作推翻吧，现在的样子实在是太美好了。真嗣和凌波丽的最后一段让我感动了…………"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "2136824",
-      "title": "成事在人",
-      "originalTitle": "Invictus / 不败雄心(港) / 打不倒的勇者(台)",
-      "year": "2009",
-      "coverPath": "covers/movie/2136824.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1054037032.jpg",
-      "detailUrl": "/movie/2136824",
-      "listSummary": "2009-12-11(美国) / 摩根·弗里曼 / 马特·达蒙 / 托尼·戈罗奇 / 帕特里克·莫佛肯 / 马特·斯特恩 / 朱利安·刘易斯·琼斯 / 阿卓艾·安多 / 玛格丽特·惠特利 / 蕾乐蒂·库马洛 / 帕特里克·利斯特 / 美国 / 克林特·伊斯特伍德 / 134分钟 / 成事在人 / 传记 / 剧情 / 历史 / 运动 / 安东尼·佩卡姆 Anthony Peckham / 约翰·卡林 John Carlin / 英语 / 南非语 / 毛利语 / 祖鲁语 / 科萨语 / 南梭托语",
-      "rating": 4,
-      "markedAt": "2010-05-11",
-      "estimatedMarkedAtRange": null,
-      "comment": "2010年足球世界杯快到了，可以借这部电影了解一下南非，了解一下曼德拉。"
     }
   ]
 }
