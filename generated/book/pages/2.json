@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 2,
   "pageSize": 30,
-  "totalEntries": 166,
+  "totalEntries": 167,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "36328704",
+      "title": "太白金星有点烦",
+      "originalTitle": null,
+      "year": "2023",
+      "coverPath": "covers/book/36328704.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s34544956.jpg",
+      "detailUrl": "/book/36328704",
+      "listSummary": "马伯庸 / 湖南文艺出版社 / 2023-6 / 45.00",
+      "rating": 5,
+      "markedAt": "2024-02-21 09:48:13",
+      "estimatedMarkedAtRange": null,
+      "comment": "机场偶遇的这本书，之前完全不知道。当年就是知乎看石猴铁猴被圈的粉。一难一难重写，看官场小说一样，看到觉得有点烦的时候，突然故事转向了一个调查阴谋的路数，还挺有趣的。看了后记只觉得亲王你开心就好，我也看的开心"
+    },
     {
       "kind": "book",
       "sourceId": "35271451",
@@ -439,21 +454,6 @@
       "markedAt": "2019-01-27 22:15:07",
       "estimatedMarkedAtRange": null,
       "comment": "当作两本看比较有趣"
-    },
-    {
-      "kind": "book",
-      "sourceId": "30353758",
-      "title": "逐星记",
-      "originalTitle": null,
-      "year": "2018",
-      "coverPath": "covers/book/30353758.jpg",
-      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29904181.jpg",
-      "detailUrl": "/book/30353758",
-      "listSummary": "陆烨华 / 新星出版社 / 2018-11 / 36.00元",
-      "rating": 5,
-      "markedAt": "2019-01-06 20:34:40",
-      "estimatedMarkedAtRange": null,
-      "comment": "用心写的，满分还用说吗"
     }
   ]
 }

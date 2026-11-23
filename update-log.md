@@ -2,6 +2,20 @@
 
 Auto-generated when exported site data changes.
 
+## 2026-11-23T11:33:16.110Z
+- Summary: +2 added, ~2 updated, -0 removed
+- Last Douban sync: 2026-11-23T11:31:31.466Z
+- movie: +1 / ~0 / -0
+- book: +1 / ~0 / -0
+- music: +0 / ~2 / -0
+- game: +0 / ~0 / -0
+- drama: +0 / ~0 / -0
+- Items:
+  - [added] book 潮骚 (30255008) marked 2026-11-21
+  - [added] movie 剧院魅影：25周年纪念演出 (24751811) marked 2026-11-02
+  - [updated] music Bon Iver (6129247) marked 2026-03-08 10:16:06 fields=originalTitle
+  - [updated] music 遇见我 (1449452) marked 2010-04-07 fields=originalTitle,listSummary
+
 ## 2026-10-31T02:47:27.131Z
 - Summary: +1 added, ~0 updated, -0 removed
 - Last Douban sync: 2026-10-31T02:46:56.044Z

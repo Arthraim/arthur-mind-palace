@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 3,
   "pageSize": 30,
-  "totalEntries": 166,
+  "totalEntries": 167,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "30353758",
+      "title": "逐星记",
+      "originalTitle": null,
+      "year": "2018",
+      "coverPath": "covers/book/30353758.jpg",
+      "coverUrl": "https://img2.doubanio.com/view/subject/s/public/s29904181.jpg",
+      "detailUrl": "/book/30353758",
+      "listSummary": "陆烨华 / 新星出版社 / 2018-11 / 36.00元",
+      "rating": 5,
+      "markedAt": "2019-01-06 20:34:40",
+      "estimatedMarkedAtRange": null,
+      "comment": "用心写的，满分还用说吗"
+    },
     {
       "kind": "book",
       "sourceId": "26899538",
@@ -439,21 +454,6 @@
       "markedAt": "2015-03-17 11:51:53",
       "estimatedMarkedAtRange": null,
       "comment": "第一段三叔在医院拼了命填坑，后面基本就变成鬼屋、丛林探险了……"
-    },
-    {
-      "kind": "book",
-      "sourceId": "2298149",
-      "title": "盗墓笔记3 : 云顶天宫",
-      "originalTitle": null,
-      "year": "2007",
-      "coverPath": "covers/book/2298149.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s2756934.jpg",
-      "detailUrl": "/book/2298149",
-      "listSummary": "南派三叔 / 中国友谊出版公司 / 2007-11 / 26.80元",
-      "rating": 5,
-      "markedAt": "2015-03-15 10:07:22",
-      "estimatedMarkedAtRange": null,
-      "comment": "这一部简直好看疯了"
     }
   ]
 }

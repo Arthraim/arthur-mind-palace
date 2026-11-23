@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 1,
   "pageSize": 30,
-  "totalEntries": 1408,
+  "totalEntries": 1409,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "24751811",
+      "title": "剧院魅影：25周年纪念演出",
+      "originalTitle": "The Phantom of the Opera at the Royal Albert Hall / 歌剧魅影之皇家阿尔伯特大厅现场演出版",
+      "year": "2011",
+      "coverPath": "covers/movie/24751811.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2006533765.jpg",
+      "detailUrl": "/movie/24751811",
+      "listSummary": "2011-10-02(英国) / 莱明·卡莱姆罗 / 席爱拉·博格斯 / 哈德利·弗雷泽 / 谢尔盖·波卢宁 / 厄尔.卡朋特 / 彼得·约贝克 / 杰里米·赛康伯 / 凯蒂·霍尔 / 基利安·唐纳利 / 约翰·欧文-琼斯 / 英国 / 尼克·莫里斯 / 劳伦斯·康纳 / 137分钟 / 160分钟(包括加演时间) / 剧院魅影：25周年纪念演出 / 剧情 / 音乐 / 歌舞 / Richard Stilgoe / 安德鲁·洛伊德·韦伯 Andrew Lloyd Webber / 加斯顿·勒鲁 Gaston Leroux / 英语",
+      "rating": 5,
+      "markedAt": "2026-11-02",
+      "estimatedMarkedAtRange": null,
+      "comment": "没有40周年词条，权且标记在这里吧。魅影的感情挺偏执的，但也很能理解。剧情其实很简单，但舞台上表现力惊人。"
+    },
     {
       "kind": "movie",
       "sourceId": "27102569",
@@ -439,21 +454,6 @@
       "markedAt": "2026-03-30 09:46:06",
       "estimatedMarkedAtRange": null,
       "comment": "被褒奖的是姐姐和上校这种，把情感藏起来，用理智示人的角色。最打动人的也是他们理智和情感之间产生的痛苦，姐姐是用两场大哭释放的，布兰登更理智：给我点事情做，不然我要疯了。"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "35010610",
-      "title": "挽救计划",
-      "originalTitle": "Project Hail Mary / 极限返航(台) / 末日圣母号(港)",
-      "year": "2026",
-      "coverPath": "covers/movie/35010610.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930195706.webp",
-      "detailUrl": "/movie/35010610",
-      "listSummary": "2026-03-18(中国台湾) / 2026-03-20(美国/中国大陆) / 瑞恩·高斯林 / 桑德拉·惠勒 / 詹姆斯·奥尔蒂斯 / 莱昂内尔·博伊斯 / 梁振邦 / 米拉娜·薇恩翠 / 普里亚·坎萨 / 利兹·金斯曼 / 马拉基·卡比 / 梅丽尔·斯特里普 / 美国 / 菲尔·罗德 / 克里斯托弗·米勒 / 2026-03-13 / 156分钟 / 挽救计划 / 剧情 / 科幻 / 惊悚 / 德鲁·戈达德 Drew Goddard / 英语",
-      "rating": 4,
-      "markedAt": "2026-03-28 00:36:20",
-      "estimatedMarkedAtRange": null,
-      "comment": "非常喜欢男主是硬来的这个设定哈哈哈。故事还是保守，让我来改编的话，外星人不能这么低幼，得是一个凶猛可怕的东西；文明之间停留在朋友情也不够激进，得是跨越种族跨越文明的爱情，拥抱可以改成吻戏，吃东西的地方对亲那种。"
     }
   ]
 }

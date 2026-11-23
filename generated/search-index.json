@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-10-31T02:47:27.131Z",
+  "generatedAt": "2026-11-23T11:33:16.110Z",
   "entriesByKind": {
     "movie": [
+      {
+        "kind": "movie",
+        "sourceId": "24751811",
+        "title": "剧院魅影：25周年纪念演出",
+        "originalTitle": "The Phantom of the Opera at the Royal Albert Hall / 歌剧魅影之皇家阿尔伯特大厅现场演出版",
+        "year": "2011",
+        "coverPath": "covers/movie/24751811.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2006533765.jpg",
+        "detailUrl": "/movie/24751811",
+        "listSummary": "2011-10-02(英国) / 莱明·卡莱姆罗 / 席爱拉·博格斯 / 哈德利·弗雷泽 / 谢尔盖·波卢宁 / 厄尔.卡朋特 / 彼得·约贝克 / 杰里米·赛康伯 / 凯蒂·霍尔 / 基利安·唐纳利 / 约翰·欧文-琼斯 / 英国 / 尼克·莫里斯 / 劳伦斯·康纳 / 137分钟 / 160分钟(包括加演时间) / 剧院魅影：25周年纪念演出 / 剧情 / 音乐 / 歌舞 / Richard Stilgoe / 安德鲁·洛伊德·韦伯 Andrew Lloyd Webber / 加斯顿·勒鲁 Gaston Leroux / 英语",
+        "rating": 5,
+        "markedAt": "2026-11-02",
+        "estimatedMarkedAtRange": null,
+        "comment": "没有40周年词条，权且标记在这里吧。魅影的感情挺偏执的，但也很能理解。剧情其实很简单，但舞台上表现力惊人。"
+      },
       {
         "kind": "movie",
         "sourceId": "27102569",
@@ -21132,6 +21147,21 @@
     "book": [
       {
         "kind": "book",
+        "sourceId": "30255008",
+        "title": "潮骚",
+        "originalTitle": "潮騒",
+        "year": "2018",
+        "coverPath": "covers/book/30255008.jpg",
+        "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29856364.jpg",
+        "detailUrl": "/book/30255008",
+        "listSummary": "[日] 三岛由纪夫 / 张舟 / 北京十月文艺出版社 / 2018-9 / 45",
+        "rating": 5,
+        "markedAt": "2026-11-21",
+        "estimatedMarkedAtRange": null,
+        "comment": "好阳光的故事，和在濑户内海的画面结合在一起，特别美好"
+      },
+      {
+        "kind": "book",
         "sourceId": "30285054",
         "title": "星球大战：传承7",
         "originalTitle": "Star Wars： Legacy, Vol. 7： Storms",
@@ -23794,7 +23824,7 @@
         "kind": "music",
         "sourceId": "6129247",
         "title": "Bon Iver",
-        "originalTitle": null,
+        "originalTitle": "Bon Iver, Bon Iver",
         "year": "2011",
         "coverPath": "covers/music/6129247.jpg",
         "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4723056.jpg",
@@ -24214,12 +24244,12 @@
         "kind": "music",
         "sourceId": "1449452",
         "title": "遇见我",
-        "originalTitle": null,
+        "originalTitle": "遇见我",
         "year": "2005",
         "coverPath": "covers/music/1449452.jpg",
         "coverUrl": "https://img1.doubanio.com/view/subject/s/public/s1462740.jpg",
         "detailUrl": "/music/1449452",
-        "listSummary": "曹方 / 2005年12月 / 专辑 / CD / 流行",
+        "listSummary": "曹方 / 2005年12月 / 专辑 / CD / 民谣",
         "rating": 5,
         "markedAt": "2010-04-07",
         "estimatedMarkedAtRange": null,

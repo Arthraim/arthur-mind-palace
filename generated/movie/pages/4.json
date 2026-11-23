@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 1408,
+  "totalEntries": 1409,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "35231889",
+      "title": "戏剧新生活",
+      "originalTitle": "会发光的你 / Drama Life",
+      "year": "2021",
+      "coverPath": "covers/movie/35231889.webp",
+      "coverUrl": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2630822201.webp",
+      "detailUrl": "/movie/35231889",
+      "listSummary": "2021-01-16(中国大陆) / 黄磊 / 赖声川 / 乔杉 / 刘晓晔 / 修睿 / 吴彼 / 赵晓苏 / 刘晓邑 / 丁一滕 / 刘添祺 / 中国大陆 / 严敏 / 180分钟 / 真人秀 / 汉语普通话",
+      "rating": 5,
+      "markedAt": "2025-04-12 23:40:57",
+      "estimatedMarkedAtRange": null,
+      "comment": "接近尾声的时候几乎没有游客，常去的店都关门了，很难想象这场梦一样的乌托邦后面是一个就地过年的口罩背景，大概这就是戏剧的魅力，把现实生活抛到十万八千里外了"
+    },
     {
       "kind": "movie",
       "sourceId": "36445098",
@@ -439,21 +454,6 @@
       "markedAt": "2024-09-27 11:16:44",
       "estimatedMarkedAtRange": null,
       "comment": "老套的故事+老套的审美"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "1293504",
-      "title": "乌鸦谋杀案",
-      "originalTitle": "A Murder of Crows / 乌鸦谋杀案",
-      "year": "1998",
-      "coverPath": "covers/movie/1293504.webp",
-      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872103435.webp",
-      "detailUrl": "/movie/1293504",
-      "listSummary": "1998-12-12(英国) / 小库珀·古丁 / 汤姆·贝伦杰 / 马克·佩雷格里诺 / 卡门·阿尔根齐亚诺 / 阿什丽·劳伦斯 / 埃里克·斯托尔兹 / 道格·维特 / 玛丽安娜·琼-巴普蒂斯特 / 童自荣 / 蕾妮·艾斯特维兹 / 美国 / 罗迪·赫林顿 / 102 分钟 / 乌鸦谋杀案 / 动作 / 惊悚 / 犯罪 / 鲁迪 赫林顿 (Rowdy Herrington) / 英语",
-      "rating": 4,
-      "markedAt": "2024-09-26 03:47:36",
-      "estimatedMarkedAtRange": null,
-      "comment": "故事很不错"
     }
   ]
 }

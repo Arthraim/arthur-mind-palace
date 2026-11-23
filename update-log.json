@@ -1,6 +1,82 @@
 {
-  "generatedAt": "2026-10-31T02:47:27.131Z",
+  "generatedAt": "2026-11-23T11:33:16.110Z",
   "entries": [
+    {
+      "id": "2026-11-23T11:33:16.110Z",
+      "generatedAt": "2026-11-23T11:33:16.110Z",
+      "lastDoubanSyncAt": "2026-11-23T11:31:31.466Z",
+      "totals": {
+        "added": 2,
+        "updated": 2,
+        "removed": 0
+      },
+      "byKind": {
+        "movie": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "book": {
+          "added": 1,
+          "updated": 0,
+          "removed": 0
+        },
+        "music": {
+          "added": 0,
+          "updated": 2,
+          "removed": 0
+        },
+        "game": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        },
+        "drama": {
+          "added": 0,
+          "updated": 0,
+          "removed": 0
+        }
+      },
+      "items": [
+        {
+          "kind": "book",
+          "sourceId": "30255008",
+          "title": "潮骚",
+          "markedAt": "2026-11-21",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "movie",
+          "sourceId": "24751811",
+          "title": "剧院魅影：25周年纪念演出",
+          "markedAt": "2026-11-02",
+          "changeType": "added",
+          "changedFields": []
+        },
+        {
+          "kind": "music",
+          "sourceId": "6129247",
+          "title": "Bon Iver",
+          "markedAt": "2026-03-08 10:16:06",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle"
+          ]
+        },
+        {
+          "kind": "music",
+          "sourceId": "1449452",
+          "title": "遇见我",
+          "markedAt": "2010-04-07",
+          "changeType": "updated",
+          "changedFields": [
+            "originalTitle",
+            "listSummary"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-10-31T02:47:27.131Z",
       "generatedAt": "2026-10-31T02:47:27.131Z",

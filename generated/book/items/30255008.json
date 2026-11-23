@@ -1,0 +1,60 @@
+{
+  "kind": "book",
+  "sourceId": "30255008",
+  "title": "潮骚",
+  "originalTitle": "潮騒",
+  "year": "2018",
+  "coverPath": "covers/book/30255008.jpg",
+  "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s29856364.jpg",
+  "doubanUrl": "https://book.douban.com/subject/30255008/",
+  "detailUrl": "/book/30255008",
+  "listSummary": "[日] 三岛由纪夫 / 张舟 / 北京十月文艺出版社 / 2018-9 / 45",
+  "rating": 5,
+  "markedAt": "2026-11-21",
+  "estimatedMarkedAtRange": null,
+  "comment": "好阳光的故事，和在濑户内海的画面结合在一起，特别美好",
+  "metadata": [
+    {
+      "label": "Original Title",
+      "value": "潮騒"
+    },
+    {
+      "label": "Title",
+      "value": "潮骚"
+    },
+    {
+      "label": "出版时间",
+      "value": "2018-9"
+    },
+    {
+      "label": "ISBN",
+      "value": "9787530218488"
+    },
+    {
+      "label": "页数",
+      "value": "192"
+    },
+    {
+      "label": "装帧",
+      "value": "精装"
+    },
+    {
+      "label": "定价",
+      "value": "45"
+    },
+    {
+      "label": "原作名",
+      "value": "潮騒"
+    },
+    {
+      "label": "丛书",
+      "value": "新经典文库：三岛由纪夫作品"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Douban",
+      "url": "https://book.douban.com/subject/30255008/"
+    }
+  ]
+}

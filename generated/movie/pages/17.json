@@ -2,9 +2,24 @@
   "kind": "movie",
   "page": 17,
   "pageSize": 30,
-  "totalEntries": 1408,
+  "totalEntries": 1409,
   "totalPages": 47,
   "entries": [
+    {
+      "kind": "movie",
+      "sourceId": "27098364",
+      "title": "超人之死",
+      "originalTitle": "The Death of Superman",
+      "year": "2018",
+      "coverPath": "covers/movie/27098364.webp",
+      "coverUrl": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526823875.webp",
+      "detailUrl": "/movie/27098364",
+      "listSummary": "2018-07-24(美国) / 杰瑞·奥康奈尔 / 丽贝卡·罗梅恩 / 雷恩·威尔森 / 罗莎里奥·道森 / 内森·菲利安 / 克里斯托弗·戈勒姆 / 马特·兰特尔 / 谢默·摩尔 / 尼扬比·尼扬比 / 杰森·奥玛拉 / 美国 / 杰克·卡斯托雷纳 / 山姆·刘 / 81分钟 / 超人之死 / 动作 / 科幻 / 动画 / 彼得·托马西 Peter Tomasi / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster / 露易丝·西蒙森 Louise Simonson / 英语",
+      "rating": 3,
+      "markedAt": "2018-11-21 11:14:24",
+      "estimatedMarkedAtRange": null,
+      "comment": "wb动画也学会各种摔来摔去的大场面了，但制作技术真是落后，3D警车跟头文字D年代的特效有点像……"
+    },
     {
       "kind": "movie",
       "sourceId": "25926851",
@@ -439,21 +454,6 @@
       "markedAt": "2018-06-24 12:21:59",
       "estimatedMarkedAtRange": null,
       "comment": "是枝裕和有点意思"
-    },
-    {
-      "kind": "movie",
-      "sourceId": "3445906",
-      "title": "古墓丽影：源起之战",
-      "originalTitle": "Tomb Raider / 盗墓者罗拉(港) / 古墓奇兵(台)",
-      "year": "2018",
-      "coverPath": "covers/movie/3445906.webp",
-      "coverUrl": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717509.webp",
-      "detailUrl": "/movie/3445906",
-      "listSummary": "2018-03-16(美国/中国大陆) / 艾丽西亚·维坎德 / 吴彦祖 / 多米尼克·韦斯特 / 沃尔顿·戈金斯 / 克里斯汀·斯科特·托马斯 / 汉娜·乔恩-卡门 / 尼克·弗罗斯特 / 德里克·雅各比 / 安东尼奥·阿克儿 / 亚历山大·维尧姆 / 美国 / 罗阿尔·乌索格 / 118分钟 / 古墓丽影：源起之战 / 动作 / 冒险 / 吉内瓦·德沃莱特-罗宾森 Geneva Dworet-Robertson / 阿拉斯泰尔·西登斯 Alastair Siddons / 埃文·达赫迪 Evan Daughterty / 英语",
-      "rating": 3,
-      "markedAt": "2018-06-19 08:43:53",
-      "estimatedMarkedAtRange": null,
-      "comment": "看来导演没有少玩游戏啊，镜头都一样"
     }
   ]
 }

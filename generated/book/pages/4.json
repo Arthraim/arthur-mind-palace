@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 4,
   "pageSize": 30,
-  "totalEntries": 166,
+  "totalEntries": 167,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "2298149",
+      "title": "盗墓笔记3 : 云顶天宫",
+      "originalTitle": null,
+      "year": "2007",
+      "coverPath": "covers/book/2298149.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s2756934.jpg",
+      "detailUrl": "/book/2298149",
+      "listSummary": "南派三叔 / 中国友谊出版公司 / 2007-11 / 26.80元",
+      "rating": 5,
+      "markedAt": "2015-03-15 10:07:22",
+      "estimatedMarkedAtRange": null,
+      "comment": "这一部简直好看疯了"
+    },
     {
       "kind": "book",
       "sourceId": "2057285",
@@ -439,21 +454,6 @@
       "markedAt": "2013-07-11 00:45:02",
       "estimatedMarkedAtRange": null,
       "comment": "太叼了！"
-    },
-    {
-      "kind": "book",
-      "sourceId": "6021440",
-      "title": "黑客与画家 : 硅谷创业之父Paul Graham文集",
-      "originalTitle": null,
-      "year": "2011",
-      "coverPath": "covers/book/6021440.jpg",
-      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4669554.jpg",
-      "detailUrl": "/book/6021440",
-      "listSummary": "[美] Paul Graham / 阮一峰 / 人民邮电出版社 / 2011-4 / 49.00元",
-      "rating": 4,
-      "markedAt": "2013-06-24 18:38:54",
-      "estimatedMarkedAtRange": null,
-      "comment": null
     }
   ]
 }

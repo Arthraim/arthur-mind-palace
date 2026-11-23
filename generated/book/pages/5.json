@@ -2,9 +2,24 @@
   "kind": "book",
   "page": 5,
   "pageSize": 30,
-  "totalEntries": 166,
+  "totalEntries": 167,
   "totalPages": 6,
   "entries": [
+    {
+      "kind": "book",
+      "sourceId": "6021440",
+      "title": "黑客与画家 : 硅谷创业之父Paul Graham文集",
+      "originalTitle": null,
+      "year": "2011",
+      "coverPath": "covers/book/6021440.jpg",
+      "coverUrl": "https://img9.doubanio.com/view/subject/s/public/s4669554.jpg",
+      "detailUrl": "/book/6021440",
+      "listSummary": "[美] Paul Graham / 阮一峰 / 人民邮电出版社 / 2011-4 / 49.00元",
+      "rating": 4,
+      "markedAt": "2013-06-24 18:38:54",
+      "estimatedMarkedAtRange": null,
+      "comment": null
+    },
     {
       "kind": "book",
       "sourceId": "10779604",
@@ -442,21 +457,6 @@
       "markedAt": "2011-03-02 19:27:12",
       "estimatedMarkedAtRange": null,
       "comment": "好吧不管是平行宇宙无尽的迷宫无尽的宇宙都是老题材了, 不过这一篇的题材还蛮新的, 一开始还一直以为是穿越了..."
-    },
-    {
-      "kind": "book",
-      "sourceId": "1421004",
-      "title": "神的密码",
-      "originalTitle": null,
-      "year": "2005",
-      "coverPath": "covers/book/1421004.jpg",
-      "coverUrl": "https://img3.doubanio.com/view/subject/s/public/s2197463.jpg",
-      "detailUrl": "/book/1421004",
-      "listSummary": "那多 / 接力出版社 / 2005-9 / 14.90元",
-      "rating": 5,
-      "markedAt": "2011-02-27 22:24:13",
-      "estimatedMarkedAtRange": null,
-      "comment": "最近看书挺快啊。。。两天啃了两本。。 话说一开始觉得这一部比幽灵旗还给力，可是看到结尾居然是我最不喜欢的那个猜想，扣分。9分。。。"
     }
   ]
 }
